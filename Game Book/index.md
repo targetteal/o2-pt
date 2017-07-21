@@ -4,8 +4,8 @@ This Game Book defines the minimum set of rules necessary to catalyse self-organ
 
 ## Other O² books
 
-### [Pattern Book](../Pattern Book/index.md)
-### [Rogue Book](../Rogue Book/index.md)
+### [Pattern Book](../Pattern%20Book/index.md)
+### [Rogue Book](../Rogue%20Book/index.md)
 
 # Index
 

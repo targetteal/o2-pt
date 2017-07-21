@@ -4,8 +4,8 @@ Resources, cases and tools that are important for change agents working on imple
 
 ## Other O² books
 
-### [Game Book](../Game Book/index.md)
-### [Pattern Book](../Pattern Book/index.md)
+### [Game Book](../Game%20Book/index.md)
+### [Pattern Book](../Pattern%20Book/index.md)
 
 
 # Index
