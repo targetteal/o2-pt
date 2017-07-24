@@ -13,6 +13,15 @@ Our influences include:
 - Getting Things Done
 - Responsive Organizations
 
+## Proposing Changes
+
+Anyone can propose a change to the three books by sending pull requests. Nevertheless, some clarity about the proposed changes must be provided for the reviewers:
+
+- Consider opening an issue and discussing the proposed changes with the community before sending a pull request;
+- You must state any intentions you might have along with the proposed changes;
+- You should additionaly clarify whether your proposed change is solving some kind of tension. Provide as much information as you can about this tension;
+- You must state how specifically this helps the purpose of O2.	
+
 ## License
 
 *_Organic Organization is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
