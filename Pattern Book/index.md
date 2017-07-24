@@ -5,5 +5,4 @@
 ### [Game Book](../Game%20Book/index.md)
 ### [Rogue Book](../Rogue%20Book/index.md)
 
-
-this is the fuckin pattern book motherfuckas...
+Something also
