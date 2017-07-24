@@ -1,3 +1,91 @@
+# Game Book
+
+This Game Book defines the minimum set of rules necessary to catalyse self-organization in a team, department or organization. 
+
+## Other O² books
+
+### [Pattern Book](pattern-book.md)
+### [Rogue Book](rogue-book.md)
+
+# Index
+
+1. [Preface](#preface)
+2. [Basic Elements](#basic-elements)
+3. [Duties](duties.md)
+4. [Circle meetings](#circle-meetings)
+5. [Core Roles](#core-roles)
+6. [Core Roles Description](#core-roles-description)
+
+# Preface
+
+This **Game Book** defines the rules of **Organic Organization (O²)**. 
+
+O² aims to catalyse self-organization in a team, department or organization. 
+
+The goal of this game is the __neverending expression of the organizational purpose__. 
+
+Anyone who agrees to take part in this game may rely on the authorities granted by this **Game Book**, and also agree to be bound by its duties and constraints.
+
+Everything that is not explicitly forbidden in this Game Book or in the structural records of the organization is allowed.
+
+# Basic Elements
+
+## Roles
+
+Members of the organization will typically perform work for the organization in one or more explicitly defined roles.
+A role is a part of the organization composed of:
+- A descriptive name (mandatory);
+- A purpose, which is the never ending goal of the role (mandatory);
+- Accountabilities, which are recurring activities that others can expect the role will perform (optional);
+- Domains, which are things that the role can exclusively control and regulate for the organization (optional).
+Roles can only be changed in the adapt function of its circle meeting.
+
+## Circles
+
+Circles are analogous structures to roles, and thus have the same properties described in the role section.
+Circles can contain roles and inner circles, that can contain their own roles and inner circles, and so on. The structure is fractal. From the perspective of an outer circle, its inner circles are like roles that have the additional ability to break themselves down. 
+Circles are composed of roles and inner circles, not people. You are a member of the circle if you fill a role in that same circle. 
+Inner circle properties (name, purpose, accountabilities, and domains) can only be changed in the adapt function of its outer circle meeting.
+A circle domain can be accessed by all circle members, except if it has been delegated to a specific role in that circle. 
+The organization itself is the broadest circle in the structure, containing all other ones.
+Inner circles are created for the purpose of maintaining the circle meetings with a manageable number of people and clear focus.  
+
+## Restrictions
+
+Restrictions are limitations of authority that apply to all roles of a given circle. 
+Restrictions are composed of a title and a description (both mandatory). 
+Restrictions cascade to all inner circles, unless otherwise specified in the description.
+Restrictions cannot set expectations, because that is the goal of an accountability (property of a role or circle). Nevertheless, a restriction may demand action, but only for the person(s) or role(s) to which the restriction applies in the specific condition that triggers it.
+Restrictions can only be adopted inside circle meetings, more specifically in the adapt function.
+
+## Patches
+
+Some sections of this game book explicitly allow modifications. When this is the case, you can change that rule with a patch. 
+The patch follows the same structure of the restriction (title and description) and can only be adopted inside circle meetings, in the adapt function. 
+Patches cascade to all inner circles, unless otherwise specified in the description.
+
+# Duties
+
+As member of the organization, team or department that is practicing O², you have some special duties towards all other members. 
+
+## Expressing roles
+
+You are responsible for monitoring how your role purpose and accountabilities are expressed, and comparing that to your vision of their ideal potential expression. You should identify those gaps between the current reality and a potential you sense, each one being a tension. 
+You are also responsible for trying to resolve those tensions by using the authorities and other mechanisms available to you under the Game Book.
+
+## Transparency
+
+When requested, you are expected to share all relevant information about your roles' work, including each project you are working on, actions identified, prioritization criteria and relevant metrics.
+Upon request, you are also expected to give estimates and projections about possible completion dates of projects and actions, even though those projections shall not be considered deadlines or commitments. 
+
+## Prioritization
+
+You are expected to prioritize your work in alignment with circle priorities defined by the External Link, or any other process that sets priorities. 
+
+## Circle meetings
+
+When requested by other circle members, you should prioritize attending to the circle meetings over working on your roles' project and actions.
+
 # Circle Meetings
 
 Circle members regularly gather in a space called circle meeting in order to perform one or more of the 5 special functions described in the upcoming sections: review, sync, adapt, select, and care.
@@ -156,3 +244,70 @@ The structure of the select function can be restricted using a patch, provided t
 The goal of this function is to care for the tribal space, and nurture the quality of relationships between circle members. The format is open for the facilitator to decide how to use.
 
 This space should not be used to make changes to the structure of the circle or ask projects and actions from other circle members.
+
+# Core Roles
+
+Every circle has 4 core roles automatically created: external link, internal link, facilitator, and secretary.
+
+The facilitator and the secretary are elected in the select function and operate mainly inside circle meetings.
+
+The external link and internal link are used to exchange messages and facilitate communication between circle and external circle, specially during circle meetings.
+
+## External Link
+
+The External Link is chosen by the external circle, by whatever process that assigns people to roles in the external circle. 
+
+The External Link is accountable for assigning people to roles in the circle, and may invite any person that is part of the organization, unless a restriction says otherwise.
+
+The External Link can also establish priorities for the circle, and circle members are expected to align with those priorities. 
+
+The External Link role can be excluded or modified entirely with a patch.
+
+The External Link holds all circle un-delegated domains and accountabilities. 
+
+## Core Roles Description
+
+### Facilitator
+
+Purpose: *
+Healthy circle meetings aligned with the Game Book*
+
+**Accountabilities**:
+- Facilitating circle meetings
+
+### Secretary
+
+Purpose: *Accurate record keeping of the circle structural records*
+
+**Accountabilities**:
+- Scheduling regular circle meetings
+- Recording circle meeting outputs
+
+**Domains**:
+ - Circle structural records
+
+### External Link
+
+Purpose: *The circle's purpose*
+
+**Accountabilities:** 
+- Structuring the circle to express its purpose
+- Assigning people to the circle’s roles; monitoring the fit; offering feedback to enhance fit; and re-assigning roles to other people when useful for enhancing fit
+- Establishing priorities for the circle
+
+**Domains**:
+- Role assignment within the circle
+
+### Internal Link
+
+Purpose: *The circle's purpose*
+
+**Accountabilities:** 
+- Removing constraints within the outer organization that limit the circle
+- Providing visibility on the health of the circle to the outer circle
+- Seeking to understand tensions brought by the circle members, and processing those appropriate in the outer circle
+
+# License Attributions
+
+_This work, Organization Organization Game Book, is a derivative of the [Holacracy Constitution](https://holacracy.com/constitution) by HolacracyOne, LLC, used under Creative Commons Attribution
+ShareAlike 4.0 International License. Organization Organization Game Book is licensed under the same conditions. [More information about the license can be found here](../LICENSE.md)._
