@@ -1,6 +1,11 @@
 # Introduction: Organic Organization
 
-Organic Organization, or O² for short, is a self-organization catalyst composed of three books. O² describes how to foster self-management in team, department or organization. 
+Organic Organization, or O² for short, is a self-organization catalyst composed of three books: 
+ - The Game Book: composed with the principles and main characteristics of the system.
+ - A Patterns Book: with best practices and tips and tricks about how to better hack the organization.
+ - A Rogue Book: focused on the facilitator, about how to start and how to avoid some known obstacles that we usually find when implemention the system.
+
+O² describes how to foster self-management in team, department or organization. 
 
 Translations are available in [another github project](https://github.com/targetteal/organic-organization-translations).
 
