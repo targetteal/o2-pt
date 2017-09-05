@@ -1,6 +1,6 @@
 # Introduction: Organic Organization
 
-Organic Organization, or O² for short, is a self-organization catalyst composed of three books. O² describes how to foster self-management in team, department or organization. 
+Organic Organization, or O2 for short, is a self-organization catalyst composed of three books. O2 describes how to foster self-management in team, department or organization. 
 
 Translations are available in [another github project](https://github.com/targetteal/organic-organization-translations).
 
@@ -13,7 +13,7 @@ Our influences include:
 
 ## Collaborating
 
-O² is licensed under Creative Commons Attribution-ShareAlike 4.0 International License, so you are free to fork this repo and develop your own version based on this work. Still, you are not allowed to call your modified version Organic Organization or O².
+O2 is licensed under Creative Commons Attribution-ShareAlike 4.0 International License, so you are free to fork this repo and develop your own version based on this work. Still, you are not allowed to call your modified version Organic Organization or O2.
 
 Organic Organization is currently maintained by [Target Teal](https://targetteal.com/) and other contributors. If you want to collaborate, please follow the instructions below.
 
