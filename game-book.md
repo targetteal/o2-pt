@@ -37,16 +37,16 @@ A role is a part of the organization composed of:
 - A descriptive name (mandatory);
 - A purpose, which is the never ending goal of the role (mandatory);
 - Accountabilities, which are recurring activities that others can expect the role will perform (optional);
-- Domains, which are things that the role can exclusively control and regulate for the organization (optional).
-Roles can only be changed in the adapt function of its circle meeting.
+- Artifacts, which are things that the role can exclusively control and regulate for the organization (optional).
+Roles can only be changed in the adapt mode of its circle meeting.
 
 ## Circles
 
 Circles are analogous structures to roles, and thus have the same properties described in the role section.
 Circles can contain roles and inner circles, that can contain their own roles and inner circles, and so on. The structure is fractal. From the perspective of an outer circle, its inner circles are like roles that have the additional ability to break themselves down. 
 Circles are composed of roles and inner circles, not people. You are a member of the circle if you fill a role in that same circle. 
-Inner circle properties (name, purpose, accountabilities, and domains) can only be changed in the adapt function of its outer circle meeting.
-A circle domain can be accessed by all circle members, except if it has been delegated to a specific role in that circle. 
+Inner circle properties (name, purpose, accountabilities, and artifacts) can only be changed in the adapt mode of its outer circle meeting.
+A circle artifact can be accessed by all circle members, except if it has been delegated to a specific role in that circle. 
 The organization itself is the broadest circle in the structure, containing all other ones.
 Inner circles are created for the purpose of maintaining the circle meetings with a manageable number of people and clear focus.  
 
@@ -56,12 +56,12 @@ Restrictions are limitations of authority that apply to all roles of a given cir
 Restrictions are composed of a title and a description (both mandatory). 
 Restrictions cascade to all inner circles, unless otherwise specified in the description.
 Restrictions cannot set expectations, because that is the goal of an accountability (property of a role or circle). Nevertheless, a restriction may demand action, but only for the person(s) or role(s) to which the restriction applies in the specific condition that triggers it.
-Restrictions can only be adopted inside circle meetings, more specifically in the adapt function.
+Restrictions can only be adopted inside circle meetings, more specifically in the adapt mode.
 
 ## Patches
 
 Some sections of this game book explicitly allow modifications. When this is the case, you can change that rule with a patch. 
-The patch follows the same structure of the restriction (title and description) and can only be adopted inside circle meetings, in the adapt function. 
+The patch follows the same structure of the restriction (title and description) and can only be adopted inside circle meetings, in the adapt mode. 
 Patches cascade to all inner circles, unless otherwise specified in the description.
 
 # Duties
@@ -88,7 +88,7 @@ When requested by other circle members, you should prioritize attending to the c
 
 # Circle Meetings
 
-Circle members regularly gather in a space called circle meeting in order to perform one or more of the 5 special functions described in the upcoming sections: review, sync, adapt, select, and care.
+Circle members regularly gather in a space called circle meeting in order to perform one or more of the 5 special modes described in the upcoming sections: review, sync, adapt, select, and care.
 
 Circle members can invite people that are not members of the circle to solve particular issues or process tensions.
 
@@ -96,7 +96,7 @@ Circle meetings are scheduled by the circle's secretary and facilitated by the f
 
 ## Circle meeting structure
 
-Circle meetings start with a check in round and end with a check out round. The facilitator fills the meeting with one or more of the 5 different functions available, according to the time available and the needs of the circle. 
+Circle meetings start with a check in round and end with a check out round. The facilitator fills the meeting with one or more of the 5 different modes available, according to the time available and the needs of the circle. 
 
 In the check in round, one at a time, each participant shares how he or she is coming to the meeting. 
 
@@ -104,19 +104,19 @@ In the check out round, one at a time, each participant shares a closing reflect
 
 The facilitator should not allow any discussion or crosstalk in both rounds, in order to preserve the individual space of every circle member. 
 
-The different functions should never be mixed together. The facilitator must state the name, goal, and clarify rules of each function before beginning to facilitate each one. 
+The different modes should never be mixed together. The facilitator must state the name, goal, and clarify rules of each mode before beginning to facilitate each one. 
 
-## # Review Function
+## # Review Mode
 
-The goal of the review function is to give transparency about the circle's work. That is usually accomplished by reviewing metrics, recurring actions, and projects. 
+The goal of the review mode is to give transparency about the circle's work. That is usually accomplished by reviewing metrics, recurring actions, and projects. 
 
-It's up to the facilitator to decide how specifically the review function is conducted, except if a patch determines otherwise. 
+It's up to the facilitator to decide how specifically the review mode is conducted, except if a patch determines otherwise. 
 
 Detailed suggestions can be found in the pattern book.
 
-## # Sync Function
+## # Sync Mode
 
-The goal of the sync function is to quickly process tensions into actions, projects, information requests and information sharing. 
+The goal of the sync mode is to quickly process tensions into actions, projects, information requests and information sharing. 
 
 The facilitator starts by asking the secretary to build a list of tensions to process. Each person feeling a tension must label it using two or three words aloud. The secretary then records the label, along with the name of the participant. 
 
@@ -126,24 +126,24 @@ After the tension list is built, the facilitator must go through the list and pr
 
 The facilitator must simply allow the list item owner to engage others in their roles and duties as desired, until a path for resolving the tension is identified.
 
-The facilitator must attempt to allow time for processing every tension list item within the sync function, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining time.
+The facilitator must attempt to allow time for processing every tension list item within the sync mode, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining time.
 
 The secretary then records any requested projects and actions accepted by the participants. 
 
-The sync function structure can be changed entirely with a patch, provided that the goal is maintained. 
+The sync mode structure can be changed entirely with a patch, provided that the goal is maintained. 
 
-## Adapt Function 
+## Adapt Mode 
 
-The goal of the adapt function is to process tensions into structural changes in the circle. These changes include:
+The goal of the adapt mode is to process tensions into structural changes in the circle. These changes include:
 
 - Adding, removing or changing circle roles;
 - Adding, removing or changing sub-circles;
 - Adding, removing or changing circle patches;
 - Adding, removing or changing circle restrictions;
 
-What can be done in the adapt function can only be done inside the adapt function. This means that you cannot add, remove or change the circle structure outside this function. Except for asynchronous proposals. 
+What can be done in the adapt mode can only be done inside the adapt mode. This means that you cannot add, remove or change the circle structure outside this mode. Except for asynchronous proposals. 
 
-The facilitator must ask the secretary to build a list of tensions to process, exactly as described in the sync function.
+The facilitator must ask the secretary to build a list of tensions to process, exactly as described in the sync mode.
 
 After the tension list is built, the facilitator must guide the resolution of each tension list item, using the following process guidelines:
 
@@ -172,11 +172,11 @@ If the facilitator deems that the item owner has failed to present the required 
 
 ### Structural changes only
 
-To be a valid output for the adapt function, the proposal should be composed only of structural changes. If that is not the case, any participant can raise a Game Book violation objection.
+To be a valid output for the adapt mode, the proposal should be composed only of structural changes. If that is not the case, any participant can raise a Game Book violation objection.
 
 ### Personal expression equivalence
 
-Each participant of the circle should have the same space and the option to ask questions or express his or her opinion during the execution of the adapt function. How exactly this space is made available is up to the facilitator.
+Each participant of the circle should have the same space and the option to ask questions or express his or her opinion during the execution of the adapt mode. How exactly this space is made available is up to the facilitator.
 
 ### Integrative decision-making
 
@@ -199,7 +199,7 @@ When validating objections, the facilitator should not judge the accuracy of the
 
 #### Game Book violation objection
 
-Any participant can raise a "Game Book violation objection" if he or she deems the proposal violates one of the rules described in this Game Book. For example, one might say that a proposal is not a valid output for the adapt function.
+Any participant can raise a "Game Book violation objection" if he or she deems the proposal violates one of the rules described in this Game Book. For example, one might say that a proposal is not a valid output for the adapt mode.
 
 In this case, the facilitator can ask the secretary to decide whether this is true or not. This special objection does not need to be validated using the criteria described in this section. Game Book violation objections must be integrated normally.
 
@@ -213,21 +213,21 @@ If a proposal is taking too much time to integrate, the facilitator can discard 
 
 ### Asynchronous Proposals
 
-Structural changes can be proposed outside circle meetings and are automatically adopted if all circle members declare that they don't have any objections. If any objections are raised, the proposal must be escalated to the adapt function of a circle meeting.
+Structural changes can be proposed outside circle meetings and are automatically adopted if all circle members declare that they don't have any objections. If any objections are raised, the proposal must be escalated to the adapt mode of a circle meeting.
 
 It's up to the secretary to define how this process is accomplished. 
 
-## Select Function
+## Select Mode
 
-The goal of the select function is to select circle members to fill the three structural roles: facilitador, secretary and internal link. 
+The goal of the select mode is to select circle members to fill the three structural roles: facilitador, secretary and internal link. 
 
-Anyone in the circle can ask for the facilitator to jump to the select function and perform an election for one of the three elected roles. If that is the case, this should be done immediately.
+Anyone in the circle can ask for the facilitator to jump to the select mode and perform an election for one of the three elected roles. If that is the case, this should be done immediately.
 
 The process of electing the three structural roles must be done only inside a circle meeting.
 
 The facilitator must facilitate an election process, considering the following rules:
 
-- Every member of the circle is eligible for all three roles, with the exception of the person who fills the external link function, which is not eligible as facilitator or internal link.
+- Every member of the circle is eligible for all three roles, with the exception of the person who fills the external link mode, which is not eligible as facilitator or internal link.
 - If there is a tie, the facilitator can chose one of the following criteria to untie:
   - The person who named him or herself, if only one of the tied candidates has;
   - The person who is already filling the role, if only one of the tied candidates is;
@@ -235,13 +235,13 @@ The facilitator must facilitate an election process, considering the following r
 - The person who fills the external link role cannot be elected as facilitator or internal link of the same circle. 
 - Only circle members are eligible as facilitator, secretary or internal link.
 
-For examples of election processes for the select function, see the Pattern Book.
+For examples of election processes for the select mode, see the Pattern Book.
 
-The structure of the select function can be restricted using a patch, provided that the goal is maintained and the rules above are followed.
+The structure of the select mode can be restricted using a patch, provided that the goal is maintained and the rules above are followed.
 
-## Care Function
+## Care Mode
 
-The goal of this function is to care for the tribal space, and nurture the quality of relationships between circle members. The format is open for the facilitator to decide how to use.
+The goal of this mode is to care for the tribal space, and nurture the quality of relationships between circle members. The format is open for the facilitator to decide how to use.
 
 This space should not be used to make changes to the structure of the circle or ask projects and actions from other circle members.
 
@@ -249,7 +249,7 @@ This space should not be used to make changes to the structure of the circle or 
 
 Every circle has 4 core roles automatically created: external link, internal link, facilitator, and secretary.
 
-The facilitator and the secretary are elected in the select function and operate mainly inside circle meetings.
+The facilitator and the secretary are elected in the select mode and operate mainly inside circle meetings.
 
 The external link and internal link are used to exchange messages and facilitate communication between circle and external circle, specially during circle meetings.
 
@@ -263,7 +263,7 @@ The External Link can also establish priorities for the circle, and circle membe
 
 The External Link role can be excluded or modified entirely with a patch.
 
-The External Link holds all circle un-delegated domains and accountabilities. 
+The External Link holds all circle un-delegated artifacts and accountabilities. 
 
 ## Core Roles Description
 
@@ -283,7 +283,7 @@ Purpose: *Accurate record keeping of the circle structural records*
 - Scheduling regular circle meetings
 - Recording circle meeting outputs
 
-**Domains**:
+**Artifacts**:
  - Circle structural records
 
 ### External Link
@@ -295,7 +295,7 @@ Purpose: *The circle's purpose*
 - Assigning people to the circle’s roles; monitoring the fit; offering feedback to enhance fit; and re-assigning roles to other people when useful for enhancing fit
 - Establishing priorities for the circle
 
-**Domains**:
+**Artifacts**:
 - Role assignment within the circle
 
 ### Internal Link
