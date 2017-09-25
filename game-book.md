@@ -2,7 +2,7 @@
 
 This Game Book defines the minimum set of rules necessary to catalyse self-organization in a team, department or organization. 
 
-## Other O² books
+## Other O2 books
 
 ### [Pattern Book](pattern-book.md)
 ### [Rogue Book](rogue-book.md)
@@ -18,9 +18,9 @@ This Game Book defines the minimum set of rules necessary to catalyse self-organ
 
 # Preface
 
-This **Game Book** defines the rules of **Organic Organization (O²)**. 
+This **Game Book** defines the rules of **Organic Organization (O2)**. 
 
-O² aims to catalyse self-organization in a team, department or organization. 
+O2 aims to catalyse self-organization in a team, department or organization. 
 
 The goal of this game is the __neverending expression of the organizational purpose__. 
 
@@ -66,7 +66,7 @@ Patches cascade to all inner circles, unless otherwise specified in the descript
 
 # Duties
 
-As member of the organization, team or department that is practicing O², you have some special duties towards all other members. 
+As member of the organization, team or department that is practicing O2, you have some special duties towards all other members. 
 
 ## Expressing roles
 

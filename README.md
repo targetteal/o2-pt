@@ -1,6 +1,6 @@
 # Introduction: Organic Organization
 
-Organic Organization, or O² for short, is a self-organization catalyst composed of three books. O² describes how to foster self-management in team, department or organization. 
+Organic Organization, or O2 for short, is a self-organization catalyst composed of three books. O2 describes how to foster self-management in team, department or organization. 
 
 Translations are available in [another github project](https://github.com/targetteal/organic-organization-translations).
 
@@ -13,7 +13,7 @@ Our influences include:
 
 ## Collaborating
 
-O² is licensed under Creative Commons Attribution-ShareAlike 4.0 International License, so you are free to fork this repo and develop your own version based on this work. Still, you are not allowed to call your modified version Organic Organization or O².
+O2 is licensed under Creative Commons Attribution-ShareAlike 4.0 International License, so you are free to fork this repo and develop your own version based on this work. Still, you are not allowed to call your modified version Organic Organization or O2.
 
 Organic Organization is currently maintained by [Target Teal](https://targetteal.com/) and other contributors. If you want to collaborate, please follow the instructions below.
 
@@ -28,15 +28,7 @@ Anyone can propose a change to the three books by sending pull requests. Neverth
 - Consider opening an issue and discussing the proposed changes with the community before sending a pull request;
 - You must state any intentions you might have along with the proposed changes;
 - You should additionaly clarify whether the proposed change is solving some kind of tension. Provide as much information as you can about this tension;
-- You must state how specifically this helps the [purpose of O2 and follows the design principles](purpose-and-principles.md).	
-
-### Reviewers
-
-Three different reviewers are elected among the previous contributors. These reviewers can approve pull requests, as long as they follow the [purpose of O2 and the design principles](purpose-and-principles.md). Contributors include initial contributors (listed above) plus anyone else who had a pull request approved by the reviewers.
-
-Reviewers must follow the exact same process as contributors do. Each contributor has one vote and can indicate any other contributor as a reviewer, including him/herself. Election happens inside Target Teal slack channel #o2. Anyone can call for a new election any time, and the three reviewers are elected simultaneously. If there is a tie, the candidates must figure out by themselves who is going to become the reviewer. 
-
-Initial contributors include Davi Gabriel da Silva, Danilo Fascio, Marco Barón, Rodrigo Bastos, and Andrea Farè. 
+- You must state how specifically this helps the [purpose of O2 and follows the design principles](purpose-and-principles.md).
 
 ## License
 
