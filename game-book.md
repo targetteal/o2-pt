@@ -2,11 +2,6 @@
 
 This Game Book defines the minimum set of rules necessary to catalyse self-organization in a team, department or organization.
 
-## Other O2 books
-
-### [Pattern Book](pattern-book.md)
-### [Rogue Book](rogue-book.md)
-
 # Index
 
 1. [Preface](#preface)
