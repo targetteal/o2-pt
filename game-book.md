@@ -75,7 +75,7 @@ Upon request, you are also expected to give estimates and projections about poss
 
 ## Prioritization
 
-You are expected to prioritize your work in alignment with circle priorities defined by the External Link, or any other process that sets priorities.
+You are expected to prioritize your work in alignment with circle priorities defined by the Outer Link, or any other process that sets priorities.
 
 ## Circle meetings
 
@@ -214,7 +214,7 @@ It's up to the secretary to define how this process is accomplished.
 
 ## Select Mode
 
-The goal of the select mode is to select circle members to fill the three structural roles: facilitador, secretary and internal link.
+The goal of the select mode is to select circle members to fill the three structural roles: facilitador, secretary and Inner Link.
 
 Anyone in the circle can ask for the facilitator to jump to the select mode and perform an election for one of the three elected roles. If that is the case, this should be done immediately.
 
@@ -222,13 +222,13 @@ The process of electing the three structural roles must be done only inside a ci
 
 The facilitator must facilitate an election process, considering the following rules:
 
-- Every member of the circle is eligible for all three roles, with the exception of the person who fills the external link mode, which is not eligible as facilitator or internal link.
+- Every member of the circle is eligible for all three roles, with the exception of the person who fills the External Link mode, which is not eligible as facilitator or Inner Link.
 - If there is a tie, the facilitator can chose one of the following criteria to untie:
   - The person who named him or herself, if only one of the tied candidates has;
   - The person who is already filling the role, if only one of the tied candidates is;
   - Random;
-- The person who fills the external link role cannot be elected as facilitator or internal link of the same circle.
-- Only circle members are eligible as facilitator, secretary or internal link.
+- The person who fills the External Link role cannot be elected as facilitator or Inner Link of the same circle.
+- Only circle members are eligible as facilitator, secretary or Inner Link.
 
 For examples of election processes for the select mode, see the Pattern Book.
 
@@ -242,23 +242,23 @@ This space should not be used to make changes to the structure of the circle or 
 
 # Core Roles
 
-Every circle has 4 core roles automatically created: external link, internal link, facilitator, and secretary.
+Every circle has 4 core roles automatically created: External Link, Inner Link, facilitator, and secretary.
 
 The facilitator and the secretary are elected in the select mode and operate mainly inside circle meetings.
 
-The external link and internal link are used to exchange messages and facilitate communication between circle and external circle, specially during circle meetings.
+The External Link and Inner Link are used to exchange messages and facilitate communication between circle and external circle, specially during circle meetings.
 
-## External Link
+## Outer Link
 
-The External Link is chosen by the external circle, by whatever process that assigns people to roles in the external circle.
+The Outer Link is chosen by the external circle, by whatever process that assigns people to roles in the external circle.
 
-The External Link is accountable for assigning people to roles in the circle, and may invite any person that is part of the organization, unless a restriction says otherwise.
+The Outer Link is accountable for assigning people to roles in the circle, and may invite any person that is part of the organization, unless a restriction says otherwise.
 
-The External Link can also establish priorities for the circle, and circle members are expected to align with those priorities.
+The Outer Link can also establish priorities for the circle, and circle members are expected to align with those priorities.
 
-The External Link role can be excluded or modified entirely with a patch.
+The Outer Link role can be excluded or modified entirely with a patch.
 
-The External Link holds all circle un-delegated artifacts and accountabilities.
+The Outer Link holds all circle un-delegated artifacts and accountabilities.
 
 ## Core Roles Description
 
@@ -281,7 +281,7 @@ Purpose: *Accurate record keeping of the circle structural records*
 **Artifacts**:
  - Circle structural records
 
-### External Link
+### Outer Link
 
 Purpose: *The circle's purpose*
 
@@ -293,7 +293,7 @@ Purpose: *The circle's purpose*
 **Artifacts**:
 - Role assignment within the circle
 
-### Internal Link
+### Inner Link
 
 Purpose: *The circle's purpose*
 
