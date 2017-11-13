@@ -11,7 +11,7 @@ This Game Book defines the minimum set of rules necessary to catalyse self-organ
 
 1. [Preface](#preface)
 2. [Basic Elements](#basic-elements)
-3. [Duties](#duties.md)
+3. [Duties](#duties)
 4. [Circle meetings](#circle-meetings)
 5. [Core Roles](#core-roles)
 6. [Core Roles Description](#core-roles-description)
