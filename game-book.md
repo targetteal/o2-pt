@@ -53,12 +53,6 @@ Restrictions cascade to all inner circles, unless otherwise specified in the des
 Restrictions cannot set expectations, because that is the goal of an accountability (property of a role or circle). Nevertheless, a restriction may demand action, but only for the person(s) or role(s) to which the restriction applies in the specific condition that triggers it.
 Restrictions can only be adopted inside circle meetings, more specifically in the adapt mode.
 
-## Patches
-
-Some sections of this game book explicitly allow modifications. When this is the case, you can change that rule with a patch.
-The patch follows the same structure of the restriction (title and description) and can only be adopted inside circle meetings, in the adapt mode.
-Patches cascade to all inner circles, unless otherwise specified in the description.
-
 # Duties
 
 As member of the organization, team or department that is practicing O2, you have some special duties towards all other members.
@@ -105,7 +99,7 @@ The different modes should never be mixed together. The Facilitator must state t
 
 The goal of the review mode is to give transparency about the circle's work. That is usually accomplished by reviewing metrics, recurring actions, and projects.
 
-It's up to the Facilitator to decide how specifically the review mode is conducted, except if a patch determines otherwise.
+It's up to the Facilitator to decide how specifically the review mode is conducted, except if a restriction determines otherwise.
 
 Detailed suggestions can be found in the pattern book.
 
@@ -125,7 +119,7 @@ The Facilitator must attempt to allow time for processing every tension list ite
 
 The Secretary then records any requested projects and actions accepted by the participants.
 
-The sync mode structure can be changed entirely with a patch, provided that the goal is maintained.
+The sync mode structure can be changed entirely with a restriction, provided that the goal is maintained.
 
 ## Adapt Mode
 
@@ -133,7 +127,6 @@ The goal of the adapt mode is to process tensions into structural changes in the
 
 - Adding, removing or changing circle roles;
 - Adding, removing or changing sub-circles;
-- Adding, removing or changing circle patches;
 - Adding, removing or changing circle restrictions;
 
 What can be done in the adapt mode can only be done inside the adapt mode. This means that you cannot add, remove or change the circle structure outside this mode. Except for asynchronous proposals.
@@ -232,7 +225,7 @@ The Facilitator must facilitate an election process, considering the following r
 
 For examples of election processes for the select mode, see the Pattern Book.
 
-The structure of the select mode can be restricted using a patch, provided that the goal is maintained and the rules above are followed.
+The structure of the select mode can be restricted using a restriction, provided that the goal is maintained and the rules above are followed.
 
 ## Care Mode
 
@@ -256,7 +249,7 @@ The Outer Link is accountable for assigning people to roles in the circle, and m
 
 The Outer Link can also establish priorities for the circle, and circle members are expected to align with those priorities.
 
-The Outer Link role can be excluded or modified entirely with a patch.
+The Outer Link role can be excluded or modified entirely with a restriction.
 
 The Outer Link holds all circle un-delegated artifacts and accountabilities.
 
