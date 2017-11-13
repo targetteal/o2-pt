@@ -310,4 +310,4 @@ Purpose: *The circle's purpose*
 # License Attributions
 
 _This work, Organization Organization Game Book, is a derivative of the [Holacracy Constitution](https://holacracy.com/constitution) by HolacracyOne, LLC, used under Creative Commons Attribution
-ShareAlike 4.0 International License. Organization Organization Game Book is licensed under the same conditions. [More information about the license can be found here](../LICENSE.md)._
+ShareAlike 4.0 International License. Organization Organization Game Book is licensed under the same conditions. [More information about the license can be found here](LICENSE.md)._
