@@ -1,6 +1,6 @@
 # Game Book
 
-This Game Book defines the minimum set of rules necessary to catalyse self-organization in a team, department or organization. 
+This Game Book defines the minimum set of rules necessary to catalyse self-organization in a team, department or organization.
 
 ## Other O2 books
 
@@ -11,18 +11,18 @@ This Game Book defines the minimum set of rules necessary to catalyse self-organ
 
 1. [Preface](#preface)
 2. [Basic Elements](#basic-elements)
-3. [Duties](duties.md)
+3. [Duties](#duties.md)
 4. [Circle meetings](#circle-meetings)
 5. [Core Roles](#core-roles)
 6. [Core Roles Description](#core-roles-description)
 
 # Preface
 
-This **Game Book** defines the rules of **Organic Organization (O2)**. 
+This **Game Book** defines the rules of **Organic Organization (O2)**.
 
-O2 aims to catalyse self-organization in a team, department or organization. 
+O2 aims to catalyse self-organization in a team, department or organization.
 
-The goal of this game is the __neverending expression of the organizational purpose__. 
+The goal of this game is the __neverending expression of the organizational purpose__.
 
 Anyone who agrees to take part in this game may rely on the authorities granted by this **Game Book**, and also agree to be bound by its duties and constraints.
 
@@ -43,44 +43,44 @@ Roles can only be changed in the adapt mode of its circle meeting.
 ## Circles
 
 Circles are analogous structures to roles, and thus have the same properties described in the role section.
-Circles can contain roles and inner circles, that can contain their own roles and inner circles, and so on. The structure is fractal. From the perspective of an outer circle, its inner circles are like roles that have the additional ability to break themselves down. 
-Circles are composed of roles and inner circles, not people. You are a member of the circle if you fill a role in that same circle. 
+Circles can contain roles and inner circles, that can contain their own roles and inner circles, and so on. The structure is fractal. From the perspective of an outer circle, its inner circles are like roles that have the additional ability to break themselves down.
+Circles are composed of roles and inner circles, not people. You are a member of the circle if you fill a role in that same circle.
 Inner circle properties (name, purpose, accountabilities, and artifacts) can only be changed in the adapt mode of its outer circle meeting.
-A circle artifact can be accessed by all circle members, except if it has been delegated to a specific role in that circle. 
+A circle artifact can be accessed by all circle members, except if it has been delegated to a specific role in that circle.
 The organization itself is the broadest circle in the structure, containing all other ones.
 Inner circles are created for the purpose of maintaining the circle meetings with a manageable number of people and clear focus.  
 
 ## Restrictions
 
-Restrictions are limitations of authority that apply to all roles of a given circle. 
-Restrictions are composed of a title and a description (both mandatory). 
+Restrictions are limitations of authority that apply to all roles of a given circle.
+Restrictions are composed of a title and a description (both mandatory).
 Restrictions cascade to all inner circles, unless otherwise specified in the description.
 Restrictions cannot set expectations, because that is the goal of an accountability (property of a role or circle). Nevertheless, a restriction may demand action, but only for the person(s) or role(s) to which the restriction applies in the specific condition that triggers it.
 Restrictions can only be adopted inside circle meetings, more specifically in the adapt mode.
 
 ## Patches
 
-Some sections of this game book explicitly allow modifications. When this is the case, you can change that rule with a patch. 
-The patch follows the same structure of the restriction (title and description) and can only be adopted inside circle meetings, in the adapt mode. 
+Some sections of this game book explicitly allow modifications. When this is the case, you can change that rule with a patch.
+The patch follows the same structure of the restriction (title and description) and can only be adopted inside circle meetings, in the adapt mode.
 Patches cascade to all inner circles, unless otherwise specified in the description.
 
 # Duties
 
-As member of the organization, team or department that is practicing O2, you have some special duties towards all other members. 
+As member of the organization, team or department that is practicing O2, you have some special duties towards all other members.
 
 ## Expressing roles
 
-You are responsible for monitoring how your role purpose and accountabilities are expressed, and comparing that to your vision of their ideal potential expression. You should identify those gaps between the current reality and a potential you sense, each one being a tension. 
+You are responsible for monitoring how your role purpose and accountabilities are expressed, and comparing that to your vision of their ideal potential expression. You should identify those gaps between the current reality and a potential you sense, each one being a tension.
 You are also responsible for trying to resolve those tensions by using the authorities and other mechanisms available to you under the Game Book.
 
 ## Transparency
 
 When requested, you are expected to share all relevant information about your roles' work, including each project you are working on, actions identified, prioritization criteria and relevant metrics.
-Upon request, you are also expected to give estimates and projections about possible completion dates of projects and actions, even though those projections shall not be considered deadlines or commitments. 
+Upon request, you are also expected to give estimates and projections about possible completion dates of projects and actions, even though those projections shall not be considered deadlines or commitments.
 
 ## Prioritization
 
-You are expected to prioritize your work in alignment with circle priorities defined by the External Link, or any other process that sets priorities. 
+You are expected to prioritize your work in alignment with circle priorities defined by the External Link, or any other process that sets priorities.
 
 ## Circle meetings
 
@@ -92,35 +92,35 @@ Circle members regularly gather in a space called circle meeting in order to per
 
 Circle members can invite people that are not members of the circle to solve particular issues or process tensions.
 
-Circle meetings are scheduled by the circle's secretary and facilitated by the facilitator, two special roles described in the core roles section. 
+Circle meetings are scheduled by the circle's secretary and facilitated by the facilitator, two special roles described in the core roles section.
 
 ## Circle meeting structure
 
-Circle meetings start with a check in round and end with a check out round. The facilitator fills the meeting with one or more of the 5 different modes available, according to the time available and the needs of the circle. 
+Circle meetings start with a check in round and end with a check out round. The facilitator fills the meeting with one or more of the 5 different modes available, according to the time available and the needs of the circle.
 
-In the check in round, one at a time, each participant shares how he or she is coming to the meeting. 
+In the check in round, one at a time, each participant shares how he or she is coming to the meeting.
 
 In the check out round, one at a time, each participant shares a closing reflection about the meeting.
 
-The facilitator should not allow any discussion or crosstalk in both rounds, in order to preserve the individual space of every circle member. 
+The facilitator should not allow any discussion or crosstalk in both rounds, in order to preserve the individual space of every circle member.
 
-The different modes should never be mixed together. The facilitator must state the name, goal, and clarify rules of each mode before beginning to facilitate each one. 
+The different modes should never be mixed together. The facilitator must state the name, goal, and clarify rules of each mode before beginning to facilitate each one.
 
 ## # Review Mode
 
-The goal of the review mode is to give transparency about the circle's work. That is usually accomplished by reviewing metrics, recurring actions, and projects. 
+The goal of the review mode is to give transparency about the circle's work. That is usually accomplished by reviewing metrics, recurring actions, and projects.
 
-It's up to the facilitator to decide how specifically the review mode is conducted, except if a patch determines otherwise. 
+It's up to the facilitator to decide how specifically the review mode is conducted, except if a patch determines otherwise.
 
 Detailed suggestions can be found in the pattern book.
 
 ## # Sync Mode
 
-The goal of the sync mode is to quickly process tensions into actions, projects, information requests and information sharing. 
+The goal of the sync mode is to quickly process tensions into actions, projects, information requests and information sharing.
 
-The facilitator starts by asking the secretary to build a list of tensions to process. Each person feeling a tension must label it using two or three words aloud. The secretary then records the label, along with the name of the participant. 
+The facilitator starts by asking the secretary to build a list of tensions to process. Each person feeling a tension must label it using two or three words aloud. The secretary then records the label, along with the name of the participant.
 
-The facilitator must not give any more space to allow the person to explain the tension during the process of building the list. 
+The facilitator must not give any more space to allow the person to explain the tension during the process of building the list.
 
 After the tension list is built, the facilitator must go through the list and process one tension at a time, trying to help the item owner to get what he or she needs.
 
@@ -128,11 +128,11 @@ The facilitator must simply allow the list item owner to engage others in their 
 
 The facilitator must attempt to allow time for processing every tension list item within the sync mode, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining time.
 
-The secretary then records any requested projects and actions accepted by the participants. 
+The secretary then records any requested projects and actions accepted by the participants.
 
-The sync mode structure can be changed entirely with a patch, provided that the goal is maintained. 
+The sync mode structure can be changed entirely with a patch, provided that the goal is maintained.
 
-## Adapt Mode 
+## Adapt Mode
 
 The goal of the adapt mode is to process tensions into structural changes in the circle. These changes include:
 
@@ -141,7 +141,7 @@ The goal of the adapt mode is to process tensions into structural changes in the
 - Adding, removing or changing circle patches;
 - Adding, removing or changing circle restrictions;
 
-What can be done in the adapt mode can only be done inside the adapt mode. This means that you cannot add, remove or change the circle structure outside this mode. Except for asynchronous proposals. 
+What can be done in the adapt mode can only be done inside the adapt mode. This means that you cannot add, remove or change the circle structure outside this mode. Except for asynchronous proposals.
 
 The facilitator must ask the secretary to build a list of tensions to process, exactly as described in the sync mode.
 
@@ -156,7 +156,7 @@ After the tension list is built, the facilitator must guide the resolution of ea
 
 ### Quick proposal building
 
-The tension list item owner should be able to present a proposal to solve his or her own tension in the process. 
+The tension list item owner should be able to present a proposal to solve his or her own tension in the process.
 
 Alternatively, the facilitator may allow the item owner to ask help from other participants to craft the proposal. If that is the case, the facilitator should not allow any consensus building process. The goal is to solve the item owner's tension, not to satisfy everyone.
 
@@ -180,9 +180,9 @@ Each participant of the circle should have the same space and the option to ask 
 
 ### Integrative decision-making
 
-The facilitator must use an integrative decision-making process to facilitate the resolution of each tension. That means that any participant must be allowed to raise one or more objections to the proposal. 
+The facilitator must use an integrative decision-making process to facilitate the resolution of each tension. That means that any participant must be allowed to raise one or more objections to the proposal.
 
-If no objections are raised, the proposal is accepted. 
+If no objections are raised, the proposal is accepted.
 
 If there are objections, they must be integrated to the proposal.
 
@@ -193,7 +193,7 @@ An objection is a reason why the proposal would cause harm to the circle and mov
 1. **Degradation**. The objection is about some harm that the proposal would cause to the circle. This harm must be explained.
 2. **Causality**. The objection must be caused by the proposal in order to be valid.
 3. **Data-based**. The objection is based on current data or past experience. In other words, it's not an anticipation of future events. However, if the claimed harm is so disastrous that the circle would not be able to adapt in the future, then the objection can be predictive and this criteria can be disconsidered.
-4. **Role-related**. The objection affects one of the objector roles in the circle. 
+4. **Role-related**. The objection affects one of the objector roles in the circle.
 
 When validating objections, the facilitator should not judge the accuracy of the arguments presented, but only if they were presented with a logical reasoning and are thus reasonable. Valid objections are moved to integration.
 
@@ -207,19 +207,19 @@ In this case, the facilitator can ask the secretary to decide whether this is tr
 
 After harvesting valid objections, the facilitator must guide their integration to the proposal. One objection should be integrated at a time. The goal is to craft an amended proposal that would solve the original tension without causing the objection.
 
-If the proposal is amended, the facilitator must give another opportunity to the participants to raise objections. 
+If the proposal is amended, the facilitator must give another opportunity to the participants to raise objections.
 
-If a proposal is taking too much time to integrate, the facilitator can discard the proposal entirely in order to move to the next tension list item. 
+If a proposal is taking too much time to integrate, the facilitator can discard the proposal entirely in order to move to the next tension list item.
 
 ### Asynchronous Proposals
 
 Structural changes can be proposed outside circle meetings and are automatically adopted if all circle members declare that they don't have any objections. If any objections are raised, the proposal must be escalated to the adapt mode of a circle meeting.
 
-It's up to the secretary to define how this process is accomplished. 
+It's up to the secretary to define how this process is accomplished.
 
 ## Select Mode
 
-The goal of the select mode is to select circle members to fill the three structural roles: facilitador, secretary and internal link. 
+The goal of the select mode is to select circle members to fill the three structural roles: facilitador, secretary and internal link.
 
 Anyone in the circle can ask for the facilitator to jump to the select mode and perform an election for one of the three elected roles. If that is the case, this should be done immediately.
 
@@ -232,7 +232,7 @@ The facilitator must facilitate an election process, considering the following r
   - The person who named him or herself, if only one of the tied candidates has;
   - The person who is already filling the role, if only one of the tied candidates is;
   - Random;
-- The person who fills the external link role cannot be elected as facilitator or internal link of the same circle. 
+- The person who fills the external link role cannot be elected as facilitator or internal link of the same circle.
 - Only circle members are eligible as facilitator, secretary or internal link.
 
 For examples of election processes for the select mode, see the Pattern Book.
@@ -255,15 +255,15 @@ The external link and internal link are used to exchange messages and facilitate
 
 ## External Link
 
-The External Link is chosen by the external circle, by whatever process that assigns people to roles in the external circle. 
+The External Link is chosen by the external circle, by whatever process that assigns people to roles in the external circle.
 
 The External Link is accountable for assigning people to roles in the circle, and may invite any person that is part of the organization, unless a restriction says otherwise.
 
-The External Link can also establish priorities for the circle, and circle members are expected to align with those priorities. 
+The External Link can also establish priorities for the circle, and circle members are expected to align with those priorities.
 
 The External Link role can be excluded or modified entirely with a patch.
 
-The External Link holds all circle un-delegated artifacts and accountabilities. 
+The External Link holds all circle un-delegated artifacts and accountabilities.
 
 ## Core Roles Description
 
@@ -290,7 +290,7 @@ Purpose: *Accurate record keeping of the circle structural records*
 
 Purpose: *The circle's purpose*
 
-**Accountabilities:** 
+**Accountabilities:**
 - Structuring the circle to express its purpose
 - Assigning people to the circle’s roles; monitoring the fit; offering feedback to enhance fit; and re-assigning roles to other people when useful for enhancing fit
 - Establishing priorities for the circle
@@ -302,7 +302,7 @@ Purpose: *The circle's purpose*
 
 Purpose: *The circle's purpose*
 
-**Accountabilities:** 
+**Accountabilities:**
 - Removing constraints within the outer organization that limit the circle
 - Providing visibility on the health of the circle to the outer circle
 - Seeking to understand tensions brought by the circle members, and processing those appropriate in the outer circle
