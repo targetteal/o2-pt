@@ -277,7 +277,7 @@ Healthy circle meetings aligned with the Game Book*
 
 ### Secretary
 
-Purpose: *Accurate record keeping of the circle structural records*
+Purpose: *Accurate record keeping of the circle structure*
 
 **Accountabilities**:
 - Scheduling regular circle meetings
