@@ -26,29 +26,41 @@ Organic Organizations have an organizational structure composed of roles, circle
 ## Roles
 
 Members of the organization will typically perform work for the organization in one or more explicitly defined roles.
+
 A role is a part of the organization composed of:
 - A descriptive name (mandatory);
 - A purpose, which is the never ending goal of the role (mandatory);
 - Accountabilities, which are recurring activities that others can expect the role will perform (optional);
 - Artifacts, which are things that the role can exclusively control and regulate for the organization (optional).
+
 Roles can only be changed in the adapt mode of its circle meeting.
 
 ## Circles
 
 Circles are analogous structures to roles, and thus have the same properties described in the role section.
+
 Circles can contain roles and inner circles, that can contain their own roles and inner circles, and so on. The structure is fractal. From the perspective of an outer circle, its inner circles are like roles that have the additional ability to break themselves down.
+
 Circles are composed of roles and inner circles, not people. You are a member of the circle if you fill a role in that same circle.
+
 Inner circle properties (name, purpose, accountabilities, and artifacts) can only be changed in the adapt mode of its outer circle meeting.
+
 A circle artifact can be accessed by all circle members, except if it has been delegated to a specific role in that circle.
+
 The organization itself is the broadest circle in the structure, containing all other ones.
+
 Inner circles are created for the purpose of maintaining the circle meetings with a manageable number of people and clear focus.  
 
 ## Restrictions
 
 Restrictions are limitations of authority that apply to all roles of a given circle.
+
 Restrictions are composed of a title and a description (both mandatory).
+
 Restrictions cascade to all inner circles, unless otherwise specified in the description.
+
 Restrictions cannot set expectations, because that is the goal of an accountability (property of a role or circle). Nevertheless, a restriction may demand action, but only for the person(s) or role(s) to which the restriction applies in the specific condition that triggers it.
+
 Restrictions can only be adopted inside circle meetings, more specifically in the adapt mode.
 
 # Duties
@@ -58,11 +70,13 @@ As member of the organization, team or department that is practicing O2, you hav
 ## Expressing roles
 
 You are responsible for monitoring how your role purpose and accountabilities are expressed, and comparing that to your vision of their ideal potential expression. You should identify those gaps between the current reality and a potential you sense, each one being a tension.
+
 You are also responsible for trying to resolve those tensions by using the authorities and other mechanisms available to you under the Game Book.
 
 ## Transparency
 
 When requested, you are expected to share all relevant information about your roles' work, including each project you are working on, actions identified, prioritization criteria and relevant metrics.
+
 Upon request, you are also expected to give estimates and projections about possible completion dates of projects and actions, even though those projections shall not be considered deadlines or commitments.
 
 ## Prioritization
