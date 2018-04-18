@@ -13,13 +13,9 @@ This Game Book defines the minimum set of rules necessary to catalyse self-organ
 
 # Preface
 
-This **Game Book** defines the rules of **Organic Organization (O2)**.
+**Organic Organization (O2)** is a catalyst that helps organizations and their subparts (teams, departments, units) embrace self-management. O2 is composed of its **Rule Book** and an ever growing Pattern Library.
 
-O2 aims to catalyse self-organization in a team, department or organization.
-
-The goal of this game is the __neverending expression of the organizational purpose__.
-
-Anyone who agrees to take part in this game may rely on the authorities granted by this **Game Book**, and also agree to be bound by its duties and constraints.
+Anyone who agrees to take part of an Organic Organization may rely on the rules here presented and also agrees to be bound by its duties and constraints.
 
 Everything that is not explicitly forbidden in this Game Book or in the structural records of the organization is allowed.
 
