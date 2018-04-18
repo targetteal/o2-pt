@@ -19,7 +19,9 @@ Anyone who agrees to take part of an Organic Organization may rely on the rules 
 
 Everything that is not explicitly forbidden in this Game Book or in the structural records of the organization is allowed.
 
-# Basic Elements
+# Organizational Structure
+
+Organic Organizations have an organizational structure composed of roles, circles, and restrictions, which define expectations and limitations of authority. Those elements form a hierarchy of circles, and are described in details in the upcoming section. The Organizational Structure of a circle can only be changed in the adapt mode of its circle meeting.  
 
 ## Roles
 
