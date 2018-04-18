@@ -1,13 +1,13 @@
 # Game Book
 
-This Game Book defines the minimum set of rules necessary to catalyse self-organization in a team, department or organization.
+This Game Book defines the minimum set of rules necessary to catalyze self-organization in a team, department or organization.
 
 # Index
 
 1. [Preface](#preface)
-2. [Basic Elements](#basic-elements)
+2. [Organizational Structure](#organizational-structure)
 3. [Duties](#duties)
-4. [Circle meetings](#circle-meetings)
+4. [Circle Meetings](#circle-meetings)
 5. [Core Roles](#core-roles)
 6. [Core Roles Description](#core-roles-description)
 
@@ -83,7 +83,7 @@ Upon request, you are also expected to give estimates and projections about poss
 
 You are expected to prioritize your work in alignment with circle priorities defined by the Outer Link, or any other process that sets priorities.
 
-## Circle meetings
+## Circle Meetings
 
 When requested by other circle members, you should prioritize attending to the circle meetings over working on your roles' project and actions.
 
@@ -95,7 +95,7 @@ Circle members can invite people that are not members of the circle to solve par
 
 Circle meetings are scheduled by the circle's Secretary and facilitated by the Facilitator, two special roles described in the core roles section.
 
-## Circle meeting structure
+## Meeting format
 
 Circle meetings start with a check in round and end with a check out round. The Facilitator fills the meeting with one or more of the 5 different modes available, according to the time available and the needs of the circle.
 
@@ -107,7 +107,7 @@ The Facilitator should not allow any discussion or crosstalk in both rounds, in 
 
 The different modes should never be mixed together. The Facilitator must state the name, goal, and clarify rules of each mode before beginning to facilitate each one.
 
-## # Review Mode
+## Review Mode
 
 The goal of the review mode is to give transparency about the circle's work. That is usually accomplished by reviewing metrics, recurring actions, and projects.
 
@@ -115,7 +115,7 @@ It's up to the Facilitator to decide how specifically the review mode is conduct
 
 Detailed suggestions can be found in the pattern book.
 
-## # Sync Mode
+## Sync Mode
 
 The goal of the sync mode is to quickly process tensions into actions, projects, information requests and information sharing.
 
