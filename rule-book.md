@@ -17,8 +17,6 @@ This Game Book defines the minimum set of rules necessary to catalyze self-organ
 
 Anyone who agrees to take part of an Organic Organization may rely on the rules here presented and also agrees to be bound by its duties and constraints.
 
-Everything that is not explicitly forbidden in this Game Book or in the structural records of the organization is allowed.
-
 # Organizational Structure
 
 Organic Organizations have an organizational structure composed of roles, circles, and restrictions, which define expectations and limitations of authority. Those elements form a hierarchy of circles, and are described in details in the upcoming section. The Organizational Structure of a circle can only be changed in the adapt mode of its circle meeting.  
@@ -63,9 +61,21 @@ Restrictions cannot set expectations, because that is the goal of an accountabil
 
 Restrictions can only be adopted inside circle meetings, more specifically in the adapt mode.
 
+# Rights
+
+When taking part of an Organic Organization, circle members have two basic rights.
+
+## No implicit expectations
+
+You may deny requests to take specific actions if no matching explicit accountability is captured in the requested role's description. However, you should always accept suggestions and actions if you think they fit your role's purpose, even if no explicit accountability is recorded.
+
+## Everything is allowed by default
+
+When pursuing your role's purpose, you are always allowed to take action, unless an explicit artifact or circle restriction says otherwise.your role's purpose, you are always allowed to take action, unless an explicit artifact or circle restriction says otherwise.
+
 # Duties
 
-As member of the organization, team or department that is practicing O2, you have some special duties towards all other members.
+When taking part of an Organic Organization, circle members have some basic duties towards one another.
 
 ## Expressing roles
 
