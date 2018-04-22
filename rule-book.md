@@ -1,6 +1,6 @@
-# Game Book
+# Rule Book
 
-This Game Book defines the minimum set of rules necessary to catalyze self-organization in a team, department or organization.
+This Rule Book defines the minimum set of rules necessary to catalyze self-organization in a team, department or organization.
 
 # Index
 
@@ -81,7 +81,7 @@ When taking part of an Organic Organization, circle members have some basic duti
 
 You are responsible for monitoring how your role's purpose and accountabilities are expressed, and comparing that to your vision of their ideal potential expression. You should identify those gaps between the current reality and a potential you sense, each one being a tension.
 
-You are also responsible for trying to resolve those tensions by using the authorities and other mechanisms available to you under the Game Book.
+You are also responsible for trying to resolve those tensions by using the authorities and other mechanisms available to you under the Rule Book.
 
 ## Transparency
 
@@ -182,7 +182,7 @@ If the Facilitator deems that the item owner has failed to present the required 
 
 ### Structural changes only
 
-To be a valid output for the adapt mode, the proposal should be composed only of structural changes. If that is not the case, any participant can raise a Game Book violation objection.
+To be a valid output for the adapt mode, the proposal should be composed only of structural changes. If that is not the case, any participant can raise a Rule Book violation objection.
 
 ### Personal expression equivalence
 
@@ -207,11 +207,11 @@ An objection is a reason why the proposal would cause harm to the circle and mov
 
 When validating objections, the Facilitator should not judge the accuracy of the arguments presented, but only if they were presented with a logical reasoning and are thus reasonable. Valid objections are moved to integration.
 
-#### Game Book violation objection
+#### Rule Book violation objection
 
-Any participant can raise a "Game Book violation objection" if he or she deems the proposal violates one of the rules described in this Game Book. For example, one might say that a proposal is not a valid output for the adapt mode.
+Any participant can raise a "Rule Book violation objection" if he or she deems the proposal violates one of the rules described in this Rule Book. For example, one might say that a proposal is not a valid output for the adapt mode.
 
-In this case, the Facilitator can ask the Secretary to decide whether this is true or not. This special objection does not need to be validated using the criteria described in this section. Game Book violation objections must be integrated normally.
+In this case, the Facilitator can ask the Secretary to decide whether this is true or not. This special objection does not need to be validated using the criteria described in this section. Rule Book violation objections must be integrated normally.
 
 ### Integration
 
@@ -280,7 +280,7 @@ The Outer Link holds all circle un-delegated artifacts and accountabilities.
 ### Facilitator
 
 Purpose: *
-Healthy circle meetings aligned with the Game Book*
+Healthy circle meetings aligned with the Rule Book*
 
 **Accountabilities**:
 - Facilitating circle meetings
@@ -319,5 +319,5 @@ Purpose: *The circle's purpose*
 
 # License Attributions
 
-_This work, Organization Organization Game Book, is a derivative of the [Holacracy Constitution](https://holacracy.com/constitution) by HolacracyOne, LLC, used under Creative Commons Attribution
-ShareAlike 4.0 International License. Organization Organization Game Book is licensed under the same conditions. [More information about the license can be found here](LICENSE.md)._
+_This work, Organization Organization Rule Book, is a derivative of the [Holacracy Constitution](https://holacracy.com/constitution) by HolacracyOne, LLC, used under Creative Commons Attribution
+ShareAlike 4.0 International License. Organization Organization Rule Book is licensed under the same conditions. [More information about the license can be found here](LICENSE.md)._
