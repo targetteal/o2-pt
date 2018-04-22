@@ -13,7 +13,7 @@ This Rule Book defines the minimum set of rules necessary to catalyze self-organ
 
 # Preface
 
-**Organic Organization (O2)** is a catalyst that helps organizations and their subparts (teams, departments, units) embrace self-management. O2 is composed of its **Rule Book** and an ever growing Pattern Library.
+**Organic Organization (O2)** is a catalyst that helps organizations and their subparts (teams, departments, units) embrace self-management. O2 is composed of its **Rule Book** and an ever growing [Pattern Library](https://targetteal.com/o2/library/).
 
 Anyone who agrees to take part of an Organic Organization may rely on the rules here presented and also agrees to be bound by its duties and constraints.
 
@@ -123,7 +123,7 @@ The goal of the review mode is to give transparency about the circle's work. Tha
 
 It's up to the Facilitator to decide how specifically the review mode is conducted, except if a restriction determines otherwise.
 
-Detailed suggestions can be found in the pattern book.
+Detailed suggestions can be found in the Pattern Library.
 
 ## Sync Mode
 
@@ -245,7 +245,7 @@ The Facilitator must facilitate an election process, considering the following r
 - The person who fills the External Link role cannot be elected as Facilitator or Inner Link of the same circle.
 - Only circle members are eligible as Facilitator, Secretary or Inner Link.
 
-For examples of election processes for the select mode, see the Pattern Book.
+For examples of election processes for the select mode, see the Pattern Library.
 
 The structure of the select mode can be restricted using a restriction, provided that the goal is maintained and the rules above are followed.
 
