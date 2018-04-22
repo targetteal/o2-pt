@@ -71,7 +71,7 @@ You may deny requests to take specific projects and actions if no matching expli
 
 ## Everything is allowed by default
 
-When pursuing your role's purpose, you are always allowed to take action, unless an explicit artifact or circle restriction says otherwise.your role's purpose, you are always allowed to take action, unless an explicit artifact or circle restriction says otherwise.
+When pursuing your role's purpose, you are always allowed to take action, unless an explicit artifact or circle restriction says otherwise.
 
 # Duties
 
@@ -79,7 +79,7 @@ When taking part of an Organic Organization, circle members have some basic duti
 
 ## Expressing roles
 
-You are responsible for monitoring how your role purpose and accountabilities are expressed, and comparing that to your vision of their ideal potential expression. You should identify those gaps between the current reality and a potential you sense, each one being a tension.
+You are responsible for monitoring how your role's purpose and accountabilities are expressed, and comparing that to your vision of their ideal potential expression. You should identify those gaps between the current reality and a potential you sense, each one being a tension.
 
 You are also responsible for trying to resolve those tensions by using the authorities and other mechanisms available to you under the Game Book.
 
