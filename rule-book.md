@@ -15,11 +15,11 @@ This Rule Book defines the minimum set of rules necessary to catalyze self-organ
 
 **Organic Organization (O2)** is a catalyst that helps organizations and their subparts (teams, departments, units) embrace self-management. O2 is composed of its **Rule Book** and an ever growing [Pattern Library](https://targetteal.com/o2/library/).
 
-Anyone who agrees to take part of an Organic Organization may rely on the rules here presented and also agrees to be bound by its duties and constraints.
+Anyone who agrees to take part of an **Organic Organization** may rely on the rules here presented and also agrees to be bound by its duties and constraints.
 
 # Organizational Structure
 
-Organic Organizations have an organizational structure composed of roles, circles, and restrictions, which define expectations and limitations of authority. Those elements form a hierarchy of circles, and are described in details in the upcoming section. The Organizational Structure of a circle can only be changed in the adapt mode of its circle meeting.  
+**Organic Organizations** have an organizational structure composed of roles, circles, and restrictions, which define expectations and limitations of authority. Those elements form a hierarchy of circles, and are described in details in the upcoming section. The Organizational Structure of a circle can only be changed in the adapt mode of its circle meeting.  
 
 ## Roles
 
@@ -63,7 +63,7 @@ Restrictions can only be adopted inside circle meetings, more specifically in th
 
 # Rights
 
-When taking part of an Organic Organization, circle members have two basic rights.
+When taking part of an **Organic Organization**, circle members have two basic rights.
 
 ## No implicit expectations
 
@@ -75,7 +75,7 @@ When pursuing your role's purpose, you are always allowed to take action, unless
 
 # Duties
 
-When taking part of an Organic Organization, circle members have some basic duties towards one another.
+When taking part of an **Organic Organization**, circle members have some basic duties towards one another.
 
 ## Expressing roles
 
