@@ -67,7 +67,7 @@ When taking part of an Organic Organization, circle members have two basic right
 
 ## No implicit expectations
 
-You may deny requests to take specific actions if no matching explicit accountability is captured in the requested role's description. However, you should always accept suggestions and actions if you think they fit your role's purpose, even if no explicit accountability is recorded.
+You may deny requests to take specific projects and actions if no matching explicit accountability is captured in the requested role's description. However, you should always accept projects and actions if you think they fit your role's purpose, even if no explicit accountability is recorded.
 
 ## Everything is allowed by default
 
