@@ -123,7 +123,7 @@ The goal of the review mode is to give transparency about the circle's work. Tha
 
 It's up to the Facilitator to decide how specifically the review mode is conducted, except if a restriction determines otherwise.
 
-Detailed suggestions can be found in the Pattern Library.
+Detailed suggestions can be found in the **Pattern Library**.
 
 ## Sync Mode
 
@@ -245,7 +245,7 @@ The Facilitator must facilitate an election process, considering the following r
 - The person who fills the External Link role cannot be elected as Facilitator or Inner Link of the same circle.
 - Only circle members are eligible as Facilitator, Secretary or Inner Link.
 
-For examples of election processes for the select mode, see the Pattern Library.
+For examples of election processes for the select mode, see the **Pattern Library**.
 
 The structure of the select mode can be restricted using a restriction, provided that the goal is maintained and the rules above are followed.
 
