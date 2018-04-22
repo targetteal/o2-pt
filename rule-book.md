@@ -107,7 +107,7 @@ Circle meetings are scheduled by the circle's Secretary and facilitated by the F
 
 ## Meeting format
 
-Circle meetings start with a check in round and end with a check out round. The Facilitator fills the meeting with one or more of the 5 different modes available, according to the time available and the needs of the circle.
+Circle meetings start with a check in round and end with a check out round. The Facilitator fills the meeting with one or more of the 5 different modes, according to the time available and the needs of the circle.
 
 In the check in round, one at a time, each participant shares how he or she is coming to the meeting.
 
