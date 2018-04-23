@@ -19,7 +19,7 @@ Anyone who agrees to take part of an **Organic Organization** may rely on the ru
 
 # Organizational Structure
 
-**Organic Organizations** have an _Organizational Structure_ composed of _Roles_, _Circles_, and _Restrictions_, which define expectations and limitations of authority. Those elements form a hierarchy of _Circles_, and are described in details in the upcoming section. The _Organizational Structure_ of a _Circle_ can only be changed in the _Adapt Mode_ of its _Circle Meeting_.  
+**Organic Organizations** have an _Organizational Structure_ composed of _Roles_, _Circles_, and _Restrictions_, which define expectations and limitations of authority. Those elements form a hierarchy of _Circles_, and are described in details in the upcoming section.   
 
 ## Roles
 
@@ -56,6 +56,10 @@ _Restrictions_ are composed of a title and a description (both mandatory).
 _Restrictions_ cascade to all inner _Circles_, unless otherwise specified in the description.
 
 _Restrictions_ cannot set expectations, because that is the goal of an _Accountability_. Nevertheless, a _Restriction_ may demand action, but only for the individuals to which the _Restriction_ applies in the specific condition that triggers it.
+
+## Structure Evolution
+
+All elements that are part of a _Circle_ _Organizational Structure_ described in this section (_Roles_, _Circles_, and _Restrictions_) can only be updated in the _Adapt Mode_ of its _Circle Meeting_.
 
 # Rights
 
