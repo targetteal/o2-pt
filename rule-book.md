@@ -272,8 +272,7 @@ The _Outer Link_ holds all _Circle_ un-delegated _Artifacts_ and _Accountabiliti
 
 ### Facilitator
 
-Purpose: *
-Healthy _Circle Meetings_ aligned with the Rule Book*
+Purpose: *Healthy Circle Meetings aligned with the Rule Book*
 
 **Accountabilities**:
 - Facilitating _Circle Meetings_
