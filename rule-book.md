@@ -1,7 +1,3 @@
-# Rule Book
-
-This Rule Book defines the minimum set of rules necessary to catalyze self-organization in a team, department or organization.
-
 # Index
 
 1. [Preface](#preface)
