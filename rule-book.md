@@ -75,9 +75,9 @@ When taking part of an **Organic Organization**, _Circle Members_ have some basi
 
 ## Expressing Roles
 
-You are responsible for monitoring how your _Role_'s _Purpose_ and _Accountabilities_ are expressed, and comparing that to your vision of their ideal potential expression. You should identify those gaps between the current reality and a potential you sense, each one being a tension.
+You are responsible for monitoring how your _Role_'s _Purpose_ and _Accountabilities_ are expressed, and comparing that to your vision of their ideal potential expression. You should identify those gaps between the current reality and a potential you sense, each one being a _Tension_.
 
-You are also responsible for trying to resolve those tensions by using the authorities and other mechanisms available to you under the Rule Book.
+You are also responsible for trying to resolve those _Tensions_ by using the authorities and other mechanisms available to you under the Rule Book.
 
 ## Transparency
 
@@ -97,7 +97,7 @@ When requested by other _Circle Members_, you should prioritize attending to the
 
 _Circle Members_ regularly gather in a space called _Circle Meeting_ in order to perform one or more of the 5 special modes described in the upcoming sections: _Review_, _Sync_, _Adapt_, _Select_, and _Care_.
 
-_Circle Members_ can invite people that are not _Circle Members_ to solve particular issues or process tensions.
+_Circle Members_ can invite people that are not _Circle Members_ to process particular _Tensions_.
 
 _Circle Meetings_ are scheduled by the _Circle_'s _Secretary_ and facilitated by the _Facilitator_, two special _Roles_ described in the core _Roles_ section.
 
@@ -123,17 +123,17 @@ Detailed suggestions can be found in the **Pattern Library**.
 
 ## Sync Mode
 
-The goal of the _Sync Mode_ is to quickly process tensions into actions, projects, information requests and information sharing.
+The goal of the _Sync Mode_ is to quickly process _Tensions_ into actions, projects, information requests and information sharing.
 
-The _Facilitator_ starts by asking the _Secretary_ to build a list of tensions to process. Each person feeling a tension must label it using two or three words aloud. The _Secretary_ then records the label, along with the name of the participant.
+The _Facilitator_ starts by asking the _Secretary_ to build a list of _Tensions_ to process. Each person feeling a _Tension_ must label it using two or three words aloud. The _Secretary_ then records the label, along with the name of the participant.
 
-The _Facilitator_ must not give any more space to allow the person to explain the tension during the process of building the list.
+The _Facilitator_ must not give any more space to allow the person to explain the _Tension_ during the process of building the list.
 
-After the tension list is built, the _Facilitator_ must go through the list and process one tension at a time, trying to help the item owner to get what he or she needs.
+After the _Tension_ list is built, the _Facilitator_ must go through the list and process one _Tension_ at a time, trying to help the item owner to get what he or she needs.
 
-The _Facilitator_ must simply allow the list item owner to engage others in their _Roles_ and duties as desired, until a path for resolving the tension is identified.
+The _Facilitator_ must simply allow the list item owner to engage others in their _Roles_ and duties as desired, until a path for resolving the _Tension_ is identified.
 
-The _Facilitator_ must attempt to allow time for processing every tension list item within the _Sync Mode_, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining time.
+The _Facilitator_ must attempt to allow time for processing every _Tension_ list item within the _Sync Mode_, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining time.
 
 The _Secretary_ then records any requested projects and actions accepted by the participants.
 
@@ -141,7 +141,7 @@ The _Sync Mode_ structure can be changed entirely with a _Restriction_, provided
 
 ## Adapt Mode
 
-The goal of the _Adapt Mode_ is to process tensions into structural changes in the _Circle_. These changes include:
+The goal of the _Adapt Mode_ is to process _Tensions_ into structural changes in the _Circle_. These changes include:
 
 - Adding, removing or changing _Circle_ _Roles_;
 - Adding, removing or changing inner _Circles_;
@@ -149,12 +149,12 @@ The goal of the _Adapt Mode_ is to process tensions into structural changes in t
 
 What can be done in the _Adapt Mode_ can only be done inside the _Adapt Mode_. This means that you cannot add, remove or change the _Circle_ structure outside this mode. Except for asynchronous proposals.
 
-The _Facilitator_ must ask the _Secretary_ to build a list of tensions to process, exactly as described in the _Sync Mode_.
+The _Facilitator_ must ask the _Secretary_ to build a list of _Tensions_ to process, exactly as described in the _Sync Mode_.
 
-After the tension list is built, the _Facilitator_ must guide the resolution of each tension list item, using the following process guidelines:
+After the _Tension_ list is built, the _Facilitator_ must guide the resolution of each _Tension_ list item, using the following process guidelines:
 
 - Quick proposal building
-- One tension at a time
+- One _Tension_ at a time
 - Example-based proposals only
 - Structural changes only
 - Personal expression equivalence
@@ -162,17 +162,17 @@ After the tension list is built, the _Facilitator_ must guide the resolution of 
 
 ### Quick proposal building
 
-The tension list item owner should be able to present a proposal to solve his or her own tension in the process.
+The _Tension_ list item owner should be able to present a proposal to solve his or her own _Tension_ in the process.
 
-Alternatively, the _Facilitator_ may allow the item owner to ask help from other participants to craft the proposal. If that is the case, the _Facilitator_ should not allow any consensus building process. The goal is to solve the item owner's tension, not to satisfy everyone.
+Alternatively, the _Facilitator_ may allow the item owner to ask help from other participants to craft the proposal. If that is the case, the _Facilitator_ should not allow any consensus building process. The goal is to solve the item owner's _Tension_, not to satisfy everyone.
 
-### One tension at a time
+### One Tension at a time
 
-The tensions should be processed one at a time. This means that the _Facilitator_ should not allow other participants to try to include their perspectives and/or tensions in the current proposal, unless the item owner deems those perspectives are useful to solve his or her own tension.
+  The _Tensions_ should be processed one at a time. This means that the _Facilitator_ should not allow other participants to try to include their perspectives and/or _Tensions_ in the current proposal, unless the item owner deems those perspectives are useful to solve his or her own _Tension_.
 
 ### Example-based proposals only
 
-The item owner must explain the tension and give an example about a past or present situation where each part of the crafted proposal would solve or reduce the tension. That is mandatory.
+The item owner must explain the _Tension_ and give an example about a past or present situation where each part of the crafted proposal would solve or reduce the _Tension_. That is mandatory.
 
 If the _Facilitator_ deems that the item owner has failed to present the required example and explanations, the _Facilitator_ must discard the proposal. Nevertheless, the _Facilitator_ should not judge the accuracy of the arguments presented, but only if they were presented with a logical reasoning and are thus reasonable.
 
@@ -186,7 +186,7 @@ Each participant of the _Circle_ should have the same space and the option to as
 
 ### Integrative decision-making
 
-The _Facilitator_ must use an integrative decision-making process to facilitate the resolution of each tension. That means that any participant must be allowed to raise one or more objections to the proposal.
+The _Facilitator_ must use an integrative decision-making process to facilitate the resolution of each _Tension_. That means that any participant must be allowed to raise one or more objections to the proposal.
 
 If no objections are raised, the proposal is accepted.
 
@@ -211,11 +211,11 @@ In this case, the _Facilitator_ can ask the _Secretary_ to decide whether this i
 
 ### Integration
 
-After harvesting valid objections, the _Facilitator_ must guide their integration to the proposal. One objection should be integrated at a time. The goal is to craft an amended proposal that would solve the original tension without causing the objection.
+After harvesting valid objections, the _Facilitator_ must guide their integration to the proposal. One objection should be integrated at a time. The goal is to craft an amended proposal that would solve the original _Tension_ without causing the objection.
 
 If the proposal is amended, the _Facilitator_ must give another opportunity to the participants to raise objections.
 
-If a proposal is taking too much time to integrate, the _Facilitator_ can discard the proposal entirely in order to move to the next tension list item.
+If a proposal is taking too much time to integrate, the _Facilitator_ can discard the proposal entirely in order to move to the next _Tension_ list item.
 
 ### Asynchronous Proposals
 
@@ -257,11 +257,11 @@ Every _Circle_ has 4 core _Roles_ automatically created: _Outer Link_, _Inner Li
 
 The _Facilitator_ and the _Secretary_ are elected in the _Select Mode_ and operate mainly inside _Circle Meetings_.
 
-The _Outer Link_ and _Inner Link_ are used to exchange messages and facilitate communication between _Circle_ and external _Circle_, specially during _Circle Meetings_.
+The _Outer Link_ and _Inner Link_ are used to exchange messages and facilitate communication between _Circle_ and outer _Circle_, specially during _Circle Meetings_.
 
 ## Outer Link
 
-The _Outer Link_ is chosen by the external _Circle_, by whatever process that assigns people to _Roles_ in the external _Circle_.
+The _Outer Link_ is chosen by the outer _Circle_, by whatever process that assigns people to _Roles_ in the outer _Circle_.
 
 The _Outer Link_ is accountable for assigning people to _Roles_ in the _Circle_, and may invite any person that is part of the organization, unless a _Restriction_ says otherwise.
 
@@ -311,7 +311,7 @@ Purpose: *The Circle's purpose*
 **Accountabilities:**
 - Removing constraints within the outer organization that limit the _Circle_
 - Providing visibility on the health of the _Circle_ to the outer _Circle_
-- Seeking to understand tensions brought by the _Circle Members_, and processing those appropriate in the outer _Circle_
+- Seeking to understand _Tensions_ brought by the _Circle Members_, and processing those appropriate in the outer _Circle_
 
 # License Attributions
 
