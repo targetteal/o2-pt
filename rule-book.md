@@ -147,8 +147,6 @@ The goal of the _Adapt Mode_ is to process _Tensions_ into _Circle_ _Organizatio
 - Adding, removing or changing inner _Circles_ (only their properties);
 - Adding, removing or changing _Circle_ _Restrictions_;
 
-What can be done in the _Adapt Mode_ can only be done inside the _Adapt Mode_. This means that you cannot add, remove or change the _Circle_ structure outside this mode. Except for asynchronous proposals.
-
 The _Facilitator_ must ask the _Secretary_ to build a list of _Tensions_ to process, exactly as described in the _Sync Mode_.
 
 After the _Tension_ list is built, the _Facilitator_ must guide the resolution of each _Tension_ list item, using the following process guidelines:
