@@ -166,7 +166,7 @@ Alternatively, the _Facilitator_ may allow the item owner to ask help from other
 
 ### One Tension at a time
 
-  The _Tensions_ should be processed one at a time. This means that the _Facilitator_ should not allow other participants to try to include their perspectives and/or _Tensions_ in the current proposal, unless the item owner deems those perspectives are useful to solve his or her own _Tension_.
+The _Tensions_ should be processed one at a time. This means that the _Facilitator_ should not allow other participants to try to include their perspectives and/or _Tensions_ in the current proposal, unless the item owner deems those perspectives are useful to solve his or her own _Tension_.
 
 ### Example-based proposals only
 
