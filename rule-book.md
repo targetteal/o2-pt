@@ -97,9 +97,9 @@ When requested by other _Circle Members_, you should prioritize attending to the
 
 _Circle Members_ regularly gather in a space called _Circle Meeting_ in order to perform one or more of the 5 special modes described in the upcoming sections: _Review_, _Sync_, _Adapt_, _Select_, and _Care_.
 
-_Circle Members_ can invite people that are not _Circle Members_ to process particular _Tensions_.
+_Circle Meetings_ are scheduled by the _Circle_'s _Secretary_ and facilitated by the _Facilitator_, two special _Roles_ described in the [Core Roles](#core-roles) section.
 
-_Circle Meetings_ are scheduled by the _Circle_'s _Secretary_ and facilitated by the _Facilitator_, two special _Roles_ described in the core _Roles_ section.
+People that are not _Circle Members_ aren't allowed to participate in _Circle Meetings_, unless they are invited by a _Circle Member_ to help in the processing of a specific _Tension_.
 
 ## Meeting format
 
