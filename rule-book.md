@@ -19,7 +19,7 @@ Anyone who agrees to take part of an **Organic Organization** may rely on the ru
 
 # Organizational Structure
 
-**Organic Organizations** have an organizational structure composed of roles, circles, and restrictions, which define expectations and limitations of authority. Those elements form a hierarchy of circles, and are described in details in the upcoming section. The Organizational Structure of a circle can only be changed in the adapt mode of its circle meeting.  
+**Organic Organizations** have an organizational structure composed of roles, circles, and restrictions, which define expectations and limitations of authority. Those elements form a hierarchy of circles, and are described in details in the upcoming section. The Organizational Structure of a circle can only be changed in the _Adapt Mode_ of its circle meeting.  
 
 ## Roles
 
@@ -39,7 +39,7 @@ Circles can contain roles and inner circles, that can contain their own roles an
 
 Circles are composed of roles and inner circles, not people. You are a member of the circle if you fill a role in that same circle.
 
-Inner circle properties (name, purpose, accountabilities, and artifacts) can only be changed in the adapt mode of its outer circle meeting.
+Inner circle properties (name, purpose, accountabilities, and artifacts) can only be changed in the _Adapt Mode_ of its outer circle meeting.
 
 A circle artifact can be accessed by all circle members, except if it has been delegated to a specific role in that circle.
 
@@ -57,7 +57,7 @@ Restrictions cascade to all inner circles, unless otherwise specified in the des
 
 Restrictions cannot set expectations, because that is the goal of an accountability (property of a role or circle). Nevertheless, a restriction may demand action, but only for the person(s) or role(s) to which the restriction applies in the specific condition that triggers it.
 
-Restrictions can only be adopted inside circle meetings, more specifically in the adapt mode.
+Restrictions can only be adopted inside circle meetings, more specifically in the _Adapt Mode_.
 
 # Rights
 
@@ -97,7 +97,7 @@ When requested by other circle members, you should prioritize attending to the c
 
 # Circle Meetings
 
-Circle members regularly gather in a space called circle meeting in order to perform one or more of the 5 special modes described in the upcoming sections: review, sync, adapt, select, and care.
+Circle members regularly gather in a space called circle meeting in order to perform one or more of the 5 special modes described in the upcoming sections: _Review_, _Sync_, _Adapt_, _Select_, and _Care_.
 
 Circle members can invite people that are not members of the circle to solve particular issues or process tensions.
 
@@ -117,15 +117,15 @@ The different modes should never be mixed together. The Facilitator must state t
 
 ## Review Mode
 
-The goal of the review mode is to give transparency about the circle's work. That is usually accomplished by reviewing metrics, recurring actions, and projects.
+The goal of the _Review Mode_ is to give transparency about the circle's work. That is usually accomplished by reviewing metrics, recurring actions, and projects.
 
-It's up to the Facilitator to decide how specifically the review mode is conducted, except if a restriction determines otherwise.
+It's up to the Facilitator to decide how specifically the _Review Mode_ is conducted, except if a restriction determines otherwise.
 
 Detailed suggestions can be found in the **Pattern Library**.
 
 ## Sync Mode
 
-The goal of the sync mode is to quickly process tensions into actions, projects, information requests and information sharing.
+The goal of the _Sync Mode_ is to quickly process tensions into actions, projects, information requests and information sharing.
 
 The Facilitator starts by asking the Secretary to build a list of tensions to process. Each person feeling a tension must label it using two or three words aloud. The Secretary then records the label, along with the name of the participant.
 
@@ -135,23 +135,23 @@ After the tension list is built, the Facilitator must go through the list and pr
 
 The Facilitator must simply allow the list item owner to engage others in their roles and duties as desired, until a path for resolving the tension is identified.
 
-The Facilitator must attempt to allow time for processing every tension list item within the sync mode, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining time.
+The Facilitator must attempt to allow time for processing every tension list item within the _Sync Mode_, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining time.
 
 The Secretary then records any requested projects and actions accepted by the participants.
 
-The sync mode structure can be changed entirely with a restriction, provided that the goal is maintained.
+The _Sync Mode_ structure can be changed entirely with a restriction, provided that the goal is maintained.
 
 ## Adapt Mode
 
-The goal of the adapt mode is to process tensions into structural changes in the circle. These changes include:
+The goal of the _Adapt Mode_ is to process tensions into structural changes in the circle. These changes include:
 
 - Adding, removing or changing circle roles;
 - Adding, removing or changing inner circles;
 - Adding, removing or changing circle restrictions;
 
-What can be done in the adapt mode can only be done inside the adapt mode. This means that you cannot add, remove or change the circle structure outside this mode. Except for asynchronous proposals.
+What can be done in the _Adapt Mode_ can only be done inside the _Adapt Mode_. This means that you cannot add, remove or change the circle structure outside this mode. Except for asynchronous proposals.
 
-The Facilitator must ask the Secretary to build a list of tensions to process, exactly as described in the sync mode.
+The Facilitator must ask the Secretary to build a list of tensions to process, exactly as described in the _Sync Mode_.
 
 After the tension list is built, the Facilitator must guide the resolution of each tension list item, using the following process guidelines:
 
@@ -180,11 +180,11 @@ If the Facilitator deems that the item owner has failed to present the required 
 
 ### Structural changes only
 
-To be a valid output for the adapt mode, the proposal should be composed only of structural changes. If that is not the case, any participant can raise a Rule Book violation objection.
+To be a valid output for the _Adapt Mode_, the proposal should be composed only of structural changes. If that is not the case, any participant can raise a Rule Book violation objection.
 
 ### Personal expression equivalence
 
-Each participant of the circle should have the same space and the option to ask questions or express his or her opinion during the execution of the adapt mode. How exactly this space is made available is up to the Facilitator.
+Each participant of the circle should have the same space and the option to ask questions or express his or her opinion during the execution of the _Adapt Mode_. How exactly this space is made available is up to the Facilitator.
 
 ### Integrative decision-making
 
@@ -207,7 +207,7 @@ When validating objections, the Facilitator should not judge the accuracy of the
 
 #### Rule Book violation objection
 
-Any participant can raise a "Rule Book violation objection" if he or she deems the proposal violates one of the rules described in this Rule Book. For example, one might say that a proposal is not a valid output for the adapt mode.
+Any participant can raise a "Rule Book violation objection" if he or she deems the proposal violates one of the rules described in this Rule Book. For example, one might say that a proposal is not a valid output for the _Adapt Mode_.
 
 In this case, the Facilitator can ask the Secretary to decide whether this is true or not. This special objection does not need to be validated using the criteria described in this section. Rule Book violation objections must be integrated normally.
 
@@ -221,15 +221,15 @@ If a proposal is taking too much time to integrate, the Facilitator can discard 
 
 ### Asynchronous Proposals
 
-Structural changes can be proposed outside circle meetings and are automatically adopted if all circle members declare that they don't have any objections. If any objections are raised, the proposal must be escalated to the adapt mode of a circle meeting.
+Structural changes can be proposed outside circle meetings and are automatically adopted if all circle members declare that they don't have any objections. If any objections are raised, the proposal must be escalated to the _Adapt Mode_ of a circle meeting.
 
 It's up to the Secretary to define how this process is accomplished.
 
 ## Select Mode
 
-The goal of the select mode is to select circle members to fill the three structural roles: facilitador, Secretary and Inner Link.
+The goal of the _Select Mode_ is to select circle members to fill the three structural roles: facilitador, Secretary and Inner Link.
 
-Anyone in the circle can ask for the Facilitator to jump to the select mode and perform an election for one of the three elected roles. If that is the case, this should be done immediately.
+Anyone in the circle can ask for the Facilitator to jump to the _Select Mode_ and perform an election for one of the three elected roles. If that is the case, this should be done immediately.
 
 The process of electing the three structural roles must be done only inside a circle meeting.
 
@@ -243,9 +243,9 @@ The Facilitator must facilitate an election process, considering the following r
 - The person who fills the External Link role cannot be elected as Facilitator or Inner Link of the same circle.
 - Only circle members are eligible as Facilitator, Secretary or Inner Link.
 
-For examples of election processes for the select mode, see the **Pattern Library**.
+For examples of election processes for the _Select Mode_, see the **Pattern Library**.
 
-The structure of the select mode can be restricted using a restriction, provided that the goal is maintained and the rules above are followed.
+The structure of the _Select Mode_ can be restricted using a restriction, provided that the goal is maintained and the rules above are followed.
 
 ## Care Mode
 
@@ -257,7 +257,7 @@ This space should not be used to make changes to the structure of the circle or 
 
 Every circle has 4 core roles automatically created: External Link, Inner Link, Facilitator, and Secretary.
 
-The Facilitator and the Secretary are elected in the select mode and operate mainly inside circle meetings.
+The Facilitator and the Secretary are elected in the _Select Mode_ and operate mainly inside circle meetings.
 
 The External Link and Inner Link are used to exchange messages and facilitate communication between circle and external circle, specially during circle meetings.
 
