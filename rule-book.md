@@ -57,8 +57,6 @@ Restrictions cascade to all inner circles, unless otherwise specified in the des
 
 Restrictions cannot set expectations, because that is the goal of an accountability (property of a role or circle). Nevertheless, a restriction may demand action, but only for the person(s) or role(s) to which the restriction applies in the specific condition that triggers it.
 
-Restrictions can only be adopted inside circle meetings, more specifically in the _Adapt Mode_.
-
 # Rights
 
 When taking part of an **Organic Organization**, circle members have two basic rights.
