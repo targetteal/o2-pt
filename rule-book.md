@@ -148,7 +148,7 @@ The sync mode structure can be changed entirely with a restriction, provided tha
 The goal of the adapt mode is to process tensions into structural changes in the circle. These changes include:
 
 - Adding, removing or changing circle roles;
-- Adding, removing or changing sub-circles;
+- Adding, removing or changing inner circles;
 - Adding, removing or changing circle restrictions;
 
 What can be done in the adapt mode can only be done inside the adapt mode. This means that you cannot add, remove or change the circle structure outside this mode. Except for asynchronous proposals.
