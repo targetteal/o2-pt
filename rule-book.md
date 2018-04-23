@@ -223,7 +223,7 @@ It's up to the _Secretary_ to define how this process is accomplished.
 
 ## Select Mode
 
-The goal of the _Select Mode_ is to select _Circle Members_ to fill the three structural _Roles_: _Facilitator_, _Secretary_ and _Inner Link_.
+The goal of the _Select Mode_ is to select _Circle Members_ to fill the three _Core Roles_: _Facilitator_, _Secretary_ and _Inner Link_.
 
 Anyone in the _Circle_ can ask for the _Facilitator_ to jump to the _Select Mode_ and perform an election for one of the three elected _Roles_. If that is the case, this should be done immediately.
 
