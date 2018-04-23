@@ -19,11 +19,11 @@ Anyone who agrees to take part of an **Organic Organization** may rely on the ru
 
 # Organizational Structure
 
-**Organic Organizations** have an organizational structure composed of roles, circles, and restrictions, which define expectations and limitations of authority. Those elements form a hierarchy of circles, and are described in details in the upcoming section. The Organizational Structure of a circle can only be changed in the _Adapt Mode_ of its circle meeting.  
+**Organic Organizations** have an _Organizational Structure_ composed of _Roles_, _Circles_, and _Restrictions_, which define expectations and limitations of authority. Those elements form a hierarchy of _Circles_, and are described in details in the upcoming section. The _Organizational Structure_ of a _Circle_ can only be changed in the _Adapt Mode_ of its _Circle Meeting_.  
 
 ## Roles
 
-Members of the organization will typically perform work for the organization in one or more explicitly defined roles.
+Members of the organization will typically perform work for the organization in one or more explicitly defined _Roles_.
 
 A role is a part of the organization composed of:
 - A descriptive name (mandatory);
@@ -33,33 +33,33 @@ A role is a part of the organization composed of:
 
 ## Circles
 
-Circles are analogous structures to roles, and thus have the same properties described in the role section.
+_Circles_ are analogous structures to _Roles_, and thus have the same properties described in the role section.
 
-Circles can contain roles and inner circles, that can contain their own roles and inner circles, and so on. The structure is fractal. From the perspective of an outer circle, its inner circles are like roles that have the additional ability to break themselves down.
+_Circles_ can contain _Roles_ and inner _Circles_, that can contain their own _Roles_ and inner _Circles_, and so on. The structure is fractal. From the perspective of an outer _Circle_, its inner _Circles_ are like _Roles_ that have the additional ability to break themselves down.
 
-Circles are composed of roles and inner circles, not people. You are a member of the circle if you fill a role in that same circle.
+_Circles_ are composed of _Roles_ and inner _Circles_, not people. You are a member of the _Circle_ if you fill a role in that same _Circle_.
 
-Inner circle properties (name, purpose, accountabilities, and artifacts) can only be changed in the _Adapt Mode_ of its outer circle meeting.
+Inner _Circle_ properties (name, purpose, accountabilities, and artifacts) can only be changed in the _Adapt Mode_ of its outer _Circle Meeting_.
 
-A circle artifact can be accessed by all circle members, except if it has been delegated to a specific role in that circle.
+A _Circle_ artifact can be accessed by all _Circle_ members, except if it has been delegated to a specific role in that _Circle_.
 
-The organization itself is the broadest circle in the structure, containing all other ones.
+The organization itself is the broadest _Circle_ in the structure, containing all other ones.
 
-Inner circles are created for the purpose of maintaining the circle meetings with a manageable number of people and clear focus.  
+Inner _Circles_ are created for the purpose of maintaining the _Circle Meetings_ with a manageable number of people and clear focus.  
 
 ## Restrictions
 
-Restrictions are limitations of authority that apply to all roles of a given circle.
+_Restrictions_ are limitations of authority that apply to all _Roles_ of a given _Circle_.
 
-Restrictions are composed of a title and a description (both mandatory).
+_Restrictions_ are composed of a title and a description (both mandatory).
 
-Restrictions cascade to all inner circles, unless otherwise specified in the description.
+_Restrictions_ cascade to all inner _Circles_, unless otherwise specified in the description.
 
-Restrictions cannot set expectations, because that is the goal of an accountability (property of a role or circle). Nevertheless, a restriction may demand action, but only for the person(s) or role(s) to which the restriction applies in the specific condition that triggers it.
+_Restrictions_ cannot set expectations, because that is the goal of an accountability (property of a role or _Circle_). Nevertheless, a _Restriction_ may demand action, but only for the person(s) or role(s) to which the _Restriction_ applies in the specific condition that triggers it.
 
 # Rights
 
-When taking part of an **Organic Organization**, circle members have two basic rights.
+When taking part of an **Organic Organization**, _Circle_ members have two basic rights.
 
 ## No implicit expectations
 
@@ -67,11 +67,11 @@ You may deny requests to take specific projects and actions if no matching expli
 
 ## Everything is allowed by default
 
-When pursuing your role's purpose, you are always allowed to take action, unless an explicit artifact or circle restriction says otherwise.
+When pursuing your role's purpose, you are always allowed to take action, unless an explicit artifact or _Circle_ _Restriction_ says otherwise.
 
 # Duties
 
-When taking part of an **Organic Organization**, circle members have some basic duties towards one another.
+When taking part of an **Organic Organization**, _Circle_ members have some basic duties towards one another.
 
 ## Expressing roles
 
@@ -81,43 +81,43 @@ You are also responsible for trying to resolve those tensions by using the autho
 
 ## Transparency
 
-When requested, you are expected to share all relevant information about your roles' work, including each project you are working on, actions identified, prioritization criteria and relevant metrics.
+When requested, you are expected to share all relevant information about your _Roles_' work, including each project you are working on, actions identified, prioritization criteria and relevant metrics.
 
 Upon request, you are also expected to give estimates and projections about possible completion dates of projects and actions, even though those projections shall not be considered deadlines or commitments.
 
 ## Prioritization
 
-You are expected to prioritize your work in alignment with circle priorities defined by the Outer Link, or any other process that sets priorities.
+You are expected to prioritize your work in alignment with _Circle_ priorities defined by the Outer Link, or any other process that sets priorities.
 
 ## Circle Meetings
 
-When requested by other circle members, you should prioritize attending to the circle meetings over working on your roles' project and actions.
+When requested by other _Circle_ members, you should prioritize attending to the _Circle Meetings_ over working on your _Roles_' project and actions.
 
 # Circle Meetings
 
-Circle members regularly gather in a space called circle meeting in order to perform one or more of the 5 special modes described in the upcoming sections: _Review_, _Sync_, _Adapt_, _Select_, and _Care_.
+Circle members regularly gather in a space called _Circle Meeting_ in order to perform one or more of the 5 special modes described in the upcoming sections: _Review_, _Sync_, _Adapt_, _Select_, and _Care_.
 
-Circle members can invite people that are not members of the circle to solve particular issues or process tensions.
+Circle members can invite people that are not members of the _Circle_ to solve particular issues or process tensions.
 
-Circle meetings are scheduled by the circle's Secretary and facilitated by the Facilitator, two special roles described in the core roles section.
+_Circle Meetings_ are scheduled by the _Circle_'s Secretary and facilitated by the Facilitator, two special _Roles_ described in the core _Roles_ section.
 
 ## Meeting format
 
-Circle meetings start with a check in round and end with a check out round. The Facilitator fills the meeting with one or more of the 5 different modes, according to the time available and the needs of the circle.
+_Circle Meetings_ start with a check in round and end with a check out round. The Facilitator fills the meeting with one or more of the 5 different modes, according to the time available and the needs of the _Circle_.
 
 In the check in round, one at a time, each participant shares how he or she is coming to the meeting.
 
 In the check out round, one at a time, each participant shares a closing reflection about the meeting.
 
-The Facilitator should not allow any discussion or crosstalk in both rounds, in order to preserve the individual space of every circle member.
+The Facilitator should not allow any discussion or crosstalk in both rounds, in order to preserve the individual space of every _Circle_ member.
 
 The different modes should never be mixed together. The Facilitator must state the name, goal, and clarify rules of each mode before beginning to facilitate each one.
 
 ## Review Mode
 
-The goal of the _Review Mode_ is to give transparency about the circle's work. That is usually accomplished by reviewing metrics, recurring actions, and projects.
+The goal of the _Review Mode_ is to give transparency about the _Circle_'s work. That is usually accomplished by reviewing metrics, recurring actions, and projects.
 
-It's up to the Facilitator to decide how specifically the _Review Mode_ is conducted, except if a restriction determines otherwise.
+It's up to the Facilitator to decide how specifically the _Review Mode_ is conducted, except if a _Restriction_ determines otherwise.
 
 Detailed suggestions can be found in the **Pattern Library**.
 
@@ -131,23 +131,23 @@ The Facilitator must not give any more space to allow the person to explain the 
 
 After the tension list is built, the Facilitator must go through the list and process one tension at a time, trying to help the item owner to get what he or she needs.
 
-The Facilitator must simply allow the list item owner to engage others in their roles and duties as desired, until a path for resolving the tension is identified.
+The Facilitator must simply allow the list item owner to engage others in their _Roles_ and duties as desired, until a path for resolving the tension is identified.
 
 The Facilitator must attempt to allow time for processing every tension list item within the _Sync Mode_, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining time.
 
 The Secretary then records any requested projects and actions accepted by the participants.
 
-The _Sync Mode_ structure can be changed entirely with a restriction, provided that the goal is maintained.
+The _Sync Mode_ structure can be changed entirely with a _Restriction_, provided that the goal is maintained.
 
 ## Adapt Mode
 
-The goal of the _Adapt Mode_ is to process tensions into structural changes in the circle. These changes include:
+The goal of the _Adapt Mode_ is to process tensions into structural changes in the _Circle_. These changes include:
 
-- Adding, removing or changing circle roles;
-- Adding, removing or changing inner circles;
-- Adding, removing or changing circle restrictions;
+- Adding, removing or changing _Circle_ _Roles_;
+- Adding, removing or changing inner _Circles_;
+- Adding, removing or changing _Circle_ _Restrictions_;
 
-What can be done in the _Adapt Mode_ can only be done inside the _Adapt Mode_. This means that you cannot add, remove or change the circle structure outside this mode. Except for asynchronous proposals.
+What can be done in the _Adapt Mode_ can only be done inside the _Adapt Mode_. This means that you cannot add, remove or change the _Circle_ structure outside this mode. Except for asynchronous proposals.
 
 The Facilitator must ask the Secretary to build a list of tensions to process, exactly as described in the _Sync Mode_.
 
@@ -182,7 +182,7 @@ To be a valid output for the _Adapt Mode_, the proposal should be composed only 
 
 ### Personal expression equivalence
 
-Each participant of the circle should have the same space and the option to ask questions or express his or her opinion during the execution of the _Adapt Mode_. How exactly this space is made available is up to the Facilitator.
+Each participant of the _Circle_ should have the same space and the option to ask questions or express his or her opinion during the execution of the _Adapt Mode_. How exactly this space is made available is up to the Facilitator.
 
 ### Integrative decision-making
 
@@ -194,12 +194,12 @@ If there are objections, they must be integrated to the proposal.
 
 #### Objections
 
-An objection is a reason why the proposal would cause harm to the circle and move it backwards. The Facilitator can ask questions to help the objector understand if his or her objection is valid. These questions must evaluate:
+An objection is a reason why the proposal would cause harm to the _Circle_ and move it backwards. The Facilitator can ask questions to help the objector understand if his or her objection is valid. These questions must evaluate:
 
-1. **Degradation**. The objection is about some harm that the proposal would cause to the circle. This harm must be explained.
+1. **Degradation**. The objection is about some harm that the proposal would cause to the _Circle_. This harm must be explained.
 2. **Causality**. The objection must be caused by the proposal in order to be valid.
-3. **Data-based**. The objection is based on current data or past experience. In other words, it's not an anticipation of future events. However, if the claimed harm is so disastrous that the circle would not be able to adapt in the future, then the objection can be predictive and this criteria can be disconsidered.
-4. **Role-related**. The objection affects one of the objector roles in the circle.
+3. **Data-based**. The objection is based on current data or past experience. In other words, it's not an anticipation of future events. However, if the claimed harm is so disastrous that the _Circle_ would not be able to adapt in the future, then the objection can be predictive and this criteria can be disconsidered.
+4. **Role-related**. The objection affects one of the objector _Roles_ in the _Circle_.
 
 When validating objections, the Facilitator should not judge the accuracy of the arguments presented, but only if they were presented with a logical reasoning and are thus reasonable. Valid objections are moved to integration.
 
@@ -219,99 +219,99 @@ If a proposal is taking too much time to integrate, the Facilitator can discard 
 
 ### Asynchronous Proposals
 
-Structural changes can be proposed outside circle meetings and are automatically adopted if all circle members declare that they don't have any objections. If any objections are raised, the proposal must be escalated to the _Adapt Mode_ of a circle meeting.
+Structural changes can be proposed outside _Circle Meetings_ and are automatically adopted if all _Circle_ members declare that they don't have any objections. If any objections are raised, the proposal must be escalated to the _Adapt Mode_ of a _Circle Meeting_.
 
 It's up to the Secretary to define how this process is accomplished.
 
 ## Select Mode
 
-The goal of the _Select Mode_ is to select circle members to fill the three structural roles: Facilitator, Secretary and Inner Link.
+The goal of the _Select Mode_ is to select _Circle_ members to fill the three structural _Roles_: Facilitator, Secretary and Inner Link.
 
-Anyone in the circle can ask for the Facilitator to jump to the _Select Mode_ and perform an election for one of the three elected roles. If that is the case, this should be done immediately.
+Anyone in the _Circle_ can ask for the Facilitator to jump to the _Select Mode_ and perform an election for one of the three elected _Roles_. If that is the case, this should be done immediately.
 
-The process of electing the three structural roles must be done only inside a circle meeting.
+The process of electing the three structural _Roles_ must be done only inside a _Circle Meeting_.
 
 The Facilitator must facilitate an election process, considering the following rules:
 
-- Every member of the circle is eligible for all three roles, with the exception of the person who fills the External Link mode, which is not eligible as Facilitator or Inner Link.
+- Every member of the _Circle_ is eligible for all three _Roles_, with the exception of the person who fills the External Link mode, which is not eligible as Facilitator or Inner Link.
 - If there is a tie, the Facilitator can chose one of the following criteria to untie:
   - The person who named him or herself, if only one of the tied candidates has;
   - The person who is already filling the role, if only one of the tied candidates is;
   - Random;
-- The person who fills the External Link role cannot be elected as Facilitator or Inner Link of the same circle.
-- Only circle members are eligible as Facilitator, Secretary or Inner Link.
+- The person who fills the External Link role cannot be elected as Facilitator or Inner Link of the same _Circle_.
+- Only _Circle_ members are eligible as Facilitator, Secretary or Inner Link.
 
 For examples of election processes for the _Select Mode_, see the **Pattern Library**.
 
-The structure of the _Select Mode_ can be restricted using a restriction, provided that the goal is maintained and the rules above are followed.
+The structure of the _Select Mode_ can be restricted using a _Restriction_, provided that the goal is maintained and the rules above are followed.
 
 ## Care Mode
 
-The goal of this mode is to care for the tribal space, and nurture the quality of relationships between circle members. The format is open for the Facilitator to decide how to use.
+The goal of this mode is to care for the tribal space, and nurture the quality of relationships between _Circle_ members. The format is open for the Facilitator to decide how to use.
 
-This space should not be used to make changes to the structure of the circle or ask projects and actions from other circle members.
+This space should not be used to make changes to the structure of the _Circle_ or ask projects and actions from other _Circle_ members.
 
 # Core Roles
 
-Every circle has 4 core roles automatically created: External Link, Inner Link, Facilitator, and Secretary.
+Every _Circle_ has 4 core _Roles_ automatically created: External Link, Inner Link, Facilitator, and Secretary.
 
-The Facilitator and the Secretary are elected in the _Select Mode_ and operate mainly inside circle meetings.
+The Facilitator and the Secretary are elected in the _Select Mode_ and operate mainly inside _Circle Meetings_.
 
-The External Link and Inner Link are used to exchange messages and facilitate communication between circle and external circle, specially during circle meetings.
+The External Link and Inner Link are used to exchange messages and facilitate communication between _Circle_ and external _Circle_, specially during _Circle Meetings_.
 
 ## Outer Link
 
-The Outer Link is chosen by the external circle, by whatever process that assigns people to roles in the external circle.
+The Outer Link is chosen by the external _Circle_, by whatever process that assigns people to _Roles_ in the external _Circle_.
 
-The Outer Link is accountable for assigning people to roles in the circle, and may invite any person that is part of the organization, unless a restriction says otherwise.
+The Outer Link is accountable for assigning people to _Roles_ in the _Circle_, and may invite any person that is part of the organization, unless a _Restriction_ says otherwise.
 
-The Outer Link can also establish priorities for the circle, and circle members are expected to align with those priorities.
+The Outer Link can also establish priorities for the _Circle_, and _Circle_ members are expected to align with those priorities.
 
-The Outer Link role can be excluded or modified entirely with a restriction.
+The Outer Link role can be excluded or modified entirely with a _Restriction_.
 
-The Outer Link holds all circle un-delegated artifacts and accountabilities.
+The Outer Link holds all _Circle_ un-delegated artifacts and accountabilities.
 
 ## Core Roles Description
 
 ### Facilitator
 
 Purpose: *
-Healthy circle meetings aligned with the Rule Book*
+Healthy _Circle Meetings_ aligned with the Rule Book*
 
 **Accountabilities**:
-- Facilitating circle meetings
+- Facilitating _Circle Meetings_
 
 ### Secretary
 
-Purpose: *Accurate record keeping of the circle structure*
+Purpose: *Accurate record keeping of the Circle structure*
 
 **Accountabilities**:
-- Scheduling regular circle meetings
-- Recording circle meeting outputs
+- Scheduling regular _Circle Meetings_
+- Recording _Circle Meeting_ outputs
 
 **Artifacts**:
  - Circle structural records
 
 ### Outer Link
 
-Purpose: *The circle's purpose*
+Purpose: *The Circle's purpose*
 
 **Accountabilities:**
-- Structuring the circle to express its purpose
-- Assigning people to the circle’s roles; monitoring the fit; offering feedback to enhance fit; and re-assigning roles to other people when useful for enhancing fit
-- Establishing priorities for the circle
+- Structuring the _Circle_ to express its purpose
+- Assigning people to the _Circle_’s _Roles_; monitoring the fit; offering feedback to enhance fit; and re-assigning _Roles_ to other people when useful for enhancing fit
+- Establishing priorities for the _Circle_
 
 **Artifacts**:
-- Role assignment within the circle
+- Role assignment within the _Circle_
 
 ### Inner Link
 
-Purpose: *The circle's purpose*
+Purpose: *The Circle's purpose*
 
 **Accountabilities:**
-- Removing constraints within the outer organization that limit the circle
-- Providing visibility on the health of the circle to the outer circle
-- Seeking to understand tensions brought by the circle members, and processing those appropriate in the outer circle
+- Removing constraints within the outer organization that limit the _Circle_
+- Providing visibility on the health of the _Circle_ to the outer _Circle_
+- Seeking to understand tensions brought by the _Circle_ members, and processing those appropriate in the outer _Circle_
 
 # License Attributions
 
