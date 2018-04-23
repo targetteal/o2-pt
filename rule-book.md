@@ -37,11 +37,11 @@ _Circles_ are analogous structures to _Roles_, and thus have the same properties
 
 _Circles_ can contain _Roles_ and inner _Circles_, that can contain their own _Roles_ and inner _Circles_, and so on. The structure is fractal. From the perspective of an outer _Circle_, its inner _Circles_ are like _Roles_ that have the additional ability to break themselves down.
 
-_Circles_ are composed of _Roles_ and inner _Circles_, not people. You are a member of the _Circle_ if you fill a role in that same _Circle_.
+_Circles_ are composed of _Roles_ and inner _Circles_, not people. You are a _Circle Member_ if you fill a role in that same _Circle_.
 
 Inner _Circle_ properties (name, purpose, accountabilities, and artifacts) can only be changed in the _Adapt Mode_ of its outer _Circle Meeting_.
 
-A _Circle_ artifact can be accessed by all _Circle_ members, except if it has been delegated to a specific role in that _Circle_.
+A _Circle_ artifact can be accessed by all _Circle Members_, except if it has been delegated to a specific role in that _Circle_.
 
 The organization itself is the broadest _Circle_ in the structure, containing all other ones.
 
@@ -59,7 +59,7 @@ _Restrictions_ cannot set expectations, because that is the goal of an accountab
 
 # Rights
 
-When taking part of an **Organic Organization**, _Circle_ members have two basic rights.
+When taking part of an **Organic Organization**, _Circle Members_ have two basic rights.
 
 ## No implicit expectations
 
@@ -71,7 +71,7 @@ When pursuing your role's purpose, you are always allowed to take action, unless
 
 # Duties
 
-When taking part of an **Organic Organization**, _Circle_ members have some basic duties towards one another.
+When taking part of an **Organic Organization**, _Circle Members_ have some basic duties towards one another.
 
 ## Expressing roles
 
@@ -91,13 +91,13 @@ You are expected to prioritize your work in alignment with _Circle_ priorities d
 
 ## Circle Meetings
 
-When requested by other _Circle_ members, you should prioritize attending to the _Circle Meetings_ over working on your _Roles_' project and actions.
+When requested by other _Circle Members_, you should prioritize attending to the _Circle Meetings_ over working on your _Roles_' project and actions.
 
 # Circle Meetings
 
-Circle members regularly gather in a space called _Circle Meeting_ in order to perform one or more of the 5 special modes described in the upcoming sections: _Review_, _Sync_, _Adapt_, _Select_, and _Care_.
+_Circle Members_ regularly gather in a space called _Circle Meeting_ in order to perform one or more of the 5 special modes described in the upcoming sections: _Review_, _Sync_, _Adapt_, _Select_, and _Care_.
 
-Circle members can invite people that are not members of the _Circle_ to solve particular issues or process tensions.
+_Circle Members_ can invite people that are not _Circle Members_ to solve particular issues or process tensions.
 
 _Circle Meetings_ are scheduled by the _Circle_'s Secretary and facilitated by the Facilitator, two special _Roles_ described in the core _Roles_ section.
 
@@ -109,7 +109,7 @@ In the check in round, one at a time, each participant shares how he or she is c
 
 In the check out round, one at a time, each participant shares a closing reflection about the meeting.
 
-The Facilitator should not allow any discussion or crosstalk in both rounds, in order to preserve the individual space of every _Circle_ member.
+The Facilitator should not allow any discussion or crosstalk in both rounds, in order to preserve the individual space of every _Circle Member_.
 
 The different modes should never be mixed together. The Facilitator must state the name, goal, and clarify rules of each mode before beginning to facilitate each one.
 
@@ -219,13 +219,13 @@ If a proposal is taking too much time to integrate, the Facilitator can discard 
 
 ### Asynchronous Proposals
 
-Structural changes can be proposed outside _Circle Meetings_ and are automatically adopted if all _Circle_ members declare that they don't have any objections. If any objections are raised, the proposal must be escalated to the _Adapt Mode_ of a _Circle Meeting_.
+Structural changes can be proposed outside _Circle Meetings_ and are automatically adopted if all _Circle Members_ declare that they don't have any objections. If any objections are raised, the proposal must be escalated to the _Adapt Mode_ of a _Circle Meeting_.
 
 It's up to the Secretary to define how this process is accomplished.
 
 ## Select Mode
 
-The goal of the _Select Mode_ is to select _Circle_ members to fill the three structural _Roles_: Facilitator, Secretary and Inner Link.
+The goal of the _Select Mode_ is to select _Circle Members_ to fill the three structural _Roles_: Facilitator, Secretary and Inner Link.
 
 Anyone in the _Circle_ can ask for the Facilitator to jump to the _Select Mode_ and perform an election for one of the three elected _Roles_. If that is the case, this should be done immediately.
 
@@ -233,13 +233,13 @@ The process of electing the three structural _Roles_ must be done only inside a 
 
 The Facilitator must facilitate an election process, considering the following rules:
 
-- Every member of the _Circle_ is eligible for all three _Roles_, with the exception of the person who fills the External Link mode, which is not eligible as Facilitator or Inner Link.
+- Every _Circle Member_ is eligible for all three elected _Roles_, with the exception of the person who fills the External Link mode, which is not eligible as Facilitator or Inner Link.
 - If there is a tie, the Facilitator can chose one of the following criteria to untie:
   - The person who named him or herself, if only one of the tied candidates has;
   - The person who is already filling the role, if only one of the tied candidates is;
   - Random;
 - The person who fills the External Link role cannot be elected as Facilitator or Inner Link of the same _Circle_.
-- Only _Circle_ members are eligible as Facilitator, Secretary or Inner Link.
+- Only _Circle Members_ are eligible as Facilitator, Secretary or Inner Link.
 
 For examples of election processes for the _Select Mode_, see the **Pattern Library**.
 
@@ -247,9 +247,9 @@ The structure of the _Select Mode_ can be restricted using a _Restriction_, prov
 
 ## Care Mode
 
-The goal of this mode is to care for the tribal space, and nurture the quality of relationships between _Circle_ members. The format is open for the Facilitator to decide how to use.
+The goal of this mode is to care for the tribal space, and nurture the quality of relationships between _Circle Members_. The format is open for the Facilitator to decide how to use.
 
-This space should not be used to make changes to the structure of the _Circle_ or ask projects and actions from other _Circle_ members.
+This space should not be used to make changes to the structure of the _Circle_ or ask projects and actions from other _Circle Members_.
 
 # Core Roles
 
@@ -265,7 +265,7 @@ The Outer Link is chosen by the external _Circle_, by whatever process that assi
 
 The Outer Link is accountable for assigning people to _Roles_ in the _Circle_, and may invite any person that is part of the organization, unless a _Restriction_ says otherwise.
 
-The Outer Link can also establish priorities for the _Circle_, and _Circle_ members are expected to align with those priorities.
+The Outer Link can also establish priorities for the _Circle_, and _Circle Members_ are expected to align with those priorities.
 
 The Outer Link role can be excluded or modified entirely with a _Restriction_.
 
@@ -311,7 +311,7 @@ Purpose: *The Circle's purpose*
 **Accountabilities:**
 - Removing constraints within the outer organization that limit the _Circle_
 - Providing visibility on the health of the _Circle_ to the outer _Circle_
-- Seeking to understand tensions brought by the _Circle_ members, and processing those appropriate in the outer _Circle_
+- Seeking to understand tensions brought by the _Circle Members_, and processing those appropriate in the outer _Circle_
 
 # License Attributions
 
