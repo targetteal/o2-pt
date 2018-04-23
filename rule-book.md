@@ -123,7 +123,7 @@ Detailed suggestions can be found in the **Pattern Library**.
 
 ## Sync Mode
 
-The goal of the _Sync Mode_ is to quickly process _Tensions_ into actions, projects, information requests and information sharing.
+The goal of the _Sync Mode_ is to quickly process _Tensions_ that don't require the _Circle_ to update its _Organizational Structure_. Typical outputs of the _Sync Mode_ include actions, projects, information requests and information sharing.
 
 The _Facilitator_ starts by asking the _Secretary_ to build a list of _Tensions_ to process. Each person feeling a _Tension_ must label it using two or three words aloud. The _Secretary_ then records the label, along with the name of the participant.
 
