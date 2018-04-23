@@ -27,9 +27,9 @@ Members of the organization will typically perform work for the organization in 
 
 A role is a part of the organization composed of:
 - A descriptive name (mandatory);
-- A purpose, which is the never ending goal of the role (mandatory);
-- Accountabilities, which are recurring activities that others can expect the role will perform (optional);
-- Artifacts, which are things that the role can exclusively control and regulate for the organization (optional).
+- A _Purpose_, which is the never ending goal of the role (mandatory);
+- _Accountabilities_, which are recurring activities that others can expect the role will perform (optional);
+- _Artifacts_, which are things that the role can exclusively control and regulate for the organization (optional).
 
 ## Circles
 
@@ -39,9 +39,9 @@ _Circles_ can contain _Roles_ and inner _Circles_, that can contain their own _R
 
 _Circles_ are composed of _Roles_ and inner _Circles_, not people. You are a _Circle Member_ if you fill a role in that same _Circle_.
 
-Inner _Circle_ properties (name, purpose, accountabilities, and artifacts) can only be changed in the _Adapt Mode_ of its outer _Circle Meeting_.
+Inner _Circle_ properties (name, purpose, accountabilities, and _Artifacts_) can only be changed in the _Adapt Mode_ of its outer _Circle Meeting_.
 
-A _Circle_ artifact can be accessed by all _Circle Members_, except if it has been delegated to a specific role in that _Circle_.
+A _Circle_ _Artifact_ can be accessed by all _Circle Members_, except if it has been delegated to a specific role in that _Circle_.
 
 The organization itself is the broadest _Circle_ in the structure, containing all other ones.
 
@@ -55,7 +55,7 @@ _Restrictions_ are composed of a title and a description (both mandatory).
 
 _Restrictions_ cascade to all inner _Circles_, unless otherwise specified in the description.
 
-_Restrictions_ cannot set expectations, because that is the goal of an accountability (property of a role or _Circle_). Nevertheless, a _Restriction_ may demand action, but only for the person(s) or role(s) to which the _Restriction_ applies in the specific condition that triggers it.
+_Restrictions_ cannot set expectations, because that is the goal of an _Accountability_. Nevertheless, a _Restriction_ may demand action, but only for the individuals to which the _Restriction_ applies in the specific condition that triggers it.
 
 # Rights
 
@@ -63,11 +63,11 @@ When taking part of an **Organic Organization**, _Circle Members_ have two basic
 
 ## No implicit expectations
 
-You may deny requests to take specific projects and actions if no matching explicit accountability is captured in the requested role's description. However, you should always accept projects and actions if you think they fit your role's purpose, even if no explicit accountability is recorded.
+You may deny requests to take specific projects and actions if no matching explicit _Accountability_ is captured in the requested role's description. However, you should always accept projects and actions if you think they fit your role's purpose, even if no explicit _Accountability_ is recorded.
 
 ## Everything is allowed by default
 
-When pursuing your role's purpose, you are always allowed to take action, unless an explicit artifact or _Circle_ _Restriction_ says otherwise.
+When pursuing your role's purpose, you are always allowed to take action, unless an explicit _Artifact_ or _Circle_ _Restriction_ says otherwise.
 
 # Duties
 
@@ -269,7 +269,7 @@ The Outer Link can also establish priorities for the _Circle_, and _Circle Membe
 
 The Outer Link role can be excluded or modified entirely with a _Restriction_.
 
-The Outer Link holds all _Circle_ un-delegated artifacts and accountabilities.
+The Outer Link holds all _Circle_ un-delegated _Artifacts_ and accountabilities.
 
 ## Core Roles Description
 
