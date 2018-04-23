@@ -31,8 +31,6 @@ A role is a part of the organization composed of:
 - Accountabilities, which are recurring activities that others can expect the role will perform (optional);
 - Artifacts, which are things that the role can exclusively control and regulate for the organization (optional).
 
-Roles can only be changed in the adapt mode of its circle meeting.
-
 ## Circles
 
 Circles are analogous structures to roles, and thus have the same properties described in the role section.
