@@ -240,7 +240,7 @@ The _Facilitator_ must facilitate an election process, considering the following
 
 For examples of election processes for the _Select Mode_, see the **Pattern Library**.
 
-The structure of the _Select Mode_ can be restricted using a _Restriction_, provided that the goal is maintained and the rules above are followed.
+The structure of the _Select Mode_ can be further limited using a _Restriction_, provided that the goal is maintained and the rules above are followed.
 
 ## Care Mode
 
