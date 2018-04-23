@@ -27,7 +27,7 @@ Members of the organization will typically perform work for the organization in 
 
 A _Role_ is a part of the organization composed of:
 - A descriptive name (mandatory);
-- A _Purpose_, which is the never ending goal of the _Role_ (mandatory);
+- A _Purpose_, which is a capacity, potential, or unrealizable goal that the _Role_ will pursue or express;
 - _Accountabilities_, which are recurring activities that others can expect the _Role_ will perform (optional);
 - _Artifacts_, which are things that the _Role_ can exclusively control and regulate for the organization (optional).
 
