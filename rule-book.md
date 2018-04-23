@@ -231,11 +231,11 @@ The process of electing the three structural _Roles_ must be done only inside a 
 
 The _Facilitator_ must facilitate an election process, considering the following rules:
 
-- Every _Circle Member_ is eligible for all three elected _Roles_, with the exception of the person who fills the _Outer Link_ mode, which is not eligible as _Facilitator_ or _Inner Link_.
+- Every _Circle Member_ is eligible for all three elected _Roles_, with the exception of the person who fills the _Outer Link_ _Role_, which is not eligible as _Facilitator_ or _Inner Link_.
 - If there is a tie, the _Facilitator_ can chose one of the following criteria to untie:
   - The person who named him or herself, if only one of the tied candidates has;
   - The person who is already filling the _Role_, if only one of the tied candidates is;
-  - Random;
+  - Randomly choose one;
 - The person who fills the _Outer Link_ _Role_ cannot be elected as _Facilitator_ or _Inner Link_ of the same _Circle_.
 - Only _Circle Members_ are eligible as _Facilitator_, _Secretary_ or _Inner Link_.
 
