@@ -45,13 +45,9 @@ Inner _Circles_ are created for the purpose of maintaining the _Circle Meetings_
 
 ## Restrictions
 
-_Restrictions_ are limitations of authority that apply to all _Roles_ of a given _Circle_.
+_Restrictions_ are limitations of authority that apply to all _Roles_ of a given _Circle_. _Restrictions_ are composed of a title and a description (both mandatory), and cascade to all inner _Circles_, unless otherwise specified in their description.
 
-_Restrictions_ are composed of a title and a description (both mandatory).
-
-_Restrictions_ cascade to all inner _Circles_, unless otherwise specified in the description.
-
-_Restrictions_ cannot set expectations, because that is the goal of an _Accountability_. Nevertheless, a _Restriction_ may demand action, but only for the individuals to which the _Restriction_ applies in the specific condition that triggers it.
+_Restrictions_ cannot set expectations, because that is the purpose of an _Accountability_. Nevertheless, a _Restriction_ may demand action, but only for the individuals to which the _Restriction_ applies in the specific condition that triggers it.
 
 ## Structure Evolution
 
