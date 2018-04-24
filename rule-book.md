@@ -73,7 +73,7 @@ When taking part of an **Organic Organization**, _Circle Members_ have some basi
 
 You are responsible for monitoring how your _Role_'s _Purpose_ and _Accountabilities_ are expressed, and comparing that to your vision of their ideal potential expression. You should identify those gaps between the current reality and a potential you sense, each one being a _Tension_.
 
-You are also responsible for trying to resolve those _Tensions_ by using the authorities and other mechanisms available to you under the Rule Book.
+You are also responsible for trying to resolve those _Tensions_ by using the authorities and other mechanisms available to you under the **Rule Book**.
 
 ## Transparency
 
@@ -168,7 +168,7 @@ If the _Facilitator_ deems that the item owner has failed to present the require
 
 ### Organizational Structure updates only
 
-To be a valid output for the _Adapt Mode_, the proposal should be composed only of _Circle_ _Organizational Structure_ updates. If that is not the case, any participant can raise a Rule Book violation objection.
+To be a valid output for the _Adapt Mode_, the proposal should be composed only of _Circle_ _Organizational Structure_ updates. If that is not the case, any participant can raise a _Rule Book Violation Objection_.
 
 ### Personal expression equivalence
 
@@ -176,40 +176,40 @@ Each participant of the _Circle_ should have the same space and the option to as
 
 ### Integrative decision-making
 
-The _Facilitator_ must use an integrative decision-making process to facilitate the resolution of each _Tension_. That means that any participant must be allowed to raise one or more objections to the proposal.
+The _Facilitator_ must use an integrative decision-making process to facilitate the resolution of each _Tension_. That means that any participant must be allowed to raise one or more _Objections_ to the proposal.
 
-If no objections are raised, the proposal is accepted.
+If no _Objections_ are raised, the proposal is accepted.
 
-If there are objections, they must be integrated to the proposal.
+If there are _Objections_, they must be integrated to the proposal.
 
 #### Objections
 
-An objection is a reason why the proposal would cause harm to the _Circle_ and move it backwards. The _Facilitator_ can ask questions to help the objector understand if his or her objection is valid. These questions must evaluate:
+An _Objection_ is a reason why the proposal would cause harm to the _Circle_ and move it backwards. The _Facilitator_ can ask questions to help the objector understand if his or her _Objection_ is valid. These questions must evaluate:
 
-1. **Degradation**. The objection is about some harm that the proposal would cause to the _Circle_. This harm must be explained.
-2. **Causality**. The objection must be caused by the proposal in order to be valid.
-3. **Data-based**. The objection is based on current data or past experience. In other words, it's not an anticipation of future events. However, if the claimed harm is so disastrous that the _Circle_ would not be able to adapt in the future, then the objection can be predictive and this criteria can be disconsidered.
-4. **Role-related**. The objection affects one of the objector _Roles_ in the _Circle_.
+1. **Degradation**. The _Objection_ is about some harm that the proposal would cause to the _Circle_. This harm must be explained.
+2. **Causality**. The _Objection_ must be caused by the proposal in order to be valid.
+3. **Data-based**. The _Objection_ is based on current data or past experience. In other words, it's not an anticipation of future events. However, if the claimed harm is so disastrous that the _Circle_ would not be able to adapt in the future, then the _Objection_ can be predictive and this criteria can be disconsidered.
+4. **Role-related**. The _Objection_ affects one of the objector _Roles_ in the _Circle_.
 
-When validating objections, the _Facilitator_ should not judge the accuracy of the arguments presented, but only if they were presented with a logical reasoning and are thus reasonable. Valid objections are moved to integration.
+When validating _Objections_, the _Facilitator_ should not judge the accuracy of the arguments presented, but only if they were presented with a logical reasoning and are thus reasonable. Valid _Objections_ are moved to integration.
 
-#### Rule Book violation objection
+#### Rule Book Violation Objection
 
-Any participant can raise a "Rule Book violation objection" if he or she deems the proposal violates one of the rules described in this Rule Book. For example, one might say that a proposal is not a valid output for the _Adapt Mode_.
+Any participant can raise a _Rule Book Violation Objection_ if he or she deems the proposal violates one of the rules described in this **Rule Book**. For example, one might say that a proposal is not a valid output for the _Adapt Mode_.
 
-In this case, the _Facilitator_ can ask the _Secretary_ to decide whether this is true or not. This special objection does not need to be validated using the criteria described in this section. Rule Book violation objections must be integrated normally.
+In this case, the _Facilitator_ can ask the _Secretary_ to decide whether this is true or not. This special _Objection_ does not need to be validated using the criteria described in this section. _Rule Book Violation Objections_ must be integrated normally.
 
 ### Integration
 
-After harvesting valid objections, the _Facilitator_ must guide their integration to the proposal. One objection should be integrated at a time. The goal is to craft an amended proposal that would solve the original _Tension_ without causing the objection.
+After harvesting valid _Objections_, the _Facilitator_ must guide their integration to the proposal. One _Objection_ should be integrated at a time. The goal is to craft an amended proposal that would solve the original _Tension_ without causing the _Objection_.
 
-If the proposal is amended, the _Facilitator_ must give another opportunity to the participants to raise objections.
+If the proposal is amended, the _Facilitator_ must give another opportunity to the participants to raise _Objections_.
 
 If a proposal is taking too much time to integrate, the _Facilitator_ can discard the proposal entirely in order to move to the next _Tension_ list item.
 
 ### Asynchronous Proposals
 
-Structural changes can be proposed outside _Circle Meetings_ and are automatically adopted if all _Circle Members_ declare that they don't have any objections. If any objections are raised, the proposal must be escalated to the _Adapt Mode_ of a _Circle Meeting_.
+Structural changes can be proposed outside _Circle Meetings_ and are automatically adopted if all _Circle Members_ declare that they don't have any _Objections_. If any _Objections_ are raised, the proposal must be escalated to the _Adapt Mode_ of a _Circle Meeting_.
 
 It's up to the _Secretary_ to define how this process is accomplished.
 
