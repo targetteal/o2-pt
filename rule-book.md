@@ -154,7 +154,7 @@ After the _Tension_ list is built, the _Facilitator_ must guide the resolution o
 - Quick proposal building
 - One _Tension_ at a time
 - Example-based proposals only
-- Structural changes only
+- _Organizational Structure_ updates only
 - Personal expression equivalence
 - Integrative decision-making
 
@@ -162,7 +162,7 @@ After the _Tension_ list is built, the _Facilitator_ must guide the resolution o
 
 The _Tension_ list item owner should be able to present a proposal to solve his or her own _Tension_ in the process.
 
-Alternatively, the _Facilitator_ may allow the item owner to ask help from other participants to craft the proposal. If that is the case, the _Facilitator_ should not allow any consensus building process. The goal is to solve the item owner's _Tension_, not to satisfy everyone.
+Alternatively, the _Facilitator_ may allow the item owner to ask help from other participants to craft a proposal. If that is the case, the _Facilitator_ should not allow any consensus building process. The goal is to solve the item owner's _Tension_, not to satisfy everyone.
 
 ### One Tension at a time
 
@@ -170,13 +170,13 @@ The _Tensions_ should be processed one at a time. This means that the _Facilitat
 
 ### Example-based proposals only
 
-The item owner must explain the _Tension_ and give an example about a past or present situation where each part of the crafted proposal would solve or reduce the _Tension_. That is mandatory.
+The item owner must explain the _Tension_ and give an example about a past or present situation where each part of the crafted proposal would solve or reduce the _Tension_.
 
 If the _Facilitator_ deems that the item owner has failed to present the required example and explanations, the _Facilitator_ must discard the proposal. Nevertheless, the _Facilitator_ should not judge the accuracy of the arguments presented, but only if they were presented with a logical reasoning and are thus reasonable.
 
-### Structural changes only
+### Organizational Structure updates only
 
-To be a valid output for the _Adapt Mode_, the proposal should be composed only of structural changes. If that is not the case, any participant can raise a Rule Book violation objection.
+To be a valid output for the _Adapt Mode_, the proposal should be composed only of _Circle_ _Organizational Structure_ updates. If that is not the case, any participant can raise a Rule Book violation objection.
 
 ### Personal expression equivalence
 
