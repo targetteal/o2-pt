@@ -99,15 +99,11 @@ People that are not _Circle Members_ aren't allowed to participate in _Circle Me
 
 ## Meeting format
 
-_Circle Meetings_ start with a check in round and end with a check out round. The _Facilitator_ fills the meeting with one or more of the 5 different modes, according to the time available and the needs of the _Circle_.
+_Circle Meetings_ start with a check-in round, where one at a time, each participant shares how he or she is coming to the meeting.
 
-In the check in round, one at a time, each participant shares how he or she is coming to the meeting.
+The _Facilitator_ fills the meeting with one or more of the 5 different modes, according to the time available and the needs of the _Circle_. The different modes should never be mixed together. The _Facilitator_ must state the name, goal, and clarify rules of each one before entering them.
 
-In the check out round, one at a time, each participant shares a closing reflection about the meeting.
-
-The _Facilitator_ should not allow any discussion or crosstalk in both rounds, in order to preserve the individual space of every _Circle Member_.
-
-The different modes should never be mixed together. The _Facilitator_ must state the name, goal, and clarify rules of each mode before beginning to facilitate each one.
+_Circle Meetings_ end with a closing round, where one at a time, each participant shares a closing reflection about the meeting.
 
 ## Review Mode
 
