@@ -219,7 +219,7 @@ The goal of the _Select Mode_ is to select _Circle Members_ to fill the three _C
 
 Anyone in the _Circle_ can ask for the _Facilitator_ to jump to the _Select Mode_ and perform an election for one of the three elected _Roles_. If that is the case, this should be done immediately.
 
-The process of electing the three structural _Roles_ must be done only inside a _Circle Meeting_.
+The process of electing the three _Core Roles_ must be done only inside a _Circle Meeting_.
 
 The _Facilitator_ must facilitate an election process, considering the following rules:
 
