@@ -204,7 +204,7 @@ If a proposal is taking too much time to integrate, the _Facilitator_ can discar
 
 ### Asynchronous Proposals
 
-Structural changes can be proposed outside _Circle Meetings_ and are automatically adopted if all _Circle Members_ declare that they don't have any _Objections_. If any _Objections_ are raised, the proposal must be escalated to the _Adapt Mode_ of a _Circle Meeting_.
+_Circle_ _Organizational Structure_ updates can be proposed outside _Circle Meetings_ and are automatically adopted if all _Circle Members_ declare that they don't have any _Objections_. If any _Objections_ are raised, the proposal must be escalated to the _Adapt Mode_ of a _Circle Meeting_.
 
 It's up to the _Secretary_ to define how this process is accomplished.
 
