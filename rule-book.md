@@ -249,8 +249,6 @@ The _Outer Link_ is chosen by the outer _Circle_, by whatever process that assig
 
 The _Outer Link_ is accountable for assigning people to _Roles_ in the _Circle_, and may invite any person that is part of the organization, unless a _Restriction_ says otherwise.
 
-The _Outer Link_ can also establish priorities for the _Circle_, and _Circle Members_ are expected to align with those priorities.
-
 The _Outer Link_ _Role_ can be excluded or modified entirely with a _Restriction_.
 
 The _Outer Link_ holds all _Circle_ un-delegated _Artifacts_ and _Accountabilities_.
