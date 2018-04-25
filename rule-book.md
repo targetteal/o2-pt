@@ -238,7 +238,7 @@ The structure of the _Select Mode_ can be further limited using a _Restriction_,
 
 The goal of this mode is to care for the tribal space, and nurture the quality of relationships between _Circle Members_. The format is open for the _Facilitator_ to decide how to use.
 
-This space should not be used to make changes to the structure of the _Circle_ or ask projects and actions from other _Circle Members_.
+This space should not be used to make changes to the _Circle_ _Organizational Structure_ or engage _Circle Members_ in their _Roles_ and duties.
 
 # Core Roles
 
