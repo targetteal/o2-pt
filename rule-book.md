@@ -278,7 +278,7 @@ Purpose: *Accurate record keeping of the Circle structure*
 - Recording _Circle Meeting_ outputs
 
 **Artifacts**:
- - _Circle_ structural records
+ - _Circle_ _Organizational Structure_ records
 
 ### Outer Link
 
