@@ -2,10 +2,11 @@
 
 1. [Preface](#preface)
 2. [Organizational Structure](#organizational-structure)
-3. [Duties](#duties)
-4. [Circle Meetings](#circle-meetings)
-5. [Core Roles](#core-roles)
-6. [Core Roles Description](#core-roles-description)
+3. [Rights](#rights)
+4. [Duties](#duties)
+5. [Circle Meetings](#circle-meetings)
+6. [Core Roles](#core-roles)
+7. [Core Roles Description](#core-roles-description)
 
 # Preface
 
