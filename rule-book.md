@@ -102,9 +102,15 @@ People that are not _Circle Members_ aren't allowed to participate in _Circle Me
 
 _Circle Meetings_ start with a check-in round, where one at a time, each participant shares how he or she is coming to the meeting.
 
-The _Facilitator_ fills the meeting with one or more of the 5 different modes, according to the time available and the needs of the _Circle_. The different modes should never be mixed together. The _Facilitator_ must state the name, goal, and clarify rules of each one before entering them.
+The _Facilitator_ fills the meeting with one or more of the 5 different modes, according to the time available and the needs of the _Circle_. The different modes should never be mixed together. The _Facilitator_ must state the name, goal, and clarify rules of each mode before starting it.
 
 _Circle Meetings_ end with a closing round, where one at a time, each participant shares a closing reflection about the meeting.
+
+### Tension List
+
+The different meeting modes are used to process specific _Tensions_ felt by the participants. Specifically before the _Sync_ and _Adapt_ modes, the _Facilitator_ must ask the _Secretary_ to build a list of _Tensions_ to process. Each person feeling a _Tension_ must label it using two or three words aloud. The _Secretary_ then records the label, along with the name of the participant. The _Facilitator_ must not give any more space to allow the person to explain the _Tension_ during the process of building the list.
+
+After the _Tension_ list is built, the _Facilitator_ should focus on one _Tension_ at a time. This means that the _Facilitator_ should not allow other participants to try to include their perspectives in the _Tension_ being processed, unless the participant that originally brought the _Tension_ thinks those perspectives are useful.
 
 ## Review Mode
 
@@ -117,10 +123,6 @@ Detailed suggestions can be found in the **Pattern Library**.
 ## Sync Mode
 
 The goal of the _Sync Mode_ is to quickly process _Tensions_ that don't require the _Circle_ to update its _Organizational Structure_. Typical outputs of the _Sync Mode_ include actions, projects, information requests and information sharing.
-
-The _Facilitator_ starts by asking the _Secretary_ to build a list of _Tensions_ to process. Each person feeling a _Tension_ must label it using two or three words aloud. The _Secretary_ then records the label, along with the name of the participant.
-
-The _Facilitator_ must not give any more space to allow the person to explain the _Tension_ during the process of building the list.
 
 After the _Tension_ list is built, the _Facilitator_ must go through the list and process one _Tension_ at a time, trying to help the item owner to get what he or she needs.
 
@@ -140,12 +142,9 @@ The goal of the _Adapt Mode_ is to process _Tensions_ into _Circle_ _Organizatio
 - Adding, removing or changing inner _Circles_ (only their properties);
 - Adding, removing or changing _Circle_ _Restrictions_;
 
-The _Facilitator_ starts by asking the _Secretary_ to build a list of _Tensions_ to process, exactly as described in the _Sync Mode_.
-
 After the _Tension_ list is built, the _Facilitator_ must guide the resolution of each _Tension_ list item, using the following process guidelines:
 
 - Quick proposal building
-- One _Tension_ at a time
 - Example-based proposals only
 - _Organizational Structure_ updates only
 - Personal expression equivalence
@@ -156,10 +155,6 @@ After the _Tension_ list is built, the _Facilitator_ must guide the resolution o
 The _Tension_ list item owner should be able to present a proposal to solve his or her own _Tension_ in the process.
 
 Alternatively, the _Facilitator_ may allow the item owner to ask help from other participants to craft a proposal. If that is the case, the _Facilitator_ should not allow any consensus building process. The goal is to solve the item owner's _Tension_, not to satisfy everyone.
-
-### One Tension at a time
-
-The _Tensions_ should be processed one at a time. This means that the _Facilitator_ should not allow other participants to try to include their perspectives and/or _Tensions_ in the current proposal, unless the item owner deems those perspectives are useful to solve his or her own _Tension_.
 
 ### Example-based proposals only
 
@@ -210,7 +205,7 @@ If a proposal is taking too much time to integrate, the _Facilitator_ can discar
 
 ### Asynchronous Proposals
 
-Structural changes can be proposed outside _Circle Meetings_ and are automatically adopted if all _Circle Members_ declare that they don't have any _Objections_. If any _Objections_ are raised, the proposal must be escalated to the _Adapt Mode_ of a _Circle Meeting_.
+_Circle_ _Organizational Structure_ updates can be proposed outside _Circle Meetings_ and are automatically adopted if all _Circle Members_ declare that they don't have any _Objections_. If any _Objections_ are raised, the proposal must be escalated to the _Adapt Mode_ of a _Circle Meeting_.
 
 It's up to the _Secretary_ to define how this process is accomplished.
 
@@ -255,9 +250,7 @@ The _Outer Link_ is chosen by the outer _Circle_, by whatever process that assig
 
 The _Outer Link_ is accountable for assigning people to _Roles_ in the _Circle_, and may invite any person that is part of the organization, unless a _Restriction_ says otherwise.
 
-The _Outer Link_ can also establish priorities for the _Circle_, and _Circle Members_ are expected to align with those priorities.
-
-The _Outer Link_ _Role_ can be excluded or modified entirely with a _Restriction_.
+The _Outer Link_ _Role_ _Accountabilities_ and _Artifacts_ can be modified or removed entirely, as long as they are delegated to another _Role_ or process in the _Circle_.
 
 The _Outer Link_ holds all _Circle_ un-delegated _Artifacts_ and _Accountabilities_.
 
