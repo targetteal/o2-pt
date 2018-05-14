@@ -1,8 +1,6 @@
-# Introduction: Organic Organization
+# Organic Organization (O2)
 
-Organic Organization, or O2 for short, is a self-organization catalyst composed of three books. O2 describes how to foster self-management in team, department or organization. 
-
-Translations are available in [another github project](https://github.com/targetteal/organic-organization-translations).
+**Organic Organization (O2)** is a catalyst that helps organizations and their subparts (teams, departments, units) embrace self-management. O2 is composed of its **Rule Book** and an ever growing [Pattern Library](https://targetteal.com/o2/library/).
 
 Our influences include:
 - Reinventing Organizations
@@ -11,27 +9,46 @@ Our influences include:
 - Getting Things Done
 - Responsive Organizations
 
+O2 is currently developed in Portuguese, as most of the contributors are Brazilians. Each release is translated to English, and is available in [another repo](https://github.com/targetteal/organic-organization-translations/).
+
 ## Collaborating
 
 O2 is licensed under Creative Commons Attribution-ShareAlike 4.0 International License, so you are free to fork this repo and develop your own version based on this work. Still, you are not allowed to call your modified version Organic Organization or O2.
 
-Organic Organization is currently maintained by [Target Teal](https://targetteal.com/) and other contributors. If you want to collaborate, please follow the instructions below.
+Organic Organization is currently maintained by [Target Teal](https://targetteal.com/en/) and other contributors. If you want to collaborate, please follow the instructions below.
 
-### Github
+### Proposing Changes to the Rule Book
 
-Collaboration happens inside this Github project. So you need to create a github account first if you don't have one. After that, fork this repo and start working on it in your own machine or github account. Changes must be submitted as pull requests.
-
-### Proposing Changes
-
-Anyone can propose a change to the three books by sending pull requests. Nevertheless, some clarity about the proposed changes must be provided for the reviewers:
-
-- Consider opening an issue and discussing the proposed changes with the community before sending a pull request;
-- You must state any intentions you might have along with the proposed changes;
-- You should additionaly clarify whether the proposed change is solving some kind of tension. Provide as much information as you can about this tension;
-- You must state how specifically this helps the [purpose of O2 and follows the design principles](purpose-and-principles.md).
+Anyone can propose changes to the Rule Book by sending pull requests. Nevertheless, we strongly advise people to first join our private Slack and start conversations there before sending proposals. If you want to join, please contact us at [evolve@targetteal.com](mailto:evolve@targetteal.com).
 
 ## License
 
-*_Organic Organization is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>._*
+[Here you can find more information about the license](LICENSE.md).
+________________________________
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> 
+# Organização Orgânica (O2)
+
+**Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelo seu **Livro de Regras** e uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante crescimento.
+
+Nossas influências incluem:
+- Reinventando as Organizações
+- Holacracia e Sociocracia 3.0
+- Desenvolvimento Ágil de Software
+- Getting Things Done (A arte de fazer acontecer)
+- Organizações Responsivas
+
+O O2 é atualmente desenvolvido em português, dado que a maior parte dos contribuidores são brasileiros. Cada versão é traduzida para inglês e disponibilizada em [outro repositório GitHub]((https://github.com/targetteal/organic-organization-translations/).
+
+## Colaborando
+
+O O2 é licenciado através da Creative Commons Attribution-ShareAlike 4.0 International License, então você é livre para criar um fork deste repositório e desenvolver a sua própria versão baseada neste trabalho. Ainda assim, você não está autorizado a chamar a sua versão modificada de Organização Orgânica, Organic Organization ou O2.
+
+O O2 é atualmente mantido pela [Target Teal](https://targetteal.com/pt/) e outros contribuidores. Se você quer colaborar, por favor siga as instruções abaixo.
+
+### Propondo Mudanças ao Livro de Regras
+
+Anyone can propose changes to the Rule Book by sending pull requests. Nevertheless, we strongly advise people to first join our private Slack and start conversations there before sending proposals. If you want to join, please contact us at [evolve@targetteal.com](mailto:evolve@targetteal.com).
+
+## Licença
+
+[Aqui você pode encontrar maiores informações sobre a licença](LICENSE.MD).
