@@ -6,7 +6,6 @@
 4. [Deveres](#deveres)
 5. [Reuniões de Círculo](#reuniões-de-círculo)
 6. [Papéis Essenciais](#papéis-essenciais)
-7. [Descrição dos Papéis Essenciais](#descrição-dos-papéis-essenciais)
 
 # Prefácio
 
@@ -63,7 +62,7 @@ Ao participar de uma **Organização Orgânica**, _Membros do Círculo_ têm doi
 
 Você pode recusar pedidos para assumir projetos ou ações específicas se não existir uma _Responsabilidade_ explícita correspondente na descrição do _Papel_ sendo solicitado. Entretanto, você deve sempre aceitar projetos e ações solicitados se você acredita que eles cabem no _Propósito_ do seu _Papel_, mesmo que nenhuma _Responsabilidade_ explícita esteja registrada.
 
-## Tudo é permitido por padrão
+## Autoridade para agir
 
 Ao perseguir o _Propósito_ dos seus _Papéis_, você está sempre autorizado a tomar ação, a não ser que um _Artefato_ ou _Restrição_ diga o contrário.
 
