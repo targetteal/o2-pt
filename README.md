@@ -47,7 +47,7 @@ O O2 é atualmente mantido pela [Target Teal](https://targetteal.com/pt/) e outr
 
 ### Propondo Mudanças ao Livro de Regras
 
-Anyone can propose changes to the Rule Book by sending pull requests. Nevertheless, we strongly advise people to first join our private Slack and start conversations there before sending proposals. If you want to join, please contact us at [evolve@targetteal.com](mailto:evolve@targetteal.com).
+Qualquer pessoa pode propor mudanças no Livro de Regras enviando pull requests. Ainda assim, nós recomendamos fortemente que você primeiro junte-se ao nosso Slack e inicie conversas com a comunidade antes de enviar propostas. Se você quiser participar, entre em contato através de [evoluir@targetteal.com](mailto:evoluir@targetteal.com).
 
 ## Licença
 
