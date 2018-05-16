@@ -26,7 +26,7 @@ Um _Papel_ é uma parte da estrutura organizacional composto de:
 - Um nome descritivo (obrigatório);
 - Um _Propósito_, que é uma capacidade, potencial ou objetivo inalcançável que o _Papel_ irá perseguir ou expressar (obrigatório);
 - _Responsabilidades_, que são atividades recorrentes que outros podem esperar que o _Papel_ irá executar (opcional);
-- _Artefatos_, que são as coisas que o papel pode exclusivamente controlar e regular para a organização (opcional).
+- _Artefatos_, que são as coisas que o _Papel_ pode exclusivamente controlar e regular para a organização (opcional).
 
 ## Círculos
 
@@ -220,7 +220,7 @@ O _Facilitador_ deve facilitar um processo de eleição, considerando as seguint
 - Todos e apenas os _Membros do Círculo_ são elegíveis para os 3 _Papéis Essenciais_ eleitos, com a exceção da pessoa que desempenha o _Papel_ de _Elo Externo_, que não é elegível como _Facilitador_ ou _Elo Interno_ do mesmo círculo.
 - Se houver um empate, o _Facilitador_ pode escolher um dos seguintes critérios para desempate:
  - A pessoa que nomeou a si mesma, se apenas um dos candidatos empatados o fez;
- - A pessoa que já está desempenhando o papel, se apenas um dos candidatos empatados está;
+ - A pessoa que já está desempenhando o _Papel_, se apenas um dos candidatos empatados está;
  - Aleatoriamente escolher um dos candidatos empatados.
 
 Para exemplos de processo de eleição para o _Modo Selecionar_, consulte a **Biblioteca de Padrões**.
