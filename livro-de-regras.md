@@ -38,7 +38,7 @@ _Círculos_ são compostos por _Papéis_ e _Círculos_ internos, e não pessoas.
 
 As propriedades dos _Círculos_ (nome, _Propósito_, _Responsabilidades_ e _Artefatos_) só podem ser alteradas no _Modo Adaptar_ da _Reunião de Círculo_ que contém este círculo.
 
-Um _Artefato_ de um _Círculo_ pode ser acessado por todos os _Membros do Círculo_, exceto se este artefato for delegado a um _Papel_ específico neste mesmo _Círculo_.
+Um _Artefato_ de um _Círculo_ pode ser acessado por todos os _Membros do Círculo_, exceto se este _Artefato_ for delegado a um _Papel_ específico neste mesmo _Círculo_.
 
 A própria organização é o _Círculo_ mais amplo na estrutura, contendo todos os outros.
 
@@ -88,13 +88,13 @@ Mediante solicitação, também é esperado que você dê estimativas e projeç�
 
 ## Reuniões de Círculo
 
-Quando solicitado por outros _Membros do Círculo_, você deve priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar em projetos e ações de seus papéis.
+Quando solicitado por outros _Membros do Círculo_, você deve priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar em projetos e ações de seus _Papéis_.
 
 # Reuniões de Círculo
 
 _Membros do Círculo_ regularmente se encontram em um espaço chamado _Reunião de Círculo_ para executar um ou mais dos 5 modos especiais de reunião descritos na seção seguinte: _Revisar_, _Sincronizar_, _Adaptar_, _Selecionar_ e _Cuidar_.
 
-_Reuniões de Círculo_ são agendadas pelo _Secretário_ e facilitadas pelo _Facilitador_, dois papéis especiais descritos na seção [Papéis Essenciais](#papeis-essenciais).
+_Reuniões de Círculo_ são agendadas pelo _Secretário_ e facilitadas pelo _Facilitador_, dois _Papéis Essenciais_ descritos na seção [Papéis Essenciais](#papeis-essenciais).
 
 Pessoas que não são _Membros do Círculo_ não estão autorizadas a participar das _Reuniões do Círculo_, a não ser que sejam convidadas por um _Membro do Círculo_ para ajudar no processamento de uma _Tensão_ específica.
 
@@ -209,7 +209,7 @@ Cabe ao _Secretário_ definir como esse processo é realizado.
 
 ## Modo Selecionar
 
-O objetivo do _Modo Selecionar_ é escolher _Membros do _Círculo_ para desempenharem os 3 _Papéis Essenciais_ eleitos: _Facilitador_, _Secretário_ e _Elo Interno_.
+O objetivo do _Modo Selecionar_ é escolher _Membros do Círculo_ para desempenharem os 3 _Papéis Essenciais_ eleitos: _Facilitador_, _Secretário_ e _Elo Interno_.
 
 Qualquer _Membro do Círculo_ pode pedir para o _Facilitador_ pular para o _Modo Selecionar_ e realizar uma eleição para um ou mais dos _Papéis Essenciais_ eleitos. Se este for o caso, isto deve ser feito imediatamente.
 
