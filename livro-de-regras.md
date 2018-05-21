@@ -241,13 +241,20 @@ O _Facilitador_ e o _Secretário_ são eleitos no _Modo Selecionar_ e operam pri
 
 O _Elo Externo_ e o _Elo Interno_ são usados para trocar mensagens e facilitar a comunicação entre _Círculo_ e _Círculo_ externo, especialmente durante as _Reuniões de Círculo_.
 
+Os _Papéis Essenciais_ de cada _Círculo_ podem ser alterados durante o _Modo Adaptar_. No entanto, as seguintes restrições se aplicam:
+
+- O _Propósito_ dos _Papéis Essenciais_ não pode ser alterado;
+- Novas _Responsabilidades_ e _Artefatos_ não podem ser acrescidas ao _Papel_ do _Elo Externo_;
+- As _Responsabilidades_ e _Artefatos_ iniciais do _Papel_ _Elo Externo_ podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro _Papel_ ou processo no _Círculo_;
+- As _Responsabilidades_ e _Artefatos_ iniciais dos _Papéis_ de _Facilitador_, _Secretário_ e _Elo Interno_ não podem ser removidas ou modificadas.
+
+As alterações realizadas nos _Papeis Essenciais_ de um _Círculo_ aplicam-se apenas no _Círculo_ onde a modificação ocorreu, ou seja, não propagam para os _Círculos_ internos.
+
 ## Elo Externo
 
 O _Elo Externo_ é escolhido pelo _Círculo_ externo, por qualquer processo que atribua pessoas a _Papéis_ no _Círculo_ externo.
 
 O _Elo Externo_ é responsável por atribuir pessoas aos _Papéis_ no _Círculo_ e pode convidar qualquer pessoa que é parte da organização, a não ser que uma _Restrição_ diga o contrário.
-
-As _Responsabilidades_ e _Artefatos_ do _Papel_ _Elo Externo_ podem ser modificados ou removidos inteiramente, contanto que eles sejam delegados a outro _Papel_ ou processo no _Círculo_.
 
 O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados do _Círculo_.
 
