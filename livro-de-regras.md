@@ -34,7 +34,7 @@ _Círculos_ são estruturas análogas a _Papéis_, e portanto têm as mesmas pro
 
 _Círculos_ podem conter _Papéis_ e _Círculos_ internos, que podem conter os seus próprios _Papéis_ e _Círculos_ internos, e assim por diante. A estrutura é fractal. Pela perspectiva de um _Círculo_ externo, os seus _Círculos_ internos são como _Papéis_ que têm a habilidade adicional de dividirem-se.
 
-_Círculos_ são compostos por _Papéis_ e _Círculos_ internos, e não pessoas. Você é um _Membro do Círculo_ se você desempenha um _Papel_ neste mesmo _Círculo_.
+_Círculos_ são compostos por _Papéis_ e _Círculos_ internos, e não pessoas.
 
 As propriedades dos _Círculos_ (nome, _Propósito_, _Responsabilidades_ e _Artefatos_) só podem ser alteradas no _Modo Adaptar_ da _Reunião de Círculo_ que contém este círculo.
 
@@ -43,6 +43,11 @@ Um _Artefato_ de um _Círculo_ pode ser acessado por todos os _Membros do Círcu
 A própria organização é o _Círculo_ mais amplo na estrutura, contendo todos os outros.
 
 _Círculos_ internos são criados com o propósito de manter as _Reuniões de Círculo_ com um número gerenciável de participantes e foco claro.
+
+São _Membros do Círculo_ todas as pessoas que:
+ - Desempenham pelo menos um _Papel_ no _Círculo_;
+ - Desempenham o papel de _Elo Externo_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
+ - Desempenham o papel de _Elo Interno_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
 
 ## Restrições
 
