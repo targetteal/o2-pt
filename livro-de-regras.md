@@ -182,7 +182,7 @@ Uma _Objeção_ é uma razão pela qual a proposta causa mal e move o _Círculo_
 
 1. **Degradação**. A _Objeção_ é sobre algum mal que a proposta poderia causar ao _Círculo_. Este dano deve ser explicado.
 2. **Causalidade**. Este mal é causado pela proposta, ou seja, ele não existiria sem ela. Só assim a _Objeção_ pode ser válida.
-3. **Baseada em dados**. A _Objeção_ é baseada em dados atuais ou experiências passadas. Em outras palavras, não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o _Círculo_ não seria capaz de se adaptar no futuro, então a _Objeção_ pode ser preditiva e esse critério pode ser desconsiderado.
+3. **Baseada em dados**. A _Objeção_ é baseada em dados atuais ou experiências passadas. Em outras palavras, não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o _Círculo_ não seria capaz de se adaptar no futuro, então este critério pode ser desconsiderado.
 4. **Relacionada ao Papéis**. A _Objeção_ afeta um dos _Papéis_ do objetor no _Círculo_.
 
 Ao validar _Objeções_, o _Facilitador_ não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis. _Objeções_ válidas são movidas para integração.
