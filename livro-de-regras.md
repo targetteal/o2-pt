@@ -194,9 +194,7 @@ Ao validar _Objeções_, o _Facilitador_ não deve julgar a exatidão dos argume
 
 #### Objeção de Violação do Livro de Regras
 
-Qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_ se ele ou ela considerar que a proposta viola uma das regras descritas neste livro. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_.
-
-Neste caso, o _Facilitador_ pode pedir ao _Secretário_ para decidir se isso é verdade ou não. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção. Estas _Objeções_ devem ser integradas normalmente.
+Qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_ se ele ou ela considerar que a proposta viola uma das regras descritas neste livro. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção, mas deve ser integrada normalmente.
 
 ### Integração
 
