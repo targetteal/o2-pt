@@ -295,9 +295,8 @@ O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados
 **Propósito**: _O propósito do Círculo_
 
 **Responsabilidades**:
-- Remover impedimentos na organização que limitem o _Círculo_
-- Fornecer visibilidade sobre a saúde do _Círculo_ para o _Círculo_ externo
 - Buscar compreender _Tensões_ trazidas pelos _Membros do Círculo_, e processá-las quando apropriado no _Círculo_ externo
+- Fornecer visibilidade sobre a saúde do _Círculo_ para o _Círculo_ externo
 
 # Atribuições de Licença
 
