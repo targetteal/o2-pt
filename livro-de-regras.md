@@ -102,7 +102,7 @@ Pessoas que não são _Membros do Círculo_ não estão autorizadas a participar
 
 As _Reuniões de Círculo_ começam com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro.
 
-O _Facilitador_ preenche a reunião com um ou mais dos 5 modos, de acordo com o tempo disponível e as necessidades do _Círculo_. Os diferentes modos não devem ser misturadas. O _Facilitador_ deve declarar o nome, objetivo e esclarecer as regras de cada modo antes de iniciá-lo.
+O _Facilitador_ preenche a reunião com um ou mais dos 5 modos, de acordo com o tempo disponível e as necessidades do _Círculo_. O _Facilitador_ deve declarar o nome, objetivo e esclarecer as regras de cada modo antes de iniciá-lo.
 
 As _Reuniões de Círculo_ terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
 
