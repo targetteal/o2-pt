@@ -101,7 +101,7 @@ _Membros do Círculo_ regularmente se encontram em um espaço chamado _Reunião 
 
 _Reuniões de Círculo_ são agendadas pelo _Secretário_ e facilitadas pelo _Facilitador_, dois _Papéis Essenciais_ descritos na seção [Papéis Essenciais](#papeis-essenciais).
 
-Pessoas que não são _Membros do Círculo_ não estão autorizadas a participar das _Reuniões do Círculo_, a não ser que sejam convidadas por um _Membro do Círculo_ para ajudar no processamento de uma _Tensão_ específica.
+Pessoas que não são _Membros do Círculo_ não estão autorizadas a processar tensões nas _Reuniões do Círculo_, a não ser que sejam convidadas por um _Membro do Círculo_ para ajudar no processamento de uma _Tensão_ específica.
 
 ## Formato da Reunião
 
