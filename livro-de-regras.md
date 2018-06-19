@@ -194,7 +194,7 @@ Ao validar _Objeções_, o _Facilitador_ não deve julgar a exatidão dos argume
 
 #### Objeção de Violação do Livro de Regras
 
-Qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_ se ele ou ela considerar que a proposta viola uma das regras descritas neste livro. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção, mas deve ser integrada normalmente.
+Qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_ se ele ou ela considerar que a proposta viola uma das regras descritas neste livro. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_. Neste caso, qualquer participante pode pedir ao Secretário para decidir se isto é verdade ou não. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção, mas deve ser integrada normalmente.
 
 ### Integração
 
@@ -277,6 +277,7 @@ O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados
 **Responsabilidades**:
 - Agendar _Reuniões de Círculo_ regulares
 - Registar as saídas das _Reuniões de Círculo_
+- Interpretar o **Livro de Regras** e a _Estrutura Organizacional_ mediante solicitações
 
 **Artefatos**:
  - Registros da _Estrutura Organizacional_ do _Círculo_
