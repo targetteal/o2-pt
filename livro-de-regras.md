@@ -26,7 +26,7 @@ Um _Papel_ é uma parte da estrutura organizacional composto de:
 - Um nome descritivo (obrigatório);
 - Um _Propósito_, que é uma capacidade, potencial ou objetivo inalcançável que o _Papel_ irá perseguir ou expressar (obrigatório);
 - _Responsabilidades_, que são atividades recorrentes que outros podem esperar que o _Papel_ irá executar (opcional);
-- _Artefatos_, que são as coisas que o papel pode exclusivamente controlar e regular para a organização (opcional).
+- _Artefatos_, que são as coisas que o _Papel_ pode exclusivamente controlar e regular para a organização (opcional).
 
 ## Círculos
 
@@ -34,15 +34,20 @@ _Círculos_ são estruturas análogas a _Papéis_, e portanto têm as mesmas pro
 
 _Círculos_ podem conter _Papéis_ e _Círculos_ internos, que podem conter os seus próprios _Papéis_ e _Círculos_ internos, e assim por diante. A estrutura é fractal. Pela perspectiva de um _Círculo_ externo, os seus _Círculos_ internos são como _Papéis_ que têm a habilidade adicional de dividirem-se.
 
-_Círculos_ são compostos por _Papéis_ e _Círculos_ internos, e não pessoas. Você é um _Membro do Círculo_ se você desempenha um _Papel_ neste mesmo _Círculo_.
+_Círculos_ são compostos por _Papéis_ e _Círculos_ internos, e não pessoas.
 
 As propriedades dos _Círculos_ (nome, _Propósito_, _Responsabilidades_ e _Artefatos_) só podem ser alteradas no _Modo Adaptar_ da _Reunião de Círculo_ que contém este círculo.
 
-Um _Artefato_ de um _Círculo_ pode ser acessado por todos os _Membros do Círculo_, exceto se este artefato for delegado a um _Papel_ específico neste mesmo _Círculo_.
+Um _Artefato_ de um _Círculo_ pode ser acessado por todos os _Membros do Círculo_, exceto se este _Artefato_ for delegado a um _Papel_ específico neste mesmo _Círculo_.
 
 A própria organização é o _Círculo_ mais amplo na estrutura, contendo todos os outros.
 
 _Círculos_ internos são criados com o propósito de manter as _Reuniões de Círculo_ com um número gerenciável de participantes e foco claro.
+
+São _Membros do Círculo_ todas as pessoas que:
+ - Desempenham pelo menos um _Papel_ no _Círculo_;
+ - Desempenham o papel de _Elo Externo_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
+ - Desempenham o papel de _Elo Interno_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
 
 ## Restrições
 
@@ -88,21 +93,21 @@ Mediante solicitação, também é esperado que você dê estimativas e projeç�
 
 ## Reuniões de Círculo
 
-Quando solicitado por outros _Membros do Círculo_, você deve priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar em projetos e ações de seus papéis.
+Quando solicitado por outros _Membros do Círculo_, você deve priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar em projetos e ações de seus _Papéis_.
 
 # Reuniões de Círculo
 
 _Membros do Círculo_ regularmente se encontram em um espaço chamado _Reunião de Círculo_ para executar um ou mais dos 5 modos especiais de reunião descritos na seção seguinte: _Revisar_, _Sincronizar_, _Adaptar_, _Selecionar_ e _Cuidar_.
 
-_Reuniões de Círculo_ são agendadas pelo _Secretário_ e facilitadas pelo _Facilitador_, dois papéis especiais descritos na seção [Papéis Essenciais](#papeis-essenciais).
+_Reuniões de Círculo_ são agendadas pelo _Secretário_ e facilitadas pelo _Facilitador_, dois _Papéis Essenciais_ descritos na seção [Papéis Essenciais](#papeis-essenciais).
 
-Pessoas que não são _Membros do Círculo_ não estão autorizadas a participar das _Reuniões do Círculo_, a não ser que sejam convidadas por um _Membro do Círculo_ para ajudar no processamento de uma _Tensão_ específica.
+Pessoas que não são _Membros do Círculo_ não estão autorizadas a processar tensões nas _Reuniões do Círculo_, a não ser que sejam convidadas por um _Membro do Círculo_ para ajudar no processamento de uma _Tensão_ específica.
 
 ## Formato da Reunião
 
 As _Reuniões de Círculo_ começam com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro.
 
-O _Facilitador_ preenche a reunião com um ou mais dos 5 modos, de acordo com o tempo disponível e as necessidades do _Círculo_. Os diferentes modos não devem ser misturadas. O _Facilitador_ deve declarar o nome, objetivo e esclarecer as regras de cada modo antes de iniciá-lo.
+O _Facilitador_ preenche a reunião com um ou mais dos 5 modos, de acordo com o tempo disponível e as necessidades do _Círculo_. O _Facilitador_ deve declarar o nome, objetivo e esclarecer as regras de cada modo antes de iniciá-lo.
 
 As _Reuniões de Círculo_ terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
 
@@ -178,20 +183,18 @@ Se houverem _Objeções_, elas devem ser integradas à proposta.
 
 #### Objeções
 
-Uma _Objeção_ é uma razão pela qual a proposta causa mal e move o _Círculo_ para trás. O _Facilitador_ pode fazer perguntas para ajudar o objetor a entender se as suas _Objeções_ são válidas. Estas perguntas devem avaliar:
+Uma _Objeção_ é uma razão pela qual a proposta causa mal e move o _Círculo_ para trás. O _Facilitador_ pode fazer perguntas para ajudar o objetor a entender se as suas _Objeções_ são válidas ou não. Estas perguntas devem avaliar todos os quatro critérios a seguir:
 
 1. **Degradação**. A _Objeção_ é sobre algum mal que a proposta poderia causar ao _Círculo_. Este dano deve ser explicado.
 2. **Causalidade**. Este mal é causado pela proposta, ou seja, ele não existiria sem ela. Só assim a _Objeção_ pode ser válida.
-3. **Baseada em dados**. A _Objeção_ é baseada em dados atuais ou experiências passadas. Em outras palavras, não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o _Círculo_ não seria capaz de se adaptar no futuro, então a _Objeção_ pode ser preditiva e esse critério pode ser desconsiderado.
+3. **Baseada em dados**. A _Objeção_ é baseada em dados atuais ou experiências passadas. Em outras palavras, não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o _Círculo_ não seria capaz de se adaptar no futuro, então este critério pode ser desconsiderado.
 4. **Relacionada ao Papéis**. A _Objeção_ afeta um dos _Papéis_ do objetor no _Círculo_.
 
 Ao validar _Objeções_, o _Facilitador_ não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis. _Objeções_ válidas são movidas para integração.
 
 #### Objeção de Violação do Livro de Regras
 
-Qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_ se ele ou ela considerar que a proposta viola uma das regras descritas neste livro. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_.
-
-Neste caso, o _Facilitador_ pode pedir ao _Secretário_ para decidir se isso é verdade ou não. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção. Estas _Objeções_ devem ser integradas normalmente.
+Qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_ se ele ou ela considerar que a proposta viola uma das regras descritas neste livro. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_. Neste caso, qualquer participante pode pedir ao Secretário para decidir se isto é verdade ou não. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção, mas deve ser integrada normalmente.
 
 ### Integração
 
@@ -209,7 +212,7 @@ Cabe ao _Secretário_ definir como esse processo é realizado.
 
 ## Modo Selecionar
 
-O objetivo do _Modo Selecionar_ é escolher _Membros do _Círculo_ para desempenharem os 3 _Papéis Essenciais_ eleitos: _Facilitador_, _Secretário_ e _Elo Interno_.
+O objetivo do _Modo Selecionar_ é escolher _Membros do Círculo_ para desempenharem os 3 _Papéis Essenciais_ eleitos: _Facilitador_, _Secretário_ e _Elo Interno_.
 
 Qualquer _Membro do Círculo_ pode pedir para o _Facilitador_ pular para o _Modo Selecionar_ e realizar uma eleição para um ou mais dos _Papéis Essenciais_ eleitos. Se este for o caso, isto deve ser feito imediatamente.
 
@@ -220,7 +223,7 @@ O _Facilitador_ deve facilitar um processo de eleição, considerando as seguint
 - Todos e apenas os _Membros do Círculo_ são elegíveis para os 3 _Papéis Essenciais_ eleitos, com a exceção da pessoa que desempenha o _Papel_ de _Elo Externo_, que não é elegível como _Facilitador_ ou _Elo Interno_ do mesmo círculo.
 - Se houver um empate, o _Facilitador_ pode escolher um dos seguintes critérios para desempate:
  - A pessoa que nomeou a si mesma, se apenas um dos candidatos empatados o fez;
- - A pessoa que já está desempenhando o papel, se apenas um dos candidatos empatados está;
+ - A pessoa que já está desempenhando o _Papel_, se apenas um dos candidatos empatados está;
  - Aleatoriamente escolher um dos candidatos empatados.
 
 Para exemplos de processo de eleição para o _Modo Selecionar_, consulte a **Biblioteca de Padrões**.
@@ -241,13 +244,20 @@ O _Facilitador_ e o _Secretário_ são eleitos no _Modo Selecionar_ e operam pri
 
 O _Elo Externo_ e o _Elo Interno_ são usados para trocar mensagens e facilitar a comunicação entre _Círculo_ e _Círculo_ externo, especialmente durante as _Reuniões de Círculo_.
 
+Os _Papéis Essenciais_ de cada _Círculo_ podem ser alterados durante o _Modo Adaptar_. No entanto, as seguintes restrições se aplicam:
+
+- O _Propósito_ dos _Papéis Essenciais_ não pode ser alterado;
+- Novas _Responsabilidades_ e _Artefatos_ não podem ser acrescidas ao _Papel_ do _Elo Externo_;
+- As _Responsabilidades_ e _Artefatos_ iniciais do _Papel_ _Elo Externo_ podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro _Papel_ ou processo no _Círculo_;
+- As _Responsabilidades_ e _Artefatos_ iniciais dos _Papéis_ de _Facilitador_, _Secretário_ e _Elo Interno_ não podem ser removidas ou modificadas.
+
+As alterações realizadas nos _Papeis Essenciais_ de um _Círculo_ aplicam-se apenas no _Círculo_ onde a modificação ocorreu, ou seja, não propagam para os _Círculos_ internos.
+
 ## Elo Externo
 
 O _Elo Externo_ é escolhido pelo _Círculo_ externo, por qualquer processo que atribua pessoas a _Papéis_ no _Círculo_ externo.
 
 O _Elo Externo_ é responsável por atribuir pessoas aos _Papéis_ no _Círculo_ e pode convidar qualquer pessoa que é parte da organização, a não ser que uma _Restrição_ diga o contrário.
-
-As _Responsabilidades_ e _Artefatos_ do _Papel_ _Elo Externo_ podem ser modificados ou removidos inteiramente, contanto que eles sejam delegados a outro _Papel_ ou processo no _Círculo_.
 
 O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados do _Círculo_.
 
@@ -267,6 +277,7 @@ O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados
 **Responsabilidades**:
 - Agendar _Reuniões de Círculo_ regulares
 - Registar as saídas das _Reuniões de Círculo_
+- Interpretar o **Livro de Regras** e a _Estrutura Organizacional_ mediante solicitações
 
 **Artefatos**:
  - Registros da _Estrutura Organizacional_ do _Círculo_
@@ -288,9 +299,8 @@ O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados
 **Propósito**: _O propósito do Círculo_
 
 **Responsabilidades**:
-- Remover impedimentos na organização que limitem o _Círculo_
-- Fornecer visibilidade sobre a saúde do _Círculo_ para o _Círculo_ externo
 - Buscar compreender _Tensões_ trazidas pelos _Membros do Círculo_, e processá-las quando apropriado no _Círculo_ externo
+- Fornecer visibilidade sobre a saúde do _Círculo_ para o _Círculo_ externo
 
 # Atribuições de Licença
 
