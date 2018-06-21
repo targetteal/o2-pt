@@ -36,7 +36,7 @@ _Círculos_ podem conter _Papéis_ e _Círculos_ internos, que podem conter os s
 
 _Círculos_ são compostos por _Papéis_ e _Círculos_ internos, e não pessoas.
 
-As propriedades dos _Círculos_ (nome, _Propósito_, _Responsabilidades_ e _Artefatos_) só podem ser alteradas no _Modo Adaptar_ da _Reunião de Círculo_ que contém este círculo.
+As propriedades dos _Círculos_ (nome, _Propósito_, _Responsabilidades_ e _Artefatos_) só podem ser alteradas no _Modo Adaptar_ da _Reunião de Círculo_ que contém este _Círculo_.
 
 Um _Artefato_ de um _Círculo_ pode ser acessado por todos os _Membros do Círculo_, exceto se este _Artefato_ for delegado a um _Papel_ específico neste mesmo _Círculo_.
 
@@ -46,8 +46,8 @@ _Círculos_ internos são criados com o propósito de manter as _Reuniões de C�
 
 São _Membros do Círculo_ todas as pessoas que:
  - Desempenham pelo menos um _Papel_ no _Círculo_;
- - Desempenham o papel de _Elo Externo_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
- - Desempenham o papel de _Elo Interno_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
+ - Desempenham o _Papel_ de _Elo Externo_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
+ - Desempenham o _Papel_ de _Elo Interno_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
 
 ## Restrições
 
@@ -101,7 +101,7 @@ _Membros do Círculo_ regularmente se encontram em um espaço chamado _Reunião 
 
 _Reuniões de Círculo_ são agendadas pelo _Secretário_ e facilitadas pelo _Facilitador_, dois _Papéis Essenciais_ descritos no final deste **Livro de Regras**.
 
-Pessoas que não são _Membros do Círculo_ não estão autorizadas a processar tensões nas _Reuniões do Círculo_, a não ser que sejam convidadas por um _Membro do Círculo_ para ajudar no processamento de uma _Tensão_ específica.
+Pessoas que não são _Membros do Círculo_ não estão autorizadas a processar _Tensões_ nas _Reuniões do Círculo_, a não ser que sejam convidadas por um _Membro do Círculo_ para ajudar no processamento de uma _Tensão_ específica.
 
 ## Formato da Reunião
 
@@ -220,7 +220,7 @@ O processo de eleição dos 3 _Papéis Essenciais_ eleitos deve ser feito apenas
 
 O _Facilitador_ deve facilitar um processo de eleição, considerando as seguintes regras:
 
-- Todos e apenas os _Membros do Círculo_ são elegíveis para os 3 _Papéis Essenciais_ eleitos, com a exceção da pessoa que desempenha o _Papel_ de _Elo Externo_, que não é elegível como _Facilitador_ ou _Elo Interno_ do mesmo círculo.
+- Todos e apenas os _Membros do Círculo_ são elegíveis para os 3 _Papéis Essenciais_ eleitos, com a exceção da pessoa que desempenha o _Papel_ de _Elo Externo_, que não é elegível como _Facilitador_ ou _Elo Interno_ do mesmo _Círculo_.
 - Se houver um empate, o _Facilitador_ pode escolher um dos seguintes critérios para desempate:
  - A pessoa que nomeou a si mesma, se apenas um dos candidatos empatados o fez;
  - A pessoa que já está desempenhando o _Papel_, se apenas um dos candidatos empatados está;
