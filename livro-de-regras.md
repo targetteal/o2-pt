@@ -141,49 +141,40 @@ A estrutura do _Modo Sincronizar_ pode ser alterada inteiramente com uma _Restri
 
 ## Modo Adaptar
 
-O objetivo do _Modo Adaptar_ é processar _Tensões_ em mudanças da _Estrutura Organizacional_ do _Círculo_. Estas mudanças podem incluir:
+O objetivo do _Modo Adaptar_ é processar _Tensões_ em mudanças na _Estrutura Organizacional_ do _Círculo_. Estas mudanças podem incluir:
 
 - Adicionar, remover ou alterar _Papeís_ do _Círculo_;
 - Adicionar, remover ou alterar _Círculos_ internos (apenas as suas propriedades);
 - Adicionar, remover ou alterar _Restrições_ do _Círculo_;
 
-Depois que a lista de _Tensões_ for construída, o _Facilitador_ deve guiar a resolução de cada _Tensão_ da lista, usando as seguintes diretrizes de processo:
+Depois que a lista de _Tensões_ for construída, o _Facilitador_ deve guiar a resolução de cada _Tensão_ da lista usando a _Tomada de Decisão Integrativa_.
 
-- Construção rápida de proposta
-- Apenas propostas baseadas em exemplos
-- Apenas mudanças na _Estrutura Organizacional_
-- Equivalência de expressão individual
-- Tomada de Decisão Integrativa
+### Tomada de Decisão Integrativa
 
-### Construção rápida de proposta
+A _Tomada de Decisão Integrativa_ contém os seguintes elementos:
 
-O participante que trouxe a _Tensão_ deve ser capaz de apresentar uma proposta para resolvê-la. Alternativamente, o _Facilitador_ pode permitir que o participante que trouxe a _Tensão_ busque ajuda dos demais para construir a proposta. Se este for o caso, o _Facilitador_ não deve permitir qualquer processo de construção de consenso. O objetivo é resolver a _Tensão_ do participante que trouxe a _Tensão_ originalmente, e não satisfazer a todos.
+- **1. Apresentação.** O participante que trouxe a _Tensão_ (o proponente) deve ser capaz de apresentar uma proposta para resolvê-la. De forma alternativa, o _Facilitador_ pode permitir que o proponente busque ajuda dos demais para construir a proposta. Se este for o caso, o _Facilitador_ não deve permitir qualquer processo de construção de consenso. O objetivo é resolver a _Tensão_ do proponente, e não satisfazer a todos.
+- **2. Perguntas.** Os participantes podem fazer perguntas ao proponente com o objetivo de melhor entender a _Tensão_ ou a proposta sendo apresentada.
+- **3. Reações.** Cada participante também pode expressar uma reação ou opinião em relação a proposta.
+- **4. Alteração.** Depois de ouvir as reações e perguntas, o proponente pode realizar mudanças na sua proposta.
+- **5. Objeções.** Cada participante pode levantar uma ou mais _Objeções_ em relação a proposta.
+- **6 Integração.** Se houverem _Objeções_, elas devem ser integradas à proposta, uma de cada vez. O objetivo é modificar a proposta para que ela resolva a _Tensão_ original, mas sem causar a _Objeção_ levantada. Se a proposta for alterada, o _Facilitador_ deve dar mais uma oportunidade para os participantes levantarem _Objeções_. Se uma proposta estiver levando muito tempo para integrar, o _Facilitador_ pode descartar a proposta inteiramente, a fim de passar para o próximo item da lista de _Tensões_.
+
+Cabe ao _Facilitador_ decidir como ou em que ordem exatamente os elementos acima serão apresentados. Outros elementos ou etapas podem ser acrescentadas, desde que não colidam com os elementos mínimos.
 
 ### Apenas propostas baseadas em exemplos
 
-O participante que trouxe a _Tensão_ deve explicá-la e dar um exemplo de uma situação passada ou presente onde cada parte da proposta construída resolveria ou reduziria a _Tensão_.
+O proponente deve ser capaz de explicá-la e dar um exemplo de uma situação passada ou presente onde cada parte da proposta construída resolveria ou reduziria a _Tensão_.
 
-Se o _Facilitador_ considerar que o participante que trouxe a _Tensão_ não foi capaz de apresentar exemplos e esclarecimentos, o _Facilitador_ deve descartar a proposta. No entanto, o _Facilitador_ não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
+Se o _Facilitador_ considerar que o proponente não foi capaz de apresentar exemplos e esclarecimentos, o _Facilitador_ deve descartar a proposta. No entanto, o _Facilitador_ não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
 
 ### Apenas mudanças na Estrutura Organizacional
 
 Para ser uma saída válida para o _Modo Adaptar_, a proposta deve ser composta apenas de mudanças na _Estrutura Organizacional_ do _Círculo_. Se este não for o caso, qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_.
 
-### Equivalência na expressão individual
+### Objeções
 
-Cada participante da _Reunião de Círculo_ deve ter o mesmo espaço e a opção de fazer perguntas ou expressar a sua opinião durante a execução do _Modo Adaptar_. Cabe ao _Facilitador_ decidir como exatamente este espaço é disponibilizado.
-
-### Tomada de Decisão Integrativa
-
-O _Facilitador_ deve utilizar um processo integrativo de tomada de decisão para facilitar a resolução de cada _Tensão_. Isto significa que qualquer participante deve poder levantar uma ou mais _Objeções_ à proposta.
-
-Se nenhuma _Objeção_ for levantada, a proposta é aceita.
-
-Se houverem _Objeções_, elas devem ser integradas à proposta.
-
-#### Objeções
-
-Uma _Objeção_ é uma razão pela qual a proposta causa mal e move o _Círculo_ para trás. O _Facilitador_ pode fazer perguntas para ajudar o objetor a entender se as suas _Objeções_ são válidas ou não. Estas perguntas devem avaliar todos os quatro critérios a seguir:
+Uma _Objeção_ é uma razão pela qual a proposta causa mal e move o _Círculo_ para trás. O _Facilitador_ pode fazer perguntas para ajudar o objetor a entender se as suas _Objeções_ são válidas ou não. Uma objeção é considerada válida caso o objetor entenda que sua _Objeção_ atenda todos 4 critérios a seguir:
 
 1. **Degradação**. A _Objeção_ é sobre algum mal que a proposta poderia causar ao _Círculo_. Este dano deve ser explicado.
 2. **Causalidade**. Este mal é causado pela proposta, ou seja, ele não existiria sem ela. Só assim a _Objeção_ pode ser válida.
@@ -192,17 +183,9 @@ Uma _Objeção_ é uma razão pela qual a proposta causa mal e move o _Círculo_
 
 Ao validar _Objeções_, o _Facilitador_ não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis. _Objeções_ válidas são movidas para integração.
 
-#### Objeção de Violação do Livro de Regras
+### Objeção de Violação do Livro de Regras
 
-Qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_ se ele ou ela considerar que a proposta viola uma das regras descritas neste livro. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_. Neste caso, qualquer participante pode pedir ao Secretário para decidir se isto é verdade ou não. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção, mas deve ser integrada normalmente.
-
-### Integração
-
-Depois de coletar _Objeções_ válidas, o _Facilitador_ deve guiar a integração de cada uma à proposta. Uma _Objeção_ deve ser integrada por vez. O objetivo é modificar a proposta para que ela resolva a _Tensão_ original, mas sem causar a _Objeção_.
-
-Se a proposta for alterada, o _Facilitador_ deve dar mais uma oportunidade para os participantes levantarem _Objeções_.
-
-Se uma proposta está levando muito tempo para integrar, o _Facilitador_ pode descartar a proposta inteiramente, a fim de passar para o próximo item da lista de _Tensões_.  
+Qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_ se ele ou ela considerar que a proposta viola uma das regras descritas neste livro. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção, mas deve ser integrada normalmente.
 
 ### Propostas Assíncronas
 
