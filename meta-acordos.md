@@ -9,9 +9,9 @@
 
 # Prefácio
 
-**Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelo seu **Livro de Regras** e uma [Biblioteca de Padrões](https://docs.google.com/document/d/11z2epOc4pkA2zTin-SnnN2k_fTJqeyEj1U2Hactqf6o/edit?usp=sharing) em constante crescimento.
+**Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelos seus **Meta Acordos** descritos neste documento, além de uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante evolução.
 
-Qualquer um que concorde em participar de uma **Organização Orgânica** pode invocar as regras aqui apresentadas e também concorda em se comprometer com seus deveres e restrições.
+Todos os participantes de uma **Organização Orgânica** podem invocar os Meta-Acordos aqui apresentados e também concordam em se comprometer com eles.
 
 # Estrutura Organizacional
 

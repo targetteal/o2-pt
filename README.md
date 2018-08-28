@@ -1,6 +1,6 @@
 # Organic Organization (O2)
 
-**Organic Organization (O2)** is a catalyst that helps organizations and their subparts (teams, departments, units) embrace self-management. O2 is composed of its **Rule Book** and an ever growing [Pattern Library](https://targetteal.com/o2/library/).
+**Organic Organization (O2)** is a catalyst that helps organizations and their subparts (teams, departments, units) embrace self-management. O2 is composed of its [Meta-Agreements](meta-acordos.md) and an ever growing [Pattern Library](https://targetteal.com/o2/library/).
 
 Our influences include:
 - Reinventing Organizations
@@ -28,7 +28,7 @@ ________________________________
 
 # Organização Orgânica (O2)
 
-**Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelo seu **Livro de Regras** e uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante crescimento.
+**Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelos seus [Meta Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante evolução.
 
 Nossas influências incluem:
 - Reinventando as Organizações
