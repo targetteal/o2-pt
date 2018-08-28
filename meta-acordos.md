@@ -11,7 +11,7 @@
 
 **Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelos seus **Meta Acordos** descritos neste documento, além de uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante evolução.
 
-Todos os participantes de uma **Organização Orgânica** podem invocar os Meta-Acordos aqui apresentadas e também concordam em se comprometer com eles.
+Todos os participantes de uma **Organização Orgânica** podem invocar os Meta-Acordos aqui apresentados e também concordam em se comprometer com eles.
 
 # Estrutura Organizacional
 
