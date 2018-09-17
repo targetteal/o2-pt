@@ -7,7 +7,7 @@
 5. [Reuniões de Círculo](#reuniões-de-círculo)
 6. [Papéis Essenciais](#papéis-essenciais)
 
-## 1 Prefácio
+## 1. Prefácio
 
 **Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelos seus **Meta-Acordos** descritos neste documento, além de uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante evolução.
 
@@ -15,7 +15,7 @@ Todos os participantes de uma **Organização Orgânica**, denominados _Parceiro
 
 > ¹ Meta-Acordos são acordos sobre a construção de novos acordos.
 
-## 2 Estrutura Organizacional
+## 2. Estrutura Organizacional
 
 **Organizações Orgânicas** têm uma _Estrutura Organizacional_ composta de _Papéis_, _Círculos_ e _Restrições_, que definem expectativas e limitações de autoridade. Estes elementos formam uma hierarquia de _Círculos_ e são descritos em detalhes nas seções seguintes.
 
@@ -59,7 +59,7 @@ _Restrições_ não podem estabelecer expectativas, porque este é o propósito 
 
 Todos os elementos que são parte da _Estrutura Organizacional_ do _Círculo_ descritos nesta seção (_Papéis_, _Círculos_ e _Restrições_) somente podem ser atualizados no _Modo Adaptar_ da sua _Reunião de Círculo_.
 
-## 3 Direitos
+## 3. Direitos
 
 Os _Parceiros_ da organização têm dois direitos básicos descritos nesta seção:
 
@@ -71,7 +71,7 @@ _Parceiros_ podem recusar pedidos para assumir projetos ou ações específicas 
 
 Ao perseguir o _Propósito_ dos seus _Papéis_, os _Parceiros_ da organização estão sempre autorizados a tomar ação, a não ser que um _Artefato_ ou _Restrição_ diga o contrário.
 
-## 4 Deveres
+## 4. Deveres
 
 Os _Parceiros_ da organização têm alguns deveres básicos uns com os outros:
 
@@ -95,7 +95,7 @@ Mediante solicitação, também é esperado que os _Parceiros_ dêem estimativas
 
 Quando solicitado por outros _Membros do Círculo_, _Parceiros_ devem priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar em projetos e ações de seus _Papéis_.
 
-## 5 Reuniões de Círculo
+## 5. Reuniões de Círculo
 
 _Membros do Círculo_ regularmente se encontram em um espaço chamado _Reunião de Círculo_ para executar um ou mais dos 5 modos especiais de reunião descritos na seção seguinte: _Revisar_, _Sincronizar_, _Adaptar_, _Selecionar_ e _Cuidar_.
 
@@ -219,7 +219,7 @@ O objetivo do _Modo Cuidar_ é tomar conta do espaço tribal e nutrir a qualidad
 
 Este modo não deve ser utilizado para fazer alterações na _Estrutura Organizacional_ do _Círculo_ ou engajar os _Membros do Círculo_ nos seus _Papéis_ e deveres.
 
-## 6 Papéis Essenciais
+## 6. Papéis Essenciais
 
 Cada _Círculo_ têm 4 _Papéis_ essenciais automaticamente criados: _Elo Externo_, _Elo Interno_, _Facilitador_ e _Secretário_.
 
