@@ -28,7 +28,7 @@ ________________________________
 
 # Organização Orgânica (O2)
 
-**Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelos seus [Meta Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante evolução.
+**Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelos seus [Meta-Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante evolução.
 
 Nossas influências incluem:
 - Reinventando as Organizações
@@ -45,9 +45,9 @@ O O2 é licenciado através da Creative Commons Attribution-ShareAlike 4.0 Inter
 
 O O2 é atualmente mantido pela [Target Teal](https://targetteal.com/pt/) e outros contribuidores. Se você quer colaborar, por favor siga as instruções abaixo.
 
-### Propondo Mudanças ao Livro de Regras
+### Propondo Mudanças nos Meta-Acordos
 
-Qualquer pessoa pode propor mudanças no Livro de Regras enviando pull requests. Ainda assim, nós recomendamos fortemente que você primeiro junte-se ao nosso Slack e inicie conversas com a comunidade antes de enviar propostas. Se você quiser participar, entre em contato através de [evoluir@targetteal.com](mailto:evoluir@targetteal.com).
+Qualquer pessoa pode propor mudanças nos Meta-Acordos enviando pull requests. Ainda assim, nós recomendamos fortemente que você primeiro junte-se ao nosso Slack e inicie conversas com a comunidade antes de enviar propostas. Se você quiser participar, entre em contato através de [evoluir@targetteal.com](mailto:evoluir@targetteal.com).
 
 ## Licença
 
