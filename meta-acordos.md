@@ -79,7 +79,7 @@ Ao fazer parte de uma **Organização Orgânica**, _Membros do Círculo_ têm al
 
 Você é responsável por monitorar como o _Propósito_ e as _Responsabilidades_ dos seus _Papéis_ são expressos, e comparar com a sua visão de sua expressão potencial ideal. Você deve identificar as lacunas entre a realidade atual e um potencial que você sente, cada lacuna sendo chamada de uma _Tensão_.
 
-Você também é responsável por tentar resolver essas _Tensões_, utilizando as autoridades e outros mecanismos disponibilizados para você por este **Livro de Regras**.
+Você também é responsável por tentar resolver essas _Tensões_, utilizando as autoridades e outros mecanismos disponibilizados para você por estes **Meta Acordos**.
 
 ## 4.2 Transparência
 
@@ -99,7 +99,7 @@ Quando solicitado por outros _Membros do Círculo_, você deve priorizar compare
 
 _Membros do Círculo_ regularmente se encontram em um espaço chamado _Reunião de Círculo_ para executar um ou mais dos 5 modos especiais de reunião descritos na seção seguinte: _Revisar_, _Sincronizar_, _Adaptar_, _Selecionar_ e _Cuidar_.
 
-_Reuniões de Círculo_ são agendadas pelo _Secretário_ e facilitadas pelo _Facilitador_, dois _Papéis Essenciais_ descritos no final deste **Livro de Regras**.
+_Reuniões de Círculo_ são agendadas pelo _Secretário_ e facilitadas pelo _Facilitador_, dois _Papéis Essenciais_ descritos no final deste documento.
 
 Pessoas que não são _Membros do Círculo_ não estão autorizadas a processar _Tensões_ nas _Reuniões do Círculo_, a não ser que sejam convidadas por um _Membro do Círculo_ para ajudar no processamento de uma _Tensão_ específica.
 
@@ -170,7 +170,7 @@ Se o _Facilitador_ considerar que o proponente não foi capaz de apresentar exem
 
 ### 5.5.3 Apenas mudanças na Estrutura Organizacional
 
-Para ser uma saída válida para o _Modo Adaptar_, a proposta deve ser composta apenas de mudanças na _Estrutura Organizacional_ do _Círculo_. Se este não for o caso, qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_.
+Para ser uma saída válida para o _Modo Adaptar_, a proposta deve ser composta apenas de mudanças na _Estrutura Organizacional_ do _Círculo_. Se este não for o caso, qualquer participante pode levantar uma _Objeção de Violação dos Meta Acordos_.
 
 ### 5.5.4 Objeções
 
@@ -183,9 +183,9 @@ Uma _Objeção_ é uma razão pela qual a proposta causa mal e move o _Círculo_
 
 Ao validar _Objeções_, o _Facilitador_ não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis. _Objeções_ válidas são movidas para integração.
 
-### 5.5.5 Objeção de Violação do Livro de Regras
+### 5.5.5 Objeção de Violação dos Meta Acordos
 
-Qualquer participante pode levantar uma _Objeção de Violação do Livro de Regras_ se ele ou ela considerar que a proposta viola uma das regras descritas neste livro. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção, mas deve ser integrada normalmente.
+Qualquer participante pode levantar uma _Objeção de Violação dos Meta Acordos_ se ele ou ela considerar que a proposta viola uma das regras descritas neste livro. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção, mas deve ser integrada normalmente.
 
 ### 5.5.6 Propostas Assíncronas
 
@@ -248,7 +248,7 @@ O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados
 
 ### 6.2.1 Facilitador
 
-**Propósito**: _Reuniões de Círculo saudáveis e alinhadas com o Livro de Regras_
+**Propósito**: _Reuniões de Círculo saudáveis e alinhadas com os Meta Acordos_
 
 **Responsabilidades**:
 - Facilitar as _Reuniões de Círculo_
@@ -260,7 +260,7 @@ O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados
 **Responsabilidades**:
 - Agendar _Reuniões de Círculo_ regulares
 - Registar as saídas das _Reuniões de Círculo_
-- Interpretar o **Livro de Regras** e a _Estrutura Organizacional_ mediante solicitações
+- Interpretar os **Meta Acordos** e a _Estrutura Organizacional_ mediante solicitações
 
 **Artefatos**:
  - Registros da _Estrutura Organizacional_ do _Círculo_
@@ -287,4 +287,4 @@ O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados
 
 # Atribuições de Licença
 
-_O Livro de Regras da Organização Orgânica é derivado da [Constituição da Holacracia](https://holacracy.com/constitution) elaborado pela HolacracyOne, LLC, licenciado como Creative Commons Attribution ShareAlike 4.0 International License. Este trabalho é licenciado sob as mesmas condições. [Maiores informações sobre a licença podem ser encontradas aqui](LICENSE.md)._
+_Os Meta Acordos da Organização Orgânica são derivados da [Constituição da Holacracia](https://holacracy.com/constitution) elaborado pela HolacracyOne, LLC, licenciado como Creative Commons Attribution ShareAlike 4.0 International License. Este trabalho é licenciado sob as mesmas condições. [Maiores informações sobre a licença podem ser encontradas aqui](LICENSE.md)._
