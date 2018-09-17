@@ -11,7 +11,7 @@
 
 **Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelos seus **Meta-Acordos** descritos neste documento, além de uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante evolução.
 
-Todos os participantes de uma **Organização Orgânica** podem invocar os Meta-Acordos aqui apresentados e também concordam em se comprometer com eles.
+Todos os participantes de uma **Organização Orgânica**, denominados _Parceiros_, podem invocar os **Meta-Acordos** aqui apresentados e também concordam em se comprometer com eles.
 
 # 2 Estrutura Organizacional
 
@@ -19,7 +19,7 @@ Todos os participantes de uma **Organização Orgânica** podem invocar os Meta-
 
 ## 2.1 Papéis
 
-Os membros da organização normalmente executam o trabalho em um ou mais _Papéis_ explicitamente definidos.
+Os _Parceiros_ da organização normalmente executam o trabalho em um ou mais _Papéis_ explicitamente definidos.
 
 Um _Papel_ é uma parte da estrutura organizacional composto de:
 
@@ -42,7 +42,7 @@ A própria organização é o _Círculo_ mais amplo na estrutura, contendo todos
 
 _Círculos_ internos são criados com o propósito de manter as _Reuniões de Círculo_ com um número gerenciável de participantes e foco claro.
 
-São _Membros do Círculo_ todas as pessoas que:
+São _Membros do Círculo_ todas os _Parceiros_ que:
  - Desempenham pelo menos um _Papel_ no _Círculo_;
  - Desempenham o _Papel_ de _Elo Externo_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
  - Desempenham o _Papel_ de _Elo Interno_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
@@ -59,39 +59,39 @@ Todos os elementos que são parte da _Estrutura Organizacional_ do _Círculo_ de
 
 # 3 Direitos
 
-Ao participar de uma **Organização Orgânica**, _Membros do Círculo_ têm dois direitos básicos.
+Os _Parceiros_ da organização têm dois direitos básicos descritos nesta seção:
 
 ## 3.1 Sem expectativas implícitas
 
-Você pode recusar pedidos para assumir projetos ou ações específicas se não existir uma _Responsabilidade_ explícita correspondente na descrição do _Papel_ sendo solicitado. Entretanto, você deve sempre aceitar projetos e ações solicitados se você acredita que eles cabem no _Propósito_ do seu _Papel_, mesmo que nenhuma _Responsabilidade_ explícita esteja registrada.
+_Parceiros_ podem recusar pedidos para assumir projetos ou ações específicas caso não exista uma _Responsabilidade_ explícita correspondente na descrição do _Papel_ sendo solicitado. Entretanto, os _Parceiros_ devem sempre aceitar projetos e/ou ações solicitadas se a ação ou projeto couberem no _Propósito_ de algum dos seus _Papéis_, mesmo que nenhuma _Responsabilidade_ explícita esteja registrada.
 
 ## 3.2 Autoridade para agir
 
-Ao perseguir o _Propósito_ dos seus _Papéis_, você está sempre autorizado a tomar ação, a não ser que um _Artefato_ ou _Restrição_ diga o contrário.
+Ao perseguir o _Propósito_ dos seus _Papéis_, os _Parceiros_ da organização estão sempre autorizados a tomar ação, a não ser que um _Artefato_ ou _Restrição_ diga o contrário.
 
 # 4 Deveres
 
-Ao fazer parte de uma **Organização Orgânica**, _Membros do Círculo_ têm alguns deveres básicos uns com os outros.
+Os _Parceiros_ da organização têm alguns deveres básicos uns com os outros:
 
 ## 4.1 Expressar Papéis
 
-Você é responsável por monitorar como o _Propósito_ e as _Responsabilidades_ dos seus _Papéis_ são expressos, e comparar com a sua visão de sua expressão potencial ideal. Você deve identificar as lacunas entre a realidade atual e um potencial que você sente, cada lacuna sendo chamada de uma _Tensão_.
+Cada _Parceiro_ é responsável por monitorar como o _Propósito_ e as _Responsabilidades_ dos seus _Papéis_ são expressos, e comparar com a sua visão de sua expressão potencial ideal. Os _Parceiros_ devem identificar as lacunas entre a realidade atual e um potencial que sentem, cada lacuna sendo chamada de uma _Tensão_.
 
-Você também é responsável por tentar resolver essas _Tensões_, utilizando as autoridades e outros mecanismos disponibilizados para você por estes **Meta-Acordos**.
+Os _Parceiros_ são responsáveis por tentar resolver essas _Tensões_, utilizando as autoridades e outros mecanismos disponibilizados por estes **Meta-Acordos**.
 
 ## 4.2 Transparência
 
-Quando solicitado, é esperado que você compartilhe todas as informações relevantes sobre o trabalho de seus _Papéis_, incluindo cada projeto que você está trabalhando, ações identificadas, critérios de priorização e métricas relevantes.
+Quando solicitado, é esperado que os _Parceiros_ compartilhem todas as informações relevantes sobre o trabalho de seus _Papéis_, incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes.
 
-Mediante solicitação, também é esperado que você dê estimativas e projeções sobre possíveis datas de conclusão de projetos e ações, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
+Mediante solicitação, também é esperado que os _Parceiros_ dêem estimativas e projeções sobre possíveis datas de conclusão de projetos e ações, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
 ## 4.3 Priorização
 
-É esperado que você priorize o seu trabalho em alinhamento com as prioridades do _Círculo_ definidas pelo _Elo Externo_, ou por qualquer outro processo que defina prioridades.
+É esperado que os _Parceiros_ priorizem o seu trabalho em alinhamento com as prioridades do _Círculo_ definidas pelo _Elo Externo_, ou por qualquer outro processo que defina prioridades.
 
 ## 4.4 Reuniões de Círculo
 
-Quando solicitado por outros _Membros do Círculo_, você deve priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar em projetos e ações de seus _Papéis_.
+Quando solicitado por outros _Membros do Círculo_, _Parceiros_ devem priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar em projetos e ações de seus _Papéis_.
 
 # 5 Reuniões de Círculo
 
