@@ -65,7 +65,7 @@ Os _Parceiros_ da organização têm dois direitos básicos descritos nesta seç
 
 ### 3.1 Sem expectativas implícitas
 
-_Parceiros_ podem recusar pedidos para assumir projetos ou ações específicas caso não exista uma _Responsabilidade_ explícita correspondente na descrição do _Papel_ sendo solicitado. Entretanto, os _Parceiros_ devem sempre aceitar projetos e/ou ações solicitadas se a ação ou projeto couberem no _Propósito_ de algum dos seus _Papéis_, mesmo que nenhuma _Responsabilidade_ explícita esteja registrada.
+_Parceiros_ podem recusar pedidos caso não exista uma _Responsabilidade_ explícita correspondente na descrição do _Papel_ sendo solicitado. Entretanto, os _Parceiros_ devem sempre aceitar os pedidos que couberem no _Propósito_ de algum dos seus _Papéis_, mesmo que nenhuma _Responsabilidade_ explícita esteja registrada.
 
 ### 3.2 Autoridade para agir
 
@@ -85,7 +85,7 @@ Os _Parceiros_ são responsáveis por tentar resolver essas _Tensões_, utilizan
 
 Quando solicitado, é esperado que os _Parceiros_ compartilhem todas as informações relevantes sobre o trabalho de seus _Papéis_, incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes.
 
-Mediante solicitação, também é esperado que os _Parceiros_ dêem estimativas e projeções sobre possíveis datas de conclusão de projetos e ações, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
+Mediante solicitação, também é esperado que os _Parceiros_ dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
 ### 4.3 Priorização
 
@@ -93,7 +93,7 @@ Mediante solicitação, também é esperado que os _Parceiros_ dêem estimativas
 
 ### 4.4 Reuniões de Círculo
 
-Quando solicitado por outros _Membros do Círculo_, _Parceiros_ devem priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar em projetos e ações de seus _Papéis_.
+Quando solicitado por outros _Membros do Círculo_, _Parceiros_ devem priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar nos seus _Papéis_.
 
 ## 5. Reuniões de Círculo
 
@@ -119,7 +119,7 @@ Depois que a lista de _Tensões_ for construída, o _Facilitador_ deve focar em 
 
 ### 5.3 Modo Revisar
 
-O objetivo do _Modo Revisar_ é dar transparência sobre o trabalho do _Círculo_. Isto é normalmente feito com uma revisão de métricas, ações recorrentes e projetos.
+O objetivo do _Modo Revisar_ é dar transparência sobre o trabalho do _Círculo_.
 
 Cabe ao _Facilitador_ decidir como especificamente o _Modo Revisar_ é conduzido, exceto se uma _Restrição_ determinar o contrário.
 
@@ -135,7 +135,7 @@ O _Facilitador_ deve simplesmente permitir que quem trouxe a _Tensão_ engaje os
 
 O _Facilitador_ deve tentar dar tempo ao processamento de cada _Tensão_ da lista dentro do _Modo Sincronizar_, e para fazer isso pode cortar o processamento de qualquer _Tensão_ que esteja tomando mais do que a sua devida parcela do tempo restante.
 
-O _Secretário_ então registra quaisquer pedidos de projetos e ações aceitos pelos outros participantes.
+O _Secretário_ então registra quaisquer pedidos aceitos pelos outros participantes.
 
 A estrutura do _Modo Sincronizar_ pode ser alterada inteiramente com uma _Restrição_, desde que o objetivo original seja mantido.
 
