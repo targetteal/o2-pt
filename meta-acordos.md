@@ -65,7 +65,7 @@ Os _Parceiros_ da organização têm dois direitos básicos descritos nesta seç
 
 ### 3.1 Sem expectativas implícitas
 
-_Parceiros_ podem recusar pedidos caso não exista uma _Responsabilidade_ explícita correspondente na descrição do _Papel_ sendo solicitado. Entretanto, os _Parceiros_ devem sempre aceitar os pedidos que couberem no _Propósito_ de algum dos seus _Papéis_, mesmo que nenhuma _Responsabilidade_ explícita esteja registrada.
+_Parceiros_ podem recusar pedidos, caso não exista uma _Responsabilidade_ explícita correspondente na descrição do _Papel_ sendo solicitado. Entretanto, os _Parceiros_ devem sempre aceitar os pedidos que fizerem sentido para o _Propósito_ de algum dos seus _Papéis_, mesmo que nenhuma _Responsabilidade_ explícita esteja registrada.
 
 ### 3.2 Autoridade para agir
 
