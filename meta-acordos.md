@@ -1,4 +1,4 @@
-# Índice
+# Os Meta-Acordos¹ da Organização Orgânica
 
 1. [Prefácio](#prefácio)
 2. [Estrutura Organizacional](#estrutura-organizacional)
@@ -12,6 +12,8 @@
 **Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelos seus **Meta-Acordos** descritos neste documento, além de uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante evolução.
 
 Todos os participantes de uma **Organização Orgânica**, denominados _Parceiros_, podem invocar os **Meta-Acordos** aqui apresentados e também concordam em se comprometer com eles.
+
+> ¹ Meta-Acordos são acordos sobre a construção de novos acordos. 
 
 # 2 Estrutura Organizacional
 
