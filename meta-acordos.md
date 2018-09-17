@@ -23,7 +23,7 @@ Todos os participantes de uma **Organização Orgânica**, denominados _Parceiro
 
 Os _Parceiros_ da organização normalmente executam o trabalho em um ou mais _Papéis_ explicitamente definidos.
 
-Um _Papel_ é uma parte da estrutura organizacional composto de:
+Um _Papel_ é uma parte da _Estrutura Organizacional_ composto de:
 
 - Um nome descritivo (obrigatório);
 - Um _Propósito_, que é uma capacidade, potencial ou objetivo inalcançável que o _Papel_ irá perseguir ou expressar (obrigatório);
