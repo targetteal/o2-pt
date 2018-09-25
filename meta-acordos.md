@@ -2,8 +2,8 @@
 
 1. [Prefácio](#prefácio)
 2. [Estrutura Organizacional](#estrutura-organizacional)
-3. [Direitos](#direitos)
-4. [Deveres](#deveres)
+3. [Direitos dos Parceiros](#direitos)
+4. [Deveres dos Parceiros](#deveres)
 5. [Reuniões de Círculo](#reuniões-de-círculo)
 6. [Papéis Essenciais](#papéis-essenciais)
 
@@ -59,7 +59,7 @@ _Restrições_ não podem estabelecer expectativas, porque este é o propósito 
 
 Todos os elementos que são parte da _Estrutura Organizacional_ do _Círculo_ descritos nesta seção (_Papéis_, _Círculos_ e _Restrições_) somente podem ser atualizados no _Modo Adaptar_ da sua _Reunião de Círculo_.
 
-## 3. Direitos
+## 3. Direitos dos Parceiros
 
 Os _Parceiros_ da organização têm dois direitos básicos descritos nesta seção:
 
@@ -71,7 +71,7 @@ _Parceiros_ podem recusar pedidos, caso não exista uma _Responsabilidade_ expl�
 
 Ao perseguir o _Propósito_ dos seus _Papéis_, os _Parceiros_ da organização estão sempre autorizados a tomar ação, a não ser que um _Artefato_ ou _Restrição_ diga o contrário.
 
-## 4. Deveres
+## 4. Deveres dos Parceiros
 
 Os _Parceiros_ da organização têm alguns deveres básicos uns com os outros:
 
