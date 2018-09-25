@@ -38,7 +38,7 @@ _Círculos_ podem conter _Papéis_ e _Círculos_ internos, que podem conter os s
 
 As propriedades dos _Círculos_ (nome, _Propósito_, _Responsabilidades_ e _Artefatos_) só podem ser alteradas no _Modo Adaptar_ da _Reunião de Círculo_ que contém este _Círculo_.
 
-Um _Artefato_ de um _Círculo_ pode ser acessado por todos os _Membros do Círculo_, exceto se este _Artefato_ for delegado a um _Papel_ específico neste mesmo _Círculo_.
+Um _Artefato_ de um _Círculo_ pode ser acessado por todos os _Membros do Círculo_, exceto se este _Artefato_ for delegado a um _Papel_ ou _Círculo_ interno neste mesmo _Círculo_.
 
 A própria organização é o _Círculo_ mais amplo na estrutura, contendo todos os outros.
 
@@ -153,12 +153,12 @@ Depois que a lista de _Tensões_ for construída, o _Facilitador_ deve guiar a r
 
 A _Tomada de Decisão Integrativa_ contém os seguintes elementos:
 
-- **1. Apresentação.** O participante que trouxe a _Tensão_ (o proponente) deve ser capaz de apresentar uma proposta para resolvê-la. De forma alternativa, o _Facilitador_ pode permitir que o proponente busque ajuda dos demais para construir a proposta. Se este for o caso, o _Facilitador_ não deve permitir qualquer processo de construção de consenso. O objetivo é resolver a _Tensão_ do proponente, e não satisfazer a todos.
-- **2. Perguntas.** Os participantes podem fazer perguntas ao proponente com o objetivo de melhor entender a _Tensão_ ou a proposta sendo apresentada.
-- **3. Reações.** Cada participante também pode expressar uma reação ou opinião em relação a proposta.
-- **4. Alteração.** Depois de ouvir as reações e perguntas, o proponente pode realizar mudanças na sua proposta.
-- **5. Objeções.** Cada participante pode levantar uma ou mais _Objeções_ em relação a proposta.
-- **6 Integração.** Se houverem _Objeções_, elas devem ser integradas à proposta, uma de cada vez. O objetivo é modificar a proposta para que ela resolva a _Tensão_ original, mas sem causar a _Objeção_ levantada. Se a proposta for alterada, o _Facilitador_ deve dar mais uma oportunidade para os participantes levantarem _Objeções_. Se uma proposta estiver levando muito tempo para integrar, o _Facilitador_ pode descartar a proposta inteiramente, a fim de passar para o próximo item da lista de _Tensões_.
+1. **Apresentação:** O participante que trouxe a _Tensão_ (o proponente) deve ser capaz de apresentar uma proposta para resolvê-la. De forma alternativa, o _Facilitador_ pode permitir que o proponente busque ajuda dos demais para construir a proposta. Se este for o caso, o _Facilitador_ não deve permitir qualquer processo de construção de consenso. O objetivo é resolver a _Tensão_ do proponente, e não satisfazer a todos.
+2. **Perguntas:** Os participantes podem fazer perguntas ao proponente com o objetivo de melhor entender a _Tensão_ ou a proposta sendo apresentada.
+3. **Reações:** Cada participante também pode expressar uma reação ou opinião em relação a proposta.
+4. **Alteração:** Depois de ouvir as reações e perguntas, o proponente pode realizar mudanças na sua proposta.
+5. **Objeções:** Cada participante pode levantar uma ou mais _Objeções_ em relação a proposta.
+6. **ntegração:** Se houverem _Objeções_, elas devem ser integradas à proposta, uma de cada vez. O objetivo é modificar a proposta para que ela resolva a _Tensão_ original, mas sem causar a _Objeção_ levantada. Se a proposta for alterada, o _Facilitador_ deve dar mais uma oportunidade para os participantes levantarem _Objeções_. Se uma proposta estiver levando muito tempo para integrar, o _Facilitador_ pode descartar a proposta inteiramente, a fim de passar para o próximo item da lista de _Tensões_.
 
 Cabe ao _Facilitador_ decidir como ou em que ordem exatamente os elementos acima serão apresentados. Outros elementos ou etapas podem ser acrescentadas, desde que não colidam com os elementos mínimos.
 
@@ -176,10 +176,10 @@ Para ser uma saída válida para o _Modo Adaptar_, a proposta deve ser composta 
 
 Uma _Objeção_ é uma razão pela qual a proposta causa mal e move o _Círculo_ para trás. O _Facilitador_ pode fazer perguntas para ajudar o objetor a entender se as suas _Objeções_ são válidas ou não. Uma objeção é considerada válida caso o objetor entenda que sua _Objeção_ atenda a todos 4 critérios a seguir:
 
-1. **Degradação**. A _Objeção_ é sobre algum mal que a proposta poderia causar ao _Círculo_. Este dano deve ser explicado.
-2. **Causalidade**. Este mal é causado pela proposta, ou seja, ele não existiria sem ela. Só assim a _Objeção_ pode ser válida.
-3. **Baseada em dados**. A _Objeção_ é baseada em dados atuais ou experiências passadas. Em outras palavras, não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o _Círculo_ não seria capaz de se adaptar no futuro, então este critério pode ser desconsiderado.
-4. **Relacionada ao Papéis**. A _Objeção_ afeta um dos _Papéis_ do objetor no _Círculo_.
+1. **Degradação**: A _Objeção_ é sobre algum mal que a proposta poderia causar ao _Círculo_. Este dano deve ser explicado.
+2. **Causalidade**: Este mal é causado pela proposta, ou seja, ele não existiria sem ela. Só assim a _Objeção_ pode ser válida.
+3. **Baseada em dados**: A _Objeção_ é baseada em dados atuais ou experiências passadas. Em outras palavras, não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o _Círculo_ não seria capaz de se adaptar no futuro, então este critério pode ser desconsiderado.
+4. **Relacionada ao Papéis**: A _Objeção_ afeta um dos _Papéis_ do objetor no _Círculo_.
 
 Ao validar _Objeções_, o _Facilitador_ não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis. _Objeções_ válidas são movidas para integração.
 
