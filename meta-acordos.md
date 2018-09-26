@@ -158,7 +158,7 @@ A _Tomada de Decisão Integrativa_ contém os seguintes elementos:
 3. **Reações:** Cada participante também pode expressar uma reação ou opinião em relação à proposta.
 4. **Alteração:** Depois de ouvir as reações e perguntas, o proponente pode realizar mudanças na sua proposta.
 5. **Objeções:** Cada participante pode levantar uma ou mais _Objeções_ em relação à proposta.
-6. **ntegração:** Se houverem _Objeções_, elas devem ser integradas à proposta, uma de cada vez. O objetivo é modificar a proposta para que ela resolva a _Tensão_ original, mas sem causar a _Objeção_ levantada. Se a proposta for alterada, o _Facilitador_ deve dar mais uma oportunidade para os participantes levantarem _Objeções_. Se uma proposta estiver levando muito tempo para integrar, o _Facilitador_ pode descartar a proposta inteiramente, a fim de passar para o próximo item da lista de _Tensões_.
+6. **Integração:** Se houverem _Objeções_, elas devem ser integradas à proposta, uma de cada vez. O objetivo é modificar a proposta para que ela resolva a _Tensão_ original, mas sem causar a _Objeção_ levantada. Se a proposta for alterada, o _Facilitador_ deve dar mais uma oportunidade para os participantes levantarem _Objeções_. Se uma proposta estiver levando muito tempo para integrar, o _Facilitador_ pode descartar a proposta inteiramente, a fim de passar para o próximo item da lista de _Tensões_.
 
 Cabe ao _Facilitador_ decidir como ou em que ordem exatamente os elementos acima serão apresentados. Outros elementos ou etapas podem ser acrescentadas, desde que não colidam com os elementos mínimos.
 
