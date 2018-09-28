@@ -269,7 +269,7 @@ O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados
 
 **Responsabilidades**:
 - Estruturar o _Círculo_ para expressar o seu _Propósito_
-- Atribuir pessoas aos _Papéis_ do _Círculo_; monitorar a adequação; oferecer feedback para melhorar a adequação; e re-atribuir _Papéis_ a outras pessoas, quando necessário
+- Atribuir _Parceiros_ aos _Papéis_ do _Círculo_; monitorar a adequação; oferecer feedback para melhorar a adequação; e re-atribuir _Papéis_ a outros _Parceiros_ quando necessário
 - Estabelecer prioridades para o _Círculo_
 
 **Artefatos**:
