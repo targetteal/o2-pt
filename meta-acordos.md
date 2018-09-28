@@ -238,9 +238,7 @@ As alterações realizadas nos _Papeis Essenciais_ de um _Círculo_ aplicam-se a
 
 ### 6.1 Elo Externo
 
-O _Elo Externo_ é escolhido pelo _Círculo_ externo, por qualquer processo que atribua pessoas a _Papéis_ no _Círculo_ externo.
-
-O _Elo Externo_ é responsável por atribuir pessoas aos _Papéis_ no _Círculo_ e pode convidar qualquer pessoa que é parte da organização, a não ser que uma _Restrição_ diga o contrário.
+O _Elo Externo_ é escolhido pelo _Círculo_ externo, por qualquer processo que atribua _Parceiros_ a _Papéis_ no _Círculo_ externo.
 
 O _Elo Externo_ detém todas as _Responsabilidades_ e _Artefatos_ não delegados do _Círculo_.
 
