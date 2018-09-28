@@ -177,7 +177,7 @@ Para ser uma saída válida para o _Modo Adaptar_, a proposta deve ser composta 
 Uma _Objeção_ é uma razão pela qual a proposta causa mal e move o _Círculo_ para trás. O _Facilitador_ pode fazer perguntas para ajudar o objetor a entender se as suas _Objeções_ são válidas ou não. Uma objeção é considerada válida caso o objetor entenda que sua _Objeção_ atenda a todos 4 critérios a seguir:
 
 1. **Degradação**: A _Objeção_ é sobre algum mal que a proposta poderia causar ao _Círculo_. Este dano deve ser explicado.
-2. **Causalidade**: Este mal é causado pela proposta, ou seja, ele não existiria sem ela. Só assim a _Objeção_ pode ser válida.
+2. **Causalidade**: Este mal é causado pela proposta, ou seja, ele não existiria sem ela. 
 3. **Baseada em dados**: A _Objeção_ é baseada em dados atuais ou experiências passadas. Em outras palavras, não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o _Círculo_ não seria capaz de se adaptar no futuro, então este critério pode ser desconsiderado.
 4. **Relacionada ao Papéis**: A _Objeção_ afeta um dos _Papéis_ do objetor no _Círculo_.
 
