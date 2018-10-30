@@ -156,7 +156,7 @@ Os [Parceiros](#parceiros) priorizem o seu trabalho em alinhamento com as priori
 Quando solicitado, [Parceiros](#parceiros) devem priorizar comparecer às [Reuniões de Círculo](#reunioes-de-circulo) em detrimento de trabalhar nos seus [Papéis](#papeis).
 
 ### <span id="dever-da-preservacao">3.9 Dever da preservação</span>
-Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem impactar os [Artefatos](#artefatos) de outros [Papéis](#papeis) contidos no mesmo [Círculo](#circulos), sem antes obter uma permissão explícita do [Parceiro](#parceiro) que desempenha o [Papel](#papel) correspondente. Os [Parceiros](#parceiros) também devem observar as [Restrições](#restricoes) definidas nos [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
+Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem impactar os [Artefatos](#papeis) de outros [Papéis](#papeis) contidos no mesmo [Círculo](#circulos), sem antes obter uma permissão explícita do [Parceiro](#parceiro) que desempenha o [Papel](#papel) correspondente. Os [Parceiros](#parceiros) também devem observar as [Restrições](#restricoes) definidas nos [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
 
 ## <span id="reunioes-de-circulo">4. Reuniões de Círculo</span>
 
@@ -331,7 +331,7 @@ O [Papel](#papeis) do "Elo Externo" possui a seguinte definição:
 - Atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) do [Círculo](#circulos); monitorar a adequação; oferecer feedback para melhorar a adequação; e re-atribuir [Papéis](#papeis) a outros [Parceiros](#parceiros), quando necessário
 - Estabelecer prioridades para o [Círculo](#circulos)
 
-O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#artefatos) não delegados do [Círculo](#circulos).
+O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#papeis) não delegados do [Círculo](#circulos).
 
 **Artefatos**:
 - Atribuição de [Papéis](#papeis) dentro do [Círculo](#circulos)
