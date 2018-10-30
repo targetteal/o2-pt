@@ -78,7 +78,7 @@ A "Organização" é uma entidade criada para expressar um [Propósito Evolutivo
 A [Organização](#organizacao) possui um "Propósito Evolutivo", que corresponde ao *potencial criativo mais profundo que pode expressar de forma sustentável no mundo*. O Propósito Evolutivo é o [Propósito](#papeis) do [Círculo](#circulos) mais amplo da [Estrutura Organizacional](#estrutura-organizacional).
 
 ### <span id="parceiros">1.2 Parceiros</span>
-A [Organização](#organizacao) pode ter um ou mais "Parceiros", que são pessoas que energizam [Papéis](#papeis) e expressam o [Propósito Evolutivo](#proposito-evolutivo). Todos os Parceiros se comprometem com os [Direitos e Deveres](#direitos-e-deveres) descritos nestes [Meta-Acordos](#meta-acordos).
+A [Organização](#organizacao) pode ter um ou mais "Parceiros", que são pessoas que energizam [Papéis](#papeis) e expressam o [Propósito Evolutivo](#proposito-evolutivo).
 
 ### <span id="relacao-parceiros-organizacao">1.3 Relação Parceiros-Organização</span>
 A [Organização](#organizacao) pode governar a sua a relação com os [Parceiros](#parceiros) como um [Artefato](#artefato), respeitando as restrições estabelecidas na [Camada Base](#camada-base).
@@ -108,7 +108,7 @@ Um [Círculo](#circulos) possui exatamente os mesmos componentes de um [Papel](#
 Um [Círculo](#circulos) não pode alterar os [Papéis](#papeis), [Círculos](#circulos) e [Restrições](#restricoes) de um [Círculo](#circulos) interno.
 
 ### <span id="artefatos-do-circulo">2.3 Artefatos do Círculo</span>
-Quando um [Círculo](#circulos) possui [Artefatos](#papeis) na sua definição, somente [Membros do Círculo](#membros-do-circulo) podem impactar estes [Artefatos](#papeis) sem violar o [Dever da Preservação](#dever-da-preservacao).
+Quando um [Círculo](#circulos) possui [Artefatos](#papeis) na sua definição, somente [Membros do Círculo](#membros-do-circulo) podem impactar estes [Artefatos](#papeis) sem violar o [Dever da preservação](#dever-da-preservacao).
 
 #### <span id="circulos-podem-delegar-artefatos">2.3.1 Círculos podem delegar Artefatos</span>
 Através do seu [Modo Adaptar](#modo-adaptar), um [Círculo](#circulos) pode especificar um de seus [Artefatos](#papeis) em um [Papel](#papeis]) ou [Círculo](#circulos) interno. Se isto for feito, aquele [Artefato](#artefato) passa a ser exclusivo do [Papel](#papeis]) ou [Círculo](#circulos) interno.
@@ -255,7 +255,7 @@ O processo de eleição dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-el
 
 O [Facilitador](#facilitador) deve facilitar um processo de eleição, considerando as seguintes diretrizes:
 
-- Todos e apenas os [Membros do Círculo](#membros-do-circulo) são elegíveis para os 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos), com a exceção do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) de [Elo Externo](#elo-externo), que não é elegível como [Facilitador](#facilitador) ou [Elo Interno](#elo-interno) do mesmo Círculo;
+- Todos e apenas os [Membros do Círculo](#membros-do-circulo) são elegíveis para os 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos), com a exceção do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) de [Elo Externo](#elo-externo), que não é elegível como [Facilitador](#facilitador) ou [Elo Interno](#elo-interno) do mesmo [Círculo](#circulos);
 - Se houver um empate, o [Facilitador](#facilitador) pode escolher um dos seguintes critérios para desempate:
 	- O [Parceiro](#parceiros) que nomeou a si mesmo, se apenas um dos candidatos empatados o fez;
 	- O [Parceiro](#parceiros) que já está desempenhando o [Papel](#papeis), se apenas um dos candidatos empatados está;
@@ -303,6 +303,7 @@ O [Elo Externo](#elo-externo) é responsável por atribuir [Parceiros](#parceiro
 O [Papel](#papeis) do "Facilitador" possui a seguinte definição:
 
 **Propósito**: _[Reuniões de Círculo](#reunioes-de-circulo) saudáveis e alinhadas com os [Meta-Acordos](#meta-acordos)_
+
 **Responsabilidades**:
 - Facilitar as [Reuniões de Círculo](#reunioes-de-circulo)
 
@@ -310,6 +311,7 @@ O [Papel](#papeis) do "Facilitador" possui a seguinte definição:
 O [Papel](#papeis) do "Secretário" possui a seguinte definição:
 
 **Propósito**: _Manutenção precisa dos registros de [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)_
+
 **Responsabilidades**:
 - Agendar [Reuniões de Círculo](#reunioes-de-circulo) regulares
 - Registar as saídas das [Reuniões de Círculo](#reunioes-de-circulo)
@@ -323,6 +325,7 @@ O [Papel](#papeis) do "Secretário" possui a seguinte definição:
 O [Papel](#papeis) do "Elo Externo" possui a seguinte definição:
 
 **Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
+
 **Responsabilidades**:
 - Estruturar o [Círculo](#circulos) para expressar o seu Propósito
 - Atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) do [Círculo](#circulos); monitorar a adequação; oferecer feedback para melhorar a adequação; e re-atribuir [Papéis](#papeis) a outros [Parceiros](#parceiros), quando necessário
@@ -337,6 +340,7 @@ O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#artefa
 O [Papel](#papeis) do "Elo Interno possui a seguinte definição:
 
 **Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
+
 **Responsabilidades**:
 - Buscar compreender [Tensões](#tensoes) trazidas pelos [Membros do Círculo](#membros-circulos), e processá-las quando apropriado no [Círculo](#circulos) externo
 - Fornecer visibilidade sobre a saúde do [Círculo](#circulos) para o [Círculo](#circulos) externo
