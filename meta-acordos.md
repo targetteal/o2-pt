@@ -1,287 +1,347 @@
-# Os Meta-Acordos¹ da Organização Orgânica
+# Os Meta-Acordos da Organização Orgânica
 
-1. [Prefácio](#prefácio)
+Organização Orgânica (O2) é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem práticas evolutivas (propósito, autogestão e integralidade). O O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões][biblioteca] em constante evolução.
+
+## <span id="meta-acordos">Meta-Acordos</span>
+
+Um "Meta-Acordo" é um acordo para formação de novos acordos. Neste documento, os Meta-Acordos da Organização Orgânica possuem um título de no máximo 50 caracteres e uma descrição limitada a 800 caracteres. Os Meta-Acordos possuem hiperligações uns com os outros para demonstrar sua interdependência.
+
+## <span id="camada-base">Camada Base</span>
+A "Camada Base" é um documento, processo ou conjunto de acordos que antecede os [Meta-Acordos](#meta-acordo). A "Camada Base" geralmente define quais Meta-Acordos estão válidos em uma [Organização](#organizacao) em um dado momento e também o processo para alterá-los. Cabe à Camada Base também definir o [Propósito Evolutivo](#proposito-evolutivo) da [Organização](#organizacao). Os Meta-Acordos não podem contradizer ou sobrescrever a Camada Base.
+
+> Exemplos de Camada Base incluem contrato social, estatuto ou acordo entre um grupo de pessoas que criam a entidade organizacional.
+
+## <span id="sumario">Sumário </span>
+
+1. [Organização](#organizacao)
+	2. [Propósito Evolutivo](#proposito-evolutivo)
+	3. [Parceiros](#parceiros)
+	4. [Relação Parceiros-Organização](relacao-parceiros-organizacao)
+	5. [Tensões](#tensoes)
 2. [Estrutura Organizacional](#estrutura-organizacional)
-3. [Direitos dos Parceiros](#direitos)
-4. [Deveres dos Parceiros](#deveres)
-5. [Reuniões de Círculo](#reuniões-de-círculo)
-6. [Papéis Essenciais](#papéis-essenciais)
+	2. [Papéis](#papeis)
+	3. [Círculos](#circulos)
+		1. [Círculos não se automodificam](#circulos-nao-se-automodificam)
+		2. [Círculos não governam seus Círculos internos](#circulos-nao-governam-seus-circulos-internos)
+	4. [Artefatos do Círculo](#artefatos-do-circulo)
+		1. [Círculos podem delegar Artefatos](#circulos-podem-delegar-artefatos)
+	5. [Membros do Círculo](#membros-do-circulo)
+	6. [Restrições](#restricoes)
+		1. [Restrições não estabelecem expectativas](#restrições-nao-estabelecem-expectativas)
+3. [Direitos e Deveres](#direitos-e-deveres)
+	1. [Direito de recusar pedidos](#direito-de-recusar-pedidos)
+	2. [Direito de agir para o Propósito](#direito-de-agir-para-o-proposito)
+	3. [Direito de agir heroicamente](#direito-de-agir-heroicamente)
+	4. [Direito de deixar Papéis](#direito-de-deixar-papeis)
+	5. [Dever da expressão](#dever-da-expressao)
+	6. [Dever da transparência](#dever-da-transparencia)
+	7. [Dever da priorização](#dever-da-priorizacao)
+	8. [Dever do comparecimento](#dever-do-comparecimento)
+	9. [Dever da preservação](#dever-da-preservacao)
+4. [Reuniões de Círculo](#reunioes-de-circulo)
+	1. [Somente Membros podem processar tensões](#somente-membros-podem-processar-tensoes)
+	2. [Formato da Reunião](#formato-da-reuniao)
+		1. [Lista de Tensões](#lista-de-tensoes)
+		2. [Uma Tensão de cada vez](#uma-tensao-de-cada-vez)
+	3. [Restrições de Facilitação](#restricoes-de-facilitacao)
+	4. [Modo Revisar](#modo-revisar)
+	5. [Modo Sincronizar](#modo-sincronizar)
+	6. [Modo Adaptar](#modo-adaptar)
+		1. [Proposta](#proposta)
+		2. [Apresentação de Exemplos](#apresentacao-de-exemplos)
+		3. [Objeções](#objecoes)
+		4. [Objeções Válidas](#objecoes-validas)
+		5. [Integração](#integracao)
+		6. [Quebra dos Meta-Acordos](#quebra-dos-meta-acordos)
+		7. [Propostas Assíncronas](#propostas-assincronas)
+	7. [Modo Selecionar](#modo-selecionar)
+		1. [Selecionar imediatamente](#selecionar-imediatamente)
+		2. [Selecionar apenas em Reuniões de Círculo](#selecionar-apenas-em-reunioes-de-circulo)
+		3. [Diretrizes do Modo Selecionar](#diretrizes-do-modo-selecionar)
+	8. [Modo Cuidar](#modo-cuidar)
+5. [Papéis Essenciais](#papeis-essenciais)
+	1. [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos)
+	2. [Alterações nos Papéis Essenciais](#alteracoes-nos-papeis-essenciais)
+		1. [Alterações nos Papéis Essenciais não propagam](#alteracoes-nos-papeis-essenciais-nao-propagam)
+	3.  [Escolha do Elo Externo](#escolha-do-elo-externo)
+	4. [Atribuição de Parceiros a Papéis](#atribuicao-de-parceiros-a-papeis)
+	5. [Facilitador](#facilitador)
+	6. [Secretário](#secretario)
+	7. [Elo Externo](#elo-externo)
+	8. [Elo Interno](#elo-interno)
+
+## <span id="organizacao">1. Organização</span></span>
 
-## 1. Prefácio
+A "Organização" é uma entidade criada para expressar um [Propósito Evolutivo](#proposito-evolutivo). Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
 
-**Organização Orgânica (O2)** é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelos seus **Meta-Acordos** descritos neste documento, além de uma [Biblioteca de Padrões](https://targetteal.com/o2/biblioteca/) em constante evolução.
+### <span id="proposito-evolutivo">1.1 <span id="proposito-evolutivo">Propósito Evolutivo</span></span>
+A [Organização](#organizacao) possui um "Propósito Evolutivo", que corresponde ao *potencial criativo mais profundo que pode expressar de forma sustentável no mundo*. O Propósito Evolutivo é o [Propósito](#papeis) do [Círculo](#circulos) mais amplo da [Estrutura Organizacional](#estrutura-organizacional).
 
-Todos os participantes de uma **Organização Orgânica**, denominados _Parceiros_, podem invocar os **Meta-Acordos** aqui apresentados e também concordam em se comprometer com eles.
+### <span id="parceiros">1.2 Parceiros</span>
+A [Organização](#organizacao) pode ter um ou mais "Parceiros", que são pessoas que energizam [Papéis](#papeis) e expressam o [Propósito Evolutivo](#proposito-evolutivo). Todos os Parceiros se comprometem com os [Direitos e Deveres](#direitos-e-deveres) descritos nestes [Meta-Acordos](#meta-acordos).
 
-> ¹ Meta-Acordos são acordos sobre a construção de novos acordos.
+### <span id="relacao-parceiros-organizacao">1.3 Relação Parceiros-Organização</span>
+A [Organização](#organizacao) pode governar a sua a relação com os [Parceiros](#parceiros) como um [Artefato](#artefato), respeitando as restrições estabelecidas na [Camada Base](#camada-base).
 
-## 2. Estrutura Organizacional
+### <span id="tensoes">1.4 Tensões</span>
+Ao perseguir o [Propósito](#papeis) de um ou mais [Papeis](#papeis), os [Parceiros](#parceiros) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões". As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito Evolutivo](#proposito-evoluito).
 
-**Organizações Orgânicas** têm uma _Estrutura Organizacional_ composta de _Papéis_, _Círculos_ e _Restrições_, que definem expectativas e limitações de autoridade. Estes elementos formam uma hierarquia de _Círculos_ e são descritos em detalhes nas seções seguintes.
+## <span id="estrutura-organizacional">2. Estrutura Organizacional</span>
 
-### 2.1 Papéis
+Os [Parceiros](#parceiros) poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](#circulos) e formada por [Papéis](#papeis) e [Restrições](#restricoes). Cada [Círculo](#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar](#modo-adaptar) da [Reunião de Círculo](#reuniao-de-circulo).
 
-Os _Parceiros_ da organização normalmente executam o trabalho em um ou mais _Papéis_ explicitamente definidos.
+### <span id="papeis">2.1 Papéis</span>
+Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" explicitamente definidos na [Estrutura Organizacional](#estrutura-organizacional). Um Papel é composto por:
 
-Um _Papel_ é uma parte da _Estrutura Organizacional_ composto de:
+- Um nome descritivo;
+- Um "Propósito", que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
+- Zero ou mais "Responsabilidades", que são atividades contínuas que outros [Parceiros](#parceiros) podem esperar que o Papel irá executar;
+- Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](#organizacao).
 
-- Um nome descritivo (obrigatório);
-- Um _Propósito_, que é uma capacidade, potencial ou objetivo inalcançável que o _Papel_ irá perseguir ou expressar (obrigatório);
-- _Responsabilidades_, que são atividades recorrentes que outros podem esperar que o _Papel_ irá executar (opcional);
-- _Artefatos_, que são as coisas que o _Papel_ pode exclusivamente controlar e regular para a organização (opcional).
+### <span id="circulos">2.2 Círculos</span>
+No interior de cada [Papel](#papel) há um "Círculo", que passa a existir no momento que o(s) [Parceiro(s)](#parceiros) que o desempenham decidem realizar uma [Reunião de Círculo](#reuniao-de-circulo) e criar [Papéis](#papeis) internos através do [Modo Adaptar](#modo-adaptar). Quando isto acontece, estes [Parceiros](#parceiros) tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). Este [Meta-Acordo](#meta-acordos) não se aplica aos [Papéis Essenciais](#papeis-essenciais).
 
-### 2.2 Círculos
+#### <span id="circulos-nao-se-automodificam">2.2.1 Círculos não se automodificam</span>
+Um [Círculo](#circulos) possui exatamente os mesmos componentes de um [Papel](#papeis) (nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis)). Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [Restrições](#restricoes), mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo](#circulos) externo que contém este [Círculo](#circulos).
 
-_Círculos_ são estruturas análogas a _Papéis_, e portanto têm as mesmas propriedades descritas na seção [Papéis](#papéis).
+#### <span id="circulos-nao-governam-seus-circulos">2.2.2 Círculos não governam seus Círculos internos</span>
+Um [Círculo](#circulos) não pode alterar os [Papéis](#papeis), [Círculos](#circulos) e [Restrições](#restricoes) de um [Círculo](#circulos) interno.
 
-_Círculos_ podem conter _Papéis_ e _Círculos_ internos, que podem conter os seus próprios _Papéis_ e _Círculos_ internos, e assim por diante. A estrutura é fractal. Pela perspectiva de um _Círculo_ externo, os seus _Círculos_ internos são como _Papéis_ que têm a habilidade adicional de dividirem-se.
+### <span id="artefatos-do-circulo">2.3 Artefatos do Círculo</span>
+Quando um [Círculo](#circulos) possui [Artefatos](#papeis) na sua definição, somente [Membros do Círculo](#membros-do-circulo) podem impactar estes [Artefatos](#papeis) sem violar o [Dever da Preservação](#dever-da-preservacao).
 
-As propriedades dos _Círculos_ (nome, _Propósito_, _Responsabilidades_ e _Artefatos_) só podem ser alteradas no _Modo Adaptar_ da _Reunião de Círculo_ que contém este _Círculo_.
+#### <span id="circulos-podem-delegar-artefatos">2.3.1 Círculos podem delegar Artefatos</span>
+Através do seu [Modo Adaptar](#modo-adaptar), um [Círculo](#circulos) pode especificar um de seus [Artefatos](#papeis) em um [Papel](#papeis]) ou [Círculo](#circulos) interno. Se isto for feito, aquele [Artefato](#artefato) passa a ser exclusivo do [Papel](#papeis]) ou [Círculo](#circulos) interno.
 
-Um _Artefato_ de um _Círculo_ pode ser acessado por todos os _Membros do Círculo_, exceto se este _Artefato_ for delegado a um _Papel_ ou _Círculo_ interno neste mesmo _Círculo_.
+### <span id="membros-do-circulo">2.4 Membros do Círculo</span>
+[Parceiros](#parceiros) são considerados "Membros" de um determinado [Círculo](#circulo]) quando atenderem pelo menos um dos critérios abaixo:
 
-A própria organização é o _Círculo_ mais amplo na estrutura, contendo todos os outros.
+- Desempenham pelo menos um [Papel](#papeis) definido no [Círculo](#circulos);
+- Desempenham pelo menos um dos [Papéis Essenciais](#papeis-essenciais) no [Círculo](#circulos);
+- Desempenham o [Papel](#papeis) de [Elo Externo](#elo-externo) ou [Elo Interno](#elo-interno) em pelo menos um dos [Círculos](#circulos) internos ao [Círculo](#circulos).
 
-_Círculos_ internos são criados com o propósito de manter as _Reuniões de Círculo_ com um número gerenciável de participantes e foco claro.
+### <span id="restricoes">2.5 Restrições</span>
 
-São _Membros do Círculo_ todas os _Parceiros_ que:
- - Desempenham pelo menos um _Papel_ no _Círculo_;
- - Desempenham o _Papel_ de _Elo Externo_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
- - Desempenham o _Papel_ de _Elo Interno_ em pelo menos um dos _Círculos_ internos ao _Círculo_;
+"Restrições" são limitações de autoridade que aplicam-se a todos os [Papéis](#papeis) de um [Círculo](#circulos). Restrições são compostas por um nome e uma descrição. A não ser que de outra forma especificado em sua descrição, o efeito de uma Restrição se aplica a todos os [Papéis](#papeis) e [Círculos](#circulos) internos ao [Círculo](#circulos) onde ela é definida. Uma Restrição é parte de um [Círculo](#circulos), assim como um [Papel](#papeis) ou [Círculo](#circulos) interno.
 
-### 2.3 Restrições
+### <span id="restricoes-nao-estabelecem-expectativas">2.5.1 Restrições não estabelecem expectativas</span>
 
-_Restrições_ são limitações de autoridade que aplicam-se a todos os _Papéis_ de um dado _Círculo_. _Restrições_ são compostas de um título e uma descrição (ambos obrigatórios) e propagam-se para todos os _Círculos_ internos, a não ser que de outra forma especificado na sua descrição.
+[Restrições](#restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#papeis). Ainda assim, uma [Restrição](#restricao) pode exigir ação, mas apenas para [Parceiros](#parceiros) em que a [Restrição](#restricao) se aplica na condição específica que desencadeia ela.
 
-_Restrições_ não podem estabelecer expectativas, porque este é o propósito de uma _Responsabilidade_. Ainda assim, uma _Restrição_ pode exigir uma ação, mas apenas para indivíduos em que a _Restrição_ se aplica na condição específica que desencadeia ela.
+## <span id="direitos-e-deveres">3. Direitos e Deveres</span>
+Todos os Parceiros podem usufruir dos "Direitos" e devem se comprometer com os "Deveres" apresentados abaixo.
 
-### 2.4 Evolução da Estrutura
+### <span id="direito-de-recusar-pedidos">3.1 Direito de recusar pedidos</span>
+[Parceiros](#parceiros) podem recusar pedidos, caso não exista uma [Responsabilidade](#papeis) explícita correspondente na descrição do [Papel](#papel) sendo solicitado. Entretanto, os [Parceiros](#parceiros) devem sempre aceitar os pedidos que fizerem sentido para o [Propósito](#papeis) de algum dos seus [Papéis](#papeis), mesmo que nenhuma [Responsabilidade](#papeis) explícita esteja registrada.
 
-Todos os elementos que são parte da _Estrutura Organizacional_ do _Círculo_ descritos nesta seção (_Papéis_, _Círculos_ e _Restrições_) somente podem ser atualizados no _Modo Adaptar_ da sua _Reunião de Círculo_.
+### <span id="direito-de-agir-para-o-proposito">3.2 Direito de agir para o Propósito</span>
+Ao perseguir o [Propósito](#papeis) dos seus [Papéis](#papeis), os [Parceiros](#parceiros) estão sempre autorizados a tomar ação, a não ser que o [Dever da Preservação](#dever-da-preservacao) os restrinja.
 
-## 3. Direitos dos Parceiros
+### <span id="direito-de-agir-heroicamente">3.3 Direito de agir heroicamente</span>
+[Parceiros](#parceiros) podem temporariamente ignorar estes Meta-Acordos se isto for útil e necessário para expressar o [Propósito Evolutivo](#proposito-evolutivo) da [Organização](#organizacao). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heróicos". Os [Parceiros](#parceiros) devem buscar reparar quaisquer danos causados após um Ato Heróico, propondo mudanças na [Estrutura Organizacional](#estrutura-organizacional) ou até nestes [Meta-Acordos](#meta-acordos) se necessário.
 
-Os _Parceiros_ da organização têm dois direitos básicos descritos nesta seção:
+### <span id="direito-de-deixar-papeis">3.4 Direito de deixar Papéis</span>
+[Parceiros](#parceiros) podem a qualquer momento deixar [Papéis](#papeis) que desempenham em um ou mais [Círculos](#circulos), a não ser que tenham de outra forma acordado com o [Elo Externo](#elo-externo) ou outro mecanismo que atribua [Parceiros](#parceiros) a [Papéis](#papeis).
 
-### 3.1 Sem expectativas implícitas
+### <span id="dever-da-expressao">3.5 Dever da expressão</span>
+Cada [Parceiro](#parceiros) é responsável por identificar suas [Tensões](#tensoes) a partir de cada [Papel](#papel) que desempenha. Cada [Parceiro](#parceiros) também é responsável por tentar resolver essas [Tensões](#tensoes), engajando outros [Parceiros](#parceiros) em seus [Deveres](#direitos-e-deveres) ou propondo mudanças nos [Estrutura Organizacional](#estrutura-organizacional).
 
-_Parceiros_ podem recusar pedidos, caso não exista uma _Responsabilidade_ explícita correspondente na descrição do _Papel_ sendo solicitado. Entretanto, os _Parceiros_ devem sempre aceitar os pedidos que fizerem sentido para o _Propósito_ de algum dos seus _Papéis_, mesmo que nenhuma _Responsabilidade_ explícita esteja registrada.
+### <span id="dever-da-transparencia">3.6 Dever da transparência</span>
+Quando solicitado, é esperado que os [Parceiros](#parceiros) compartilhem todas as informações relevantes sobre o trabalho de seus [Papéis](#papel), incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros](#parceiros) dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
-### 3.2 Autoridade para agir
+### <span id="dever-da-priorizacao">3.7 Dever da priorização</span>
+Os [Parceiros](#parceiros) priorizem o seu trabalho em alinhamento com as prioridades do [Círculo](#circulos) definidas pelo [Elo Externo](#elo-externo) ou por qualquer outro processo que estabeleça prioridades para o [Círculo](#circulos).
 
-Ao perseguir o _Propósito_ dos seus _Papéis_, os _Parceiros_ da organização estão sempre autorizados a tomar ação, a não ser que um _Artefato_ ou _Restrição_ diga o contrário.
+### <span id="dever-do-comparecimento">3.8 Dever do comparecimento</span>
+Quando solicitado, [Parceiros](#parceiros) devem priorizar comparecer às [Reuniões de Círculo](#reunioes-de-circulo) em detrimento de trabalhar nos seus [Papéis](#papeis).
 
-## 4. Deveres dos Parceiros
+### <span id="dever-da-preservacao">3.9 Dever da preservação</span>
+Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem impactar os [Artefatos](#artefatos) de outros [Papéis](#papeis) contidos no mesmo [Círculo](#circulos), sem antes obter uma permissão explícita do [Parceiro](#parceiro) que desempenha o [Papel](#papel) correspondente. Os [Parceiros](#parceiros) também devem observar as [Restrições](#restricoes) definidas nos [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
 
-Os _Parceiros_ da organização têm alguns deveres básicos uns com os outros:
+## <span id="reunioes-de-circulo">4. Reuniões de Círculo</span>
 
-### 4.1 Expressar Papéis
+[Membros do Círculo](#membros-do-circulo) regularmente se encontram em um espaço chamado "Reunião de Círculo" para executar um ou mais dos 5 "Modos" especiais de reunião descritos na seção seguinte: [Revisar](#modo-revisar), [Sincronizar](#modo-sincronizar), [Adaptar](#modo-adaptar), [Selecionar](#modo-selecionar) e [Cuidar](#modo-cuidar). Reuniões de Círculo são agendadas pelo [Secretário](#secretario) e facilitadas pelo [Facilitador](#facilitador), dois [Papéis Essenciais](#papeis-essenciais).
 
-Cada _Parceiro_ é responsável por monitorar como o _Propósito_ e as _Responsabilidades_ dos seus _Papéis_ são expressos, e comparar com a sua visão de sua expressão potencial ideal. Os _Parceiros_ devem identificar as lacunas entre a realidade atual e um potencial que sentem, cada lacuna sendo chamada de uma _Tensão_.
+### <span id="somente-membros-podem-processar-tensoes">4.1 Somente Membros podem processar tensões</span>
 
-Os _Parceiros_ são responsáveis por tentar resolver essas _Tensões_, utilizando as autoridades e outros mecanismos disponibilizados por estes **Meta-Acordos**.
+[Parceiros](#parceiros) que não são [Membros do Círculo](#membros-do-circulo) não podem processar [Tensões](#tensoes) nas [Reuniões do Círculo](#reunioes-do-circulo), a não ser que sejam convidadas por um [Membro do Círculo](#membro-do-circulo) para ajudar no processamento de uma [Tensão](#tensoes) específica.
 
-### 4.2 Transparência
+### <span id="formato-de-reuniao">4.2 Formato da Reunião</span>
 
-Quando solicitado, é esperado que os _Parceiros_ compartilhem todas as informações relevantes sobre o trabalho de seus _Papéis_, incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes.
+As [Reuniões de Círculo](#reunioes-de-circulo) devem começar com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro. O [Facilitador](#facilitador) preenche o encontro com um ou mais dos 5 odos, de acordo com o tempo disponível e as necessidades do [Círculo](#circulos). O [Facilitador](#facilitador) deve declarar o nome, objetivo e esclarecer as regras de cada modo antes de iniciá-lo. As [Reuniões de Círculo](#reunioes-de-circulo) terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
 
-Mediante solicitação, também é esperado que os _Parceiros_ dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
+#### <span id="lista-de-tensoes">4.2.1 Lista de Tensões</span>
 
-### 4.3 Priorização
+Os diferentes Modos são utilizados para processar [Tensões](#tensoes) específicas sentidas pelos participantes. Especialmente antes de [Sincronizar](#sincronizar) e [Adaptar](#adaptar), o [Facilitador](#facilitador) deve pedir para o [Secretário](#secretario) construir uma "Lista de Tensões" a processar. Cada pessoa sentindo uma [Tensão](#tensoes) deve nomeá-la usando duas ou três palavras. O [Secretário](#secretario) então registra o nome da [Tensão](#tensoes), juntamente com o nome do participante.
 
-É esperado que os _Parceiros_ priorizem o seu trabalho em alinhamento com as prioridades do _Círculo_ definidas pelo _Elo Externo_, ou por qualquer outro processo que defina prioridades.
+#### <span id="uma-tensao-de-cada-vez">4.2.2 Uma Tensão de cada vez</span>
 
-### 4.4 Reuniões de Círculo
+Depois que a lista de [Tensões](#tensoes) for construída, o [Facilitador](#facilitador) deve focar em uma [Tensão](#tensoes) de cada vez. Isto significa que o [Facilitador](#facilitador) não deve permitir que outros participantes tentem incluir suas perspectivas na [Tensão](#tensoes) sendo processada, a não ser que o participante que sentiu a [Tensão](#tensoes) originalmente acredite que aquela perspectiva seja útil.
 
-Quando solicitado por outros _Membros do Círculo_, _Parceiros_ devem priorizar comparecer às _Reuniões de Círculo_ ao invés de trabalhar nos seus _Papéis_.
+### <span id="restricoes-de-facilitacao">4.3 Restrições de Facilitação</span>
 
-## 5. Reuniões de Círculo
+Durante a facilitação dos Modos, o [Facilitador](#facilitador) pode fazer escolhas de que padrões utilizar e como conduzir cada momento. No entanto, o [Facilitador](#facilitador) deve sempre manter as suas escolhas alinhadas com o objetivo do Modo e as necessidades do [Círculo](#circulos). Um [Círculo](#circulos) pode também adotar uma ou mais [Restrições](#restricoes) que limitem como os Modos são conduzidos. O [Facilitador](#facilitador) deve respeitar estas limitações.
 
-_Membros do Círculo_ regularmente se encontram em um espaço chamado _Reunião de Círculo_ para executar um ou mais dos 5 modos especiais de reunião descritos na seção seguinte: _Revisar_, _Sincronizar_, _Adaptar_, _Selecionar_ e _Cuidar_.
+### <span id="modo-revisar">4.4 Modo Revisar</span>
 
-_Reuniões de Círculo_ são agendadas pelo _Secretário_ e facilitadas pelo _Facilitador_, dois _Papéis Essenciais_ descritos no final deste documento.
+O "Modo Revisar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *dar transparência ao trabalho realizado pelo [Círculo](#circulos)*. Cabe ao [Facilitador](#facilitador) decidir como especificamente o [Modo Revisar](#modo-revisar) é conduzido, exceto se uma [Restrição](#restricoes) determinar o contrário.
 
-Pessoas que não são _Membros do Círculo_ não estão autorizadas a processar _Tensões_ nas _Reuniões do Círculo_, a não ser que sejam convidadas por um _Membro do Círculo_ para ajudar no processamento de uma _Tensão_ específica.
+> Veja os **Padrões para Revisar** na [Biblioteca de Padrões][biblioteca].
 
-### 5.1 Formato da Reunião
+### <span id="modo-sincronizar">4.5 Modo Sincronizar</span>
 
-As _Reuniões de Círculo_ começam com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro.
+O "Modo Sincronizar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *rapidamente processar [Tensões](#tensoes) que não exigem o [Círculo](#circulos) atualizar a sua [Estrutura Organizacional](#estrutura-organizacional)*. Saídas típicas do _Modo Sincronizar_ incluem ações, projetos, pedidos de ajuda e compartilhamento de informações. O [Facilitador](#facilitador) deve simplesmente permitir que cada participante que trouxe uma [Tensão](#tensoes) engaje os outros nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres), até que um caminho para resolver a [Tensão](#tensoes) seja identificado. O [Secretário](#secretario) deve registrar quaisquer pedidos aceitos pelos outros participantes em seus [Papéis](#papeis) ou como Atos Heróicos.
 
-O _Facilitador_ preenche a reunião com um ou mais dos 5 modos, de acordo com o tempo disponível e as necessidades do _Círculo_. O _Facilitador_ deve declarar o nome, objetivo e esclarecer as regras de cada modo antes de iniciá-lo.
+> Veja os **Padrões para Revisar** na [Biblioteca de Padrões][biblioteca].
 
-As _Reuniões de Círculo_ terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
+### <span id="modo-adaptar">4.6 Modo Adaptar</span>
 
-### 5.2 Lista de Tensões
+O "Modo Adaptar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *processar [Tensões](#tensoes) em mudanças na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)*. As únicas saídas válidas e permitidas no [Modo Adaptar](#modo-adaptar) são:
 
-Os diferentes modos de reunião são utilizados para processar _Tensões_ específicas sentidas pelos participantes. Especialmente antes de _Sincronizar_ e _Adaptar_, o _Facilitador_ deve pedir para o _Secretário_ construir uma lista de _Tensões_ a processar. Cada pessoa sentindo uma _Tensão_ deve nomeá-la usado duas ou três palavras em voz alta. O _Secretário_ então registra o nome da _Tensão_, juntamente com o nome do participante. O _Facilitador_ não deve dar espaço ou permitir que os participantes expliquem a _Tensão_ durante o processo de construção da lista.
+- Adicionar, remover ou alterar [Papeís](#papeis) do [Círculo](#circulos);
+- Adicionar, remover ou alterar [Círculos](#circulos) internos;
+- Adicionar, remover ou alterar [Restrições](#restricoes) do [Círculo](#circulos);
+- Mover seus [Papéis](#papeis), [Restrições](#restricoes) ou [Círculos](#circulos) internos para um [Círculo](#circulos) interno;
+- Mover [Papéis](#papeis), [Restrições](#restricoes) ou [Círculos](#circulos) de um [Círculo](#circulos) interno para si.
 
-Depois que a lista de _Tensões_ for construída, o _Facilitador_ deve focar em uma _Tensão_ de cada vez. Isto significa que o _Facilitador_ não deve permitir que outros participantes tentem incluir suas perspectivas na _Tensão_ sendo processada, a não ser que o participante que sentiu a _Tensão_ originalmente acredite que aquela perspectiva seja útil.
+#### <span id="proposta">4.6.1 Proposta</span>
 
-### 5.3 Modo Revisar
+Durante o [Modo Adaptar](#modo-adaptar), o [Facilitador](#facilitador) deve facilitar um processo que permita ao participante que trouxe a [Tensão](#tensoes), o "Proponente", construir uma "Proposta" para resolvê-la. Esta Proposta deve conter somente as operações descritas como saídas válidas do [Modo Adaptar](#modo-adaptar).
 
-O objetivo do _Modo Revisar_ é dar transparência sobre o trabalho do _Círculo_.
+#### <span id="apresentacao-de-exemplos">4.6.2 Apresentação de Exemplos </span>
 
-Cabe ao _Facilitador_ decidir como especificamente o _Modo Revisar_ é conduzido, exceto se uma _Restrição_ determinar o contrário.
+O [Proponente](#proponente) de uma mudança na [Estrutura Organizacional](#estrutura-organizacional) deve ser capaz de apresentar exemplos de situações passadas ou presentes onde cada parte da [Proposta](#proposta) construída resolveria ou reduziria a [Tensão](#tensoes). Se o [Facilitador](#facilitador) considerar que o [Proponente](#proponente) não foi capaz de apresentar exemplos e esclarecimentos, o [Facilitador](#facilitador) deve descartar a [Proposta](#proposta). No entanto, o [Facilitador](#facilitador) não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
 
-Sugestões detalhadas podem ser encontradas na **Biblioteca de Padrões**.
+#### <span id="objecoes">4.6.3 Objeções</span>
 
-### 5.4 Modo Sincronizar
+O [Facilitador](#facilitador) deve permitir que cada participante tenha a oportunidade de levantar uma ou mais "Objeções" à [Proposta](#proposta) apresentada. Uma Objeção é uma razão pela qual a [Proposta](#proposta) causa mal e move o [Círculo](#circulos) para trás. O [Facilitador](#facilitador) pode fazer perguntas para ajudar o "Objetor" a entender se o que ele trouxe são "Objeções Válidas" ou não.
 
-O objetivo do _Modo Sincronizar_ é rapidamente processar _Tensões_ que não exigem o _Círculo_ atualizar a sua _Estrutura Organizacional_. Saídas típicas do _Modo Sincronizar_ incluem ações, projetos, pedidos de ajuda e compartilhamento de informações.
+#### <span id="objecoes-validas">4.6.4 Objeções Válidas</span>
 
-Depois que a lista de _Tensões_ é construída, o _Facilitador_ deve passar por ela e processar uma de cada vez, tentando ajudar a pessoa que trouxe a _Tensão_ conseguir o que ele ou ela precisa.
+Uma [Objeção](#objecoes) a uma [Proposta](#proposta) de mudança na [Estrutura Organizacional](#estrutura-organizacional) é considerada válida caso o [Objetor](#objecoes) acredite que ela atenda a todos os 4 critérios a seguir:
 
-O _Facilitador_ deve simplesmente permitir que quem trouxe a _Tensão_ engaje os outros nos seus _Papéis_ e deveres, até que um caminho para resolver a _Tensão_ seja identificado.
+1. **Degradação**. A [Objeção](#objecoes) é sobre algum mal que a [Proposta](#proposta) poderia causar ao [Círculo](#circulos).
+2. **Causalidade**. Este mal é causado pela [Proposta](#proposta), ou seja, ele não existiria sem ela.
+3. **Baseada em dados**. A [Objeção](#objecoes) é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o [Círculo](#circulos) não seria capaz de se adaptar no futuro, então este critério pode ser desconsiderado.
+4. **Relacionada ao Papéis**. A [Objeção](#objecoes) afeta um dos [Papéis](#papeis) do [Objetor](#objecoes) no [Círculo](#circulos).
 
-O _Facilitador_ deve tentar dar tempo ao processamento de cada _Tensão_ da lista dentro do _Modo Sincronizar_, e para fazer isso pode cortar o processamento de qualquer _Tensão_ que esteja tomando mais do que a sua devida parcela do tempo restante.
+Ao validar [Objeções](#objecoes), o [Facilitador](#facilitador) não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis. [Objeções](#objecoes) válidas devem ser integradas.
 
-O _Secretário_ então registra quaisquer pedidos aceitos pelos outros participantes.
+#### <span id="integracao">4.6.5 Integração </span>
 
-A estrutura do _Modo Sincronizar_ pode ser alterada inteiramente com uma _Restrição_, desde que o objetivo original seja mantido.
+Se houverem [Objeções](#objecoes), o [Facilitador](#facilitador) deve facilitar um processo para integrá-las à proposta, uma de cada vez. O objetivo da "Integração" é modificar a [Proposta](#proposta) para que ela resolva a [Tensão](#tensoes) original, mas sem causar a [Objeção](#objecoes) levantada. Se a [Proposta](#proposta) for alterada, o [Facilitador](#facilitador) deve dar mais uma oportunidade para os participantes levantarem [Objeções](#objecoes). Se uma [Proposta](#proposta) estiver levando muito tempo para integrar, o [Facilitador](#facilitador) pode descartar a [Proposta](#proposta) inteiramente, a fim de passar para o próximo item da [Lista de Tensões](#lista-de-tensoes).
 
-### 5.5 Modo Adaptar
+#### <span id="quebra-dos-meta-acordos">4.6.6 Quebra dos Meta-Acordos</span>
 
-O objetivo do _Modo Adaptar_ é processar _Tensões_ em mudanças na _Estrutura Organizacional_ do _Círculo_. Estas mudanças podem incluir:
+Qualquer participante pode levantar uma [Objeção](#objecoes) de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta](#proposta) viola uma das regras descritas nestes [Meta-Acordos](#meta-acordos). O [Facilitador](#facilitador) deve então pedir ao [Secretário](#secretario) que interprete se isto é verdadeiro ou não. Esta [Objeção](#objecoes) especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
 
-- Adicionar, remover ou alterar _Papeís_ do _Círculo_;
-- Adicionar, remover ou alterar _Círculos_ internos (apenas as suas propriedades);
-- Adicionar, remover ou alterar _Restrições_ do _Círculo_;
+#### <span id="propostas-assincronas">4.6.7 Propostas Assíncronas</span>
 
-Depois que a lista de _Tensões_ for construída, o _Facilitador_ deve guiar a resolução de cada _Tensão_ da lista usando a _Tomada de Decisão Integrativa_.
+Alterações na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos) podem ser propostas fora da [Reunião de Círculo](#reuniao-de-circulo) e são automaticamente aprovadas se todos os [Membros do Círculo](#membros-do-circulo) declararem que não têm qualquer [Objeção](#objecoes). Se qualquer [Objeção](#objecoes) for levantada ou um participante declarar que gostaria de tratar a [Tensão](#tensoes) de forma convencional, a [Proposta](#proposta) deve ser escalada para o [Modo Adaptar](#modo-adaptar) de uma Reunião de [Círculo](#circulos) convencional. Cabe ao [Secretário](#secretario) definir como e onde as Propostas Síncronas podem ser apresentadas.
 
-#### 5.5.1 Tomada de Decisão Integrativa
+### <span id="modo-selecionar">4.7 Modo Selecionar</span>
 
-A _Tomada de Decisão Integrativa_ contém as seguintes etapas:
+O "Modo Selecionar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *escolher [Membros do Círculo](#membros-do-circulo) para desempenharem um ou mais dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos)*.
 
-1. **Apresentação:** O participante que trouxe a _Tensão_ (o proponente) deve ser capaz de apresentar uma proposta para resolvê-la. De forma alternativa, o _Facilitador_ pode permitir que o proponente busque ajuda dos demais para construir a proposta. Se este for o caso, o _Facilitador_ não deve permitir qualquer processo de construção de consenso. O objetivo é resolver a _Tensão_ do proponente, e não satisfazer a todos.
-2. **Perguntas:** Os participantes podem fazer perguntas ao proponente com o objetivo de melhor entender a _Tensão_ ou a proposta sendo apresentada.
-3. **Reações:** Cada participante também pode expressar uma reação ou opinião em relação à proposta.
-4. **Alteração:** Depois de ouvir as reações e perguntas, o proponente pode realizar mudanças na sua proposta.
-5. **Objeções:** Cada participante pode levantar uma ou mais _Objeções_ em relação à proposta.
-6. **Integração:** Se houverem _Objeções_, elas devem ser integradas à proposta, uma de cada vez. O objetivo é modificar a proposta para que ela resolva a _Tensão_ original, mas sem causar a _Objeção_ levantada. Se a proposta for alterada, o _Facilitador_ deve dar mais uma oportunidade para os participantes levantarem _Objeções_. Se uma proposta estiver levando muito tempo para integrar, o _Facilitador_ pode descartar a proposta inteiramente, a fim de passar para o próximo item da lista de _Tensões_.
+#### <span id="selecionar-imediatamente">4.7.1 Selecionar imediatamente</span>
 
-Cabe ao _Facilitador_ decidir como ou em que ordem as etapas acima serão apresentadas. Outras etapas podem ser acrescentadas, desde que não colidam ou anulem as definidas acima.
+Qualquer [Membro do Círculo](#membro-do-circulo) pode pedir para o [Facilitador](#facilitador) pular para o [Modo Selecionar](#modo-selecionar) e realizar uma eleição para um ou mais dos [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos). Se este for o caso, o [Facilitador](#facilitador) deve fazer isso imediatamente.
 
-#### 5.5.2 Apenas propostas baseadas em exemplos
+#### <span id="selecionar-apenas-em-reunioes-de-circulo">4.7.2 Selecionar apenas em Reuniões de Círculo</span>
 
-O proponente deve ser capaz de explicá-la e dar um exemplo de uma situação passada ou presente onde cada parte da proposta construída resolveria ou reduziria a _Tensão_.
+O processo de eleição dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos) deve ser feito apenas dentro de uma [Reunião de Círculo](#reuniao-de-circulo).
 
-Se o _Facilitador_ considerar que o proponente não foi capaz de apresentar exemplos e esclarecimentos, o _Facilitador_ deve descartar a proposta. No entanto, o _Facilitador_ não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
+#### <span id="diretrizes-do-modo-selecionar">4.7.3 Diretrizes do Modo Selecionar</span>
 
-#### 5.5.3 Apenas mudanças na Estrutura Organizacional
+O [Facilitador](#facilitador) deve facilitar um processo de eleição, considerando as seguintes diretrizes:
 
-Para ser uma saída válida para o _Modo Adaptar_, a proposta deve ser composta apenas de mudanças na _Estrutura Organizacional_ do _Círculo_. Se este não for o caso, qualquer participante pode levantar uma _Objeção de Violação dos Meta-Acordos_.
+- Todos e apenas os [Membros do Círculo](#membros-do-circulo) são elegíveis para os 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos), com a exceção do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) de [Elo Externo](#elo-externo), que não é elegível como [Facilitador](#facilitador) ou [Elo Interno](#elo-interno) do mesmo Círculo;
+- Se houver um empate, o [Facilitador](#facilitador) pode escolher um dos seguintes critérios para desempate:
+	- O [Parceiro](#parceiros) que nomeou a si mesmo, se apenas um dos candidatos empatados o fez;
+	- O [Parceiro](#parceiros) que já está desempenhando o [Papel](#papeis), se apenas um dos candidatos empatados está;
+	- Aleatoriamente escolher um dos candidatos empatados.
 
-#### 5.5.4 Objeções
+> Veja os **Padrões para Selecionar** na na [Biblioteca de Padrões][biblioteca].
 
-Uma _Objeção_ é uma razão pela qual a proposta causa mal e move o _Círculo_ para trás. O _Facilitador_ pode fazer perguntas para ajudar o objetor a entender se as suas _Objeções_ são válidas ou não. Uma objeção é considerada válida caso o objetor entenda que sua _Objeção_ atenda a todos 4 critérios a seguir:
+### <span id="modo-cuidar">4.8 Modo Cuidar</span>
 
-1. **Degradação**: A _Objeção_ é sobre algum mal que a proposta poderia causar ao _Círculo_. Este dano deve ser explicado.
-2. **Causalidade**: Este mal é causado pela proposta, ou seja, ele não existiria sem ela.
-3. **Baseada em dados**: A _Objeção_ é baseada em dados atuais ou experiências passadas. Em outras palavras, não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o _Círculo_ não seria capaz de se adaptar no futuro, então este critério pode ser desconsiderado.
-4. **Relacionada ao Papéis**: A _Objeção_ afeta um dos _Papéis_ do objetor no _Círculo_.
+O "Modo Cuidar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *tomar conta do espaço tribal e nutrir a qualidade das relações entre os participantes*. Este modo não deve ser utilizado para fazer alterações na [Estrutura Organizacional](#modo-cuidar) do [Círculo](#circulos) ou engajar os [Parceiros](#parceiros) nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres).
 
-Ao validar _Objeções_, o _Facilitador_ não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis. _Objeções_ válidas são movidas para integração.
+> Veja os **Padrões para Cuidar** na [Biblioteca de Padrões][biblioteca].
 
-#### 5.5.5 Objeção de Violação dos Meta-Acordos
+## <span id="papeis-essenciais">5. Papéis Essenciais</span>
 
-Qualquer participante pode levantar uma _Objeção de Violação dos Meta-Acordos_ se ele ou ela considerar que a proposta viola uma das regras descritas neste documento. Por exemplo, pode-se dizer que uma proposta não é uma saída válida para o _Modo Adaptar_. Esta _Objeção_ especial não precisa ser validada usando os critérios descritos nesta seção, mas deve ser integrada normalmente.
+Cada [Círculo](#circulos) contém 4 "Papéis Essenciais" automaticamente criados: [Elo Externo](#elo-externo), [Elo Interno](#elo-interno), [Facilitador](#facilitador) e [Secretário](#secretário).
 
-#### 5.5.6 Propostas Assíncronas
+### <span id="papeis-essenciais-eleitos">5.1 Papéis Essenciais Eleitos</span>
 
-Alterações na _Estrutura Organizacional_ do _Círculo_ podem ser propostas fora da _Reunião de Círculo_ e são automaticamente aprovadas se todos os _Membros do Círculo_ declararem que não têm qualquer _Objeção_. Se qualquer _Objeção_ for levantada, a proposta deve ser escalada para o _Modo Adaptar_ de uma _Reunião de Círculo_ convencional.
+Quando um [Círculo](#circulos) possui dois ou mais [Parceiros](#parceiros), ele deve eleger no [Modo Selecionar](#modo-selecionar) os 3 "Papéis Essenciais Eleitos" de [Facilitador](#facilitador), [Secretário](#secretario) e [Elo Interno](#elo-interno). A única exceção é o [Círculo](#circulos) mais amplo da [Estrutura Organizacional](#estrutura-organizacional), que não deve eleger [Elo Interno](#elo-interno).
 
-Cabe ao _Secretário_ definir como esse processo é realizado.
+### <span id="alteracoes-nos-papeis-essenciais">5.2 Alterações nos Papéis Essenciais</span>
 
-### 5.6 Modo Selecionar
+Os [Papéis Essenciais](#papeis-essenciais) de cada [Círculo](#circulos) podem ser alterados durante o [Modo Adaptar](#modo-adaptar). No entanto, as seguintes restrições se aplicam:
 
-O objetivo do _Modo Selecionar_ é escolher _Membros do Círculo_ para desempenharem os 3 _Papéis Essenciais_ eleitos: _Facilitador_, _Secretário_ e _Elo Interno_.
+- O [Propósito](#papeis) dos [Papéis Essenciais](#papeis-essenciais) não pode ser alterado;
+- Novas [Responsabilidades](#papeis) e [Artefatos](#papeis) não podem ser acrescidas ao [Papel](#papeis) do [Elo Externo](#elo-externo);
+- As [Responsabilidades](#papeis) e [Artefatos](#papeis) iniciais do Papel [Elo Externo](#elo-externo) podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel](#papeis) ou processo no [Círculo](#circulos);
+- As [Responsabilidades](#papeis) e [Artefatos](#papeis) iniciais dos [Papéis](#papeis) de [Facilitador](#facilitador), [Secretário](#secretario) e [Elo Interno](#elo-interno) não podem ser removidas ou modificadas;
+- Os [Papéis Essenciais](#papeis-essenciais) não podem ser removidos.
 
-Qualquer _Membro do Círculo_ pode pedir para o _Facilitador_ pular para o _Modo Selecionar_ e realizar uma eleição para um ou mais dos _Papéis Essenciais_ eleitos. Se este for o caso, isto deve ser feito imediatamente.
+#### <span id="alteracoes-nos-papeis-essenciais-nao-propagam">5.2.1 Alterações nos Papéis Essenciais não propagam</span>
 
-O processo de eleição dos 3 _Papéis Essenciais_ eleitos deve ser feito apenas dentro de uma _Reunião de Círculo_.
+As alterações realizadas nos [Papeis Essenciais](#papeis-essenciais) de um [Círculo](#circulos) aplicam-se apenas no [Círculo](#circulos) onde a modificação ocorreu, ou seja, não propagam para os [Círculos](#circulos) internos.
 
-O _Facilitador_ deve facilitar um processo de eleição, considerando as seguintes regras:
+### <span id="escolha-do-elo-externo">5.3 Escolha do Elo Externo</span>
 
-- Todos e apenas os _Membros do Círculo_ são elegíveis para os 3 _Papéis Essenciais_ eleitos, com a exceção da pessoa que desempenha o _Papel_ de _Elo Externo_, que não é elegível como _Facilitador_ ou _Elo Interno_ do mesmo _Círculo_.
-- Se houver um empate, o _Facilitador_ pode escolher um dos seguintes critérios para desempate:
- - A pessoa que nomeou a si mesma, se apenas um dos candidatos empatados o fez;
- - A pessoa que já está desempenhando o _Papel_, se apenas um dos candidatos empatados está;
- - Aleatoriamente escolher um dos candidatos empatados.
+O [Elo Externo](#elo-externo) é escolhido pelo [Círculo](#circulos) externo, por qualquer processo que atribua [Parceiros](#parceiros) a [Papéis](#papeis) no [Círculo](#circulos) externo. O [Elo Externo](#elo-externo) do [Círculo](#circulos) mais amplo é determinado pela [Camada-Base](#camada-base).
 
-Para exemplos de processo de eleição para o _Modo Selecionar_, consulte a **Biblioteca de Padrões**.
+### <span id="atribuicao-de-parceiros-a-papeis">5.4 Atribuição de Parceiros a Papéis</span>
 
-A estrutura do _Modo Selecionar_ pode ser limitada usando uma _Restrição_, desde que o objetivo original e as regras descritas acima sejam respeitadas.
+O [Elo Externo](#elo-externo) é responsável por atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) no [Círculo](#circulo) e pode convidar qualquer [Parceiro](#parceiros) da [Organização](#organizacao), a não ser que uma [Restrição](#restricoes) diga o contrário.
 
-### 5.7 Modo Cuidar
+### <span id="facilitador">5.5 Facilitador</span>
+O [Papel](#papeis) do "Facilitador" possui a seguinte definição:
 
-O objetivo do _Modo Cuidar_ é tomar conta do espaço tribal e nutrir a qualidade das relações entre os _Membros do Círculo_. O formato é aberto para o _Facilitador_ decidir como melhor utilizá-lo.
-
-Este modo não deve ser utilizado para fazer alterações na _Estrutura Organizacional_ do _Círculo_ ou engajar os _Membros do Círculo_ nos seus _Papéis_ e deveres.
-
-## 6. Papéis Essenciais
-
-Cada _Círculo_ têm 4 _Papéis_ essenciais automaticamente criados: _Elo Externo_, _Elo Interno_, _Facilitador_ e _Secretário_.
-
-O _Facilitador_ e o _Secretário_ são eleitos no _Modo Selecionar_ e operam principalmente dentro das _Reuniões de Círculo_.
-
-O _Elo Externo_ e o _Elo Interno_ são usados para trocar mensagens e facilitar a comunicação entre _Círculo_ e _Círculo_ externo, especialmente durante as _Reuniões de Círculo_.
-
-Os _Papéis Essenciais_ de cada _Círculo_ podem ser alterados durante o _Modo Adaptar_. No entanto, as seguintes restrições se aplicam:
-
-- O _Propósito_ dos _Papéis Essenciais_ não pode ser alterado;
-- Novas _Responsabilidades_ e _Artefatos_ não podem ser acrescidas ao _Papel_ do _Elo Externo_;
-- As _Responsabilidades_ e _Artefatos_ iniciais do _Papel_ _Elo Externo_ podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro _Papel_ ou processo no _Círculo_;
-- As _Responsabilidades_ e _Artefatos_ iniciais dos _Papéis_ de _Facilitador_, _Secretário_ e _Elo Interno_ não podem ser removidas ou modificadas.
-
-As alterações realizadas nos _Papeis Essenciais_ de um _Círculo_ aplicam-se apenas no _Círculo_ onde a modificação ocorreu, ou seja, não propagam para os _Círculos_ internos.
-
-### 6.1 Elo Externo
-
-O _Elo Externo_ é escolhido pelo _Círculo_ externo, por qualquer processo que atribua _Parceiros_ a _Papéis_ no _Círculo_ externo.
-
-O _Elo Externo_ detém todas as _Responsabilidades_ não delegadas do _Círculo_.
-
-### 6.2 Descrição dos Papéis Essenciais
-
-#### 6.2.1 Facilitador
-
-**Propósito**: _Reuniões de Círculo saudáveis e alinhadas com os Meta-Acordos_
-
+**Propósito**: _[Reuniões de Círculo](#reunioes-de-circulo) saudáveis e alinhadas com os [Meta-Acordos](#meta-acordos)_
 **Responsabilidades**:
-- Facilitar as _Reuniões de Círculo_
+- Facilitar as [Reuniões de Círculo](#reunioes-de-circulo)
 
-#### 6.2.2 Secretário
+### <span id="secretario">5.6 Secretário</span>
+O [Papel](#papeis) do "Secretário" possui a seguinte definição:
 
-**Propósito**: _Manutenção precisa dos registros de Estrutura Organizacional do Círculo_
-
+**Propósito**: _Manutenção precisa dos registros de [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)_
 **Responsabilidades**:
-- Agendar _Reuniões de Círculo_ regulares
-- Registar as saídas das _Reuniões de Círculo_
-- Interpretar os **Meta-Acordos** e a _Estrutura Organizacional_ mediante solicitações
+- Agendar [Reuniões de Círculo](#reunioes-de-circulo) regulares
+- Registar as saídas das [Reuniões de Círculo](#reunioes-de-circulo)
+- Interpretar os [Meta-Acordos](#meta-acordos) e a [Estrutura Organizacional](#estrutura-organizacional) mediante solicitações
 
 **Artefatos**:
- - Registros da _Estrutura Organizacional_ do _Círculo_
 
-#### 6.2.3 Elo Externo
+- Registros da [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)
 
-**Propósito**: _O propósito do Círculo_
+### <span id="elo-externo">5.7 Elo Externo</span>
+O [Papel](#papeis) do "Elo Externo" possui a seguinte definição:
 
+**Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
 **Responsabilidades**:
-- Estruturar o _Círculo_ para expressar o seu _Propósito_
-- Atribuir _Parceiros_ aos _Papéis_ do _Círculo_; monitorar a adequação; oferecer feedback para melhorar a adequação; e re-atribuir _Papéis_ a outros _Parceiros_ quando necessário
-- Estabelecer prioridades para o _Círculo_
+- Estruturar o [Círculo](#circulos) para expressar o seu Propósito
+- Atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) do [Círculo](#circulos); monitorar a adequação; oferecer feedback para melhorar a adequação; e re-atribuir [Papéis](#papeis) a outros [Parceiros](#parceiros), quando necessário
+- Estabelecer prioridades para o [Círculo](#circulos)
+
+O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#artefatos) não delegados do [Círculo](#circulos).
 
 **Artefatos**:
-- Atribuição de _Papéis_ dentro do _Círculo_
+- Atribuição de [Papéis](#papeis) dentro do [Círculo](#circulos)
 
-#### 6.2.4 Elo Interno
+### <span id="elo-interno">5.8 Elo Interno</span>
+O [Papel](#papeis) do "Elo Interno possui a seguinte definição:
 
-**Propósito**: _O propósito do Círculo_
-
+**Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
 **Responsabilidades**:
-- Buscar compreender _Tensões_ trazidas pelos _Membros do Círculo_, e processá-las quando apropriado no _Círculo_ externo
-- Fornecer visibilidade sobre a saúde do _Círculo_ para o _Círculo_ externo
+- Buscar compreender [Tensões](#tensoes) trazidas pelos [Membros do Círculo](#membros-circulos), e processá-las quando apropriado no [Círculo](#circulos) externo
+- Fornecer visibilidade sobre a saúde do [Círculo](#circulos) para o [Círculo](#circulos) externo
+
+[biblioteca]: <https://targetteal.com/pt/o2/biblioteca/>
 
 ## Atribuições de Licença
 
