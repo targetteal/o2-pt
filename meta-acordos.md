@@ -327,7 +327,7 @@ O [Papel](#papeis) do "Elo Externo" possui a seguinte definição:
 **Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
 
 **Responsabilidades**:
-- Estruturar o [Círculo](#circulos) para expressar o seu Propósito
+- Estruturar o [Círculo](#circulos) para expressar o seu [Propósito](#papeis)
 - Atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) do [Círculo](#circulos); monitorar a adequação; oferecer feedback para melhorar a adequação; e re-atribuir [Papéis](#papeis) a outros [Parceiros](#parceiros), quando necessário
 - Estabelecer prioridades para o [Círculo](#circulos)
 
@@ -337,7 +337,7 @@ O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#artefa
 - Atribuição de [Papéis](#papeis) dentro do [Círculo](#circulos)
 
 ### <span id="elo-interno">5.8 Elo Interno</span>
-O [Papel](#papeis) do "Elo Interno possui a seguinte definição:
+O [Papel](#papeis) do "Elo Interno" possui a seguinte definição:
 
 **Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
 
