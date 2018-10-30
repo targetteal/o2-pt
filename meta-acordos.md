@@ -99,7 +99,7 @@ Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" explicita
 - Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](#organizacao).
 
 ### <span id="circulos">2.2 Círculos</span>
-No interior de cada [Papel](#papel) há um "Círculo", que passa a existir no momento que o(s) [Parceiro(s)](#parceiros) que o desempenham decidem realizar uma [Reunião de Círculo](#reuniao-de-circulo) e criar [Papéis](#papeis) internos através do [Modo Adaptar](#modo-adaptar). Quando isto acontece, estes [Parceiros](#parceiros) tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). Este [Meta-Acordo](#meta-acordos) não se aplica aos [Papéis Essenciais](#papeis-essenciais).
+No interior de cada [Papel](#papeis) há um "Círculo", que passa a existir no momento que o(s) [Parceiro(s)](#parceiros) que o desempenham decidem realizar uma [Reunião de Círculo](#reuniao-de-circulo) e criar [Papéis](#papeis) internos através do [Modo Adaptar](#modo-adaptar). Quando isto acontece, estes [Parceiros](#parceiros) tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). Este [Meta-Acordo](#meta-acordos) não se aplica aos [Papéis Essenciais](#papeis-essenciais).
 
 #### <span id="circulos-nao-se-automodificam">2.2.1 Círculos não se automodificam</span>
 Um [Círculo](#circulos) possui exatamente os mesmos componentes de um [Papel](#papeis) (nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis)). Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [Restrições](#restricoes), mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo](#circulos) externo que contém este [Círculo](#circulos).
@@ -132,7 +132,7 @@ Através do seu [Modo Adaptar](#modo-adaptar), um [Círculo](#circulos) pode esp
 Todos os Parceiros podem usufruir dos "Direitos" e devem se comprometer com os "Deveres" apresentados abaixo.
 
 ### <span id="direito-de-recusar-pedidos">3.1 Direito de recusar pedidos</span>
-[Parceiros](#parceiros) podem recusar pedidos, caso não exista uma [Responsabilidade](#papeis) explícita correspondente na descrição do [Papel](#papel) sendo solicitado. Entretanto, os [Parceiros](#parceiros) devem sempre aceitar os pedidos que fizerem sentido para o [Propósito](#papeis) de algum dos seus [Papéis](#papeis), mesmo que nenhuma [Responsabilidade](#papeis) explícita esteja registrada.
+[Parceiros](#parceiros) podem recusar pedidos, caso não exista uma [Responsabilidade](#papeis) explícita correspondente na descrição do [Papel](#papeis) sendo solicitado. Entretanto, os [Parceiros](#parceiros) devem sempre aceitar os pedidos que fizerem sentido para o [Propósito](#papeis) de algum dos seus [Papéis](#papeis), mesmo que nenhuma [Responsabilidade](#papeis) explícita esteja registrada.
 
 ### <span id="direito-de-agir-para-o-proposito">3.2 Direito de agir para o Propósito</span>
 Ao perseguir o [Propósito](#papeis) dos seus [Papéis](#papeis), os [Parceiros](#parceiros) estão sempre autorizados a tomar ação, a não ser que o [Dever da Preservação](#dever-da-preservacao) os restrinja.
@@ -144,10 +144,10 @@ Ao perseguir o [Propósito](#papeis) dos seus [Papéis](#papeis), os [Parceiros]
 [Parceiros](#parceiros) podem a qualquer momento deixar [Papéis](#papeis) que desempenham em um ou mais [Círculos](#circulos), a não ser que tenham de outra forma acordado com o [Elo Externo](#elo-externo) ou outro mecanismo que atribua [Parceiros](#parceiros) a [Papéis](#papeis).
 
 ### <span id="dever-da-expressao">3.5 Dever da expressão</span>
-Cada [Parceiro](#parceiros) é responsável por identificar suas [Tensões](#tensoes) a partir de cada [Papel](#papel) que desempenha. Cada [Parceiro](#parceiros) também é responsável por tentar resolver essas [Tensões](#tensoes), engajando outros [Parceiros](#parceiros) em seus [Deveres](#direitos-e-deveres) ou propondo mudanças nos [Estrutura Organizacional](#estrutura-organizacional).
+Cada [Parceiro](#parceiros) é responsável por identificar suas [Tensões](#tensoes) a partir de cada [Papel](#papeis) que desempenha. Cada [Parceiro](#parceiros) também é responsável por tentar resolver essas [Tensões](#tensoes), engajando outros [Parceiros](#parceiros) em seus [Deveres](#direitos-e-deveres) ou propondo mudanças nos [Estrutura Organizacional](#estrutura-organizacional).
 
 ### <span id="dever-da-transparencia">3.6 Dever da transparência</span>
-Quando solicitado, é esperado que os [Parceiros](#parceiros) compartilhem todas as informações relevantes sobre o trabalho de seus [Papéis](#papel), incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros](#parceiros) dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
+Quando solicitado, é esperado que os [Parceiros](#parceiros) compartilhem todas as informações relevantes sobre o trabalho de seus [Papéis](#papeis), incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros](#parceiros) dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
 ### <span id="dever-da-priorizacao">3.7 Dever da priorização</span>
 Os [Parceiros](#parceiros) priorizem o seu trabalho em alinhamento com as prioridades do [Círculo](#circulos) definidas pelo [Elo Externo](#elo-externo) ou por qualquer outro processo que estabeleça prioridades para o [Círculo](#circulos).
@@ -156,7 +156,7 @@ Os [Parceiros](#parceiros) priorizem o seu trabalho em alinhamento com as priori
 Quando solicitado, [Parceiros](#parceiros) devem priorizar comparecer às [Reuniões de Círculo](#reunioes-de-circulo) em detrimento de trabalhar nos seus [Papéis](#papeis).
 
 ### <span id="dever-da-preservacao">3.9 Dever da preservação</span>
-Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem impactar os [Artefatos](#papeis) de outros [Papéis](#papeis) contidos no mesmo [Círculo](#circulos), sem antes obter uma permissão explícita do [Parceiro](#parceiro) que desempenha o [Papel](#papel) correspondente. Os [Parceiros](#parceiros) também devem observar as [Restrições](#restricoes) definidas nos [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
+Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem impactar os [Artefatos](#papeis) de outros [Papéis](#papeis) contidos no mesmo [Círculo](#circulos), sem antes obter uma permissão explícita do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) correspondente. Os [Parceiros](#parceiros) também devem observar as [Restrições](#restricoes) definidas nos [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
 
 ## <span id="reunioes-de-circulo">4. Reuniões de Círculo</span>
 
@@ -164,7 +164,7 @@ Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem imp
 
 ### <span id="somente-membros-podem-processar-tensoes">4.1 Somente Membros podem processar tensões</span>
 
-[Parceiros](#parceiros) que não são [Membros do Círculo](#membros-do-circulo) não podem processar [Tensões](#tensoes) nas [Reuniões do Círculo](#reunioes-do-circulo), a não ser que sejam convidadas por um [Membro do Círculo](#membro-do-circulo) para ajudar no processamento de uma [Tensão](#tensoes) específica.
+[Parceiros](#parceiros) que não são [Membros do Círculo](#membros-do-circulo) não podem processar [Tensões](#tensoes) nas [Reuniões do Círculo](#reunioes-do-circulo), a não ser que sejam convidadas por um [Membro do Círculo](#membros-do-circulo) para ajudar no processamento de uma [Tensão](#tensoes) específica.
 
 ### <span id="formato-de-reuniao">4.2 Formato da Reunião</span>
 
@@ -245,7 +245,7 @@ O "Modo Selecionar" é um momento da [Reunião de Círculo](#reuniao-de-circulo)
 
 #### <span id="selecionar-imediatamente">4.7.1 Selecionar imediatamente</span>
 
-Qualquer [Membro do Círculo](#membro-do-circulo) pode pedir para o [Facilitador](#facilitador) pular para o [Modo Selecionar](#modo-selecionar) e realizar uma eleição para um ou mais dos [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos). Se este for o caso, o [Facilitador](#facilitador) deve fazer isso imediatamente.
+Qualquer [Membro do Círculo](#membros-do-circulo) pode pedir para o [Facilitador](#facilitador) pular para o [Modo Selecionar](#modo-selecionar) e realizar uma eleição para um ou mais dos [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos). Se este for o caso, o [Facilitador](#facilitador) deve fazer isso imediatamente.
 
 #### <span id="selecionar-apenas-em-reunioes-de-circulo">4.7.2 Selecionar apenas em Reuniões de Círculo</span>
 
@@ -297,7 +297,7 @@ O [Elo Externo](#elo-externo) é escolhido pelo [Círculo](#circulos) externo, p
 
 ### <span id="atribuicao-de-parceiros-a-papeis">5.4 Atribuição de Parceiros a Papéis</span>
 
-O [Elo Externo](#elo-externo) é responsável por atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) no [Círculo](#circulo) e pode convidar qualquer [Parceiro](#parceiros) da [Organização](#organizacao), a não ser que uma [Restrição](#restricoes) diga o contrário.
+O [Elo Externo](#elo-externo) é responsável por atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) no [Círculo](#circulos) e pode convidar qualquer [Parceiro](#parceiros) da [Organização](#organizacao), a não ser que uma [Restrição](#restricoes) diga o contrário.
 
 ### <span id="facilitador">5.5 Facilitador</span>
 O [Papel](#papeis) do "Facilitador" possui a seguinte definição:
