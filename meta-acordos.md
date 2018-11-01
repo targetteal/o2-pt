@@ -150,7 +150,7 @@ Cada [Parceiro](#parceiros) é responsável por identificar suas [Tensões](#ten
 Quando solicitado, é esperado que os [Parceiros](#parceiros) compartilhem todas as informações relevantes sobre o trabalho de seus [Papéis](#papeis), incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros](#parceiros) dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
 ### <span id="dever-da-priorizacao">3.7 Dever da priorização</span>
-Os [Parceiros](#parceiros) priorizem o seu trabalho em alinhamento com as prioridades do [Círculo](#circulos) definidas pelo [Elo Externo](#elo-externo) ou por qualquer outro processo que estabeleça prioridades para o [Círculo](#circulos).
+Os [Parceiros](#parceiros) devem priorizar o seu trabalho em alinhamento com as prioridades do [Círculo](#circulos) definidas pelo [Elo Externo](#elo-externo) ou por qualquer outro processo que estabeleça prioridades para o [Círculo](#circulos).
 
 ### <span id="dever-do-comparecimento">3.8 Dever do comparecimento</span>
 Quando solicitado, [Parceiros](#parceiros) devem priorizar comparecer às [Reuniões de Círculo](#reunioes-de-circulo) em detrimento de trabalhar nos seus [Papéis](#papeis).
@@ -164,7 +164,7 @@ Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem imp
 
 ### <span id="somente-membros-podem-processar-tensoes">4.1 Somente Membros podem processar tensões</span>
 
-[Parceiros](#parceiros) que não são [Membros do Círculo](#membros-do-circulo) não podem processar [Tensões](#tensoes) nas [Reuniões do Círculo](#reunioes-do-circulo), a não ser que sejam convidadas por um [Membro do Círculo](#membros-do-circulo) para ajudar no processamento de uma [Tensão](#tensoes) específica.
+[Parceiros](#parceiros) que não são [Membros do Círculo](#membros-do-circulo) não podem processar [Tensões](#tensoes) nas [Reuniões de Círculo](#reunioes-do-circulo), a não ser que sejam convidadas por um [Membro do Círculo](#membros-do-circulo) para ajudar no processamento de uma [Tensão](#tensoes) específica.
 
 ### <span id="formato-de-reuniao">4.2 Formato da Reunião</span>
 
@@ -172,7 +172,7 @@ As [Reuniões de Círculo](#reunioes-de-circulo) devem começar com uma rodada d
 
 #### <span id="lista-de-tensoes">4.2.1 Lista de Tensões</span>
 
-Os diferentes Modos são utilizados para processar [Tensões](#tensoes) específicas sentidas pelos participantes. Especialmente antes de [Sincronizar](#sincronizar) e [Adaptar](#adaptar), o [Facilitador](#facilitador) deve pedir para o [Secretário](#secretario) construir uma "Lista de Tensões" a processar. Cada pessoa sentindo uma [Tensão](#tensoes) deve nomeá-la usando duas ou três palavras. O [Secretário](#secretario) então registra o nome da [Tensão](#tensoes), juntamente com o nome do participante.
+Os diferentes [Modos](#reunioes-de-circulo) são utilizados para processar [Tensões](#tensoes) específicas sentidas pelos participantes. Especialmente antes de [Sincronizar](#sincronizar) e [Adaptar](#adaptar), o [Facilitador](#facilitador) deve pedir para o [Secretário](#secretario) construir uma "Lista de Tensões" a processar. Cada pessoa sentindo uma [Tensão](#tensoes) deve nomeá-la usando duas ou três palavras. O [Secretário](#secretario) então registra o nome da [Tensão](#tensoes), juntamente com o nome do participante.
 
 #### <span id="uma-tensao-de-cada-vez">4.2.2 Uma Tensão de cada vez</span>
 
@@ -180,7 +180,7 @@ Depois que a lista de [Tensões](#tensoes) for construída, o [Facilitador](#fac
 
 ### <span id="restricoes-de-facilitacao">4.3 Restrições de Facilitação</span>
 
-Durante a facilitação dos Modos, o [Facilitador](#facilitador) pode fazer escolhas de que padrões utilizar e como conduzir cada momento. No entanto, o [Facilitador](#facilitador) deve sempre manter as suas escolhas alinhadas com o objetivo do Modo e as necessidades do [Círculo](#circulos). Um [Círculo](#circulos) pode também adotar uma ou mais [Restrições](#restricoes) que limitem como os Modos são conduzidos. O [Facilitador](#facilitador) deve respeitar estas limitações.
+Durante a facilitação dos [Modos](#reunioes-de-circulo), o [Facilitador](#facilitador) pode fazer escolhas de que padrões utilizar e como conduzir cada momento. No entanto, o [Facilitador](#facilitador) deve sempre manter as suas escolhas alinhadas com o objetivo do Modo e as necessidades do [Círculo](#circulos). Um [Círculo](#circulos) pode também adotar uma ou mais [Restrições](#restricoes) que limitem como os [Modos](#reunioes-de-circulo) são conduzidos. O [Facilitador](#facilitador) deve respeitar estas limitações.
 
 ### <span id="modo-revisar">4.4 Modo Revisar</span>
 
