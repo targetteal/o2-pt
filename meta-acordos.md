@@ -69,7 +69,7 @@ A "Camada Base" é um documento, processo ou conjunto de acordos que antecede os
 	6. [Secretário](#secretario)
 	7. [Elo Externo](#elo-externo)
 	8. [Elo Interno](#elo-interno)
-
+	
 ## <span id="organizacao">1. Organização</span></span>
 
 A "Organização" é uma entidade criada para expressar um [Propósito Evolutivo](#proposito-evolutivo). Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
@@ -85,6 +85,8 @@ A [Organização](#organizacao) pode governar a sua a relação com os [Parceiro
 
 ### <span id="tensoes">1.4 Tensões</span>
 Ao perseguir o [Propósito](#papeis) de um ou mais [Papeis](#papeis), os [Parceiros](#parceiros) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões". As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito Evolutivo](#proposito-evoluito).
+
+![Organização, Propósito Evolutivo Parceiros, Relação Parceiros-Organização e Tensões](/imgs/organizacao.svg)
 
 ## <span id="estrutura-organizacional">2. Estrutura Organizacional</span>
 
