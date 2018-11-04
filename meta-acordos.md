@@ -69,7 +69,7 @@ A "Camada Base" é um documento, processo ou conjunto de acordos que antecede os
 	6. [Secretário](#secretario)
 	7. [Elo Externo](#elo-externo)
 	8. [Elo Interno](#elo-interno)
-	
+
 ## <span id="organizacao">1. Organização</span></span>
 
 A "Organização" é uma entidade criada para expressar um [Propósito Evolutivo](#proposito-evolutivo). Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
@@ -291,7 +291,7 @@ Os [Papéis Essenciais](#papeis-essenciais) de cada [Círculo](#circulos) podem 
 
 #### <span id="alteracoes-nos-papeis-essenciais-nao-propagam">5.2.1 Alterações nos Papéis Essenciais não propagam</span>
 
-As alterações realizadas nos [Papeis Essenciais](#papeis-essenciais) de um [Círculo](#circulos) aplicam-se apenas no [Círculo](#circulos) onde a modificação ocorreu, ou seja, não propagam para os [Círculos](#circulos) internos.
+As alterações realizadas nos [Papeis Essenciais](#papeis-essenciais) de um [Círculo](#circulos) aplicam-se apenas ao [Círculo](#circulos) onde a modificação ocorreu, ou seja, não propagam para os [Círculos](#circulos) internos.
 
 ### <span id="escolha-do-elo-externo">5.3 Escolha do Elo Externo</span>
 
@@ -302,7 +302,7 @@ O [Elo Externo](#elo-externo) é escolhido pelo [Círculo](#circulos) externo, p
 O [Elo Externo](#elo-externo) é responsável por atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) no [Círculo](#circulos) e pode convidar qualquer [Parceiro](#parceiros) da [Organização](#organizacao), a não ser que uma [Restrição](#restricoes) diga o contrário.
 
 ### <span id="facilitador">5.5 Facilitador</span>
-O [Papel](#papeis) do "Facilitador" possui a seguinte definição:
+O [Papel](#papeis) do "Facilitador" possui a seguinte definição inicial:
 
 **Propósito**: _[Reuniões de Círculo](#reunioes-de-circulo) saudáveis e alinhadas com os [Meta-Acordos](#meta-acordos)_
 
@@ -310,7 +310,7 @@ O [Papel](#papeis) do "Facilitador" possui a seguinte definição:
 - Facilitar as [Reuniões de Círculo](#reunioes-de-circulo)
 
 ### <span id="secretario">5.6 Secretário</span>
-O [Papel](#papeis) do "Secretário" possui a seguinte definição:
+O [Papel](#papeis) do "Secretário" possui a seguinte definição inicial:
 
 **Propósito**: _Manutenção precisa dos registros de [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)_
 
@@ -324,7 +324,7 @@ O [Papel](#papeis) do "Secretário" possui a seguinte definição:
 - Registros da [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)
 
 ### <span id="elo-externo">5.7 Elo Externo</span>
-O [Papel](#papeis) do "Elo Externo" possui a seguinte definição:
+O [Papel](#papeis) do "Elo Externo" possui a seguinte definição inicial:
 
 **Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
 
@@ -339,7 +339,7 @@ O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#papeis
 - Atribuição de [Papéis](#papeis) dentro do [Círculo](#circulos)
 
 ### <span id="elo-interno">5.8 Elo Interno</span>
-O [Papel](#papeis) do "Elo Interno" possui a seguinte definição:
+O [Papel](#papeis) do "Elo Interno" possui a seguinte definição inicial:
 
 **Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
 
