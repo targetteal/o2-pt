@@ -130,6 +130,8 @@ Através do seu [Modo Adaptar](#modo-adaptar), um [Círculo](#circulos) pode esp
 
 [Restrições](#restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#papeis). Ainda assim, uma [Restrição](#restricao) pode exigir ação, mas apenas para [Parceiros](#parceiros) em que a [Restrição](#restricao) se aplica na condição específica que desencadeia ela.
 
+![Papéis, Círculos, Artefatos, Membros do Círculo e Restrições](/imgs/estrutura.svg)
+
 ## <span id="direitos-e-deveres">3. Direitos e Deveres</span>
 Todos os Parceiros podem usufruir dos "Direitos" e devem se comprometer com os "Deveres" apresentados abaixo.
 
@@ -320,7 +322,6 @@ O [Papel](#papeis) do "Secretário" possui a seguinte definição inicial:
 - Interpretar os [Meta-Acordos](#meta-acordos) e a [Estrutura Organizacional](#estrutura-organizacional) mediante solicitações
 
 **Artefatos**:
-
 - Registros da [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)
 
 ### <span id="elo-externo">5.7 Elo Externo</span>
