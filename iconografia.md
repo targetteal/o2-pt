@@ -5,6 +5,7 @@
 <img alt="Parceiro" src="/icones/parceiro.svg" width="24"/>
 <img alt="Papel" src="/icones/papel.svg" width="24"/>
 <img alt="Círculo" src="/icones/circulo.svg" width="24"/>
+<img alt="Restrição" src="/icones/restricao.svg" width="24"/>
 <img alt="Propósito" src="/icones/proposito.svg" width="24"/>
 <img alt="Responsabilidade" src="/icones/responsabilidade.svg" width="24"/>
 <img alt="Artefato" src="/icones/artefato.svg" width="24"/>
