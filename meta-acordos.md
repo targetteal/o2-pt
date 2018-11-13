@@ -72,19 +72,19 @@ A "Camada Base" é um documento, processo ou conjunto de acordos que antecede os
 
 ## <span id="organizacao">1. Organização</span></span>
 
-A "Organização" <img alt="Organização" src="/icones/organizacao.svg" width="16"/>) é uma entidade criada para expressar um [Propósito Evolutivo](#proposito-evolutivo). Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
+A "Organização" <img alt="Organização" src="/icones/organizacao.svg" width="16" /> é uma entidade criada para expressar um [Propósito Evolutivo](#proposito-evolutivo). Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
 
 ### <span id="proposito-evolutivo">1.1 <span id="proposito-evolutivo">Propósito Evolutivo</span></span>
 A [Organização](#organizacao) possui um "Propósito Evolutivo", que corresponde ao *potencial criativo mais profundo que pode expressar de forma sustentável no mundo*. O Propósito Evolutivo é o [Propósito](#papeis) do [Círculo](#circulos) mais amplo da [Estrutura Organizacional](#estrutura-organizacional).
 
 ### <span id="parceiros">1.2 Parceiros</span>
-A [Organização](#organizacao) pode ter um ou mais "Parceiros" <img alt="Parceiro" src="/icones/parceiro.svg" width="16"/>), que são pessoas que energizam [Papéis](#papeis) e expressam o [Propósito Evolutivo](#proposito-evolutivo).
+A [Organização](#organizacao) pode ter um ou mais "Parceiros" <img alt="Parceiro" src="/icones/parceiro.svg" width="16" />, que são pessoas que energizam [Papéis](#papeis) e expressam o [Propósito Evolutivo](#proposito-evolutivo).
 
 ### <span id="relacao-parceiros-organizacao">1.3 Relação Parceiros-Organização</span>
 A [Organização](#organizacao) pode governar a sua a relação com os [Parceiros](#parceiros) como um [Artefato](#artefato), respeitando as restrições estabelecidas na [Camada Base](#camada-base).
 
 ### <span id="tensoes">1.4 Tensões</span>
-Ao perseguir o [Propósito](#papeis) de um ou mais [Papeis](#papeis), os [Parceiros](#parceiros) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões" <img alt="Tensão" src="/icones/tensao.svg" width="16"/>). As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito Evolutivo](#proposito-evoluito).
+Ao perseguir o [Propósito](#papeis) de um ou mais [Papeis](#papeis), os [Parceiros](#parceiros) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões" <img alt="Tensão" src="/icones/tensao.svg" width="16" />. As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito Evolutivo](#proposito-evoluito).
 
 ![Organização, Propósito Evolutivo Parceiros, Relação Parceiros-Organização e Tensões](/imgs/organizacao.svg)
 
@@ -93,15 +93,15 @@ Ao perseguir o [Propósito](#papeis) de um ou mais [Papeis](#papeis), os [Parcei
 Os [Parceiros](#parceiros) poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](#circulos) e formada por [Papéis](#papeis) e [Restrições](#restricoes). Cada [Círculo](#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar](#modo-adaptar) da [Reunião de Círculo](#reuniao-de-circulo).
 
 ### <span id="papeis">2.1 Papéis</span>
-Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" <img alt="Papel" src="/icones/papel.svg" width="16"/>) explicitamente definidos na [Estrutura Organizacional](#estrutura-organizacional). Um Papel é composto por:
+Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" <img alt="Papel" src="/icones/papel.svg" width="16" /> explicitamente definidos na [Estrutura Organizacional](#estrutura-organizacional). Um Papel é composto por:
 
 - Um nome descritivo;
-- Um "Propósito" <img alt="Propósito" src="/icones/proposito.svg" width="16"/>), que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
-- Zero ou mais "Responsabilidades" <img alt="Responsabilidades" src="/icones/responsabilidade.svg" width="16"/>), que são atividades contínuas que outros [Parceiros](#parceiros) podem esperar que o Papel irá executar;
-- Zero ou mais "Artefatos" <img alt="Artefatos" src="/icones/artefato.svg" width="16"/>), que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](#organizacao).
+- Um "Propósito" <img alt="Propósito" src="/icones/proposito.svg" width="16" />, que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
+- Zero ou mais "Responsabilidades" <img alt="Responsabilidades" src="/icones/responsabilidade.svg" width="16" />, que são atividades contínuas que outros [Parceiros](#parceiros) podem esperar que o Papel irá executar;
+- Zero ou mais "Artefatos" <img alt="Artefatos" src="/icones/artefato.svg" width="16" />, que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](#organizacao).
 
 ### <span id="circulos">2.2 Círculos</span>
-No interior de cada [Papel](#papeis) há um "Círculo" <img alt="Círculo" src="/icones/circulo.svg" width="16"/>), que passa a existir no momento que o(s) [Parceiro(s)](#parceiros) que o desempenham decidem realizar uma [Reunião de Círculo](#reuniao-de-circulo) e criar [Papéis](#papeis) internos através do [Modo Adaptar](#modo-adaptar). Quando isto acontece, estes [Parceiros](#parceiros) tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). Este [Meta-Acordo](#meta-acordos) não se aplica aos [Papéis Essenciais](#papeis-essenciais).
+No interior de cada [Papel](#papeis) há um "Círculo" <img alt="Círculo" src="/icones/circulo.svg" width="16" />, que passa a existir no momento que o(s) [Parceiro(s)](#parceiros) que o desempenham decidem realizar uma [Reunião de Círculo](#reuniao-de-circulo) e criar [Papéis](#papeis) internos através do [Modo Adaptar](#modo-adaptar). Quando isto acontece, estes [Parceiros](#parceiros) tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). Este [Meta-Acordo](#meta-acordos) não se aplica aos [Papéis Essenciais](#papeis-essenciais).
 
 #### <span id="circulos-nao-se-automodificam">2.2.1 Círculos não se automodificam</span>
 Um [Círculo](#circulos) possui exatamente os mesmos componentes de um [Papel](#papeis) (nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis)). Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [Restrições](#restricoes), mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo](#circulos) externo que contém este [Círculo](#circulos).
@@ -124,7 +124,7 @@ Através do seu [Modo Adaptar](#modo-adaptar), um [Círculo](#circulos) pode esp
 
 ### <span id="restricoes">2.5 Restrições</span>
 
-"Restrições" <img alt="Restrição" src="/icones/restricao.svg" width="16"/>) são limitações de autoridade que aplicam-se a todos os [Papéis](#papeis) de um [Círculo](#circulos). Restrições são compostas por um nome e uma descrição. A não ser que de outra forma especificado em sua descrição, o efeito de uma Restrição se aplica a todos os [Papéis](#papeis) e [Círculos](#circulos) internos ao [Círculo](#circulos) onde ela é definida. Uma Restrição é parte de um [Círculo](#circulos), assim como um [Papel](#papeis) ou [Círculo](#circulos) interno.
+"Restrições" <img alt="Restrição" src="/icones/restricao.svg" width="16" /> são limitações de autoridade que aplicam-se a todos os [Papéis](#papeis) de um [Círculo](#circulos). Restrições são compostas por um nome e uma descrição. A não ser que de outra forma especificado em sua descrição, o efeito de uma Restrição se aplica a todos os [Papéis](#papeis) e [Círculos](#circulos) internos ao [Círculo](#circulos) onde ela é definida. Uma Restrição é parte de um [Círculo](#circulos), assim como um [Papel](#papeis) ou [Círculo](#circulos) interno.
 
 ### <span id="restricoes-nao-estabelecem-expectativas">2.5.1 Restrições não estabelecem expectativas</span>
 
@@ -275,11 +275,11 @@ O "Modo Cuidar" <img alt="Cuidar" src="/icones/cuidar.svg" width="16" /> é um m
 
 ## <span id="papeis-essenciais">5. Papéis Essenciais</span>
 
-Cada [Círculo](#circulos) contém 4 "Papéis Essenciais" <img alt="Papéis Essenciais" src="/icones/papeis-essenciais.svg" width="16"/>) automaticamente criados: [Elo Externo](#elo-externo), [Elo Interno](#elo-interno), [Facilitador](#facilitador) e [Secretário](#secretário).
+Cada [Círculo](#circulos) contém 4 "Papéis Essenciais" <img alt="Papéis Essenciais" src="/icones/papeis-essenciais.svg" width="16" /> automaticamente criados: [Elo Externo](#elo-externo), [Elo Interno](#elo-interno), [Facilitador](#facilitador) e [Secretário](#secretário).
 
 ### <span id="papeis-essenciais-eleitos">5.1 Papéis Essenciais Eleitos</span>
 
-Quando um [Círculo](#circulos) possui dois ou mais [Parceiros](#parceiros), ele deve eleger no [Modo Selecionar](#modo-selecionar) os 3 "Papéis Essenciais Eleitos" <img alt="Papéis Essenciais Eleitos" src="/icones/papeis-essenciais-eleitos.svg" width="16"/>) de [Facilitador](#facilitador), [Secretário](#secretario) e [Elo Interno](#elo-interno). A única exceção é o [Círculo](#circulos) mais amplo da [Estrutura Organizacional](#estrutura-organizacional), que não deve eleger [Elo Interno](#elo-interno).
+Quando um [Círculo](#circulos) possui dois ou mais [Parceiros](#parceiros), ele deve eleger no [Modo Selecionar](#modo-selecionar) os 3 "Papéis Essenciais Eleitos" <img alt="Papéis Essenciais Eleitos" src="/icones/papeis-essenciais-eleitos.svg" width="16" /> de [Facilitador](#facilitador), [Secretário](#secretario) e [Elo Interno](#elo-interno). A única exceção é o [Círculo](#circulos) mais amplo da [Estrutura Organizacional](#estrutura-organizacional), que não deve eleger [Elo Interno](#elo-interno).
 
 ### <span id="alteracoes-nos-papeis-essenciais">5.2 Alterações nos Papéis Essenciais</span>
 
@@ -304,7 +304,7 @@ O [Elo Externo](#elo-externo) é escolhido pelo [Círculo](#circulos) externo, p
 O [Elo Externo](#elo-externo) é responsável por atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) no [Círculo](#circulos) e pode convidar qualquer [Parceiro](#parceiros) da [Organização](#organizacao), a não ser que uma [Restrição](#restricoes) diga o contrário.
 
 ### <span id="facilitador">5.5 Facilitador</span>
-O [Papel](#papeis) do "Facilitador" <img alt="Facilitador" src="/icones/facilitador.svg" width="16"/>) possui a seguinte definição inicial:
+O [Papel](#papeis) do "Facilitador" <img alt="Facilitador" src="/icones/facilitador.svg" width="16" /> possui a seguinte definição inicial:
 
 **Propósito**: _[Reuniões de Círculo](#reunioes-de-circulo) saudáveis e alinhadas com os [Meta-Acordos](#meta-acordos)_
 
@@ -312,7 +312,7 @@ O [Papel](#papeis) do "Facilitador" <img alt="Facilitador" src="/icones/facilita
 - Facilitar as [Reuniões de Círculo](#reunioes-de-circulo)
 
 ### <span id="secretario">5.6 Secretário</span>
-O [Papel](#papeis) do "Secretário" <img alt="Secretário" src="/icones/secretario.svg" width="16"/>) possui a seguinte definição inicial:
+O [Papel](#papeis) do "Secretário" <img alt="Secretário" src="/icones/secretario.svg" width="16" /> possui a seguinte definição inicial:
 
 **Propósito**: _Manutenção precisa dos registros de [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)_
 
@@ -325,7 +325,7 @@ O [Papel](#papeis) do "Secretário" <img alt="Secretário" src="/icones/secretar
 - Registros da [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)
 
 ### <span id="elo-externo">5.7 Elo Externo</span>
-O [Papel](#papeis) do "Elo Externo" <img alt="Elo Externo" src="/icones/elo-externo.svg" width="16"/>) possui a seguinte definição inicial:
+O [Papel](#papeis) do "Elo Externo" <img alt="Elo Externo" src="/icones/elo-externo.svg" width="16" /> possui a seguinte definição inicial:
 
 **Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
 
@@ -340,7 +340,7 @@ O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#papeis
 - Atribuição de [Papéis](#papeis) dentro do [Círculo](#circulos)
 
 ### <span id="elo-interno">5.8 Elo Interno</span>
-O [Papel](#papeis) do "Elo Interno" <img alt="Elo Interno" src="/icones/elo-interno.svg" width="16"/>) possui a seguinte definição inicial:
+O [Papel](#papeis) do "Elo Interno" <img alt="Elo Interno" src="/icones/elo-interno.svg" width="16" /> possui a seguinte definição inicial:
 
 **Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
 
