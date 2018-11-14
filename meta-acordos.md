@@ -133,33 +133,33 @@ Através do seu [Modo Adaptar](#modo-adaptar), um [Círculo](#circulos) pode esp
 ![Papéis, Círculos, Artefatos, Membros do Círculo e Restrições](/imgs/estrutura.svg)
 
 ## <span id="direitos-e-deveres">3. Direitos e Deveres</span>
-Todos os Parceiros podem usufruir dos "Direitos" e devem se comprometer com os "Deveres" apresentados abaixo.
+Todos os Parceiros podem usufruir dos "Direitos" <img alt="Direitos" src="/icones/direitos.svg" height="16" /> e devem se comprometer com os "Deveres" <img alt="Deveres" src="/icones/deveres.svg" height="16" /> apresentados abaixo.
 
-### <span id="direito-de-recusar-pedidos">3.1 Direito de recusar pedidos</span>
+### <span id="direito-de-recusar-pedidos">3.1 Direito de recusar pedidos</span> <img alt="Direito de recusar pedidos" src="/icones/direito-recusar-pedidos.svg" height="16" />
 [Parceiros](#parceiros) podem recusar pedidos, caso não exista uma [Responsabilidade](#papeis) explícita correspondente na descrição do [Papel](#papeis) sendo solicitado. Entretanto, os [Parceiros](#parceiros) devem sempre aceitar os pedidos que fizerem sentido para o [Propósito](#papeis) de algum dos seus [Papéis](#papeis), mesmo que nenhuma [Responsabilidade](#papeis) explícita esteja registrada.
 
-### <span id="direito-de-agir-para-o-proposito">3.2 Direito de agir para o Propósito</span>
+### <span id="direito-de-agir-para-o-proposito">3.2 Direito de agir para o Propósito</span> <img alt="Direito de agir para o Propósito" src="/icones/direito-agir-proposito.svg" height="16" />
 Ao perseguir o [Propósito](#papeis) dos seus [Papéis](#papeis), os [Parceiros](#parceiros) estão sempre autorizados a tomar ação, a não ser que o [Dever da Preservação](#dever-da-preservacao) os restrinja.
 
-### <span id="direito-de-agir-heroicamente">3.3 Direito de agir heroicamente</span>
+### <span id="direito-de-agir-heroicamente">3.3 Direito de agir heroicamente</span> <img alt="Direito de agir heroicamente" src="/icones/direito-agir-heroicamente.svg" height="16" />
 [Parceiros](#parceiros) podem temporariamente ignorar estes Meta-Acordos se isto for útil e necessário para expressar o [Propósito Evolutivo](#proposito-evolutivo) da [Organização](#organizacao). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heróicos". Os [Parceiros](#parceiros) devem buscar reparar quaisquer danos causados após um Ato Heróico, propondo mudanças na [Estrutura Organizacional](#estrutura-organizacional) ou até nestes [Meta-Acordos](#meta-acordos) se necessário.
 
-### <span id="direito-de-deixar-papeis">3.4 Direito de deixar Papéis</span>
+### <span id="direito-de-deixar-papeis">3.4 Direito de deixar Papéis</span> <img alt="Direito de deixar Papéis" src="/icones/direito-deixar-papeis.svg" height="16" />
 [Parceiros](#parceiros) podem a qualquer momento deixar [Papéis](#papeis) que desempenham em um ou mais [Círculos](#circulos), a não ser que tenham de outra forma acordado com o [Elo Externo](#elo-externo) ou outro mecanismo que atribua [Parceiros](#parceiros) a [Papéis](#papeis).
 
-### <span id="dever-da-expressao">3.5 Dever da expressão</span>
+### <span id="dever-da-expressao">3.5 Dever da expressão</span> <img alt="Dever da expressão" src="/icones/dever-expressao.svg" height="16" />
 Cada [Parceiro](#parceiros) é responsável por identificar suas [Tensões](#tensoes) a partir de cada [Papel](#papeis) que desempenha. Cada [Parceiro](#parceiros) também é responsável por tentar resolver essas [Tensões](#tensoes), engajando outros [Parceiros](#parceiros) em seus [Deveres](#direitos-e-deveres) ou propondo mudanças nos [Estrutura Organizacional](#estrutura-organizacional).
 
-### <span id="dever-da-transparencia">3.6 Dever da transparência</span>
+### <span id="dever-da-transparencia">3.6 Dever da transparência</span> <img alt="Dever da transparência" src="/icones/dever-transparencia.svg" height="16" />
 Quando solicitado, é esperado que os [Parceiros](#parceiros) compartilhem todas as informações relevantes sobre o trabalho de seus [Papéis](#papeis), incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros](#parceiros) dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
-### <span id="dever-da-priorizacao">3.7 Dever da priorização</span>
+### <span id="dever-da-priorizacao">3.7 Dever da priorização</span> <img alt="Dever da priorização" src="/icones/dever-priorizacao.svg" height="16" />
 Os [Parceiros](#parceiros) devem priorizar o seu trabalho em alinhamento com as prioridades do [Círculo](#circulos) definidas pelo [Elo Externo](#elo-externo) ou por qualquer outro processo que estabeleça prioridades para o [Círculo](#circulos).
 
-### <span id="dever-do-comparecimento">3.8 Dever do comparecimento</span>
+### <span id="dever-do-comparecimento">3.8 Dever do comparecimento</span> <img alt="Dever do comparecimento" src="/icones/dever-comparecimento.svg" height="16" />
 Quando solicitado, [Parceiros](#parceiros) devem priorizar comparecer às [Reuniões de Círculo](#reunioes-de-circulo) em detrimento de trabalhar nos seus [Papéis](#papeis).
 
-### <span id="dever-da-preservacao">3.9 Dever da preservação</span>
+### <span id="dever-da-preservacao">3.9 Dever da preservação</span> <img alt="Dever da preservação" src="/icones/dever-preservacao.svg" height="16" />
 Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem impactar os [Artefatos](#papeis) de outros [Papéis](#papeis) contidos no mesmo [Círculo](#circulos), sem antes obter uma permissão explícita do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) correspondente. Os [Parceiros](#parceiros) também devem observar as [Restrições](#restricoes) definidas nos [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
 
 ## <span id="reunioes-de-circulo">4. Reuniões de Círculo</span>
