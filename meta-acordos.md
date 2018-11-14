@@ -86,8 +86,6 @@ A [Organização](#organizacao) pode governar a sua a relação com os [Parceiro
 ### <span id="tensoes">1.4 Tensões</span>
 Ao perseguir o [Propósito](#papeis) de um ou mais [Papeis](#papeis), os [Parceiros](#parceiros) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões" <img alt="Tensão" src="/icones/tensao.svg" height="16" />. As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito Evolutivo](#proposito-evoluito).
 
-![Organização, Propósito Evolutivo Parceiros, Relação Parceiros-Organização e Tensões](/imgs/organizacao.svg)
-
 ## <span id="estrutura-organizacional">2. Estrutura Organizacional</span>
 
 Os [Parceiros](#parceiros) poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](#circulos) e formada por [Papéis](#papeis) e [Restrições](#restricoes). Cada [Círculo](#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar](#modo-adaptar) da [Reunião de Círculo](#reuniao-de-circulo).
@@ -129,8 +127,6 @@ Através do seu [Modo Adaptar](#modo-adaptar), um [Círculo](#circulos) pode esp
 ### <span id="restricoes-nao-estabelecem-expectativas">2.5.1 Restrições não estabelecem expectativas</span>
 
 [Restrições](#restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#papeis). Ainda assim, uma [Restrição](#restricao) pode exigir ação, mas apenas para [Parceiros](#parceiros) em que a [Restrição](#restricao) se aplica na condição específica que desencadeia ela.
-
-![Papéis, Círculos, Artefatos, Membros do Círculo e Restrições](/imgs/estrutura.svg)
 
 ## <span id="direitos-e-deveres">3. Direitos e Deveres</span>
 Todos os Parceiros podem usufruir dos "Direitos" <img alt="Direitos" src="/icones/direitos.svg" height="16" /> e devem se comprometer com os "Deveres" <img alt="Deveres" src="/icones/deveres.svg" height="16" /> apresentados abaixo.
