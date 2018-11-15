@@ -156,7 +156,7 @@ Os [Parceiros](#parceiros) devem priorizar o seu trabalho em alinhamento com as 
 Quando solicitado, [Parceiros](#parceiros) devem priorizar comparecer às [Reuniões de Círculo](#reunioes-de-circulo) em detrimento de trabalhar nos seus [Papéis](#papeis).
 
 ### <span id="dever-da-preservacao">3.9 Dever da preservação</span> <img alt="Dever da preservação" src="/icones/dever-preservacao.svg" height="16" />
-Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem impactar os [Artefatos](#papeis) de outros [Papéis](#papeis) contidos no mesmo [Círculo](#circulos), sem antes obter uma permissão explícita do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) correspondente. Os [Parceiros](#parceiros) também devem observar as [Restrições](#restricoes) definidas nos [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
+Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem impactar os [Artefatos](#papeis) de outros [Papéis](#papeis) contidos no mesmo [Círculo](#circulos), sem antes obter uma permissão explícita do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) correspondente. Os [Parceiros](#parceiros) também devem observar as [Restrições](#restricoes) definidas na [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
 
 ## <span id="reunioes-de-circulo">4. Reuniões de Círculo</span>
 
