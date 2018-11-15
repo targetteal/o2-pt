@@ -129,7 +129,7 @@ Através do seu [Modo Adaptar](#modo-adaptar), um [Círculo](#circulos) pode esp
 [Restrições](#restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#papeis). Ainda assim, uma [Restrição](#restricao) pode exigir ação, mas apenas para [Parceiros](#parceiros) em que a [Restrição](#restricao) se aplica na condição específica que desencadeia ela.
 
 ## <span id="direitos-e-deveres">3. Direitos e Deveres</span>
-Todos os Parceiros podem usufruir dos "Direitos" <img alt="Direitos" src="/icones/direitos.svg" height="16" /> e devem se comprometer com os "Deveres" <img alt="Deveres" src="/icones/deveres.svg" height="16" /> apresentados abaixo.
+Todos os [Parceiros](#parceiros) podem usufruir dos "Direitos" <img alt="Direitos" src="/icones/direitos.svg" height="16" /> e devem se comprometer com os "Deveres" <img alt="Deveres" src="/icones/deveres.svg" height="16" /> apresentados abaixo.
 
 ### <span id="direito-de-recusar-pedidos">3.1 Direito de recusar pedidos</span> <img alt="Direito de recusar pedidos" src="/icones/direito-recusar-pedidos.svg" height="16" />
 [Parceiros](#parceiros) podem recusar pedidos, caso não exista uma [Responsabilidade](#papeis) explícita correspondente na descrição do [Papel](#papeis) sendo solicitado. Entretanto, os [Parceiros](#parceiros) devem sempre aceitar os pedidos que fizerem sentido para o [Propósito](#papeis) de algum dos seus [Papéis](#papeis), mesmo que nenhuma [Responsabilidade](#papeis) explícita esteja registrada.
