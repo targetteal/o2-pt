@@ -168,7 +168,7 @@ Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem imp
 
 ### <span id="formato-de-reuniao">4.2 Formato da Reunião</span>
 
-As [Reuniões de Círculo](#reunioes-de-circulo) devem começar com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro. O [Facilitador](#facilitador) preenche o encontro com um ou mais dos 5 [Modos](#reunioes-de-circulo), de acordo com o tempo disponível e as necessidades do [Círculo](#circulos). O [Facilitador](#facilitador) deve declarar o nome, objetivo e esclarecer as regras de cada modo antes de iniciá-lo. As [Reuniões de Círculo](#reunioes-de-circulo) terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
+As [Reuniões de Círculo](#reunioes-de-circulo) devem começar com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro. O [Facilitador](#facilitador) preenche o encontro com um ou mais dos 5 [Modos](#reunioes-de-circulo), de acordo com o tempo disponível e as necessidades do [Círculo](#circulos). O [Facilitador](#facilitador) deve declarar o nome, objetivo e esclarecer as regras de cada [Modo](#reunioes-de-circulo) antes de iniciá-lo. As [Reuniões de Círculo](#reunioes-de-circulo) terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
 
 #### <span id="lista-de-tensoes">4.2.1 Lista de Tensões</span>
 
@@ -180,7 +180,7 @@ Depois que a lista de [Tensões](#tensoes) for construída, o [Facilitador](#fac
 
 ### <span id="restricoes-de-facilitacao">4.3 Restrições de Facilitação</span>
 
-Durante a facilitação dos [Modos](#reunioes-de-circulo), o [Facilitador](#facilitador) pode fazer escolhas de que padrões utilizar e como conduzir cada momento. No entanto, o [Facilitador](#facilitador) deve sempre manter as suas escolhas alinhadas com o objetivo do Modo e as necessidades do [Círculo](#circulos). Um [Círculo](#circulos) pode também adotar uma ou mais [Restrições](#restricoes) que limitem como os [Modos](#reunioes-de-circulo) são conduzidos. O [Facilitador](#facilitador) deve respeitar estas limitações.
+Durante a facilitação dos [Modos](#reunioes-de-circulo), o [Facilitador](#facilitador) pode fazer escolhas de que padrões utilizar e como conduzir cada momento. No entanto, o [Facilitador](#facilitador) deve sempre manter as suas escolhas alinhadas com o objetivo do [Modo](#reunioes-de-circulo) e as necessidades do [Círculo](#circulos). Um [Círculo](#circulos) pode também adotar uma ou mais [Restrições](#restricoes) que limitem como os [Modos](#reunioes-de-circulo) são conduzidos. O [Facilitador](#facilitador) deve respeitar estas limitações.
 
 ### <span id="modo-revisar">4.4 Modo Revisar</span>
 
@@ -265,7 +265,7 @@ O [Facilitador](#facilitador) deve facilitar um processo de eleição, considera
 
 ### <span id="modo-cuidar">4.8 Modo Cuidar</span>
 
-O "Modo Cuidar" <img alt="Cuidar" src="/icones/cuidar.svg" height="16" /> é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *tomar conta do espaço tribal e nutrir a qualidade das relações entre os participantes*. Este modo não deve ser utilizado para fazer alterações na [Estrutura Organizacional](#modo-cuidar) do [Círculo](#circulos) ou engajar os [Parceiros](#parceiros) nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres).
+O "Modo Cuidar" <img alt="Cuidar" src="/icones/cuidar.svg" height="16" /> é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *tomar conta do espaço tribal e nutrir a qualidade das relações entre os participantes*. Este [Modo](#reunioes-de-circulo) não deve ser utilizado para fazer alterações na [Estrutura Organizacional](#modo-cuidar) do [Círculo](#circulos) ou engajar os [Parceiros](#parceiros) nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres).
 
 > Veja os **Padrões para Cuidar** na [Biblioteca de Padrões][biblioteca].
 
