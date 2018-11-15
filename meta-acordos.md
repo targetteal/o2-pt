@@ -168,7 +168,7 @@ Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem imp
 
 ### <span id="formato-de-reuniao">4.2 Formato da Reunião</span>
 
-As [Reuniões de Círculo](#reunioes-de-circulo) devem começar com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro. O [Facilitador](#facilitador) preenche o encontro com um ou mais dos 5 odos, de acordo com o tempo disponível e as necessidades do [Círculo](#circulos). O [Facilitador](#facilitador) deve declarar o nome, objetivo e esclarecer as regras de cada modo antes de iniciá-lo. As [Reuniões de Círculo](#reunioes-de-circulo) terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
+As [Reuniões de Círculo](#reunioes-de-circulo) devem começar com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro. O [Facilitador](#facilitador) preenche o encontro com um ou mais dos 5 [Modos](#reunioes-de-circulo), de acordo com o tempo disponível e as necessidades do [Círculo](#circulos). O [Facilitador](#facilitador) deve declarar o nome, objetivo e esclarecer as regras de cada modo antes de iniciá-lo. As [Reuniões de Círculo](#reunioes-de-circulo) terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
 
 #### <span id="lista-de-tensoes">4.2.1 Lista de Tensões</span>
 
