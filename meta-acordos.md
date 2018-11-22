@@ -221,9 +221,9 @@ O [Facilitador](#facilitador) deve permitir que cada participante tenha a oportu
 Uma [Objeção](#objecoes) a uma [Proposta](#proposta) de mudança na [Estrutura Organizacional](#estrutura-organizacional) é considerada válida caso o [Objetor](#objecoes) acredite que ela atenda a todos os 4 critérios a seguir:
 
 1. **Degradação**. A [Objeção](#objecoes) é sobre algum mal que a [Proposta](#proposta) poderia causar ao [Círculo](#circulos).
-2. **Causalidade**. Este mal é causado pela [Proposta](#proposta), ou seja, ele não existiria sem ela.
-3. **Baseada em dados**. A [Objeção](#objecoes) é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o [Círculo](#circulos) não seria capaz de se adaptar no futuro, então este critério pode ser desconsiderado.
-4. **Relacionada ao Papéis**. A [Objeção](#objecoes) afeta um dos [Papéis](#papeis) do [Objetor](#objecoes) no [Círculo](#circulos).
+2. **Relacionada ao Papéis**. A [Objeção](#objecoes) afeta um dos [Papéis](#papeis) do [Objetor](#objecoes) no [Círculo](#circulos).
+3. **Causalidade**. Este mal é causado pela [Proposta](#proposta), ou seja, ele não existiria sem ela.
+4. **Baseada em dados**. A [Objeção](#objecoes) é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que o [Círculo](#circulos) não seria capaz de se adaptar no futuro, então este critério pode ser desconsiderado.
 
 Ao validar [Objeções](#objecoes), o [Facilitador](#facilitador) não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis. [Objeções](#objecoes) válidas devem ser integradas.
 
