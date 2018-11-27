@@ -330,10 +330,10 @@ O [Papel](#papeis) do "Elo Externo" <img alt="Elo Externo" src="/icones/elo-exte
 - Atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) do [Círculo](#circulos); monitorar a adequação; oferecer feedback para melhorar a adequação; e re-atribuir [Papéis](#papeis) a outros [Parceiros](#parceiros), quando necessário
 - Estabelecer prioridades para o [Círculo](#circulos)
 
-O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#papeis) não delegados do [Círculo](#circulos).
-
 **Artefatos**:
 - Atribuição de [Papéis](#papeis) dentro do [Círculo](#circulos)
+
+O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#papeis) não delegados do [Círculo](#circulos).
 
 ### <span id="elo-interno">5.8 Elo Interno</span>
 O [Papel](#papeis) do "Elo Interno" <img alt="Elo Interno" src="/icones/elo-interno.svg" height="16" /> possui a seguinte definição inicial:
