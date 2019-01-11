@@ -93,7 +93,7 @@ Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" <img alt=
 - Zero ou mais "Artefatos" <img alt="Artefatos" src="/icones/artefato.svg" height="16" />, que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](#organizacao).
 
 ### <span id="circulos">2.2 Círculos</span>
-Um "Círculo" <img alt="Círculo" src="/icones/circulo.svg" height="16" /> é um [Papel][#papeis] que possui a autoridade de se dividir em [Papéis][#papeis] menores, contidos dentro dele mesmo. Quando um [Papel][#papeis] é transformado em um Círculo, os [Parceiros](#parceiros) que o desempenhavam tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). [Círculos](#circulos) são definidos exatamente como os [Papéis](#papeis), ou seja, através dos elementos nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis).
+Um "Círculo" <img alt="Círculo" src="/icones/circulo.svg" height="16" /> é um [Papel](#papeis) que possui a autoridade de se dividir em [Papéis](#papeis) menores, contidos dentro dele mesmo. Quando um [Papel][#papeis] é transformado em um Círculo, os [Parceiros](#parceiros) que o desempenhavam tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). [Círculos](#circulos) são definidos exatamente como os [Papéis](#papeis), ou seja, através dos elementos nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis).
 
 #### <span id="circulos-nao-se-automodificam">2.2.1 Círculos não se automodificam</span>
 Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [Restrições](#restricoes), mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo](#circulos) externo que contém este [Círculo](#circulos).
