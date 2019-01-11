@@ -85,7 +85,7 @@ Ao perseguir o [Propósito](#papeis) de um ou mais [Papeis](#papeis), os [Parcei
 Os [Parceiros](#parceiros) poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](#circulos) e formada por [Papéis](#papeis) e [Restrições](#restricoes). Cada [Círculo](#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar](#modo-adaptar) da [Reunião de Círculo](#reuniao-de-circulo).
 
 ### <span id="papeis">2.1 Papéis</span>
-Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" <img alt="Papel" src="/icones/papel.svg" height="16" /> explicitamente definidos na [Estrutura Organizacional](#estrutura-organizacional). Um Papel é composto por:
+Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" <img alt="Papel" src="/icones/papel.svg" height="16" /> explicitamente definidos na [Estrutura Organizacional](#estrutura-organizacional). Um Papel é definido por:
 
 - Um nome descritivo;
 - Um "Propósito" <img alt="Propósito" src="/icones/proposito.svg" height="16" />, que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
@@ -93,10 +93,10 @@ Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" <img alt=
 - Zero ou mais "Artefatos" <img alt="Artefatos" src="/icones/artefato.svg" height="16" />, que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](#organizacao).
 
 ### <span id="circulos">2.2 Círculos</span>
-No interior de cada [Papel](#papeis) há um "Círculo" <img alt="Círculo" src="/icones/circulo.svg" height="16" />, que passa a existir no momento que o(s) [Parceiro(s)](#parceiros) que o desempenham decidem realizar uma [Reunião de Círculo](#reuniao-de-circulo) e criar [Papéis](#papeis) internos através do [Modo Adaptar](#modo-adaptar). Quando isto acontece, estes [Parceiros](#parceiros) tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). Este [Meta-Acordo](#meta-acordos) não se aplica aos [Papéis Essenciais](#papeis-essenciais).
+Um "Círculo" <img alt="Círculo" src="/icones/circulo.svg" height="16" /> é um [Papel][#papeis] que possui a autoridade de se dividir em [Papéis][#papeis] menores, contidos dentro dele mesmo. Quando um [Papel][#papeis] é transformado em um Círculo, os [Parceiros](#parceiros) que o desempenhavam tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). [Círculos](#circulos) são definidos exatamente como os [Papéis](#papeis), ou seja, através dos elementos nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis).
 
 #### <span id="circulos-nao-se-automodificam">2.2.1 Círculos não se automodificam</span>
-Um [Círculo](#circulos) possui exatamente os mesmos componentes de um [Papel](#papeis) (nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis)). Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [Restrições](#restricoes), mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo](#circulos) externo que contém este [Círculo](#circulos).
+Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [Restrições](#restricoes), mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo](#circulos) externo que contém este [Círculo](#circulos).
 
 #### <span id="circulos-nao-governam-seus-circulos">2.2.2 Círculos não governam seus Círculos internos</span>
 Um [Círculo](#circulos) não pode alterar os [Papéis](#papeis), [Círculos](#circulos) e [Restrições](#restricoes) de um [Círculo](#circulos) interno.
@@ -196,7 +196,8 @@ O "Modo Adaptar" <img alt="Adaptar" src="/icones/adaptar.svg" height="16" /> é 
 - Adicionar, remover ou alterar [Círculos](#circulos) internos;
 - Adicionar, remover ou alterar [Restrições](#restricoes) do [Círculo](#circulos);
 - Mover seus [Papéis](#papeis), [Restrições](#restricoes) ou [Círculos](#circulos) internos para um [Círculo](#circulos) interno;
-- Mover [Papéis](#papeis), [Restrições](#restricoes) ou [Círculos](#circulos) de um [Círculo](#circulos) interno para si.
+- Mover [Papéis](#papeis), [Restrições](#restricoes) ou [Círculos](#circulos) de um [Círculo](#circulos) interno para si;
+- Transformar um dos seus [Papéis][#papeis] em [Círculo](#circulos) internos, e vice-versa.
 
 #### <span id="proposta">4.6.1 Proposta</span>
 
