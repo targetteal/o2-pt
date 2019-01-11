@@ -16,8 +16,7 @@ A "Camada Base" é um documento, processo ou conjunto de acordos que antecede os
 1. [Organização](#organizacao)
 	1. [Propósito Evolutivo](#proposito-evolutivo)
 	2. [Parceiros](#parceiros)
-	3. [Relação Parceiros-Organização](relacao-parceiros-organizacao)
-	4. [Tensões](#tensoes)
+	3. [Tensões](#tensoes)
 2. [Estrutura Organizacional](#estrutura-organizacional)
 	1. [Papéis](#papeis)
 	2. [Círculos](#circulos)
@@ -80,10 +79,7 @@ A [Organização](#organizacao) possui um "Propósito Evolutivo", que correspond
 ### <span id="parceiros">1.2 Parceiros</span>
 A [Organização](#organizacao) pode ter um ou mais "Parceiros" <img alt="Parceiro" src="/icones/parceiro.svg" height="16" />, que são pessoas que energizam [Papéis](#papeis) e expressam o [Propósito Evolutivo](#proposito-evolutivo).
 
-### <span id="relacao-parceiros-organizacao">1.3 Relação Parceiros-Organização</span>
-A [Organização](#organizacao) pode governar a sua a relação com os [Parceiros](#parceiros) como um [Artefato](#artefato), respeitando as restrições estabelecidas na [Camada Base](#camada-base).
-
-### <span id="tensoes">1.4 Tensões</span>
+### <span id="tensoes">1.3 Tensões</span>
 Ao perseguir o [Propósito](#papeis) de um ou mais [Papeis](#papeis), os [Parceiros](#parceiros) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões" <img alt="Tensão" src="/icones/tensao.svg" height="16" />. As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito Evolutivo](#proposito-evoluito).
 
 ## <span id="estrutura-organizacional">2. Estrutura Organizacional</span>
