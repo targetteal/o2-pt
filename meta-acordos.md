@@ -197,7 +197,7 @@ O "Modo Adaptar" <img alt="Adaptar" src="/icones/adaptar.svg" height="16" /> é 
 - Adicionar, remover ou alterar [Restrições](#restricoes) do [Círculo](#circulos);
 - Mover seus [Papéis](#papeis), [Restrições](#restricoes) ou [Círculos](#circulos) internos para um [Círculo](#circulos) interno;
 - Mover [Papéis](#papeis), [Restrições](#restricoes) ou [Círculos](#circulos) de um [Círculo](#circulos) interno para si;
-- Transformar um dos seus [Papéis][#papeis] em [Círculo](#circulos) internos, e vice-versa.
+- Transformar os seus [Papéis](#papeis) em [Círculos](#circulos) internos, e vice-versa.
 
 #### <span id="proposta">4.6.1 Proposta</span>
 
