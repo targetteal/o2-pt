@@ -1,15 +1,13 @@
 # Os Meta-Acordos da Organização Orgânica
 
-Organização Orgânica (O2) é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem práticas evolutivas (propósito, autogestão e integralidade). O O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões][biblioteca] em constante evolução.
+Organização Orgânica (O2) é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem práticas evolutivas autogestão. O O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões][biblioteca] em constante evolução.
 
 ## <span id="meta-acordos">Meta-Acordos</span>
 
-Um "Meta-Acordo" é um acordo para formação de novos acordos. Neste documento, os Meta-Acordos da Organização Orgânica possuem um título de no máximo 50 caracteres e uma descrição limitada a 800 caracteres. Os Meta-Acordos possuem hiperligações uns com os outros para demonstrar sua interdependência.
+Um "Meta-Acordo" é um acordo para formação de novos acordos. Neste documento, estão descritos os Meta-Acordos iniciais da Organização Orgânica, cada um identificado por um título e uma descrição. Os Meta-Acordos possuem hiperligações uns com os outros para demonstrar sua interdependência.
 
-## <span id="camada-base">Camada Base</span>
-A "Camada Base" é um documento, processo ou conjunto de acordos que antecede os [Meta-Acordos](#meta-acordo). A "Camada Base" geralmente define quais Meta-Acordos estão válidos em uma [Organização](#organizacao) em um dado momento e também o processo para alterá-los. Cabe à Camada Base também definir o [Propósito Evolutivo](#proposito-evolutivo) da [Organização](#organizacao). Os Meta-Acordos não podem contradizer ou sobrescrever a Camada Base.
-
-> Exemplos de Camada Base incluem contrato social, estatuto ou acordo entre um grupo de pessoas que criam a entidade organizacional.
+## <span id="camada-base">Adoção</span>
+Este documento não define como os Meta-Acordos são adotados, como podem ser modificados e qual é o [Propósito Evolutivo](#proposito-evolutivo) da [Organização](#organizacao). Isto geralmente é estabelecido através de um contrato social, estatuto ou acordo entre um grupo de pessoas que criou a entidade organizacional.
 
 ## <span id="sumario">Sumário </span>
 
