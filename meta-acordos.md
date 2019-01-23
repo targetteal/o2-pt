@@ -1,6 +1,6 @@
 # Os Meta-Acordos da Organização Orgânica
 
-Organização Orgânica (O2) é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem práticas evolutivas autogestão. O O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões][biblioteca] em constante evolução.
+Organização Orgânica (O2) é um catalisador que ajuda organizações e as suas subpartes (times, departamentos, unidades) a adotarem autogestão. O O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões][biblioteca] em constante evolução.
 
 ## <span id="meta-acordos">Meta-Acordos</span>
 
@@ -118,7 +118,7 @@ Através do seu [Modo Adaptar](#modo-adaptar), um [Círculo](#circulos) pode esp
 
 "Restrições" <img alt="Restrição" src="/icones/restricao.svg" height="16" /> são limitações de autoridade que aplicam-se a todos os [Papéis](#papeis) de um [Círculo](#circulos). Restrições são compostas por um nome e uma descrição. A não ser que de outra forma especificado em sua descrição, o efeito de uma Restrição se aplica a todos os [Papéis](#papeis) e [Círculos](#circulos) internos ao [Círculo](#circulos) onde ela é definida. Uma Restrição é parte de um [Círculo](#circulos), assim como um [Papel](#papeis) ou [Círculo](#circulos) interno.
 
-### <span id="restricoes-nao-estabelecem-expectativas">2.5.1 Restrições não estabelecem expectativas</span>
+#### <span id="restricoes-nao-estabelecem-expectativas">2.5.1 Restrições não estabelecem expectativas</span>
 
 [Restrições](#restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#papeis). Ainda assim, uma [Restrição](#restricao) pode exigir ação, mas apenas para [Parceiros](#parceiros) em que a [Restrição](#restricao) se aplica na condição específica que desencadeia ela.
 
@@ -192,7 +192,7 @@ O "Modo Sincronizar" <img alt="Sincronizar" src="/icones/sincronizar.svg" height
 
 O "Modo Adaptar" <img alt="Adaptar" src="/icones/adaptar.svg" height="16" /> é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *processar [Tensões](#tensoes) em mudanças na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)*. As únicas saídas válidas e permitidas no [Modo Adaptar](#modo-adaptar) são:
 
-- Adicionar, remover ou alterar [Papeís](#papeis) do [Círculo](#circulos);
+- Adicionar, remover ou alterar [Papéis](#papeis) do [Círculo](#circulos);
 - Adicionar, remover ou alterar [Círculos](#circulos) internos;
 - Adicionar, remover ou alterar [Restrições](#restricoes) do [Círculo](#circulos);
 - Mover seus [Papéis](#papeis), [Restrições](#restricoes) ou [Círculos](#circulos) internos para um [Círculo](#circulos) interno;
