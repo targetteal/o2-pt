@@ -234,6 +234,8 @@ Qualquer participante pode levantar uma [Objeção](#objecoes) de "Quebra dos Me
 
 Alterações na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos) podem ser propostas fora da [Reunião de Círculo](#reuniao-de-circulo) e são automaticamente aprovadas se todos os [Membros do Círculo](#membros-do-circulo) declararem que não têm qualquer [Objeção](#objecoes). Se qualquer [Objeção](#objecoes) for levantada ou um participante declarar que gostaria de tratar a [Tensão](#tensoes) de forma convencional, a [Proposta](#proposta) deve ser escalada para o [Modo Adaptar](#modo-adaptar) de uma Reunião de [Círculo](#circulos) convencional. Cabe ao [Secretário](#secretario) definir como e onde as Propostas Síncronas podem ser apresentadas.
 
+> Veja os **Padrões para Adaptar** na na [Biblioteca de Padrões][biblioteca].
+
 ### <span id="modo-selecionar">4.7 Modo Selecionar</span>
 
 O "Modo Selecionar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *escolher [Membros do Círculo](#membros-do-circulo) para desempenharem um ou mais dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos)*.
