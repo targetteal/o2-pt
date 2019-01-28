@@ -37,7 +37,7 @@ Nossas influências incluem:
 - Getting Things Done (A arte de fazer acontecer)
 - Organizações Responsivas
 
-O O2 é atualmente desenvolvido em português, dado que a maior parte dos contribuidores são brasileiros. Cada versão é traduzida para inglês e disponibilizada em [outro repositório GitHub]((https://github.com/targetteal/organic-organization-translations/).
+O O2 é atualmente desenvolvido em português, dado que a maior parte dos contribuidores são brasileiros. Cada versão é traduzida para inglês e disponibilizada em [outro repositório GitHub](https://github.com/targetteal/organic-organization-translations/).
 
 ## Colaborando
 
