@@ -232,7 +232,7 @@ Qualquer participante pode levantar uma [Objeção](#objecoes) de "Quebra dos Me
 
 #### <span id="propostas-assincronas">4.6.7 Propostas Assíncronas</span>
 
-Alterações na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos) podem ser propostas fora da [Reunião de Círculo](#reuniao-de-circulo) e são automaticamente aprovadas se todos os [Membros do Círculo](#membros-do-circulo) declararem que não têm qualquer [Objeção](#objecoes). Se qualquer [Objeção](#objecoes) for levantada ou um participante declarar que gostaria de tratar a [Tensão](#tensoes) de forma convencional, a [Proposta](#proposta) deve ser escalada para o [Modo Adaptar](#modo-adaptar) de uma Reunião de [Círculo](#circulos) convencional. Cabe ao [Secretário](#secretario) definir como e onde as Propostas Síncronas podem ser apresentadas.
+Alterações na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos) podem ser propostas fora da [Reunião de Círculo](#reuniao-de-circulo) e são automaticamente aprovadas se todos os [Membros do Círculo](#membros-do-circulo) declararem que não têm qualquer [Objeção](#objecoes). Se qualquer [Objeção](#objecoes) for levantada ou um participante declarar que gostaria de tratar a [Tensão](#tensoes) de forma convencional, a [Proposta](#proposta) deve ser escalada para o [Modo Adaptar](#modo-adaptar) de uma [Reunião de Círculo](#reuniao-de-circulo) convencional.
 
 > Veja os **Padrões para Adaptar** na na [Biblioteca de Padrões][biblioteca].
 
