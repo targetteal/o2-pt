@@ -310,7 +310,7 @@ O [Papel](#papeis) do "Facilitador" possui a seguinte definição inicial:
 ### <span id="secretario">5.6 Secretário</span>
 O [Papel](#papeis) do "Secretário" possui a seguinte definição inicial:
 
-**Propósito**: _[Meta-Acordos](#meta-acordos) claros, [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos) atualizada_
+**Propósito**: _[Meta-Acordos](#meta-acordos) e [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos) claros_
 
 **Responsabilidades**:
 - Agendar [Reuniões de Círculo](#reunioes-de-circulo) regulares
