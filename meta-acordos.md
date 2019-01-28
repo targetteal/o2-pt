@@ -18,8 +18,8 @@ Este documento não define como os Meta-Acordos são adotados, como podem ser mo
 2. [Estrutura Organizacional](#estrutura-organizacional)
 	1. [Papéis](#papeis)
 	2. [Círculos](#circulos)
-		1. [Círculos não se automodificam](#circulos-nao-se-automodificam)
-		2. [Círculos não governam seus Círculos internos](#circulos-nao-governam-seus-circulos-internos)
+		1. [Círculos não alteram sua definição](#circulos-nao-alteram-sua-definicao)
+		2. [Círculos não estruturam seus Círculos internos](#circulos-nao-estruturam-seus-circulos-internos)
 	3. [Artefatos do Círculo](#artefatos-do-circulo)
 		1. [Círculos podem delegar Artefatos](#circulos-podem-delegar-artefatos)
 	4. [Membros do Círculo](#membros-do-circulo)
@@ -95,11 +95,11 @@ Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" explicita
 ### <span id="circulos">2.2 Círculos</span>
 Um "Círculo" é um [Papel](#papeis) que possui a autoridade de se dividir em [Papéis](#papeis) menores, contidos dentro dele mesmo. Quando um [Papel](#papeis) é transformado em um Círculo, os [Parceiros](#parceiros) que o desempenhavam tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). [Círculos](#circulos) são definidos exatamente como os [Papéis](#papeis), ou seja, através dos elementos nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis).
 
-#### <span id="circulos-nao-se-automodificam">2.2.1 Círculos não se automodificam</span>
+#### <span id="circulos-nao-alteram-sua-definicao">2.2.1 Círculos não alteram sua definição</span>
 Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [Restrições](#restricoes), mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo](#circulos) externo que contém este [Círculo](#circulos).
 
-#### <span id="circulos-nao-governam-seus-circulos">2.2.2 Círculos não governam seus Círculos internos</span>
-Um [Círculo](#circulos) não pode alterar os [Papéis](#papeis), [Círculos](#circulos) e [Restrições](#restricoes) de um [Círculo](#circulos) interno.
+#### <span id="circulos-nao-estruturam-seus-circulos">2.2.2 Círculos não estruturam seus Círculos internos</span>
+Um [Círculo](#circulos) não pode alterar os [Papéis](#papeis), [Círculos](#circulos) e [Restrições](#restricoes) de um [Círculo](#circulos) interno diretamente. No entanto, um [Círculo](#circulos) pode realizar algumas operações no [Modo Adaptar](#modo-adaptar), como mover [Papéis](#papeis) de si para os seus [Círculos](#circulos) internos e vice-versa.
 
 ### <span id="artefatos-do-circulo">2.3 Artefatos do Círculo</span>
 Quando um [Círculo](#circulos) possui [Artefatos](#papeis) na sua definição, somente [Membros do Círculo](#membros-do-circulo) podem impactar estes [Artefatos](#papeis) sem violar o [Dever da preservação](#dever-da-preservacao).
