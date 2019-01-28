@@ -69,31 +69,31 @@ Este documento não define como os Meta-Acordos são adotados, como podem ser mo
 
 ## <span id="organizacao">1. Organização</span></span>
 
-A "Organização" <img alt="Organização" src="/icones/organizacao.svg" height="16" /> é uma entidade criada para expressar um [Propósito Evolutivo](#proposito-evolutivo). Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
+A "Organização" é uma entidade criada para expressar um [Propósito Evolutivo](#proposito-evolutivo). Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
 
 ### <span id="proposito-evolutivo">1.1 <span id="proposito-evolutivo">Propósito Evolutivo</span></span>
 A [Organização](#organizacao) possui um "Propósito Evolutivo", que corresponde ao *potencial criativo mais profundo que pode expressar de forma sustentável no mundo*. O Propósito Evolutivo é o [Propósito](#papeis) do [Círculo](#circulos) mais amplo da [Estrutura Organizacional](#estrutura-organizacional).
 
 ### <span id="parceiros">1.2 Parceiros</span>
-A [Organização](#organizacao) pode ter um ou mais "Parceiros" <img alt="Parceiro" src="/icones/parceiro.svg" height="16" />, que são pessoas que energizam [Papéis](#papeis) e expressam o [Propósito Evolutivo](#proposito-evolutivo).
+A [Organização](#organizacao) pode ter um ou mais "Parceiros", que são pessoas que energizam [Papéis](#papeis) e expressam o [Propósito Evolutivo](#proposito-evolutivo).
 
 ### <span id="tensoes">1.3 Tensões</span>
-Ao perseguir o [Propósito](#papeis) de um ou mais [Papeis](#papeis), os [Parceiros](#parceiros) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões" <img alt="Tensão" src="/icones/tensao.svg" height="16" />. As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito Evolutivo](#proposito-evoluito).
+Ao perseguir o [Propósito](#papeis) de um ou mais [Papeis](#papeis), os [Parceiros](#parceiros) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões" . As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito Evolutivo](#proposito-evoluito).
 
 ## <span id="estrutura-organizacional">2. Estrutura Organizacional</span>
 
 Os [Parceiros](#parceiros) poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](#circulos) e formada por [Papéis](#papeis) e [Restrições](#restricoes). Cada [Círculo](#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar](#modo-adaptar) da [Reunião de Círculo](#reuniao-de-circulo).
 
 ### <span id="papeis">2.1 Papéis</span>
-Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" <img alt="Papel" src="/icones/papel.svg" height="16" /> explicitamente definidos na [Estrutura Organizacional](#estrutura-organizacional). Um Papel é definido por:
+Os [Parceiros](#parceiros) executam o trabalho em um ou mais "Papéis" explicitamente definidos na [Estrutura Organizacional](#estrutura-organizacional). Um Papel é definido por:
 
 - Um nome descritivo;
-- Um "Propósito" <img alt="Propósito" src="/icones/proposito.svg" height="16" />, que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
-- Zero ou mais "Responsabilidades" <img alt="Responsabilidades" src="/icones/responsabilidade.svg" height="16" />, que são atividades contínuas que outros [Parceiros](#parceiros) podem esperar que o Papel irá executar;
-- Zero ou mais "Artefatos" <img alt="Artefatos" src="/icones/artefato.svg" height="16" />, que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](#organizacao).
+- Um "Propósito", que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
+- Zero ou mais "Responsabilidades", que são atividades contínuas que outros [Parceiros](#parceiros) podem esperar que o Papel irá executar;
+- Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](#organizacao).
 
 ### <span id="circulos">2.2 Círculos</span>
-Um "Círculo" <img alt="Círculo" src="/icones/circulo.svg" height="16" /> é um [Papel](#papeis) que possui a autoridade de se dividir em [Papéis](#papeis) menores, contidos dentro dele mesmo. Quando um [Papel](#papeis) é transformado em um Círculo, os [Parceiros](#parceiros) que o desempenhavam tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). [Círculos](#circulos) são definidos exatamente como os [Papéis](#papeis), ou seja, através dos elementos nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis).
+Um "Círculo" é um [Papel](#papeis) que possui a autoridade de se dividir em [Papéis](#papeis) menores, contidos dentro dele mesmo. Quando um [Papel](#papeis) é transformado em um Círculo, os [Parceiros](#parceiros) que o desempenhavam tornam-se o [Elo Externo](#elo-externo) daquele [Círculo](#circulos). [Círculos](#circulos) são definidos exatamente como os [Papéis](#papeis), ou seja, através dos elementos nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis).
 
 #### <span id="circulos-nao-se-automodificam">2.2.1 Círculos não se automodificam</span>
 Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [Restrições](#restricoes), mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo](#circulos) externo que contém este [Círculo](#circulos).
@@ -116,45 +116,45 @@ Através do seu [Modo Adaptar](#modo-adaptar), um [Círculo](#circulos) pode esp
 
 ### <span id="restricoes">2.5 Restrições</span>
 
-"Restrições" <img alt="Restrição" src="/icones/restricao.svg" height="16" /> são limitações de autoridade que aplicam-se a todos os [Papéis](#papeis) de um [Círculo](#circulos). Restrições são compostas por um nome e uma descrição. A não ser que de outra forma especificado em sua descrição, o efeito de uma Restrição se aplica a todos os [Papéis](#papeis) e [Círculos](#circulos) internos ao [Círculo](#circulos) onde ela é definida. Uma Restrição é parte de um [Círculo](#circulos), assim como um [Papel](#papeis) ou [Círculo](#circulos) interno.
+"Restrições" são limitações de autoridade que aplicam-se a todos os [Papéis](#papeis) de um [Círculo](#circulos). Restrições são compostas por um nome e uma descrição. A não ser que de outra forma especificado em sua descrição, o efeito de uma Restrição se aplica a todos os [Papéis](#papeis) e [Círculos](#circulos) internos ao [Círculo](#circulos) onde ela é definida. Uma Restrição é parte de um [Círculo](#circulos), assim como um [Papel](#papeis) ou [Círculo](#circulos) interno.
 
 #### <span id="restricoes-nao-estabelecem-expectativas">2.5.1 Restrições não estabelecem expectativas</span>
 
 [Restrições](#restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#papeis). Ainda assim, uma [Restrição](#restricao) pode exigir ação, mas apenas para [Parceiros](#parceiros) em que a [Restrição](#restricao) se aplica na condição específica que desencadeia ela.
 
 ## <span id="direitos-e-deveres">3. Direitos e Deveres</span>
-Todos os [Parceiros](#parceiros) podem usufruir dos "Direitos" <img alt="Direitos" src="/icones/direitos.svg" height="16" /> e devem se comprometer com os "Deveres" <img alt="Deveres" src="/icones/deveres.svg" height="16" /> apresentados abaixo.
+Todos os [Parceiros](#parceiros) podem usufruir dos "Direitos" apresentados abaixo.
 
-### <span id="direito-de-recusar-pedidos">3.1 Direito de recusar pedidos</span> <img alt="Direito de recusar pedidos" src="/icones/direito-recusar-pedidos.svg" height="16" />
+### <span id="direito-de-recusar-pedidos">3.1 Direito de recusar pedidos</span>
 [Parceiros](#parceiros) podem recusar pedidos, caso não exista uma [Responsabilidade](#papeis) explícita correspondente na descrição do [Papel](#papeis) sendo solicitado. Entretanto, os [Parceiros](#parceiros) devem sempre aceitar os pedidos que fizerem sentido para o [Propósito](#papeis) de algum dos seus [Papéis](#papeis), mesmo que nenhuma [Responsabilidade](#papeis) explícita esteja registrada.
 
-### <span id="direito-de-agir-para-o-proposito">3.2 Direito de agir para o Propósito</span> <img alt="Direito de agir para o Propósito" src="/icones/direito-agir-proposito.svg" height="16" />
+### <span id="direito-de-agir-para-o-proposito">3.2 Direito de agir para o Propósito</span>
 Ao perseguir o [Propósito](#papeis) dos seus [Papéis](#papeis), os [Parceiros](#parceiros) estão sempre autorizados a tomar ação, a não ser que o [Dever da Preservação](#dever-da-preservacao) os restrinja.
 
-### <span id="direito-de-agir-heroicamente">3.3 Direito de agir heroicamente</span> <img alt="Direito de agir heroicamente" src="/icones/direito-agir-heroicamente.svg" height="16" />
+### <span id="direito-de-agir-heroicamente">3.3 Direito de agir heroicamente</span>
 [Parceiros](#parceiros) podem temporariamente ignorar estes Meta-Acordos se isto for útil e necessário para expressar o [Propósito Evolutivo](#proposito-evolutivo) da [Organização](#organizacao). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heróicos". Os [Parceiros](#parceiros) devem buscar reparar quaisquer danos causados após um Ato Heróico, propondo mudanças na [Estrutura Organizacional](#estrutura-organizacional) ou até nestes [Meta-Acordos](#meta-acordos) se necessário.
 
-### <span id="direito-de-deixar-papeis">3.4 Direito de deixar Papéis</span> <img alt="Direito de deixar Papéis" src="/icones/direito-deixar-papeis.svg" height="16" />
+### <span id="direito-de-deixar-papeis">3.4 Direito de deixar Papéis</span>
 [Parceiros](#parceiros) podem a qualquer momento deixar [Papéis](#papeis) que desempenham em um ou mais [Círculos](#circulos), a não ser que tenham de outra forma acordado com o [Elo Externo](#elo-externo) ou outro mecanismo que atribua [Parceiros](#parceiros) a [Papéis](#papeis).
 
-### <span id="dever-da-expressao">3.5 Dever da expressão</span> <img alt="Dever da expressão" src="/icones/dever-expressao.svg" height="16" />
+### <span id="dever-da-expressao">3.5 Dever da expressão</span>
 Cada [Parceiro](#parceiros) é responsável por identificar suas [Tensões](#tensoes) a partir de cada [Papel](#papeis) que desempenha. Cada [Parceiro](#parceiros) também é responsável por tentar resolver essas [Tensões](#tensoes), engajando outros [Parceiros](#parceiros) em seus [Deveres](#direitos-e-deveres) ou propondo mudanças na [Estrutura Organizacional](#estrutura-organizacional).
 
-### <span id="dever-da-transparencia">3.6 Dever da transparência</span> <img alt="Dever da transparência" src="/icones/dever-transparencia.svg" height="16" />
+### <span id="dever-da-transparencia">3.6 Dever da transparência</span>
 Quando solicitado, é esperado que os [Parceiros](#parceiros) compartilhem todas as informações relevantes sobre o trabalho de seus [Papéis](#papeis), incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros](#parceiros) dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
-### <span id="dever-da-priorizacao">3.7 Dever da priorização</span> <img alt="Dever da priorização" src="/icones/dever-priorizacao.svg" height="16" />
+### <span id="dever-da-priorizacao">3.7 Dever da priorização</span>
 Os [Parceiros](#parceiros) devem priorizar o seu trabalho em alinhamento com as prioridades do [Círculo](#circulos) definidas pelo [Elo Externo](#elo-externo) ou por qualquer outro processo que estabeleça prioridades para o [Círculo](#circulos).
 
-### <span id="dever-do-comparecimento">3.8 Dever do comparecimento</span> <img alt="Dever do comparecimento" src="/icones/dever-comparecimento.svg" height="16" />
+### <span id="dever-do-comparecimento">3.8 Dever do comparecimento</span>
 Quando solicitado, [Parceiros](#parceiros) devem priorizar comparecer às [Reuniões de Círculo](#reunioes-de-circulo) em detrimento de trabalhar nos seus [Papéis](#papeis).
 
-### <span id="dever-da-preservacao">3.9 Dever da preservação</span> <img alt="Dever da preservação" src="/icones/dever-preservacao.svg" height="16" />
+### <span id="dever-da-preservacao">3.9 Dever da preservação</span>
 Os [Parceiros](#parceiros), a partir dos seus [Papéis](#papeis), não devem impactar os [Artefatos](#papeis) de outros [Papéis](#papeis) contidos no mesmo [Círculo](#circulos), sem antes obter uma permissão explícita do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) correspondente. Os [Parceiros](#parceiros) também devem observar as [Restrições](#restricoes) definidas na [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
 
 ## <span id="reunioes-de-circulo">4. Reuniões de Círculo</span>
 
-[Membros do Círculo](#membros-do-circulo) regularmente se encontram em um espaço chamado "Reunião de Círculo" para executar um ou mais dos 5 "Modos" <img alt="Modos" src="/icones/modos.svg" height="16" /> especiais de reunião descritos na seção seguinte: [Revisar](#modo-revisar), [Sincronizar](#modo-sincronizar), [Adaptar](#modo-adaptar), [Selecionar](#modo-selecionar) e [Cuidar](#modo-cuidar). Reuniões de Círculo são agendadas pelo [Secretário](#secretario) e facilitadas pelo [Facilitador](#facilitador), dois [Papéis Essenciais](#papeis-essenciais).
+[Membros do Círculo](#membros-do-circulo) regularmente se encontram em um espaço chamado "Reunião de Círculo" para executar um ou mais dos 5 "Modos" especiais de reunião descritos na seção seguinte: [Revisar](#modo-revisar), [Sincronizar](#modo-sincronizar), [Adaptar](#modo-adaptar), [Selecionar](#modo-selecionar) e [Cuidar](#modo-cuidar). Reuniões de Círculo são agendadas pelo [Secretário](#secretario) e facilitadas pelo [Facilitador](#facilitador), dois [Papéis Essenciais](#papeis-essenciais).
 
 ### <span id="somente-membros-podem-processar-tensoes">4.1 Somente Membros podem processar tensões</span>
 
@@ -178,19 +178,19 @@ Durante a facilitação dos [Modos](#reunioes-de-circulo), o [Facilitador](#faci
 
 ### <span id="modo-revisar">4.4 Modo Revisar</span>
 
-O "Modo Revisar" <img alt="Revisar" src="/icones/revisar.svg" height="16" /> é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *dar transparência ao trabalho realizado pelo [Círculo](#circulos)*. Cabe ao [Facilitador](#facilitador) decidir como especificamente o [Modo Revisar](#modo-revisar) é conduzido, exceto se uma [Restrição](#restricoes) determinar o contrário.
+O "Modo Revisar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *dar transparência ao trabalho realizado pelo [Círculo](#circulos)*. Cabe ao [Facilitador](#facilitador) decidir como especificamente o [Modo Revisar](#modo-revisar) é conduzido, exceto se uma [Restrição](#restricoes) determinar o contrário.
 
 > Veja os **Padrões para Revisar** na [Biblioteca de Padrões][biblioteca].
 
 ### <span id="modo-sincronizar">4.5 Modo Sincronizar</span>
 
-O "Modo Sincronizar" <img alt="Sincronizar" src="/icones/sincronizar.svg" height="16" /> é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *rapidamente processar [Tensões](#tensoes) que não exigem o [Círculo](#circulos) atualizar a sua [Estrutura Organizacional](#estrutura-organizacional)*. Saídas típicas do _Modo Sincronizar_ incluem ações, projetos, pedidos de ajuda e compartilhamento de informações. O [Facilitador](#facilitador) deve simplesmente permitir que cada participante que trouxe uma [Tensão](#tensoes) engaje os outros nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres), até que um caminho para resolver a [Tensão](#tensoes) seja identificado. O [Secretário](#secretario) deve registrar quaisquer pedidos aceitos pelos outros participantes em seus [Papéis](#papeis) ou como Atos Heróicos.
+O "Modo Sincronizar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *rapidamente processar [Tensões](#tensoes) que não exigem o [Círculo](#circulos) atualizar a sua [Estrutura Organizacional](#estrutura-organizacional)*. Saídas típicas do _Modo Sincronizar_ incluem ações, projetos, pedidos de ajuda e compartilhamento de informações. O [Facilitador](#facilitador) deve simplesmente permitir que cada participante que trouxe uma [Tensão](#tensoes) engaje os outros nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres), até que um caminho para resolver a [Tensão](#tensoes) seja identificado. O [Secretário](#secretario) deve registrar quaisquer pedidos aceitos pelos outros participantes em seus [Papéis](#papeis) ou como Atos Heróicos.
 
 > Veja os **Padrões para Revisar** na [Biblioteca de Padrões][biblioteca].
 
 ### <span id="modo-adaptar">4.6 Modo Adaptar</span>
 
-O "Modo Adaptar" <img alt="Adaptar" src="/icones/adaptar.svg" height="16" /> é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *processar [Tensões](#tensoes) em mudanças na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)*. As únicas saídas válidas e permitidas no [Modo Adaptar](#modo-adaptar) são:
+O "Modo Adaptar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *processar [Tensões](#tensoes) em mudanças na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)*. As únicas saídas válidas e permitidas no [Modo Adaptar](#modo-adaptar) são:
 
 - Adicionar, remover ou alterar [Papéis](#papeis) do [Círculo](#circulos);
 - Adicionar, remover ou alterar [Círculos](#circulos) internos;
@@ -236,7 +236,7 @@ Alterações na [Estrutura Organizacional](#estrutura-organizacional) do [Círcu
 
 ### <span id="modo-selecionar">4.7 Modo Selecionar</span>
 
-O "Modo Selecionar" <img alt="Selecionar" src="/icones/selecionar.svg" height="16" /> é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *escolher [Membros do Círculo](#membros-do-circulo) para desempenharem um ou mais dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos)*.
+O "Modo Selecionar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *escolher [Membros do Círculo](#membros-do-circulo) para desempenharem um ou mais dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos)*.
 
 #### <span id="selecionar-imediatamente">4.7.1 Selecionar imediatamente</span>
 
@@ -260,17 +260,17 @@ O [Facilitador](#facilitador) deve facilitar um processo de eleição, considera
 
 ### <span id="modo-cuidar">4.8 Modo Cuidar</span>
 
-O "Modo Cuidar" <img alt="Cuidar" src="/icones/cuidar.svg" height="16" /> é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *tomar conta do espaço tribal e nutrir a qualidade das relações entre os participantes*. Este [Modo](#reunioes-de-circulo) não deve ser utilizado para fazer alterações na [Estrutura Organizacional](#modo-cuidar) do [Círculo](#circulos) ou engajar os [Parceiros](#parceiros) nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres).
+O "Modo Cuidar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *tomar conta do espaço tribal e nutrir a qualidade das relações entre os participantes*. Este [Modo](#reunioes-de-circulo) não deve ser utilizado para fazer alterações na [Estrutura Organizacional](#modo-cuidar) do [Círculo](#circulos) ou engajar os [Parceiros](#parceiros) nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres).
 
 > Veja os **Padrões para Cuidar** na [Biblioteca de Padrões][biblioteca].
 
 ## <span id="papeis-essenciais">5. Papéis Essenciais</span>
 
-Cada [Círculo](#circulos) contém 4 "Papéis Essenciais" <img alt="Papéis Essenciais" src="/icones/papeis-essenciais.svg" height="16" /> automaticamente criados: [Elo Externo](#elo-externo), [Elo Interno](#elo-interno), [Facilitador](#facilitador) e [Secretário](#secretário).
+Cada [Círculo](#circulos) contém 4 "Papéis Essenciais" automaticamente criados: [Elo Externo](#elo-externo), [Elo Interno](#elo-interno), [Facilitador](#facilitador) e [Secretário](#secretário).
 
 ### <span id="papeis-essenciais-eleitos">5.1 Papéis Essenciais Eleitos</span>
 
-Quando um [Círculo](#circulos) possui dois ou mais [Parceiros](#parceiros), ele deve eleger no [Modo Selecionar](#modo-selecionar) os 3 "Papéis Essenciais Eleitos" <img alt="Papéis Essenciais Eleitos" src="/icones/papeis-essenciais-eleitos.svg" height="16" /> de [Facilitador](#facilitador), [Secretário](#secretario) e [Elo Interno](#elo-interno). A única exceção é o [Círculo](#circulos) mais amplo da [Estrutura Organizacional](#estrutura-organizacional), que não deve eleger [Elo Interno](#elo-interno).
+Quando um [Círculo](#circulos) possui dois ou mais [Parceiros](#parceiros), ele deve eleger no [Modo Selecionar](#modo-selecionar) os 3 "Papéis Essenciais Eleitos" de [Facilitador](#facilitador), [Secretário](#secretario) e [Elo Interno](#elo-interno). A única exceção é o [Círculo](#circulos) mais amplo da [Estrutura Organizacional](#estrutura-organizacional), que não deve eleger [Elo Interno](#elo-interno).
 
 ### <span id="alteracoes-nos-papeis-essenciais">5.2 Alterações nos Papéis Essenciais</span>
 
@@ -295,7 +295,7 @@ O [Elo Externo](#elo-externo) é escolhido pelo [Círculo](#circulos) externo, p
 O [Elo Externo](#elo-externo) é responsável por atribuir [Parceiros](#parceiros) aos [Papéis](#papeis) no [Círculo](#circulos) e pode convidar qualquer [Parceiro](#parceiros) da [Organização](#organizacao), a não ser que uma [Restrição](#restricoes) diga o contrário.
 
 ### <span id="facilitador">5.5 Facilitador</span>
-O [Papel](#papeis) do "Facilitador" <img alt="Facilitador" src="/icones/facilitador.svg" height="16" /> possui a seguinte definição inicial:
+O [Papel](#papeis) do "Facilitador" possui a seguinte definição inicial:
 
 **Propósito**: _[Reuniões de Círculo](#reunioes-de-circulo) saudáveis e alinhadas com os [Meta-Acordos](#meta-acordos)_
 
@@ -303,7 +303,7 @@ O [Papel](#papeis) do "Facilitador" <img alt="Facilitador" src="/icones/facilita
 - Facilitar as [Reuniões de Círculo](#reunioes-de-circulo)
 
 ### <span id="secretario">5.6 Secretário</span>
-O [Papel](#papeis) do "Secretário" <img alt="Secretário" src="/icones/secretario.svg" height="16" /> possui a seguinte definição inicial:
+O [Papel](#papeis) do "Secretário" possui a seguinte definição inicial:
 
 **Propósito**: _Manutenção precisa dos registros de [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)_
 
@@ -316,7 +316,7 @@ O [Papel](#papeis) do "Secretário" <img alt="Secretário" src="/icones/secretar
 - Registros da [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)
 
 ### <span id="elo-externo">5.7 Elo Externo</span>
-O [Papel](#papeis) do "Elo Externo" <img alt="Elo Externo" src="/icones/elo-externo.svg" height="16" /> possui a seguinte definição inicial:
+O [Papel](#papeis) do "Elo Externo" possui a seguinte definição inicial:
 
 **Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
 
@@ -331,7 +331,7 @@ O [Papel](#papeis) do "Elo Externo" <img alt="Elo Externo" src="/icones/elo-exte
 O Elo Externo detém todas as [Responsabilidades](#papeis) e [Artefatos](#papeis) não delegados do [Círculo](#circulos).
 
 ### <span id="elo-interno">5.8 Elo Interno</span>
-O [Papel](#papeis) do "Elo Interno" <img alt="Elo Interno" src="/icones/elo-interno.svg" height="16" /> possui a seguinte definição inicial:
+O [Papel](#papeis) do "Elo Interno" possui a seguinte definição inicial:
 
 **Propósito**: _O [Propósito](#papeis) do [Círculo](#circulos)_
 
