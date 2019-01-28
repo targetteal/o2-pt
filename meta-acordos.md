@@ -278,7 +278,7 @@ Quando um [Círculo](#circulos) possui dois ou mais [Parceiros](#parceiros), ele
 
 Os [Papéis Essenciais](#papeis-essenciais) de cada [Círculo](#circulos) podem ser alterados durante o [Modo Adaptar](#modo-adaptar). No entanto, as seguintes restrições se aplicam:
 
-- O [Propósito](#papeis) dos [Papéis Essenciais](#papeis-essenciais) não pode ser alterado;
+- O nome e o [Propósito](#papeis) dos [Papéis Essenciais](#papeis-essenciais) não pode ser alterado;
 - Novas [Responsabilidades](#papeis) e [Artefatos](#papeis) não podem ser acrescidas ao [Papel](#papeis) do [Elo Externo](#elo-externo);
 - As [Responsabilidades](#papeis) e [Artefatos](#papeis) iniciais do Papel [Elo Externo](#elo-externo) podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel](#papeis) ou processo no [Círculo](#circulos);
 - As [Responsabilidades](#papeis) e [Artefatos](#papeis) iniciais dos [Papéis](#papeis) de [Facilitador](#facilitador), [Secretário](#secretario) e [Elo Interno](#elo-interno) não podem ser removidas ou modificadas;
