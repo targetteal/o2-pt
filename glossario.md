@@ -34,7 +34,7 @@ Alguns termos definidos abaixo estão presente nos [Meta-Acordos](meta-acordos.m
 
 <span id="dever-da-expressao">**Dever da expressão**</span>: É esperado que membros do [Círculo](#circulo) expressem os [Papéis](#papeis) que eles desempenham, comparando a realidade atual com uma potencialmente melhor. É esperado também que os membros do [Círculo](#circulo) processem cada [Tensão](#tensao) sentida, identificando [Projetos](#projeto), [Ações](#acoes) e potenciais mudanças na [Estrutura Organizacional](#estrutura-organizacional).
 
-<span id="dever-da-preservacao">**Dever da preservação**</span>: Você não deve impactar [Artefatos](#artefato) sem a permissão de quem controla o [Artefato](#artefato). Você também deve respeitar as [Restrições](#restricoes) na estrutura.
+<span id="dever-da-preservacao">**Dever da preservação**</span>: Você não deve impactar [Artefatos](#artefato) sem a permissão de quem controla o [Artefato](#artefato). Você também deve respeitar as [Restrições](#restricao) na estrutura.
 
 <span id="">**Dever da priorização**</span>: É esperado que membros do [Círculo](#circulo) priorizem o seu trabalho em concordância com as prioridades do [Círculo](#circulo), estabelecidas pelo [Elo Externo](#elo-externo) ou outro processo que determina prioridades.
 
@@ -60,9 +60,9 @@ Alguns termos definidos abaixo estão presente nos [Meta-Acordos](meta-acordos.m
 
 <span id="estrutura-de-circulos-aninhados">**Estrutura de Círculos aninhados**</span>: A [Estrutura Organizacional](#estrutura-organizacional) definida pelo O2, que é composta de [Círculos](#circulo) dentro de [Círculos](#circulo). Na estrutura de [Círculos](#circulo) aninhados, todos os [Círculos](#circulo) são conectados com pelo menos um outro [Círculo](#circulo) através de uma hierarquia de escopo (a única exceção é o [Círculo](#circulo) mais amplo).
 
-<span id="estrutura-organizacional">**Estrutura Organizacional**</span>: [Círculos](#circulo), [Papéis](#papeis), [Restrições](#restricoes) e os seus subcomponentes.
+<span id="estrutura-organizacional">**Estrutura Organizacional**</span>: [Círculos](#circulo), [Papéis](#papeis), [Restrições](#restricao) e os seus subcomponentes.
 
-<span id="estrutura-organizacional-do-circulo">**Estrutura Organizacional do Círculo**</span>: Todos os [Papéis](#papeis), [Círculos](#circulo) internos e [Restrições](#restricoes) de um dado [Círculo](#circulo). A [Estrutura Organizacional](#estrutura-organizacional) de um [Círculo](#circulo) não inclui a subestrutura dos seus [Círculos](#circulo) internos.
+<span id="estrutura-organizacional-do-circulo">**Estrutura Organizacional do Círculo**</span>: Todos os [Papéis](#papeis), [Círculos](#circulo) internos e [Restrições](#restricao) de um dado [Círculo](#circulo). A [Estrutura Organizacional](#estrutura-organizacional) de um [Círculo](#circulo) não inclui a subestrutura dos seus [Círculos](#circulo) internos.
 
 <span id="facilitador">**Facilitador**</span>: Um [Papel Essencial](#papeis-essenciais) essencial que facilita as [Reuniões de Círculo](#circulo) de acordo com os [Meta-Acordos](#meta-acordo) do O2.
 
@@ -98,7 +98,7 @@ Alguns termos definidos abaixo estão presente nos [Meta-Acordos](meta-acordos.m
 
 <span id="papeis-essenciais">**Papéis Essenciais**</span>: Quatro [Papéis](#papeis) automaticamente criados dentro de cada [Círculo](#circulo): [Elo Externo](#elo-externo), [Elo Interno](#elo-interno), [Facilitador](#facilitator) e [Secretário](#secretario).
 
-<span id="">**Organização**</span>: Uma entidade criada para expressar um [Propósito Evoluitvo](#proposito-evolutivo) e que possui uma fronteira clara com o mundo exterior.
+<span id="organizacao">**Organização**</span>: Uma entidade criada para expressar um [Propósito Evoluitvo](#proposito-evolutivo) e que possui uma fronteira clara com o mundo exterior.
 
 <span id="papeis-essenciais-eleitos">**Papéis Essenciais Eleitos**</span>: [Papéis Essenciais](#papeis-essenciais) que são eleitos, ao invés de serem atribuídos pelo mecanismo padrão (geralmente o [Elo Externo](#elo-externo)). Os [Papéis](#papeis) eleitos incluem o [Elo Interno](#elo-interno), o [Facilitador](#facilitador) e o [Secretário](#secretario).
 
@@ -124,7 +124,7 @@ Alguns termos definidos abaixo estão presente nos [Meta-Acordos](meta-acordos.m
 
 <span id="responsabilidade">**Responsabilidade**</span>: Uma atividade contínua que outros podem esperar que um [Papel](#papel) ou [Círculo](#circulo) vai executar.
 
-<span id="restricao">**Restrição**</span>: Limitações de autoridade que se aplicam a todos os [Papéis](#papeis) em um determinado [Círculo](#circulo). As [Restrições](#restricoes) são compostas por um título e uma descrição.
+<span id="restricao">**Restrição**</span>: Limitações de autoridade que se aplicam a todos os [Papéis](#papeis) em um determinado [Círculo](#circulo). As [Restrições](#restricao) são compostas por um título e uma descrição.
 
 <span id="reuniao-de-circulo">**Reunião de Círculo**</span>: Um espaço onde todos os membros do [Círculo](#circulo) são convidados a participar e executar um ou mais dos 5 [Modos](#modos).
 
