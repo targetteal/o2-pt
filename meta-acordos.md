@@ -186,7 +186,7 @@ O "Modo Revisar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cu
 
 O "Modo Sincronizar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *rapidamente processar [Tensões](#tensoes) que não exigem o [Círculo](#circulos) atualizar a sua [Estrutura Organizacional](#estrutura-organizacional)*. Saídas típicas do _Modo Sincronizar_ incluem ações, projetos, pedidos de ajuda e compartilhamento de informações. O [Facilitador](#facilitador) deve simplesmente permitir que cada participante que trouxe uma [Tensão](#tensoes) engaje os outros nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres), até que um caminho para resolver a [Tensão](#tensoes) seja identificado. O [Secretário](#secretario) deve registrar quaisquer pedidos aceitos pelos outros participantes em seus [Papéis](#papeis) ou como Atos Heróicos.
 
-> Veja os **Padrões para Revisar** na [Biblioteca de Padrões][biblioteca].
+> Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões][biblioteca].
 
 ### <span id="modo-adaptar">4.6 Modo Adaptar</span>
 
