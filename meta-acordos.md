@@ -135,7 +135,7 @@ Ao perseguir o [Propósito](#papeis) dos seus [Papéis](#papeis), os [Parceiros]
 [Parceiros](#parceiros) podem temporariamente ignorar estes Meta-Acordos se isto for útil e necessário para expressar o [Propósito Evolutivo](#proposito-evolutivo) da [Organização](#organizacao). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heróicos". Os [Parceiros](#parceiros) devem buscar reparar quaisquer danos causados após um Ato Heróico, propondo mudanças na [Estrutura Organizacional](#estrutura-organizacional) ou até nestes [Meta-Acordos](#meta-acordos) se necessário.
 
 ### <span id="direito-de-deixar-papeis">3.4 Direito de deixar Papéis</span>
-[Parceiros](#parceiros) podem a qualquer momento deixar [Papéis](#papeis) que desempenham em um ou mais [Círculos](#circulos), a não ser que tenham de outra forma acordado com o [Elo Externo](#elo-externo) ou outro mecanismo que atribua [Parceiros](#parceiros) a [Papéis](#papeis).
+[Parceiros](#parceiros) podem a qualquer momento deixar [Papéis](#papeis) que desempenham em um ou mais [Círculos](#circulos), a não ser que tenham de outra forma acordado com o [Elo Externo](#elo-externo) ou outro processo que atribua [Parceiros](#parceiros) a [Papéis](#papeis).
 
 ### <span id="dever-da-expressao">3.5 Dever da expressão</span>
 Cada [Parceiro](#parceiros) é responsável por identificar suas [Tensões](#tensoes) a partir de cada [Papel](#papeis) que desempenha. Cada [Parceiro](#parceiros) também é responsável por tentar resolver essas [Tensões](#tensoes), engajando outros [Parceiros](#parceiros) em seus [Deveres](#direitos-e-deveres) ou propondo mudanças na [Estrutura Organizacional](#estrutura-organizacional).
@@ -290,7 +290,7 @@ As alterações realizadas nos [Papeis Essenciais](#papeis-essenciais) de um [C�
 
 ### <span id="escolha-do-elo-externo">5.3 Escolha do Elo Externo</span>
 
-O [Elo Externo](#elo-externo) é escolhido pelo [Círculo](#circulos) externo, por qualquer processo que atribua [Parceiros](#parceiros) a [Papéis](#papeis) no [Círculo](#circulos) externo. O [Elo Externo](#elo-externo) do [Círculo](#circulos) mais amplo é determinado pela [Camada-Base](#camada-base).
+O [Elo Externo](#elo-externo) é escolhido pelo [Círculo](#circulos) externo, por qualquer processo que atribua [Parceiros](#parceiros) a [Papéis](#papeis) no [Círculo](#circulos) externo. O [Elo Externo](#elo-externo) do [Círculo](#circulos) mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos](#meta-acordos).
 
 ### <span id="atribuicao-de-parceiros-a-papeis">5.4 Atribuição de Parceiros a Papéis</span>
 
