@@ -54,7 +54,8 @@ Este documento não define como os Meta-Acordos são adotados, como podem ser mo
 	7. [Modo Selecionar](#modo-selecionar)
 		1. [Selecionar imediatamente](#selecionar-imediatamente)
 		2. [Selecionar apenas em Reuniões de Círculo](#selecionar-apenas-em-reunioes-de-circulo)
-		3. [Diretrizes do Modo Selecionar](#diretrizes-do-modo-selecionar)
+		3. [Parceiros elegíveis](#parceiros-elegiveis)
+		4. [Desempate](#desempate)
 	8. [Modo Cuidar](#modo-cuidar)
 5. [Papéis Essenciais](#papeis-essenciais)
 	1. [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos)
@@ -238,7 +239,9 @@ Alterações na [Estrutura Organizacional](#estrutura-organizacional) do [Círcu
 
 ### <span id="modo-selecionar">4.7 Modo Selecionar</span>
 
-O "Modo Selecionar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *escolher [Membros do Círculo](#membros-do-circulo) para desempenharem um ou mais dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos)*.
+O "Modo Selecionar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *escolher [Membros do Círculo](#membros-do-circulo) para desempenharem um ou mais dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos)*. O [Facilitador](#facilitador) deverá conduzir o Modo Selecionar através de uma eleição democrática, onde a maioria dos votos determinará o [Parceiro](#parceiro) eleito.
+
+> Veja os **Padrões para Selecionar** na na [Biblioteca de Padrões][biblioteca].
 
 #### <span id="selecionar-imediatamente">4.7.1 Selecionar imediatamente</span>
 
@@ -248,17 +251,17 @@ Qualquer [Membro do Círculo](#membros-do-circulo) pode pedir para o [Facilitado
 
 O processo de eleição dos 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos) deve ser feito apenas dentro de uma [Reunião de Círculo](#reuniao-de-circulo).
 
-#### <span id="diretrizes-do-modo-selecionar">4.7.3 Diretrizes do Modo Selecionar</span>
+#### <span id="parceiros-elegiveis">4.7.3 Parceiros elegíveis</span>
 
-O [Facilitador](#facilitador) deve facilitar um processo de eleição, considerando as seguintes diretrizes:
+Todos e apenas os [Membros do Círculo](#membros-do-circulo) são elegíveis para os 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos), com a exceção do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) de [Elo Externo](#elo-externo), que não é elegível como [Facilitador](#facilitador) ou [Elo Interno](#elo-interno) do mesmo [Círculo](#circulos).
 
-- Todos e apenas os [Membros do Círculo](#membros-do-circulo) são elegíveis para os 3 [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos), com a exceção do [Parceiro](#parceiros) que desempenha o [Papel](#papeis) de [Elo Externo](#elo-externo), que não é elegível como [Facilitador](#facilitador) ou [Elo Interno](#elo-interno) do mesmo [Círculo](#circulos);
-- Se houver um empate, o [Facilitador](#facilitador) pode escolher um dos seguintes critérios para desempate:
-	- O [Parceiro](#parceiros) que nomeou a si mesmo, se apenas um dos candidatos empatados o fez;
-	- O [Parceiro](#parceiros) que já está desempenhando o [Papel](#papeis), se apenas um dos candidatos empatados está;
-	- Aleatoriamente escolher um dos candidatos empatados.
+#### <span id="desempate">4.7.4 Desempate</span>
 
-> Veja os **Padrões para Selecionar** na na [Biblioteca de Padrões][biblioteca].
+Em caso de empate na eleição de algum [Papel Essencial Eleito](#papeis-essenciais-eleitos), o [Facilitador](#facilitador) deverá escolher um dos seguintes critérios para desempatar:
+
+- O [Parceiro](#parceiros) que nomeou a si mesmo, se apenas um dos candidatos empatados o fez;
+- O [Parceiro](#parceiros) que já está desempenhando o [Papel](#papeis), se apenas um dos candidatos empatados está;
+- Aleatoriamente escolher um dos candidatos empatados.
 
 ### <span id="modo-cuidar">4.8 Modo Cuidar</span>
 
@@ -307,7 +310,7 @@ O [Papel](#papeis) do "Facilitador" possui a seguinte definição inicial:
 ### <span id="secretario">5.6 Secretário</span>
 O [Papel](#papeis) do "Secretário" possui a seguinte definição inicial:
 
-**Propósito**: _Manutenção precisa dos registros de [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)_
+**Propósito**: _[Meta-Acordos](#meta-acordos) claros, [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos) atualizada_
 
 **Responsabilidades**:
 - Agendar [Reuniões de Círculo](#reunioes-de-circulo) regulares
