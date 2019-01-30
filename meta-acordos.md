@@ -265,7 +265,7 @@ Em caso de empate na eleição de algum [Papel Essencial Eleito](#papeis-essenci
 
 ### <span id="modo-cuidar">4.8 Modo Cuidar</span>
 
-O "Modo Cuidar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *tomar conta do espaço tribal e nutrir a qualidade das relações entre os participantes*. Este [Modo](#reunioes-de-circulo) não deve ser utilizado para fazer alterações na [Estrutura Organizacional](#modo-cuidar) do [Círculo](#circulos) ou engajar os [Parceiros](#parceiros) nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres).
+O "Modo Cuidar" é um momento da [Reunião de Círculo](#reuniao-de-circulo) cujo objetivo é *estimular a presença e a conexão entre os participantes*. Este [Modo](#reunioes-de-circulo) não deve ser utilizado para fazer alterações na [Estrutura Organizacional](#modo-cuidar) do [Círculo](#circulos) ou engajar os [Parceiros](#parceiros) nos seus [Papéis](#papeis) e [Deveres](#direitos-e-deveres).
 
 > Veja os **Padrões para Cuidar** na [Biblioteca de Padrões][biblioteca].
 
