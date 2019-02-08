@@ -167,7 +167,7 @@ As [Reuniões de Círculo](#reunioes-de-circulo) devem começar com uma rodada d
 
 #### <span id="lista-de-tensoes">4.2.1 Lista de Tensões</span>
 
-Os diferentes [Modos](#reunioes-de-circulo) são utilizados para processar [Tensões](#tensoes) específicas sentidas pelos participantes. Especialmente antes de [Sincronizar](#sincronizar) e [Adaptar](#adaptar), o [Facilitador](#facilitador) deve pedir para o [Secretário](#secretario) construir uma "Lista de Tensões" a processar. Cada pessoa sentindo uma [Tensão](#tensoes) deve nomeá-la usando duas ou três palavras. O [Secretário](#secretario) então registra o nome da [Tensão](#tensoes), juntamente com o nome do participante.
+Os diferentes [Modos](#reunioes-de-circulo) são utilizados para processar [Tensões](#tensoes) específicas sentidas pelos [Membros do Círculo](#membros-do-circulo). Especialmente antes de [Sincronizar](#sincronizar) e [Adaptar](#adaptar), o [Facilitador](#facilitador) deve pedir para o [Secretário](#secretario) construir uma "Lista de Tensões" a processar. Cada pessoa sentindo uma [Tensão](#tensoes) deve nomeá-la usando duas ou três palavras. O [Secretário](#secretario) então registra o nome da [Tensão](#tensoes), juntamente com o nome do participante.
 
 #### <span id="uma-tensao-de-cada-vez">4.2.2 Uma Tensão de cada vez</span>
 
