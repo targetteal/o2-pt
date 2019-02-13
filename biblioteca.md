@@ -2,6 +2,7 @@
 
 1. Padrões para Revisar
   1. [Revisão Tática](padroes/revisao-tatica.md)
+  2. ...
 2. Padrões para Sincronizar
 3. Padrões para Adaptar
 4. Padrões para Selecionar
