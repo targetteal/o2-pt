@@ -1,5 +1,5 @@
 # Revisão Tática
-**Alias**: Revisão de Checklists, Métricas e Projetos; Revisão Tática
+**Alias**: Revisão de Checklists, Métricas e Projetos
 
 ## Contexto
 Um grupo, time ou organização que necessita acompanhar e olhar para o resultado do seu trabalho regularmente.
@@ -8,10 +8,10 @@ Um grupo, time ou organização que necessita acompanhar e olhar para o resultad
 Trazer a tona uma ampla gama de informações em uma reunião em um curto espaço de tempo não é simples. Muito grupos investem muito tempo em poucos tópicos e não conseguem oferecer uma visão geral que pode incluir olhar para indicadores quantitativos, checar se atividades recorrentes estão sendo feitas e dar visibilidade sobre as múltiplas ações em curso. Se cada um só trouxer o que está fazendo, as pessoas tendem a esquecer uma série de informações relevantes ou gastam muito tempo em detalhes pouco importantes.
 
 ## Problema
-Para que a auto-organização aconteça precisamos que as pessoas tenham visibilidade sobre o que está acontecendo. Já existe no O2 o [Modo Revisar][modo-revisar] que busca auxiliar esse processo. Como realizar esse modo é do que esse padrão trata.
+Para que a auto-organização em um grupo seja possível, precisamos que os participantes tenham visibilidade sobre o que está acontecendo. O [Modo Revisar][modo-revisar] da Organização Orgânica garante isso, mas não preescreve um formato. É sobre isso que trata este padrão. 
 
 ## Solução
-No [Modo Revisar][modo-revisar] da [Reunião de Círculo][reuniao-de-circulo], o [Facilitador][facilitator] pode conduzir a revisão de 3 elementos que capturam praticamente todos os tipos de trabalho que um grupo executa: checklists, métricas e projetos
+No [Modo Revisar][modo-revisar] da [Reunião de Círculo][reuniao-de-circulo], o [Facilitador][facilitador] pode conduzir a revisão de 3 elementos que capturam praticamente todos os tipos de trabalho que um grupo executa: checklists, métricas e projetos
 
 **Checklists**: São perguntas cuja resposta é "Sim" ou "Não" e que buscam dar clareza se uma determinada atividade recorrente aconteceu no período sendo verificado.
 
@@ -37,13 +37,13 @@ Dado o [Papel][papel] *Produtor de Conteúdo* com o [Propósito][proposito] de *
 
 ### Construção & Facilitação
 
-Os checklists, métricas e projetos de cada [Papel][papel] do [Círculo][circulo] devem ser construídos antes da [Reunião de Círculo][reuniao-de-circulo], para que o [Facilitador][facilitator] possa percorrê-los durante o encontro. A facilitação pode assumir o seguinte formato:
+Os checklists, métricas e projetos de cada [Papel][papel] do [Círculo][circulo] devem ser construídos antes da [Reunião de Círculo][reuniao-de-circulo], para que o [Facilitador][facilitador] possa percorrê-los durante o encontro. A facilitação pode assumir o seguinte formato:
 
 **Checklists**: [Facilitador][facilitador] lê cada checklist de cada [Papel][papel]. Participante responde "Sim" ou "Não". Comentários rápidos são permitidos para justificar um "Não". Participantes não podem fazer perguntas ou reações. Em caso de interrupção, o [Secretário][secretario] do [Círculo][circulo] deverá registrar um item na [Lista de Tensões][lista-de-tensoes] para mais tarde processar no [Modo Sincronizar][modo-sincronizar].
 
 **Métricas**: [Facilitador][facilitador] lê as métricas e os participantes responsáveis reportam brevemente cada uma. Demais participantes podem fazer perguntas rápidas de esclarecimento. Quaisquer outras coisas também devem ir para a [Lista de Tensões][lista-de-tensoes], exatamente como na revisão dos checklists.
 
-**Projetos**: [Facilitador][facilitador] lê cada projeto e pergunta ao participante responsável: Alguma atualização? O participante responde reportando o que mudou no projeto desde o último encontro. Se não houverem atualizações, o participante deve responder apenas sem atualizações. Perguntas rápidas de esclarecimento são permitidas, demais preocupações e pedidos deverão ser tratadas como [Tensões][tensoes].
+**Projetos**: [Facilitador][facilitador] lê cada projeto e pergunta ao participante responsável: "Alguma atualização? O participante responde reportando o que mudou no projeto desde o último encontro. Se não houverem atualizações, o participante deve responder apenas sem atualizações. Perguntas rápidas de esclarecimento são permitidas, demais preocupações e pedidos deverão ser tratadas como [Tensões][tensoes].
 
 Os checklists, métricas e projetos iniciais podem ser alterados. Novos também podem ser criados ao longo dos encontros. Cada solicitação de mudança pode ser tratada com uma [Tensão] e processada no [Modo Sincronizar][modo-sincronizar], ou fora das [Reuniões de Círculo][reunioes-de-circulo]. O dono dos checklists, métricas e projetos pode alterá-los livremente, a não ser que uma [Restrição][restricoes] ou [Artefato][papeis] diga o contrário.
 
