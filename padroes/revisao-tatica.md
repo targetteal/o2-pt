@@ -8,7 +8,7 @@ Um grupo, time ou organização que necessita acompanhar e olhar para o resultad
 Trazer a tona uma ampla gama de informações em uma reunião em um curto espaço de tempo não é simples. Muito grupos investem muito tempo em poucos tópicos e não conseguem oferecer uma visão geral que pode incluir olhar para indicadores quantitativos, checar se atividades recorrentes estão sendo feitas e dar visibilidade sobre as múltiplas ações em curso. Se cada um só trouxer o que está fazendo, as pessoas tendem a esquecer uma série de informações relevantes ou gastam muito tempo em detalhes pouco importantes.
 
 ## Problema
-Para que a auto-organização em um grupo seja possível, precisamos que os participantes tenham visibilidade sobre o que está acontecendo. O [Modo Revisar][modo-revisar] da Organização Orgânica garante isso, mas não preescreve um formato. É sobre isso que trata este padrão. 
+Para que a auto-organização em um grupo seja possível, precisamos que os participantes tenham visibilidade sobre o que está acontecendo. O [Modo Revisar][modo-revisar] da Organização Orgânica garante isso, mas não preescreve um formato. É sobre isso que trata este padrão.
 
 ## Solução
 No [Modo Revisar][modo-revisar] da [Reunião de Círculo][reuniao-de-circulo], o [Facilitador][facilitador] pode conduzir a revisão de 3 elementos que capturam praticamente todos os tipos de trabalho que um grupo executa: checklists, métricas e projetos
@@ -58,29 +58,29 @@ Este padrão está presente no preâmbulo da Reunião Tática da Holacracia.
 
 O padrão já foi usado em todas as organizações que praticam ou praticaram Holacracia.
 
-[tensoes]: <meta-acordos.md#tensoes>
-[tensao]: <meta-acordos.md#tensoes>
-[circulos]: <meta-acordos.md#circulos>
-[circulo]: <meta-acordos.md#circulos>
-[reunioes-de-circulo]: <meta-acordos.md#reunioes-de-circulo>
-[reuniao-de-circulo]: <meta-acordos.md#reunioes-de-circulo>
-[modo-revisar]: <meta-acordos.md#modo-revisar>
-[modo-sincronizar]: <meta-acordos.md#modo-sincronizar>
-[modo-adaptar]: <meta-acordos.md#modo-adaptar>
-[modo-elecionar]: <meta-acordos.md#modo-elecionar>
-[modo-cuidar]: <meta-acordos.md#modo-cuidar>
-[restricao]: <meta-acordos.md#restricoes>
-[restricoes]: <meta-acordos.md#restricoes>
-[papeis]: <meta-acordos.md#papeis>
-[artefato]: <meta-acordos.md#papeis>
-[artefatos]: <meta-acordos.md#papeis>
-[proposito]: <meta-acordos.md#papeis>
-[responsabilidade]: <meta-acordos.md#papeis>
-[papel]: <meta-acordos.md#papeis>
-[tensao]: <meta-acordos.md#tensoes>
-[tensoes]: <meta-acordos.md#tensoes>
-[facilitador]: <meta-acordos.md#facilitador>
-[secretario]: <meta-acordos.md#secretario>
-[elo-interno]: <meta-acordos.md#elo-interno>
-[elo-externo]: <meta-acordos.md#elo-externo>
-[lista-de-tensoes]: <meta-acordos.md#lista-de-tensoes>
+[tensoes]: <../meta-acordos.md#tensoes>
+[tensao]: <../meta-acordos.md#tensoes>
+[circulos]: <../meta-acordos.md#circulos>
+[circulo]: <../meta-acordos.md#circulos>
+[reunioes-de-circulo]: <../meta-acordos.md#reunioes-de-circulo>
+[reuniao-de-circulo]: <../meta-acordos.md#reunioes-de-circulo>
+[modo-revisar]: <../meta-acordos.md#modo-revisar>
+[modo-sincronizar]: <../meta-acordos.md#modo-sincronizar>
+[modo-adaptar]: <../meta-acordos.md#modo-adaptar>
+[modo-elecionar]: <../meta-acordos.md#modo-elecionar>
+[modo-cuidar]: <../meta-acordos.md#modo-cuidar>
+[restricao]: <../meta-acordos.md#restricoes>
+[restricoes]: <../meta-acordos.md#restricoes>
+[papeis]: <../meta-acordos.md#papeis>
+[artefato]: <../meta-acordos.md#papeis>
+[artefatos]: <../meta-acordos.md#papeis>
+[proposito]: <../meta-acordos.md#papeis>
+[responsabilidade]: <../meta-acordos.md#papeis>
+[papel]: <../meta-acordos.md#papeis>
+[tensao]: <../meta-acordos.md#tensoes>
+[tensoes]: <../meta-acordos.md#tensoes>
+[facilitador]: <../meta-acordos.md#facilitador>
+[secretario]: <../meta-acordos.md#secretario>
+[elo-interno]: <../meta-acordos.md#elo-interno>
+[elo-externo]: <../meta-acordos.md#elo-externo>
+[lista-de-tensoes]: <../meta-acordos.md#lista-de-tensoes>
