@@ -344,7 +344,7 @@ O [Papel](#papeis) do "Elo Interno" possui a seguinte definição inicial:
 - Buscar compreender [Tensões](#tensoes) trazidas pelos [Membros do Círculo](#membros-circulos), e processá-las quando apropriado no [Círculo](#circulos) externo
 - Fornecer visibilidade sobre a saúde do [Círculo](#circulos) para o [Círculo](#circulos) externo
 
-[biblioteca]: <https://targetteal.com/pt/o2/biblioteca/>
+[biblioteca]: <biblioteca.md>
 
 ## Atribuições de Licença
 
