@@ -67,9 +67,9 @@ A restrição acima basicamente retira os poderes do [Elo Externo][elo-externo] 
 
 Portanto, o padrão “Círculo de Parceiros” é composto por:
 
-Um [Círculo][circulo] “Parceiros”, geralmente criado dentro do [Círculo][circulo] geral da [Organização][organizacao]
-2 [Papéis][papeis]: *Representante do Círculo* e *Representante dos Parceiros*
-2 [Restrições][restricoes]: *Atribuição de Pessoas a Papéis dentro do Círculo* e *Mudando a relação Parceiro-Organização*
+- Um [Círculo][circulo] “Parceiros”, geralmente criado dentro do [Círculo][circulo] geral da [Organização][organizacao]
+- 2 [Papéis][papeis]: *Representante do Círculo* e *Representante dos Parceiros*
+- 2 [Restrições][restricoes]: *Atribuição de Pessoas a Papéis dentro do Círculo* e *Mudando a relação Parceiro-Organização*
 
 ### Exemplos de Aplicação da Solução
 Para entender melhor o funcionamento do padrão, podemos imaginar duas situações hipotéticas.
