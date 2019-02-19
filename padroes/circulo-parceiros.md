@@ -108,3 +108,36 @@ Este padrão foi baseado no “Partnership Circle”, descrito por Brian Roberts
 
 ## Usos Conhecidos
 No momento da escrita, uma variante do padrão é utilizado por uma [Organização][organizacao] brasileira praticante de Holacracia chamada eduK.
+
+[tensoes]: <../meta-acordos.md#tensoes>
+[tensao]: <../meta-acordos.md#tensoes>
+[circulos]: <../meta-acordos.md#circulos>
+[circulo]: <../meta-acordos.md#circulos>
+[reunioes-de-circulo]: <../meta-acordos.md#reunioes-de-circulo>
+[reuniao-de-circulo]: <../meta-acordos.md#reunioes-de-circulo>
+[modo-revisar]: <../meta-acordos.md#modo-revisar>
+[modo-sincronizar]: <../meta-acordos.md#modo-sincronizar>
+[modo-adaptar]: <../meta-acordos.md#modo-adaptar>
+[modo-elecionar]: <../meta-acordos.md#modo-elecionar>
+[modo-cuidar]: <../meta-acordos.md#modo-cuidar>
+[restricao]: <../meta-acordos.md#restricoes>
+[restricoes]: <../meta-acordos.md#restricoes>
+[papeis]: <../meta-acordos.md#papeis>
+[artefato]: <../meta-acordos.md#papeis>
+[artefatos]: <../meta-acordos.md#papeis>
+[proposito]: <../meta-acordos.md#papeis>
+[responsabilidade]: <../meta-acordos.md#papeis>
+[papel]: <../meta-acordos.md#papeis>
+[tensao]: <../meta-acordos.md#tensoes>
+[tensoes]: <../meta-acordos.md#tensoes>
+[facilitador]: <../meta-acordos.md#facilitador>
+[secretario]: <../meta-acordos.md#secretario>
+[elo-interno]: <../meta-acordos.md#elo-interno>
+[elo-externo]: <../meta-acordos.md#elo-externo>
+[lista-de-tensoes]: <../meta-acordos.md#lista-de-tensoes>
+[objecoes]: <../meta-acordos.md#objecoes>
+[objecao]: <../meta-acordos.md#objecoes>
+[organizacao]: <../meta-acordos.md#organizacao>
+[objecao]: <../meta-acordos.md#objecoes>
+[parceiro]: <../meta-acordos.md#parceiros>
+[parceiros]: <../meta-acordos.md#parceiros>
