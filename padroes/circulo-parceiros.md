@@ -118,6 +118,7 @@ No momento da escrita, uma variante do padrão é utilizado por uma [Organizaç�
 [reunioes-de-circulo]: <../meta-acordos.md#reunioes-de-circulo>
 [reuniao-de-circulo]: <../meta-acordos.md#reunioes-de-circulo>
 [membros-do-circulo]: <../meta-acordos.md#membros-do-circulo>
+[membros-de-circulo]: <../meta-acordos.md#membros-do-circulo>
 [membro-do-circulo]: <../meta-acordos.md#membros-do-circulo>
 [modo-revisar]: <../meta-acordos.md#modo-revisar>
 [modo-sincronizar]: <../meta-acordos.md#modo-sincronizar>
