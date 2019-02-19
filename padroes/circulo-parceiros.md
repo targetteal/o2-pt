@@ -98,7 +98,7 @@ Jonas está insatisfeito com o seu salário e acredita que está defasado com re
 
 Lição aprendida: As propostas, por mais descabidas que seja, geralmente levam ao amadurecimento do sistema de remuneração. Jonas provavelmente propôs um aumento tão significativo porque só considerou a sua perspectiva. Quando Kelly assume um projeto para dar mais clareza à situação financeira da [Organização][organizacao], temos um aprimoramento sistêmico que servirá também para outras propostas futuras.
 
-CONTEXTO RESULTANTE
+## Contexto Resultante
 A partir da aplicação do padrão “Círculo de Parceiros”, novos caminhos começam a se delinear para a resolução das questões contratuais entre as partes [Organização][organizacao] e seus parceiros. O padrão tende a dar um conforto em esclarecer quais são os canais para que demissões, contratações e alterações salariais sejam aprovadas. Apesar disso, ele não define “como” ou que tipos de aumentos, por exemplo, são desejáveis e/ou aplicáveis. Basicamente qualquer membro pode propor uma mudança, e ela seguirá em frente depois que as [Objeções][objecoes] forem integradas.
 
 Isso vai inevitavelmente gerar uma série de tensões, que poderão estabelecer restrições de em que condições essas propostas devem ser feitas. Por exemplo, uma [Organização][organizacao] poderá estabelecer que antes de uma [Parceiro][parceiro] ser demitido, ele deve obrigatoriamente perder todos os seus [Papéis][papeis] na estrutura. Ou que antes de apresentar uma proposta de aumento, o proponente deverá verificar o impacto financeiro junto ao [Círculo][circulo] que cuida disso. As possibilidades são inúmeras, e o padrão “Círculo de Parceiros” abre caminhos para consolidação de relações mais bilaterais e saudáveis entre as pessoas e a [Organização][organizacao].
@@ -109,12 +109,16 @@ Este padrão foi baseado no “Partnership Circle”, descrito por Brian Roberts
 ## Usos Conhecidos
 No momento da escrita, uma variante do padrão é utilizado por uma [Organização][organizacao] brasileira praticante de Holacracia chamada eduK.
 
+[meta-acordos]: <../meta-acordos.md#meta-acordos>
+[meta-acordo]: <../meta-acordos.md#meta-acordos>
 [tensoes]: <../meta-acordos.md#tensoes>
 [tensao]: <../meta-acordos.md#tensoes>
 [circulos]: <../meta-acordos.md#circulos>
 [circulo]: <../meta-acordos.md#circulos>
 [reunioes-de-circulo]: <../meta-acordos.md#reunioes-de-circulo>
 [reuniao-de-circulo]: <../meta-acordos.md#reunioes-de-circulo>
+[membros-do-circulo]: <../meta-acordos.md#membros-do-circulo>
+[membro-do-circulo]: <../meta-acordos.md#membros-do-circulo>
 [modo-revisar]: <../meta-acordos.md#modo-revisar>
 [modo-sincronizar]: <../meta-acordos.md#modo-sincronizar>
 [modo-adaptar]: <../meta-acordos.md#modo-adaptar>
@@ -141,3 +145,6 @@ No momento da escrita, uma variante do padrão é utilizado por uma [Organizaç�
 [objecao]: <../meta-acordos.md#objecoes>
 [parceiro]: <../meta-acordos.md#parceiros>
 [parceiros]: <../meta-acordos.md#parceiros>
+[integracao]: <../meta-acordos.md#integracaos>
+[validacao]: <../meta-acordos.md#objecoes-validas>
+[objecoes-validas]: <../meta-acordos.md#objecoes-validas>
