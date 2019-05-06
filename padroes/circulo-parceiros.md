@@ -5,7 +5,7 @@
 ## Contexto
 Uma [Organização][organizacao] que quer tratar de forma autogerida e explícita questões que tangem a relação entre os seus [Parceiros][parceiros] (colaboradores, sócios, empregados) e a própria [Organização][organizacao] (contratação, demissão, aumentos).
 
-A partir de agora neste texto utilizaremos o termo “relação Parceiros-Organização” para se referir a tudo que envolve mudanças no contrato entre essas duas partes.
+A partir de agora neste texto utilizaremos o termo relação "Parceiros-Organização” para se referir a tudo que envolve mudanças no contrato entre essas duas partes.
 
 ## Forças
 Na maior parte das organizações, tudo que tange a relação Parceiros-Organização é tratado de forma privada e pouco clara. Salários são mantidos em segredo, os processos que determinam uma demissão são obscuros, subjetivos e altamente pessoais. Além de pecar em clareza e transparência, estes processos tendem a favorecer vieses cognitivos e manter padrões já estabelecidos, como por exemplo um tratamento diferenciado para grupos minoritários, ou salários inferiores para mulheres. Quando uma [Organização][organizacao] adota autogestão, isso passa a se tornar um grande incômodo, porque não há clareza no início de que [Papéis][papeis] ou grupos devem decidir a respeito de demissões, salários e contratações. O resultado é que estas decisões continuam sendo tomadas a partir da estrutura organizacional hierárquica anterior, ou seja, pelos antigos chefes e líderes.
