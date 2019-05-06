@@ -17,7 +17,7 @@ O2 is licensed under Creative Commons Attribution-ShareAlike 4.0 International L
 
 Organic Organization is currently maintained by [Target Teal](https://targetteal.com/en/) and other contributors. If you want to collaborate, please follow the instructions below.
 
-### Proposing Changes to the Rule Book
+### Proposing Changes to the Meta-Agreements
 
 Anyone can propose changes to the Rule Book by sending pull requests. Nevertheless, we strongly advise people to first join our private Slack and start conversations there before sending proposals. If you want to join, please contact us at [evolve@targetteal.com](mailto:evolve@targetteal.com).
 

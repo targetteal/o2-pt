@@ -1,14 +1,16 @@
-## Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+# Licença
 
-#### This is a human-readable summary of (and not a substitute for) the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">license</a>.
+Este trabalho é licenciado através de **Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
 
-#### You are free to:
+_This is a human-readable summary of (and not a substitute for) the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">license</a>_
+
+## You are free to:
 
 **Share** — copy and redistribute the material in any medium or format
 **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-#### Under the following terms:
+## Under the following terms:
 
 **Attribution** — You must give **appropriate credit**, provide a link to the license, and **indicate if changes were made**. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 

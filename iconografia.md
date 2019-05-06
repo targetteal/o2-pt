@@ -1,4 +1,4 @@
-# Iconografia O2
+# Iconografia
 
 ## 16px
 
