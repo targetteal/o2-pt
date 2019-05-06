@@ -1,1 +1,0 @@
-# Padrões para Organização Orgânica
