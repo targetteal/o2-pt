@@ -27,29 +27,4 @@ Qualquer pessoa pode propor mudanças nos Meta-Acordos enviando pull requests. A
 
 ***
 
-# Organic Organization (O2)
-
-**Organic Organization (O2)** is a catalyst that helps organizations embrace self-management. O2 is composed of its [Meta-Agreements](meta-acordos.md) and an ever growing [Pattern Library](biblioteca.md).
-
-Our influences include:
-- Reinventing Organizations
-- Holacracy and Sociocracy 3.0
-- Agile Software Development
-- Getting Things Done
-- Responsive Organizations
-
-O2 is currently developed in Portuguese, as most of the contributors are Brazilians. Each release is translated to English, and is available in [another repo](https://github.com/targetteal/organic-organization-translations/).
-
-## Collaborating
-
-O2 is licensed under Creative Commons Attribution-ShareAlike 4.0 International License, so you are free to fork this repo and develop your own version based on this work. Still, you are not allowed to call your modified version Organic Organization or O2.
-
-Organic Organization is currently maintained by [Target Teal](https://targetteal.com/en/) and other contributors. If you want to collaborate, please follow the instructions below.
-
-### Proposing Changes to the Meta-Agreements
-
-Anyone can propose changes to the Rule Book by sending pull requests. Nevertheless, we strongly advise people to first join our private Slack and start conversations there before sending proposals. If you want to join, please contact us at [evolve@targetteal.com](mailto:evolve@targetteal.com).
-
-## License
-
-[Here you can find more information about the license](LICENSE.md).
+> O2 is currently developed in Portuguese, as most of the contributors are Brazilians. Each release is translated to English, and is available in [another repo](https://github.com/targetteal/organic-organization-translations/).
