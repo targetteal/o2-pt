@@ -1,12 +1,12 @@
 # Sumário
 
 * [Introdução](README.md)
-* [Meta-Acordos](meta-acordos.md)
-  * [Organização](meta-acordos.md#organizacao)
-  * [Estrutura Organizacional](meta-acordos.md#estrutura-organizacional)
-  * [Direitos e Deveres](meta-acordos.md#direitos-e-deveres)
-  * [Reuniões de Círculo](meta-acordos.md#reunioes-de-circulo)
-  * [Papéis Essenciais](meta-acordos.md#papeis-essenciais)
+* [Meta-Acordos da Organização Orgânica](meta-acordos/README.md)
+  * [Organização](meta-acordos/1-organizacao.md)
+  * [Estrutura Organizacional](meta-acordos/2-estrutura-organizacional.md)
+  * [Direitos e Deveres](meta-acordos/3-direitos-e-deveres.md)
+  * [Reuniões de Círculo](meta-acordos/4-reunioes-de-circulo.md)
+  * [Papéis Essenciais](meta-acordos/5-papeis-essenciais.md)
 * [Biblioteca de Padrões e Antipadrões](biblioteca/README.md)
   * [Padrões](biblioteca/padroes/README.md)
   * [Antipadrões](biblioteca/padroes/README.md)
