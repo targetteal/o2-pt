@@ -1,5 +1,6 @@
 # Sumário
 
+* [Introdução](README.md)
 * [Meta-Acordos](meta-acordos/README.md)
     * [Organização](meta-acordos/README.md#organizacao)
     * [Estrutura Organizacional](meta-acordos/README.md#estrutura-organizacional)
