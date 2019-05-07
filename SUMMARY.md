@@ -9,6 +9,8 @@
   * [Papéis Essenciais](meta-acordos/papeis-essenciais.md)
 * [Biblioteca de Padrões e Antipadrões](biblioteca/README.md)
   * [Padrões](biblioteca/padroes/README.md)
+    * [Revisão Tática](biblioteca/padroes/revisao-tatica.md)
+    * [Círculo de Parceiros](biblioteca/padroes/circulo-de-parceiros.md)
   * [Antipadrões](biblioteca/padroes/README.md)
 * [Glossário](glossario.md)
 * [Licença](LICENSE.md)

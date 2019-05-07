@@ -2,13 +2,12 @@
 
 ## Padrões para Revisar
 - [Revisão Tática](revisao-tatica.md)
-- [Revisão do Quadro](revisao-do-quadro.md)
+- Revisão do Quadro
 
 ## Padrões para Sincronizar
 - Priorização Aleatória
 - Opções de Caminhos
-- Quebra-Consenso
-- Quebra-Isenção
+- [Perguntas Poderosas](#perguntas-poderosas.md)
 
 ## Padrões para Adaptar
 - Espelho do Proponente
@@ -26,10 +25,12 @@
 ## Padrões para Remuneração
 
 - [Círculo de Parceiros](circulo-parceiros.md)
-- Distintivos
 
 ## Padrões para Adoção
 - [Descrição de Papéis](descricao-de-papeis.md)
+
+## Padrões para Feedback
+- [Sessão de Feedback em Círculo](sessao-de-feedback-em-circulo.md)
 
 ## Padrões para Estratégia
 
