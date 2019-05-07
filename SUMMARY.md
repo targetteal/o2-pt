@@ -12,6 +12,6 @@
     * [Revisão Tática](biblioteca/padroes/revisao-tatica.md)
     * [Círculo de Parceiros](biblioteca/padroes/circulo-de-parceiros.md)
   * [Antipadrões](biblioteca/padroes/README.md)
-* [Glossário](glossario.md)
+* [Glossário](GLOSSARY.md)
 * [Licença](LICENSE.md)
 * [Atribuições de Licença](atribuicoes-licenca.md)
