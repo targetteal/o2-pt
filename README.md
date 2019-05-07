@@ -1,10 +1,10 @@
 # Organização Orgânica (O2)
 
-**Organização Orgânica (O2)** é um catalisador que ajuda organizações e a adotarem autogestão. O O2 é composto pelos seus [Meta-Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](biblioteca.md) em constante evolução.
+**Organização Orgânica (O2)** é um catalisador que ajuda organizações a adotarem autogestão. O O2 é composto pelos seus [Meta-Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](biblioteca.md) em constante evolução.
 
-Nossas influências incluem:
-- Reinventando as Organizações
+O O2 é influenciado e construído a partir de:
 - Holacracia e Sociocracia 3.0
+- Reinventando as Organizações
 - Desenvolvimento Ágil de Software
 - Getting Things Done (A arte de fazer acontecer)
 - Organizações Responsivas
@@ -13,7 +13,7 @@ O O2 é atualmente desenvolvido em português, dado que a maior parte dos contri
 
 ## Colaborando
 
-O O2 é licenciado através da Creative Commons Attribution-ShareAlike 4.0 International License, então você é livre para criar um fork deste repositório e desenvolver a sua própria versão baseada neste trabalho. Ainda assim, você não está autorizado a chamar a sua versão modificada de Organização Orgânica, Organic Organization ou O2.
+O O2 é licenciado através da Creative Commons Attribution-ShareAlike 4.0 International License, então você é livre para criar uma variação deste repositório e desenvolver a sua própria versão baseada neste trabalho. Ainda assim, você não está autorizado a chamar a sua versão modificada de Organização Orgânica, Organic Organization ou O2.
 
 O O2 é atualmente mantido pela [Target Teal](https://targetteal.com/pt/) e outros contribuidores. Se você quer colaborar, por favor siga as instruções abaixo.
 
@@ -27,4 +27,4 @@ Qualquer pessoa pode propor mudanças nos Meta-Acordos enviando pull requests. A
 
 ***
 
-> O2 is currently developed in Portuguese, as most of the contributors are Brazilians. Each release is translated to English, and is available in [another repo](https://github.com/targetteal/organic-organization-translations/).
+_O2 is currently developed in Portuguese, as most of the contributors are Brazilians. Each release is translated to English, and is available in [another repo](https://github.com/targetteal/organic-organization-translations/)._
