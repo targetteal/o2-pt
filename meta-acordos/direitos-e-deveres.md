@@ -28,19 +28,19 @@ Quando solicitado, [Parceiros][parceiros] devem priorizar comparecer às [Reuni�
 ### Dever da preservação
 Os [Parceiros][parceiros], a partir dos seus [Papéis][papeis], não devem impactar os [Artefatos][papeis] de outros [Papéis][papeis] contidos no mesmo [Círculo][circulos], sem antes obter uma permissão explícita do [Parceiro][parceiros] que desempenha o [Papel][papeis] correspondente. Os [Parceiros][parceiros] também devem observar as [Restrições][restricoes] definidas na [Estrutura Organizacional][estrutura-organizacional] e seguir as condições nelas estabelecidas.
 
-[direitos-e-deveres]: [#direitos-e-deveres]
-[dever-da-preservacao]: [#dever-da-preservacao]
+[direitos-e-deveres]: #direitos-e-deveres
+[dever-da-preservacao]: #dever-da-preservacao
 
-[organizacao]: [organizacao.md]
-[proposito-evolutivo]: [organizacao.md#proposito-evolutivo]
-[parceiros]: [organizacao.md#parceiros]
-[tensoes]: [organizacao.md#tensoes]
+[organizacao]: organizacao.md
+[proposito-evolutivo]: organizacao.md#proposito-evolutivo
+[parceiros]: organizacao.md#parceiros
+[tensoes]: organizacao.md#tensoes
 
-[estrutura-organizacional]: [estrutura-organizacional.md]
-[papeis]: [estrutura-organizacional.md#papeis]
-[restricoes]: [estrutura-organizacional.md#restricoes]
-[circulos]: [estrutura-organizacional.md#circulos]
+[estrutura-organizacional]: estrutura-organizacional.md
+[papeis]: estrutura-organizacional.md#papeis
+[restricoes]: estrutura-organizacional.md#restricoes
+[circulos]: estrutura-organizacional.md#circulos
 
-[reunioes-de-circulo]: [reunioes-de-circulo.md]
+[reunioes-de-circulo]: reunioes-de-circulo.md
 
-[elo-externo]: [papeis-essenciais.md#elo-externo]
+[elo-externo]: papeis-essenciais.md#elo-externo

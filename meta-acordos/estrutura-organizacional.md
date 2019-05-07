@@ -40,21 +40,21 @@ Através do seu [Modo Adaptar][modo-adaptar], um [Círculo][circulos] pode espec
 
 [Restrições][restricoes] não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade][papeis]. Ainda assim, uma [Restrição][restricoes] pode exigir ação, mas apenas para [Parceiros][parceiros] em que a [Restrição][restricoes] se aplica na condição específica que desencadeia ela.
 
-[organizacao]: [organizacao.md]
+[organizacao]: organizacao.md
 
-[estrutura-organizacional]: [#estrutura-organizal]
-[membros-do-circulo]: [#membros-do-circulo]
-[restricoes]: [#restricoes]
-[papeis]: [#papeis]
-[circulos]: [#circulos]
+[estrutura-organizacional]: #estrutura-organizal
+[membros-do-circulo]: #membros-do-circulo
+[restricoes]: #restricoes
+[papeis]: #papeis
+[circulos]: #circulos
 
-[reunioes-de-circulo]: [reunioes-de-circulo-md]
-[modo-adaptar]: [reunioes-de-circulo-md#modo-adaptar]
+[reunioes-de-circulo]: reunioes-de-circulo-md
+[modo-adaptar]: reunioes-de-circulo-md#modo-adaptar
 
-[parceiros]: [organizacao.md#parceiros]
+[parceiros]: organizacao.md#parceiros
 
-[papeis-essenciais]: [papeis-essenciais.md]
-[elo-externo]: [papeis-essenciais.md#elo-externo]
-[elo-interno]: [papeis-essenciais.md#elo-interno]
+[papeis-essenciais]: papeis-essenciais.md
+[elo-externo]: papeis-essenciais.md#elo-externo
+[elo-interno]: papeis-essenciais.md#elo-interno
 
-[dever-da-preservacao]: [direitos-e-deveres.md#dever-da-preservacao]
+[dever-da-preservacao]: direitos-e-deveres.md#dever-da-preservacao

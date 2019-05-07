@@ -73,22 +73,22 @@ O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
 - Buscar compreender [Tensões][tensoes] trazidas pelos [Membros do Círculo][membros-do-circulo], e processá-las quando apropriado no [Círculo][circulos] externo
 - Fornecer visibilidade sobre a saúde do [Círculo][circulos] para o [Círculo][circulos] externo
 
-[papeis-essenciais]: [#papeis-essenciais]
-[facilitador]: [#facilitador]
-[secretario]: [#secretario]
-[elo-externo]: [#elo-externo]
-[elo-interno]: [#elo-interno]
+[papeis-essenciais]: #papeis-essenciais
+[facilitador]: #facilitador
+[secretario]: #secretario
+[elo-externo]: #elo-externo
+[elo-interno]: #elo-interno
 
-[estrutura-organizacional]: [estrutura-organizacional.md]
-[papeis]: [estrutura-organizacional.md#papeis]
-[circulos]: [estrutura-organizacional.md#circulos]
-[restricoes]: [estrutura-organizacional.md#restricoes]
-[membros-do-circulo]: [estrutura-organizacional.md#membros-do-circulo]
+[estrutura-organizacional]: estrutura-organizacional.md
+[papeis]: estrutura-organizacional.md#papeis
+[circulos]: estrutura-organizacional.md#circulos
+[restricoes]: estrutura-organizacional.md#restricoes
+[membros-do-circulo]: estrutura-organizacional.md#membros-do-circulo
 
-[organizacao]: [organizacao.md]
-[tensoes]: [organizacao.md#tensoes]
-[parceiros]: [organizacao.md#parceiros]
+[organizacao]: organizacao.md
+[tensoes]: organizacao.md#tensoes
+[parceiros]: organizacao.md#parceiros
 
-[reunioes-de-circulo]: [reunioes-de-circulo.md]
-[modo-adaptar]: [reunioes-de-circulo.md#modo-adaptar]
-[modo-selecionar]: [reunioes-de-circulo.md#modo-selecionar]
+[reunioes-de-circulo]: reunioes-de-circulo.md
+[modo-adaptar]: reunioes-de-circulo.md#modo-adaptar
+[modo-selecionar]: reunioes-de-circulo.md#modo-selecionar

@@ -11,10 +11,10 @@ A [Organização][organizacao] pode ter um ou mais "Parceiros", que são pessoas
 ### Tensões
 Ao perseguir o [Propósito][papeis] de um ou mais [Papeis][papeis], os [Parceiros][parceiros] podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões" . As Tensões movimentam a [Organização][organizacao] em direção ao seu [Propósito Evolutivo][proposito-evoluito].
 
-[organizacao]: [#organizacao]
-[proposito-evolutivo]: [#proposito-evolutivo]
-[parceiros]: [#parceiros]
+[organizacao]: #organizacao
+[proposito-evolutivo]: #proposito-evolutivo
+[parceiros]: #parceiros
 
-[circulos]: [estrutura-organizacional.md#circulos]
-[papeis]: [estrutura-organizacional.md#papeis]
-[estrutura-organizacional]: [estrutura-organizacional.md]
+[circulos]: estrutura-organizacional.md#circulos
+[papeis]: estrutura-organizacional.md#papeis
+[estrutura-organizacional]: estrutura-organizacional.md

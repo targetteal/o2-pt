@@ -114,32 +114,32 @@ O "Modo Cuidar" é um momento da [Reunião de Círculo][reunioes-de-circulo] cuj
 
 > Veja os **Padrões para Cuidar** na [Biblioteca de Padrões][biblioteca].
 
-[biblioteca]: [../biblioteca/README.md]
+[biblioteca]: ../biblioteca/README.md
 
-[reunioes-de-circulo]: [#reunioes-de-circulo]
-[objecoes]: [#objecoes]
-[proposta]: [#proposta]
-[lista-de-tensoes]: [#lista-de-tensoes]
-[modo-revisar]: [#modo-revisar]
-[modo-sincronizar]: [#modo-sincronizar]
-[modo-adaptar]: [#modo-adaptar]
-[modo-selecionar]: [#modo-selecionar]
-[modo-cuidar]: [#modo-cuidar]
+[reunioes-de-circulo]: #reunioes-de-circulo
+[objecoes]: #objecoes
+[proposta]: #proposta
+[lista-de-tensoes]: #lista-de-tensoes
+[modo-revisar]: #modo-revisar
+[modo-sincronizar]: #modo-sincronizar
+[modo-adaptar]: #modo-adaptar
+[modo-selecionar]: #modo-selecionar
+[modo-cuidar]: #modo-cuidar
 
-[direitos-e-deveres]: [direitos-e-deveres.md]
+[direitos-e-deveres]: direitos-e-deveres.md
 
-[estrutura-organizacional]: [estrutura-organizacional.md]
-[papeis]: [estrutura-organizacional.md#papeis]
-[circulos]: [estrutura-organizacional.md#circulos]
-[restricoes]: [estrutura-organizacional.md#restricoes]
-[membros-do-circulo]: [estrutura-organizacional.md#membros-do-circulo]
+[estrutura-organizacional]: estrutura-organizacional.md
+[papeis]: estrutura-organizacional.md#papeis
+[circulos]: estrutura-organizacional.md#circulos
+[restricoes]: estrutura-organizacional.md#restricoes
+[membros-do-circulo]: estrutura-organizacional.md#membros-do-circulo
 
-[papeis-essenciais]: [#papeis-essenciais.md]
-[papeis-essenciais-eleitos]: [papeis-essenciais.md#papeis-essenciais-eleitos]
-[facilitador]: [papeis-essenciais.md#facilitador]
-[secretario]: [papeis-essenciais.md#secretario]
-[elo-externo]: [papeis-essenciais.md#elo-externo]
-[elo-interno]: [papeis-essenciais.md#elo-interno]
+[papeis-essenciais]: #papeis-essenciais.md
+[papeis-essenciais-eleitos]: papeis-essenciais.md#papeis-essenciais-eleitos
+[facilitador]: papeis-essenciais.md#facilitador
+[secretario]: papeis-essenciais.md#secretario
+[elo-externo]: papeis-essenciais.md#elo-externo
+[elo-interno]: papeis-essenciais.md#elo-interno
 
-[tensoes]: [organizacao.md#tensoes]
-[parceiros]: [organizacao.md#parceiros]
+[tensoes]: organizacao.md#tensoes
+[parceiros]: organizacao.md#parceiros
