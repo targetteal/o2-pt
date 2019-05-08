@@ -5,9 +5,9 @@
 - Revisão do Quadro
 
 ## Padrões para Sincronizar
+- [Perguntas Poderosas](#perguntas-poderosas.md)
 - Priorização Aleatória
 - Opções de Caminhos
-- [Perguntas Poderosas](#perguntas-poderosas.md)
 
 ## Padrões para Adaptar
 - Espelho do Proponente
@@ -25,6 +25,7 @@
 ## Padrões para Remuneração
 
 - [Círculo de Parceiros](circulo-parceiros.md)
+- [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
 
 ## Padrões para Adoção
 - [Descrição de Papéis](descricao-de-papeis.md)

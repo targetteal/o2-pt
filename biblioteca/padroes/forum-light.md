@@ -1,7 +1,5 @@
 # Fórum Light
 
-**Aliás**: Fórum Light
-
 ## Contexto
 
 Um grupo, time ou organização que possui pouca segurança emocional, onde as pessoas não confiam umas nas outras, as conversas difíceis não acontecem, os conflitos são velados e existem acontecimentos passados que ainda deixam mágoas e ressentimentos.

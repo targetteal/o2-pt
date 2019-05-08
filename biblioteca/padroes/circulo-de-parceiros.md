@@ -1,6 +1,6 @@
 # Círculo de Parceiros
 
-**Alias**: Círculo de Parcerias, Partnership Circle, Partner Pool.
+**Também conhecido como**: Círculo de Parcerias, Partnership Circle, Partner Pool.
 
 ## Contexto
 Uma [Organização][organizacao] que quer tratar de forma autogerida e explícita questões que tangem a relação entre os seus [Parceiros][parceiros] (colaboradores, sócios, empregados) e a própria [Organização][organizacao] (contratação, demissão, aumentos).

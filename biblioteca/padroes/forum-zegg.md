@@ -1,6 +1,6 @@
 # Fórum Zegg
 
-**Aliás**: Fórum de 1 minuto e Fórum Temático
+**Também conhecido como**: Fórum de 1 minuto e Fórum Temático
 
 ## Contexto
 

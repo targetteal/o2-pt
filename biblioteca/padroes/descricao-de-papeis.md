@@ -1,6 +1,6 @@
 # Descrição de Papéis
 
-**Aliás**: To-Do Reverso, Descrição da Estrutura Inicial.
+**Também conhecido como**: To-Do Reverso, Descrição da Estrutura Inicial.
 
 ## Contexto
 
@@ -37,4 +37,4 @@ Este padrão foi inspirado no trabalho realizado por consultores em Holacracia.
 
 ## Usos conhecidos
 
-Já foi usado em algumas dezenas de organizações no Brasil. 
+Já foi usado em algumas dezenas de organizações no Brasil.

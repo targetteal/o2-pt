@@ -1,5 +1,6 @@
 # Revisão Tática
-**Alias**: Revisão de Checklists, Métricas e Projetos
+
+**Também conhecido como**: Revisão de Checklists, Métricas e Projetos
 
 ## Contexto
 Um grupo, time ou organização que necessita acompanhar e olhar para o resultado do seu trabalho regularmente.
