@@ -18,7 +18,7 @@
     * [Remuneração Baseada em Badges](biblioteca/padroes/remuneracao-baseada-em-badges.md)
     * [Revisão Tática](biblioteca/padroes/revisao-tatica.md)
     * [Sessão de Feedback em Círculo](biblioteca/padroes/sessao-de-feedback-em-circulo.md)
-  * [Antipadrões](biblioteca/padroes/README.md)
+  * [Antipadrões](biblioteca/antipadroes/README.md)
     * [Metas](biblioteca/antipadroes/metas.md)
     * [Tudo é de Todos](biblioteca/antipadroes/tudo-e-de-todos.md)
 * [Glossário](GLOSSARY.md)
