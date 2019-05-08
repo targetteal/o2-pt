@@ -16,6 +16,8 @@ Na maior parte das organizações, tudo que tange a relação Parceiros-Organiza
 ## Solução
 A solução passa pela definição de um [Círculo][circulos] denominado “Parceiros”, “Relações Parceiros-Organização”, ou qualquer outro nome que represente as pessoas da [Organização][organizacao] em questão. Este [Círculo][circulos] tem a autoridade exclusiva (na forma de um [Artefato][papeis]) de governar a relação Parceiros-Organização. A ideia central é que qualquer mudança nos contratos dos [Parceiros][parceiros] deve ser decidida por este [Círculo][circulos]. Além disso, quando uma pessoa busca uma mudança, ela deve integrar [Objeções][objecoes] de todos os membros do [Círculo][circulos].
 
+![Círculo de Parceiros](../imagens/circulo-de-parceiros.png)
+
 O primeiro elemento do padrão constitui a criação de um [Círculo][circulos]:
 
 > **Círculo**: Parceiros
@@ -106,7 +108,7 @@ A partir da aplicação do padrão “Círculo de Parceiros”, novos caminhos c
 Isso vai inevitavelmente gerar uma série de tensões, que poderão estabelecer restrições de em que condições essas propostas devem ser feitas. Por exemplo, uma [Organização][organizacao] poderá estabelecer que antes de uma [Parceiro][parceiros] ser demitido, ele deve obrigatoriamente perder todos os seus [Papéis][papeis] na estrutura. Ou que antes de apresentar uma proposta de aumento, o proponente deverá verificar o impacto financeiro junto ao [Círculo][circulos] que cuida disso. As possibilidades são inúmeras, e o padrão “Círculo de Parceiros” abre caminhos para consolidação de relações mais bilaterais e saudáveis entre as pessoas e a [Organização][organizacao].
 
 ## Fundamentação
-Este padrão foi baseado no “Partnership Circle”, descrito por Brian Robertson como uma possível solução de como tratar a relação Parceiros-Organização na Holacracia. O padrão foi então adaptado para uso na Organização Orgânica.
+Este padrão foi baseado no [“Partnership Circle”](https://github.com/holacracyone/Holacracy-Constitution/issues/90), descrito por Brian Robertson como uma possível solução de como tratar a relação Parceiros-Organização na Holacracia. O padrão foi então adaptado para uso na Organização Orgânica.
 
 ## Usos Conhecidos
 No momento da escrita, uma variante do padrão é utilizado por uma [Organização][organizacao] brasileira praticante de Holacracia chamada eduK.

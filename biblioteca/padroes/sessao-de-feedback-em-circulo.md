@@ -32,7 +32,9 @@ Logo depois de um check-in, o facilitador da sessão apresenta a diferença entr
 - Que sentimentos X tem em relação às ações de Z e vice-versa
 - Como X e Z podem se comunicar de maneira a fortalecer os laços de confiança e o espaço tribal
 
-Logo após essa explicação, o facilitador entrega uma folha de canvas de Feedback de Adequação para cada papel que as pessoas fazem. Assim, se fulano desempenha 4 papéis naquele círculo, ele recebe 4 folhas, como abaixo.
+Logo após essa explicação, o facilitador entrega uma folha de canvas de Feedback de Adequação para cada papel que as pessoas fazem. Assim, se fulano desempenha 4 papéis naquele círculo, ele recebe 4 folhas, como abaixo:
+
+![Canvas de Feedback de Adequação](../images/canvas-de-feedback-de-adequacao.png)
 
 A consigna dada pelo facilitador:
 
