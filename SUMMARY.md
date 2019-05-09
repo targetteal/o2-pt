@@ -1,4 +1,4 @@
-# Sumário
+# Table of contents
 
 * [Introdução](README.md)
 * [Meta-Acordos da Organização Orgânica](meta-acordos/README.md)
@@ -21,6 +21,7 @@
   * [Antipadrões](biblioteca/antipadroes/README.md)
     * [Metas](biblioteca/antipadroes/metas.md)
     * [Tudo é de Todos](biblioteca/antipadroes/tudo-e-de-todos.md)
-* [Glossário](GLOSSARY.md)
-* [Licença](LICENSE.md)
+* [Glossário](glossary.md)
+* [Licença](license.md)
 * [Atribuições de Licença](atribuicoes-licenca.md)
+
