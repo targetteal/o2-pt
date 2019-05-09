@@ -14,7 +14,7 @@ As pessoas precisam voltar a acreditar umas nas outras e a confiança mútua pre
 
 ## Solução
 
-Criar um encontro com todos do time ou círculo, que pode ser regular (quinzenal) para tratar das questões que estão vivas no campo relacional. Propor ou construir com o grupo no primeiro encontro alguns acordos para o Fórum. Exemplos de acordos:
+Criar um encontro com todos do time ou círculo, que pode ser regular \(quinzenal\) para tratar das questões que estão vivas no campo relacional. Propor ou construir com o grupo no primeiro encontro alguns acordos para o Fórum. Exemplos de acordos:
 
 1. **Frear julgamentos para ouvir as necessidades**. O que cada um fala é verdadeiro e importante.
 2. **Falar em primeira pessoa**. "Sempre que falo, expresso meus sentimentos e necessidades e mesmo que eu cite outra pessoa, estou falando de mim."
@@ -23,8 +23,7 @@ Criar um encontro com todos do time ou círculo, que pode ser regular (quinzenal
 
 Com os acordos firmados, o facilitador pergunta quem gostaria de sentar na cadeira vazia que está na roda e falar sobre aquilo que está incomodando ou engasgado, ou seja: sentar na cadeira e falar de si, seus sentimentos, necessidades e até pedidos.
 
-Depois o facilitador pergunta: “Gostaria que alguém fizesse o espelho da sua fala?” Se a pessoa concordar, voluntários sentam na “cadeira de quem fala” e parafraseiam o que ouviram.
-Ao final, o facilitador pergunta se a pessoa gostaria de complementar o que foi “espelhado” .
+Depois o facilitador pergunta: “Gostaria que alguém fizesse o espelho da sua fala?” Se a pessoa concordar, voluntários sentam na “cadeira de quem fala” e parafraseiam o que ouviram. Ao final, o facilitador pergunta se a pessoa gostaria de complementar o que foi “espelhado” .
 
 ## Contexto resultante
 
@@ -39,3 +38,4 @@ Este padrão tem inspiração no trabalho do Zegg Fórum, na Comunicação Não 
 ## Usos conhecidos
 
 Já foi usado em times de até 25 pessoas, em organizações privadas e sem fins-lucrativos.
+
