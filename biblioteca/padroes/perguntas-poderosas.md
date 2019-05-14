@@ -1,5 +1,6 @@
 # Perguntas Poderosas
 
+<<<<<<< HEAD
 ## Contexto
 
 Um [Círculo][circulos] que está iniciando sua prática do [Modo Sincronizar][modo-sincronizar] no O2 e que ainda apresenta hábitos ou sombras relacionadas à estrutura de poder antiga, seja a busca pela apreciação do grupo (consenso) ou do antigo chefe.
@@ -101,3 +102,5 @@ Este padrão é praticado em quase todas as organizações que iniciam sua jorna
 [modo-sincronizar]: ../../meta-acordos/reunioes-de-circulo.md#modo-sincronizar
 [lista-de-tensoes]: ../../meta-acordos/reunioes-de-circulo.md#lista-de-tensoes
 [direito-de-agir-heroicamente]: ../../meta-acordos/direitos-e-deveres.md#direito-de-agir-heroicamente
+=======
+>>>>>>> dee8ffb868994d7d2911f8e1da70b3989762b588
