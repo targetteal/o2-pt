@@ -12,6 +12,7 @@
     * [Círculo de Parceiros](biblioteca/padroes/circulo-de-parceiros.md)
     * [Descrição de Papéis](biblioteca/padroes/descricao-de-papeis.md)
     * [Eleições Integrativas](biblioteca/padroes/eleicoes-integrativas.md)
+    * [Espelho de Interações](biblioteca/padroes/espelho-de-interacoes.md)
     * [Fórum Light](biblioteca/padroes/forum-light.md)
     * [Fórum Zegg](biblioteca/padroes/forum-zegg.md)
     * [Perguntas Poderosas](biblioteca/padroes/perguntas-poderosas.md)

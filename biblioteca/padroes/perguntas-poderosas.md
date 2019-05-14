@@ -54,6 +54,7 @@ Ao fazer todas estas perguntas, o [Facilitador][facilitador] deve buscar acolher
 Alguns gatilhos podem ser úteis para o [Facilitador][facilitador] perceber quando o grupo demanda o uso de uma ou outra pergunta poderosa. Mas atenção! Isto não é uma receita de bolo. É sempre necessário analisar o contexto.
 
 **Perguntas Poderosas**:
+
 - **A.** Qual a sua [Tensão][tensoes]? O que você precisa?
 - **B.** Qual é o próximo passo?
 - **C.** Quem tem autoridade para decidir isso?
@@ -63,6 +64,7 @@ Alguns gatilhos podem ser úteis para o [Facilitador][facilitador] perceber quan
 - **G.** Você gostaria de consultar ou ouvir a opinião das pessoas?
 
 **Gatilhos**:
+
 1. Ao iniciar uma [Tensão][tensoes]: **A**
 2. Quando não há clareza do pedido que o participante está fazendo: **A**
 3. Quando a discussão se prolonga e não há um encaminhamento: **B**

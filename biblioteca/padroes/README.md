@@ -6,8 +6,7 @@
 
 ## Padrões para Sincronizar
 - [Perguntas Poderosas](#perguntas-poderosas.md)
-- Priorização Aleatória
-- Opções de Caminhos
+- [Espelho de Interações](#espelho-de-interacoes.md)
 
 ## Padrões para Adaptar
 - Espelho do Proponente
