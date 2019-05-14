@@ -6,15 +6,8 @@
 * Revisão do Quadro
 
 ## Padrões para Sincronizar
-<<<<<<< HEAD
 - [Perguntas Poderosas](#perguntas-poderosas.md)
 - [Espelho de Interações](#espelho-de-interacoes.md)
-=======
-
-* [Perguntas Poderosas](./#perguntas-poderosas.md)
-* Priorização Aleatória
-* Opções de Caminhos
->>>>>>> dee8ffb868994d7d2911f8e1da70b3989762b588
 
 ## Padrões para Adaptar
 
@@ -48,4 +41,3 @@
 ## Padrões para Estratégia
 
 ## Padrões para Associação
-
