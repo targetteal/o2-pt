@@ -37,7 +37,7 @@ Logo depois de um check-in, o facilitador da sessão apresenta a diferença entr
 
 Logo após essa explicação, o facilitador entrega uma folha de canvas de Feedback de Adequação para cada papel que as pessoas fazem. Assim, se fulano desempenha 4 papéis naquele círculo, ele recebe 4 folhas, como abaixo:
 
-![Canvas de Feedback de Adequa&#xE7;&#xE3;o](../../.gitbook/assets/canvas-de-feedback-de-adequacao.png)
+![Canvas de Feedback de Adequa&#xE7;&#xE3;o](../imagens/canvas-de-feedback-de-adequacao.png)
 
 A consigna dada pelo facilitador:
 
@@ -77,4 +77,3 @@ A ideia de ter um canvas para o feedback de adequação surgiu do Feedback Canva
 ## Usos conhecidos
 
 Em círculos que praticavam o O2 em organizações que ainda estavam no processo de adoção de práticas e tinham apenas alguns círculos funcionando.
-

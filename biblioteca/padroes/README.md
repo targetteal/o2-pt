@@ -27,7 +27,7 @@
 
 ## Padrões para Remuneração
 
-* [Círculo de Parceiros](https://github.com/targetteal/organic-organization/tree/af0321f1d13f7add8d25c290078117a4beb37235/biblioteca/padroes/circulo-parceiros.md)
+* [Círculo de Parceiros](circulo-de-parceiros.md)
 * [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
 
 ## Padrões para Adoção

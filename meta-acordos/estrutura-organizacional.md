@@ -46,4 +46,3 @@ Através do seu [Modo Adaptar](https://github.com/targetteal/organic-organizatio
 ### Restrições não estabelecem expectativas
 
 [Restrições](estrutura-organizacional.md#restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](estrutura-organizacional.md#papeis). Ainda assim, uma [Restrição](estrutura-organizacional.md#restricoes) pode exigir ação, mas apenas para [Parceiros](organizacao.md#parceiros) em que a [Restrição](estrutura-organizacional.md#restricoes) se aplica na condição específica que desencadeia ela.
-

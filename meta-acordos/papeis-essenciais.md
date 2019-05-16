@@ -82,4 +82,3 @@ O [Papel](estrutura-organizacional.md#papeis) do "Elo Interno" possui a seguinte
 
 * Buscar compreender [Tensões](organizacao.md#tensoes) trazidas pelos [Membros do Círculo](estrutura-organizacional.md#membros-do-circulo), e processá-las quando apropriado no [Círculo](estrutura-organizacional.md#circulos) externo
 * Fornecer visibilidade sobre a saúde do [Círculo](estrutura-organizacional.md#circulos) para o [Círculo](estrutura-organizacional.md#circulos) externo
-

@@ -26,13 +26,13 @@ Durante a facilitação dos [Modos](reunioes-de-circulo.md#reunioes-de-circulo),
 
 O "Modo Revisar" é um momento da [Reunião de Círculo](reunioes-de-circulo.md#reunioes-de-circulo) cujo objetivo é _dar transparência ao trabalho realizado pelo_ [_Círculo_](estrutura-organizacional.md#circulos). Cabe ao [Facilitador](papeis-essenciais.md#facilitador) decidir como especificamente o [Modo Revisar](reunioes-de-circulo.md#modo-revisar) é conduzido, exceto se uma [Restrição](estrutura-organizacional.md#restricoes) determinar o contrário.
 
-> Veja os **Padrões para Revisar** na [Biblioteca de Padrões](../biblioteca/padroes/perguntas-poderosas.md).
+> Veja os **Padrões para Revisar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
 ## Modo Sincronizar
 
 O "Modo Sincronizar" é um momento da [Reunião de Círculo](reunioes-de-circulo.md#reunioes-de-circulo) cujo objetivo é _rapidamente processar_ [_Tensões_](organizacao.md#tensoes) _que não exigem o_ [_Círculo_](estrutura-organizacional.md#circulos) _atualizar a sua_ [_Estrutura Organizacional_](estrutura-organizacional.md). Saídas típicas do _Modo Sincronizar_ incluem ações, projetos, pedidos de ajuda e compartilhamento de informações. O [Facilitador](papeis-essenciais.md#facilitador) deve simplesmente permitir que cada participante que trouxe uma [Tensão](organizacao.md#tensoes) engaje os outros nos seus [Papéis](estrutura-organizacional.md#papeis) e [Deveres](direitos-e-deveres.md), até que um caminho para resolver a [Tensão](organizacao.md#tensoes) seja identificado. O [Secretário](papeis-essenciais.md#secretario) deve registrar quaisquer pedidos aceitos pelos outros participantes em seus [Papéis](estrutura-organizacional.md#papeis) ou como Atos Heróicos.
 
-> Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](../biblioteca/padroes/perguntas-poderosas.md).
+> Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
 ## Modo Adaptar
 
@@ -80,13 +80,13 @@ Qualquer participante pode levantar uma [Objeção](reunioes-de-circulo.md#objec
 
 Alterações na [Estrutura Organizacional](estrutura-organizacional.md) do [Círculo](estrutura-organizacional.md#circulos) podem ser propostas fora da [Reunião de Círculo](reunioes-de-circulo.md#reunioes-de-circulo) e são automaticamente aprovadas se todos os [Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) declararem que não têm qualquer [Objeção](reunioes-de-circulo.md#objecoes). Se qualquer [Objeção](reunioes-de-circulo.md#objecoes) for levantada ou um participante declarar que gostaria de tratar a [Tensão](organizacao.md#tensoes) de forma convencional, a [Proposta](reunioes-de-circulo.md#proposta) deve ser escalada para o [Modo Adaptar](reunioes-de-circulo.md#modo-adaptar) de uma [Reunião de Círculo](reunioes-de-circulo.md#reunioes-de-circulo) convencional.
 
-> Veja os **Padrões para Adaptar** na na [Biblioteca de Padrões](../biblioteca/padroes/perguntas-poderosas.md).
+> Veja os **Padrões para Adaptar** na na [Biblioteca de Padrões](../biblioteca/README.md).
 
 ## Modo Selecionar
 
 O "Modo Selecionar" é um momento da [Reunião de Círculo](reunioes-de-circulo.md#reunioes-de-circulo) cujo objetivo é _escolher_ [_Membros do Círculo_](estrutura-organizacional.md#membros-do-circulo) _para desempenharem um ou mais dos 3_ [_Papéis Essenciais Eleitos_](papeis-essenciais.md#papeis-essenciais-eleitos). O [Facilitador](papeis-essenciais.md#facilitador) deverá conduzir o Modo Selecionar através de uma eleição democrática, onde a maioria dos votos determinará o [Parceiro](organizacao.md#parceiros) eleito.
 
-> Veja os **Padrões para Selecionar** na na [Biblioteca de Padrões](../biblioteca/padroes/perguntas-poderosas.md).
+> Veja os **Padrões para Selecionar** na na [Biblioteca de Padrões](../biblioteca/README.md).
 
 ### Selecionar imediatamente
 
@@ -112,5 +112,4 @@ Em caso de empate na eleição de algum [Papel Essencial Eleito](papeis-essencia
 
 O "Modo Cuidar" é um momento da [Reunião de Círculo](reunioes-de-circulo.md#reunioes-de-circulo) cujo objetivo é _estimular a presença e a conexão entre os participantes_. Este [Modo](reunioes-de-circulo.md#reunioes-de-circulo) não deve ser utilizado para fazer alterações na [Estrutura Organizacional](reunioes-de-circulo.md#modo-cuidar) do [Círculo](estrutura-organizacional.md#circulos) ou engajar os [Parceiros](organizacao.md#parceiros) nos seus [Papéis](estrutura-organizacional.md#papeis) e [Deveres](direitos-e-deveres.md).
 
-> Veja os **Padrões para Cuidar** na [Biblioteca de Padrões](../biblioteca/padroes/perguntas-poderosas.md).
-
+> Veja os **Padrões para Cuidar** na [Biblioteca de Padrões](../biblioteca/README.md).

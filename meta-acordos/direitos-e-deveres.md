@@ -37,4 +37,3 @@ Quando solicitado, [Parceiros](organizacao.md#parceiros) devem priorizar compare
 ## Dever da preservação
 
 Os [Parceiros](organizacao.md#parceiros), a partir dos seus [Papéis](estrutura-organizacional.md#papeis), não devem impactar os [Artefatos](estrutura-organizacional.md#papeis) de outros [Papéis](estrutura-organizacional.md#papeis) contidos no mesmo [Círculo](estrutura-organizacional.md#circulos), sem antes obter uma permissão explícita do [Parceiro](organizacao.md#parceiros) que desempenha o [Papel](estrutura-organizacional.md#papeis) correspondente. Os [Parceiros](organizacao.md#parceiros) também devem observar as [Restrições](estrutura-organizacional.md#restricoes) definidas na [Estrutura Organizacional](estrutura-organizacional.md) e seguir as condições nelas estabelecidas.
-

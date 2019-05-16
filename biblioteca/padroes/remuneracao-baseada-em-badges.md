@@ -143,4 +143,3 @@ Após a adoção desse padrão ou variações dele, a organização começa a co
 ## Fundamentação
 
 Este padrão foi baseado no [“Badge-based Compensation”](https://www.holacracy.org/badge-based-compensation-app/), descrito por Brian Robertson como uma possível solução de como tratar remuneração na Holacracia. O padrão foi então adaptado para uso na Organização Orgânica.
-

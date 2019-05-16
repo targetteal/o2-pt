@@ -35,4 +35,3 @@ Quando ele é usado em organizações autogeridas as incoerências se ressaltam,
 * Clareza de Papéis
 * Priorização even/over
 * Uso de métricas para perceber o progresso
-
