@@ -134,3 +134,4 @@ No momento da escrita, uma variante do padrão é utilizado por uma [Organizaç�
 [tensoes]: ../../meta-acordos/organizacao.md#tensoes
 [organizacao]: ../../meta-acordos/organizacao.md
 [membros-do-circulo]: ../../meta-acordos/estrutura-organizacional.md#membros-do-circulo
+[meta-acordos]: ../../meta-acordos#meta-acordos-da-organização-orgânica
