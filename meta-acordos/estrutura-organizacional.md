@@ -2,7 +2,7 @@
 
 Os [Parceiros](organizacao.md#parceiros) poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](estrutura-organizacional.md#circulos) e formada por [Papéis](estrutura-organizacional.md#papeis) e [Restrições](estrutura-organizacional.md#restricoes). Cada [Círculo](estrutura-organizacional.md#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar](https://github.com/targetteal/organic-organization/tree/69d2c84c987a1c8dba8ef1b3366c7c5863bf062f/meta-acordos/reunioes-de-circulo-md/README.md#modo-adaptar) da [Reunião de Círculo](https://github.com/targetteal/organic-organization/tree/69d2c84c987a1c8dba8ef1b3366c7c5863bf062f/meta-acordos/reunioes-de-circulo-md/README.md).
 
-## Papéis
+## 2.1 <span id="papeis">Papéis</span>
 
 Os [Parceiros](organizacao.md#parceiros) executam o trabalho em um ou mais "Papéis" explicitamente definidos na [Estrutura Organizacional](estrutura-organizacional.md#estrutura-organizal). Um Papel é definido por:
 
