@@ -1,8 +1,8 @@
-# Organização
+# 1. <span id="organizacao">Organização</span>
 
 A "Organização" é uma entidade criada para expressar um [Propósito Evolutivo](organizacao.md#proposito-evolutivo). Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
 
-## Propósito Evolutivo
+## 1.1 <span id="proposito-evolutivo">Propósito Evolutivo</span>
 
 A [Organização](organizacao.md#organizacao) possui um "Propósito Evolutivo", que corresponde ao _potencial criativo mais profundo que pode expressar de forma sustentável no mundo_. O Propósito Evolutivo é o [Propósito](estrutura-organizacional.md#papeis) do [Círculo](estrutura-organizacional.md#circulos) mais amplo da [Estrutura Organizacional](estrutura-organizacional.md).
 
