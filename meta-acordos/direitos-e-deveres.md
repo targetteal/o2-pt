@@ -18,7 +18,7 @@ Ao perseguir o [Propósito](estrutura-organizacional.md#papeis) dos seus [Papéi
 
 [Parceiros](organizacao.md#parceiros) podem a qualquer momento deixar [Papéis](estrutura-organizacional.md#papeis) que desempenham em um ou mais [Círculos](estrutura-organizacional.md#circulos), a não ser que tenham de outra forma acordado com o [Elo Externo](papeis-essenciais.md#elo-externo) ou outro processo que atribua [Parceiros](organizacao.md#parceiros) a [Papéis](estrutura-organizacional.md#papeis).
 
-## 3.5<span id="dever-da-expressao">Dever da expressão</span>
+## 3.5 <span id="dever-da-expressao">Dever da expressão</span>
 
 Cada [Parceiro](organizacao.md#parceiros) é responsável por identificar suas [Tensões](organizacao.md#tensoes) a partir de cada [Papel](estrutura-organizacional.md#papeis) que desempenha. Cada [Parceiro](organizacao.md#parceiros) também é responsável por tentar resolver essas [Tensões](organizacao.md#tensoes), engajando outros [Parceiros](organizacao.md#parceiros) em seus [Deveres](direitos-e-deveres.md#direitos-e-deveres) ou propondo mudanças na [Estrutura Organizacional](estrutura-organizacional.md).
 
