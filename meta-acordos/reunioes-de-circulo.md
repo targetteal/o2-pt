@@ -4,7 +4,7 @@
 
 ## Somente Membros podem processar tensões
 
-[Parceiros](organizacao.md#parceiros) que não são [Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) não podem processar [Tensões](organizacao.md#tensoes) nas [Reuniões de Círculo](reunioes-de-circulo.md#reunioes-de-circulo), a não ser que sejam convidadas por um [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo) para ajudar no processamento de uma [Tensão](organizacao.md#tensoes) específica.
+[Parceiros](organizacao.md#parceiros) que não são [Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) não podem processar [Tensões](organizacao.md#tensoes) nas [Reuniões de Círculo](reunioes-de-circulo.md#reunioes-de-circulo). No entanto, [Parceiros](organizacao.md#parceiros) podem ser convidadas por um [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo) para ajudar no processamento de uma [Tensão](organizacao.md#tensoes) específica. Neste caso, a tensão a ser processada ainda será considerada do [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo) e não do [Parceiros](organizacao.md#parceiros).
 
 ## Formato da Reunião
 
