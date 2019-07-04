@@ -1,6 +1,6 @@
 # 3. <span id="direitos-e-deveres">Direitos e Deveres</span>
 
-Todos os [Parceiros](organizacao.md#parceiros) podem usufruir dos "Direitos" apresentados abaixo.
+Todos os [Parceiros](organizacao.md#parceiros) podem usufruir dos "Direitos" apresentados abaixo, mas também se comprometem em atender aos seus "Deveres".
 
 ## 3.1 <span id="direito-de-recusar-pedidos">Direito de recusar pedidos</span>
 
