@@ -12,7 +12,7 @@ Ao perseguir o [Propósito](estrutura-organizacional.md#papeis) dos [Papéis](es
 
 ## 3.3 <span id="direito-de-agir-heroicamente">Direito de agir heroicamente</span>
 
-[Parceiros](organizacao.md#parceiros) podem temporariamente ignorar estes Meta-Acordos se isto for útil e necessário para expressar o [Propósito Evolutivo](organizacao.md#proposito-evolutivo) da [Organização](organizacao.md). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heróicos". Os [Parceiros](organizacao.md#parceiros) devem buscar reparar quaisquer danos causados após um Ato Heróico, propondo mudanças na [Estrutura Organizacional](estrutura-organizacional.md) ou até nestes [Meta-Acordos](direitos-e-deveres.md#meta-acordos) se necessário.
+[Parceiros](organizacao.md#parceiros) podem temporariamente ignorar estes Meta-Acordos se isto for útil e necessário para expressar o [Propósito Evolutivo](organizacao.md#proposito-evolutivo) da [Organização](organizacao.md). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heroicos". Os [Parceiros](organizacao.md#parceiros) devem buscar reparar quaisquer danos causados após um Ato Heroico, propondo mudanças na [Estrutura Organizacional](estrutura-organizacional.md) ou até nestes [Meta-Acordos](direitos-e-deveres.md#meta-acordos) se necessário.
 
 ## 3.4 <span id="direito-de-deixar-papeis">Direito de deixar Papéis</span>
 
