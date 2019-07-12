@@ -13,7 +13,7 @@ Os [Parceiros](organizacao.md#parceiros) executam o trabalho em um ou mais "Pap�
 
 ## 2.2 <span id="circulos">Círculos</span>
 
-Um "Círculo" é um [Papel](estrutura-organizacional.md#papeis) que possui a autoridade de se dividir em [Papéis](estrutura-organizacional.md#papeis) menores, contidos dentro dele mesmo. Quando um [Papel](estrutura-organizacional.md#papeis) é transformado em um Círculo, os [Parceiros](organizacao.md#parceiros) que o desempenhavam tornam-se o [Elo Externo](papeis-essenciais.md#elo-externo) daquele [Círculo](estrutura-organizacional.md#circulos). [Círculos](estrutura-organizacional.md#circulos) são definidos exatamente como os [Papéis](estrutura-organizacional.md#papeis), ou seja, através dos elementos nome, [Propósito](estrutura-organizacional.md#papeis), [Responsabilidades](estrutura-organizacional.md#papeis) e [Artefatos](estrutura-organizacional.md#papeis).
+Um "Círculo" é um [Papel](estrutura-organizacional.md#papeis) que possui a autoridade de se dividir em [Papéis](estrutura-organizacional.md#papeis) menores, contidos dentro dele mesmo. Quando um [Papel](estrutura-organizacional.md#papeis) é transformado em um Círculo, os [Parceiros](organizacao.md#parceiros) que o energizavam tornam-se o [Elo Externo](papeis-essenciais.md#elo-externo) daquele [Círculo](estrutura-organizacional.md#circulos). [Círculos](estrutura-organizacional.md#circulos) são definidos exatamente como os [Papéis](estrutura-organizacional.md#papeis), ou seja, através dos elementos nome, [Propósito](estrutura-organizacional.md#papeis), [Responsabilidades](estrutura-organizacional.md#papeis) e [Artefatos](estrutura-organizacional.md#papeis).
 
 ### 2.2.1 <span id="circulos-nao-alteram-sua-definicao">Círculos não alteram sua definição</span>
 
@@ -35,9 +35,9 @@ Através do seu [Modo Adaptar](https://github.com/targetteal/organic-organizatio
 
 [Parceiros](organizacao.md#parceiros) são considerados "Membros" de um determinado [Círculo](estrutura-organizacional.md#circulos) quando atenderem pelo menos um dos critérios abaixo:
 
-* Desempenham pelo menos um [Papel](estrutura-organizacional.md#papeis) definido no [Círculo](estrutura-organizacional.md#circulos);
-* Desempenham pelo menos um dos [Papéis Essenciais](papeis-essenciais.md) no [Círculo](estrutura-organizacional.md#circulos);
-* Desempenham o [Papel](estrutura-organizacional.md#papeis) de [Elo Externo](papeis-essenciais.md#elo-externo) ou [Elo Interno](papeis-essenciais.md#elo-interno) em pelo menos um dos [Círculos](estrutura-organizacional.md#circulos) internos ao [Círculo](estrutura-organizacional.md#circulos).
+* Energizam pelo menos um [Papel](estrutura-organizacional.md#papeis) definido no [Círculo](estrutura-organizacional.md#circulos);
+* Energizam pelo menos um dos [Papéis Essenciais](papeis-essenciais.md) no [Círculo](estrutura-organizacional.md#circulos);
+* Energizam o [Papel](estrutura-organizacional.md#papeis) de [Elo Externo](papeis-essenciais.md#elo-externo) ou [Elo Interno](papeis-essenciais.md#elo-interno) em pelo menos um dos [Círculos](estrutura-organizacional.md#circulos) internos ao [Círculo](estrutura-organizacional.md#circulos).
 
 ## 2.5 <span id="restricoes">Restrições</span>
 

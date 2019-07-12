@@ -84,7 +84,7 @@ Alterações na [Estrutura Organizacional](estrutura-organizacional.md) do [Cír
 
 ## 4.7 <span id="modo-selecionar">Modo Selecionar</span>
 
-O "Modo Selecionar" é um momento da [Reunião de Círculo](reunioes-de-circulo.md#reunioes-de-circulo) cujo objetivo é _escolher_ [_Membros do Círculo_](estrutura-organizacional.md#membros-do-circulo) _para desempenharem um ou mais dos 3_ [_Papéis Essenciais Eleitos_](papeis-essenciais.md#papeis-essenciais-eleitos). O [Facilitador](papeis-essenciais.md#facilitador) deverá conduzir o Modo Selecionar através de uma eleição democrática, onde a maioria dos votos determinará o [Parceiro](organizacao.md#parceiros) eleito.
+O "Modo Selecionar" é um momento da [Reunião de Círculo](reunioes-de-circulo.md#reunioes-de-circulo) cujo objetivo é _escolher_ [_Membros do Círculo_](estrutura-organizacional.md#membros-do-circulo) _para energizarem um ou mais dos 3_ [_Papéis Essenciais Eleitos_](papeis-essenciais.md#papeis-essenciais-eleitos). O [Facilitador](papeis-essenciais.md#facilitador) deverá conduzir o Modo Selecionar através de uma eleição democrática, onde a maioria dos votos determinará o [Parceiro](organizacao.md#parceiros) eleito.
 
 > Veja os **Padrões para Selecionar** na na [Biblioteca de Padrões](../biblioteca/README.md).
 
@@ -98,14 +98,14 @@ O processo de eleição dos 3 [Papéis Essenciais Eleitos](papeis-essenciais.md#
 
 ### 4.7.3 <span id="parceiros-elegiveis">Parceiros elegíveis</span>
 
-Todos e apenas os [Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) são elegíveis para os 3 [Papéis Essenciais Eleitos](papeis-essenciais.md#papeis-essenciais-eleitos), com a exceção do [Parceiro](organizacao.md#parceiros) que desempenha o [Papel](estrutura-organizacional.md#papeis) de [Elo Externo](papeis-essenciais.md#elo-externo), que não é elegível como [Facilitador](papeis-essenciais.md#facilitador) ou [Elo Interno](papeis-essenciais.md#elo-interno) do mesmo [Círculo](estrutura-organizacional.md#circulos).
+Todos e apenas os [Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) são elegíveis para os 3 [Papéis Essenciais Eleitos](papeis-essenciais.md#papeis-essenciais-eleitos), com a exceção do [Parceiro](organizacao.md#parceiros) que energiza o [Papel](estrutura-organizacional.md#papeis) de [Elo Externo](papeis-essenciais.md#elo-externo), que não é elegível como [Facilitador](papeis-essenciais.md#facilitador) ou [Elo Interno](papeis-essenciais.md#elo-interno) do mesmo [Círculo](estrutura-organizacional.md#circulos).
 
 ### 4.7.4 <span id="desempate">Desempate</span>
 
 Em caso de empate na eleição de algum [Papel Essencial Eleito](papeis-essenciais.md#papeis-essenciais-eleitos), o [Facilitador](papeis-essenciais.md#facilitador) deverá escolher um dos seguintes critérios para desempatar:
 
 * O [Parceiro](organizacao.md#parceiros) que nomeou a si mesmo, se apenas um dos candidatos empatados o fez;
-* O [Parceiro](organizacao.md#parceiros) que já está desempenhando o [Papel](estrutura-organizacional.md#papeis), se apenas um dos candidatos empatados está;
+* O [Parceiro](organizacao.md#parceiros) que já está energizando o [Papel](estrutura-organizacional.md#papeis), se apenas um dos candidatos empatados está;
 * Aleatoriamente escolher um dos candidatos empatados.
 
 ## 4.8 <span id="modo-cuidar">Modo Cuidar</span>
