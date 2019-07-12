@@ -4,7 +4,7 @@ Cada [Círculo](estrutura-organizacional.md#circulos) contém 4 "Papéis Essenci
 
 ## 5.1 <span id="papeis-essenciais-eleitos">Papéis Essenciais Eleitos</span>
 
-Quando um [Círculo](estrutura-organizacional.md#circulos) possui dois ou mais [Parceiros](organizacao.md#parceiros), ele deve eleger no [Modo Selecionar](reunioes-de-circulo.md#modo-selecionar) os 3 "Papéis Essenciais Eleitos" de [Facilitador](papeis-essenciais.md#facilitador), [Secretário](papeis-essenciais.md#secretario) e [Elo Interno](papeis-essenciais.md#elo-interno). A única exceção é o [Círculo](estrutura-organizacional.md#circulos) mais amplo da [Estrutura Organizacional](estrutura-organizacional.md), que não deve eleger [Elo Interno](papeis-essenciais.md#elo-interno).
+Quando [Círculo](estrutura-organizacional.md#circulos) que possui dois ou mais [Parceiros](organizacao.md#parceiros) deve eleger no [Modo Selecionar](reunioes-de-circulo.md#modo-selecionar) os 3 "Papéis Essenciais Eleitos" de [Facilitador](papeis-essenciais.md#facilitador), [Secretário](papeis-essenciais.md#secretario) e [Elo Interno](papeis-essenciais.md#elo-interno). A única exceção é o [Círculo](estrutura-organizacional.md#circulos) mais amplo da [Estrutura Organizacional](estrutura-organizacional.md), que não deve eleger [Elo Interno](papeis-essenciais.md#elo-interno).
 
 ## 5.2 <span id="alteracoes-nos-papeis-essenciais">Alterações nos Papéis Essenciais</span>
 
