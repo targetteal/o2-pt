@@ -84,7 +84,7 @@ Alterações na [Estrutura Organizacional](estrutura-organizacional.md) do [Cír
 
 ## 4.7 <span id="modo-selecionar">Modo Selecionar</span>
 
-O "Modo Selecionar" é um momento da [Reunião de Círculo](reunioes-de-circulo.md#reunioes-de-circulo) cujo objetivo é _escolher_ [_Membros do Círculo_](estrutura-organizacional.md#membros-do-circulo) _para energizarem um ou mais dos 3_ [_Papéis Essenciais Eleitos_](papeis-essenciais.md#papeis-essenciais-eleitos). O [Facilitador](papeis-essenciais.md#facilitador) deverá conduzir o Modo Selecionar através de uma eleição democrática, onde a maioria dos votos determinará o [Parceiro](organizacao.md#parceiros) eleito.
+O "Modo Selecionar" é um momento da [Reunião de Círculo](reunioes-de-circulo.md#reunioes-de-circulo) cujo objetivo é _escolher_ [_Membros do Círculo_](estrutura-organizacional.md#membros-do-circulo) _para energizarem um ou mais dos 3_ [_Papéis Essenciais Eleitos_](papeis-essenciais.md#papeis-essenciais-eleitos). O [Facilitador](papeis-essenciais.md#facilitador) deverá conduzir o Modo Selecionar através de uma decisão por consentimento, onde uma [Proposta] de eleição será aceita apenas após todas as [Objeções](#objecoes) serem integradas, exatamente como no [Modo Adaptar](#modo-adaptar).
 
 > Veja os **Padrões para Selecionar** na na [Biblioteca de Padrões](../biblioteca/README.md).
 
