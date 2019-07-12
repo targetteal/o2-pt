@@ -4,11 +4,11 @@ Todos os [Parceiros](organizacao.md#parceiros) podem usufruir dos "Direitos" apr
 
 ## 3.1 <span id="direito-de-recusar-pedidos">Direito de recusar pedidos</span>
 
-[Parceiros](organizacao.md#parceiros) podem recusar pedidos, caso não exista uma [Responsabilidade](estrutura-organizacional.md#papeis) explícita correspondente na descrição do [Papel](estrutura-organizacional.md#papeis) sendo solicitado. Entretanto, os [Parceiros](organizacao.md#parceiros) devem sempre aceitar os pedidos que fizerem sentido para o [Propósito](estrutura-organizacional.md#papeis) de algum dos seus [Papéis](estrutura-organizacional.md#papeis), mesmo que nenhuma [Responsabilidade](estrutura-organizacional.md#papeis) explícita esteja registrada.
+[Parceiros](organizacao.md#parceiros) podem recusar pedidos, caso não exista uma [Responsabilidade](estrutura-organizacional.md#papeis) explícita correspondente na descrição do [Papel](estrutura-organizacional.md#papeis) sendo solicitado. Entretanto, os [Parceiros](organizacao.md#parceiros) devem sempre aceitar os pedidos que fizerem sentido para o [Propósito](estrutura-organizacional.md#papeis) de algum dos [Papéis](estrutura-organizacional.md#papeis) que energizam, mesmo que nenhuma [Responsabilidade](estrutura-organizacional.md#papeis) explícita esteja registrada.
 
 ## 3.2 <span id="direito-de-agir-para-o-proposito">Direito de agir para o Propósito</span>
 
-Ao perseguir o [Propósito](estrutura-organizacional.md#papeis) dos seus [Papéis](estrutura-organizacional.md#papeis), os [Parceiros](organizacao.md#parceiros) estão sempre autorizados a tomar ação, a não ser que o [Dever da Preservação](direitos-e-deveres.md#dever-da-preservacao) os restrinja.
+Ao perseguir o [Propósito](estrutura-organizacional.md#papeis) dos [Papéis](estrutura-organizacional.md#papeis) que energizam, os [Parceiros](organizacao.md#parceiros) estão sempre autorizados a tomar ação, a não ser que o [Dever da Preservação](direitos-e-deveres.md#dever-da-preservacao) os restrinja.
 
 ## 3.3 <span id="direito-de-agir-heroicamente">Direito de agir heroicamente</span>
 
@@ -24,7 +24,7 @@ Cada [Parceiro](organizacao.md#parceiros) é responsável por identificar suas [
 
 ## 3.6 <span id="dever-da-transparencia">Dever da transparência</span>
 
-Quando solicitado, é esperado que os [Parceiros](organizacao.md#parceiros) compartilhem todas as informações relevantes sobre o trabalho de seus [Papéis](estrutura-organizacional.md#papeis), incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros](organizacao.md#parceiros) dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
+Quando solicitado, é esperado que os [Parceiros](organizacao.md#parceiros) compartilhem todas as informações relevantes sobre o trabalho dos [Papéis](estrutura-organizacional.md#papeis) que energizam, incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros](organizacao.md#parceiros) dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
 ## 3.7 <span id="dever-da-priorizacao">Dever da priorização</span>
 
@@ -32,8 +32,8 @@ Os [Parceiros](organizacao.md#parceiros) devem priorizar o seu trabalho em alinh
 
 ## 3.8 <span id="dever-do-comparecimento">Dever do comparecimento</span>
 
-Quando solicitado, [Parceiros](organizacao.md#parceiros) devem priorizar comparecer às [Reuniões de Círculo](reunioes-de-circulo.md) em detrimento de trabalhar nos seus [Papéis](estrutura-organizacional.md#papeis).
+Quando solicitado, [Parceiros](organizacao.md#parceiros) devem priorizar comparecer às [Reuniões de Círculo](reunioes-de-circulo.md) em detrimento de trabalhar nos [Papéis](estrutura-organizacional.md#papeis) que energizam.
 
 ## 3.9 <span id="dever-da-preservacao">Dever da preservação</span>
 
-Os [Parceiros](organizacao.md#parceiros), a partir dos seus [Papéis](estrutura-organizacional.md#papeis), não devem impactar os [Artefatos](estrutura-organizacional.md#papeis) de outros [Papéis](estrutura-organizacional.md#papeis) contidos no mesmo [Círculo](estrutura-organizacional.md#circulos), sem antes obter uma permissão explícita do [Parceiro](organizacao.md#parceiros) que energiza o [Papel](estrutura-organizacional.md#papeis) correspondente. Os [Parceiros](organizacao.md#parceiros) também devem observar as [Restrições](estrutura-organizacional.md#restricoes) definidas na [Estrutura Organizacional](estrutura-organizacional.md) e seguir as condições nelas estabelecidas.
+Os [Parceiros](organizacao.md#parceiros), a partir dos [Papéis](estrutura-organizacional.md#papeis) que energizam, não devem impactar os [Artefatos](estrutura-organizacional.md#papeis) de outros [Papéis](estrutura-organizacional.md#papeis) contidos no mesmo [Círculo](estrutura-organizacional.md#circulos), sem antes obter uma permissão explícita do [Parceiro](organizacao.md#parceiros) que energiza o [Papel](estrutura-organizacional.md#papeis) correspondente. Os [Parceiros](organizacao.md#parceiros) também devem observar as [Restrições](estrutura-organizacional.md#restricoes) definidas na [Estrutura Organizacional](estrutura-organizacional.md) e seguir as condições nelas estabelecidas.
