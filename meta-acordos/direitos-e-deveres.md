@@ -16,7 +16,7 @@ Ao perseguir o [Propósito][papeis] dos [Papéis][papeis] que energizam, os [Par
 
 ## 3.4 <span id="direito-de-deixar-papeis">Direito de deixar Papéis</span>
 
-[Parceiros][parceiros] podem a qualquer momento deixar [Papéis][papeis] que energizam em um ou mais [Círculos][circulos], a não ser que tenham de outra forma acordado com o [Elo Externo][elo-externo] ou outro processo que atribua [Parceiros][parceiros] a [Papéis][papeis].
+[Parceiros][parceiros] podem a qualquer momento deixar [Papéis][papeis] que energizam, a não ser que tenham de outra forma acordado com o [Elo Externo][elo-externo] ou outro processo que atribua [Parceiros][parceiros] a [Papéis][papeis].
 
 ## 3.5 <span id="dever-da-expressao">Dever da expressão</span>
 
