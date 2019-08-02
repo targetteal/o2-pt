@@ -1,10 +1,10 @@
 # 2. <span id="estrutura-organizacional">Estrutura Organizacional</span>
 
-Os [Parceiros][parceiros] poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes]. 
+Os [Parceiros][parceiros] poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes].
 
 ## 2.1 <span id="papeis">Papéis</span>
 
-Os [Parceiros][parceiros] executam o trabalho em um ou mais "Papéis" explicitamente definidos na [Estrutura Organizacional][estrutura-organizacional]. Um Papel é definido por:
+Os [Parceiros][parceiros] executam o trabalho para a [Organização][organizacao] em um ou mais "Papéis" explicitamente definidos. Um Papel é composto de:
 
 * Um nome descritivo;
 * Um "Propósito", que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
