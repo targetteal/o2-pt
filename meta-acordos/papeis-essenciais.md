@@ -24,9 +24,9 @@ As alterações realizadas nos [Papeis Essenciais][papeis-essenciais] de um [Cí
 
 O [Elo Externo][elo-externo] é escolhido pelo [Círculo][circulos] externo, por qualquer processo que atribua [Parceiros][parceiros] a [Papéis][papeis] no [Círculo][circulos] externo. O [Elo Externo][elo-externo] do [Círculo][circulos] mais amplo deve ser determinado pelo mesmo processo que adotou estes Meta-Acordos.
 
-## 5.4 <span id="atribuicao-de-parceiros-a-papeis">Atribuição de Parceiros a Papéis</span>
+## 5.4 <span id="atribuicao-de-parceiros-a-papeis">Energização de Parceiros a Papéis</span>
 
-O [Elo Externo][elo-externo] é responsável por atribuir [Parceiros][parceiros] aos [Papéis][papeis] no [Círculo][circulos] e pode convidar qualquer [Parceiro][parceiros] da [Organização](organizacao.md), a não ser que uma [Restrição][restricoes] diga o contrário.
+O [Elo Externo][elo-externo] é responsável por convidar [Parceiros][parceiros] para energizarem os [Papéis][papeis] no [Círculo][circulos] e pode convidar qualquer [Parceiro][parceiros] da [Organização](organizacao.md), a não ser que uma [Restrição][restricoes] diga o contrário.
 
 ## 5.5 <span id="facilitador">Facilitador</span>
 
@@ -69,7 +69,7 @@ O [Papel][papeis] do "Elo Externo" possui a seguinte definição inicial:
 
 **Artefatos**:
 
-* Atribuição de [Papéis][papeis] dentro do [Círculo][circulos]
+* Energização de [Papéis][papeis] dentro do [Círculo][circulos]
 
 O Elo Externo detém todas as [Responsabilidades][papeis] e [Artefatos][papeis] não delegados do [Círculo][circulos].
 
