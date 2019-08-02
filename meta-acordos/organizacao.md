@@ -4,7 +4,7 @@ A "Organização" é uma entidade criada para expressar um [Propósito Evolutivo
 
 ## 1.1 <span id="proposito-evolutivo">Propósito Evolutivo</span>
 
-A [Organização][organizacao] possui um "Propósito Evolutivo", que corresponde ao _potencial criativo mais profundo que pode expressar de forma sustentável no mundo_. O Propósito Evolutivo é o [Propósito][papeis] do [Círculo][circulos] mais amplo da [Estrutura Organizacional][estrutura-organizacional], chamado de "Círculo Âncora".  
+A [Organização][organizacao] possui um "Propósito Evolutivo", que corresponde ao _potencial criativo mais profundo que pode expressar de forma sustentável no mundo_. O Propósito Evolutivo é definido em uma camada que antecede estes Meta-Acordos.
 
 ## 1.2 <span id="parceiros">Parceiros</span>
 
