@@ -41,7 +41,7 @@ Uma [Objeção][objecoes] é considerada válida caso o [Objetor][objetor] acred
 
 ### 3.2.6 Facilitador pode descartar a Objeção
 
-Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador][facilitador] considerar que o [Objetor][objetor] não foi capaz de apresentar exemplos e esclarecimentos de como a [Objeção][objecoes] atende aos critérios de [Objeções Válidas][objecoes-validas], o [Facilitador][facilitador] deve descartar a [Objecao][objecoes]. No entanto, o [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
+Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador][facilitador] considerar que o [Objetor][objetor] não foi capaz de apresentar exemplos e esclarecimentos de como a [Objeção][objecoes] atende aos critérios de [Objeções Válidas][objecoes-validas], o [Facilitador][facilitador] deve descartar a [Objeção][objecoes]. No entanto, o [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
 
 ### 3.2.7 <span id="integracao">Integração</span>
 
@@ -72,5 +72,6 @@ Através da [Estrutura Organizacional][estrutura-organizacional], os [Parceiros]
 [organizacao]: organizacao.md
 [objetor]: #objecoes
 [objecoes]: #objecoes
+[objecoes-validas]: #objecoes-validas
 [proposta]: #proposta
 [facilitador]: papeis-essenciais.md#facilitador
