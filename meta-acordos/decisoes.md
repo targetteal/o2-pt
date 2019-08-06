@@ -18,19 +18,19 @@ Uma "Decisão Integrativa" é quando um [Parceiro][parceiros] apresenta uma [Pro
 
 Uma [Proposta][proposta] é uma estratégia descrita por um [Parceiro][parceiros], o "Proponente", para responder a uma [Tensão][tensoes] sentida pelo mesmo ou por alguém que ele ou ela representa. A construção da [Proposta][proposta] é de responsabilidade do [Proponente][proposta], embora ele possa pedir ajuda ou consultar opiniões de outros [Parceiros][parceiros] durante o processo. O objetivo da [Proposta][proposta] é resolver a [Tensão][tensoes] do [Proponente][proposta] sem causar [Objeções][objecoes], e nada além disto.
 
-### 3.2.3 <span id="apresentacao-de-exemplos">Apresentação de Exemplos</span>
+### 3.2.2 <span id="apresentacao-de-exemplos">Apresentação de Exemplos</span>
 
 O [Proponente][proposta] de deve ser capaz de apresentar exemplos de situações passadas ou presentes onde cada parte da [Proposta][proposta] construída resolveria ou reduziria a [Tensão][tensoes].
 
-### 3.2.4 Facilitador pode descartar a Proposta
+### 3.2.3 Facilitador pode descartar a Proposta
 
 Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador][facilitador] considerar que o [Proponente][proposta] não foi capaz de apresentar exemplos e esclarecimentos de como a [Proposta][proposta] resolve a [Tensão][tensoes], o [Facilitador][facilitador] deve descartar a [Proposta][proposta]. No entanto, o [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
 
-### 3.2.5 <span id="objecoes">Objeções</span>
+### 3.2.4 <span id="objecoes">Objeções</span>
 
 Durante uma [Decisão Integrativa][decisao-integrativa], os [Parceiros][parceiros] poderão apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade do [Parceiro][parceiros] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. Quando um [Parceiro][parceiros] apresenta uma [Objeção][objecoes] ele momentaneamente se torna o "Objetor" daquela [Proposta][proposta].
 
-### 3.2.6 <span id="objecoes-validas">Objeções Válidas</span>
+### 3.2.5 <span id="objecoes-validas">Objeções Válidas</span>
 
 Uma [Objeção][objecoes] é considerada válida caso o [Objetor][objetor] acredite que ela possua todas as 4 características abaixo:
 
@@ -39,15 +39,15 @@ Uma [Objeção][objecoes] é considerada válida caso o [Objetor][objetor] acred
 3. **Causal**: A [Objeção][objecoes] é causado pela [Proposta][proposta], ou seja, ela não existe se a [Proposta][proposta] não for adotada.
 4. **Factual**: A [Objeção][objecoes] é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. No entanto, se o dano alegado é tão desastroso que não seria possível se adaptar no futuro, então este critério pode ser desconsiderado.
 
-### 3.2.7 Facilitador pode descartar a Objeção
+### 3.2.6 Facilitador pode descartar a Objeção
 
 Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador][facilitador] considerar que o [Objetor][objetor] não foi capaz de apresentar exemplos e esclarecimentos de como a [Objeção][objecao] atende aos critérios de [Objeções Válidas][objecoes-validas], o [Facilitador][facilitador] deve descartar a [Objecao][objecao]. No entanto, o [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
 
-### 3.2.8 <span id="integracao">Integração</span>
+### 3.2.7 <span id="integracao">Integração</span>
 
 Se houver [Objeções][objecoes], o [Proponente][proposta] deverá integrá-las à [Proposta][proposta], uma de cada vez. O objetivo da "Integração" é modificar a [Proposta][proposta] para que ela resolva a [Tensão][tensoes] original, mas sem causar a [Objeção][objecoes] levantada. Se a [Proposta][proposta] for alterada, o [Proponente][proposta] deverá dar mais uma oportunidade para os participantes levantarem [Objeções][objecoes].
 
-### 3.2.9 <span id="quebra-dos-meta-acordos">Quebra dos Meta-Acordos</span>
+### 3.2.8 <span id="quebra-dos-meta-acordos">Quebra dos Meta-Acordos</span>
 
 Qualquer [Parceiro][parceiros] participando de uma [Decisão Integrativa][decisao-integrativa] pode levantar uma [Objeção][objecoes] de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta][proposta] viola um [Meta-Acordo][meta-acordos]. Esta [Objeção][objecoes] especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
 
