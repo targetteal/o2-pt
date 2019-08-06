@@ -98,9 +98,11 @@ O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
 [restricoes]: estrutura-organizacional.md#restricoes
 [membros]: estrutura-organizacional.md#membros-do-circulo
 [interacoes]: interacoes.md
+[selecionar]: interacoes.md#selecionar
 [reunioes-de-circulo]: interacoes.md#reunioes-de-circulo
 [elo-externo]: #elo-externo
 [elo-interno]: #elo-interno
 [facilitador]: #facilitador
 [secretario]: #secretario
 [papeis-essenciais]: #papeis-essenciais
+[papeis-essenciais-eleitos]: #papeis-essenciais-eleitos
