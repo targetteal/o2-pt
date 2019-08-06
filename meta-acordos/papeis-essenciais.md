@@ -1,16 +1,16 @@
-# 5. <span id="papeis-essenciais">Papéis Essenciais</span>
+# 6. <span id="papeis-essenciais">Papéis Essenciais</span>
 
 Cada [Círculo][circulos] contém 4 "Papéis Essenciais" automaticamente criados: [Elo Externo][elo-externo], [Elo Interno][elo-interno], [Facilitador][facilitador] e [Secretário][secretario].
 
-## 5.1 <span id="papeis-essenciais-eleitos">Papéis Essenciais Eleitos</span>
+## 6.1 <span id="papeis-essenciais-eleitos">Papéis Essenciais Eleitos</span>
 
 Quando um [Círculo][circulos] possui dois ou mais [Membros][membros], ele deverá realizar eleições regulares para os 3 "Papéis Essenciais Eleitos" de [Facilitador][facilitador], [Secretário][secretario] e [Elo Interno][elo-interno]. No entanto, o [Círculo][circulos] mais amplo da [Estrutura Organizacional][estrutura] não deverá eleger um [Elo Interno](#elo-interno).
 
-## 5.2 Realizando Eleições
+## 6.2 Realizando Eleições
 
 Qualquer eleição para um [Papel Essencial Eleito][papeis-essenciais-eleitos] deverá acontecer na Interação [Selecionar][selecionar] de um [Círculo][circulos].
 
-## 5.3 <span id="alteracoes-nos-papeis-essenciais">Alterações nos Papéis Essenciais</span>
+## 6.3 <span id="alteracoes-nos-papeis-essenciais">Alterações nos Papéis Essenciais</span>
 
 Os [Papéis Essenciais][papeis-essenciais] de cada [Círculo][circulos] podem ser alterados durante o [Modo Adaptar](interacoes.md#modo-adaptar). No entanto, as seguintes restrições se aplicam:
 
@@ -20,19 +20,19 @@ Os [Papéis Essenciais][papeis-essenciais] de cada [Círculo][circulos] podem se
 * As [Responsabilidades][papeis] e [Artefatos][papeis] iniciais dos [Papéis][papeis] de [Facilitador][facilitador], [Secretário][secretario] e [Elo Interno][elo-interno] não podem ser removidas ou modificadas;
 * Os [Papéis Essenciais][papeis-essenciais] não podem ser removidos.
 
-### 5.3.1 <span id="alteracoes-nos-papeis-essenciais-nao-propagam">Alterações nos Papéis Essenciais não propagam</span>
+### 6.3.1 <span id="alteracoes-nos-papeis-essenciais-nao-propagam">Alterações nos Papéis Essenciais não propagam</span>
 
 As alterações realizadas nos [Papeis Essenciais][papeis-essenciais] de um [Círculo][circulos] aplicam-se apenas ao [Círculo][circulos] onde a modificação ocorreu, ou seja, não propagam para os [Círculos][circulos] internos.
 
-## 5.4 <span id="escolha-do-elo-externo">Escolha do Elo Externo</span>
+## 6.4 <span id="escolha-do-elo-externo">Escolha do Elo Externo</span>
 
 O [Elo Externo][elo-externo] é escolhido pelo [Círculo][circulos] externo, por qualquer processo que atribua [Parceiros][parceiros] a [Papéis][papeis] no [Círculo][circulos] externo. O [Elo Externo][elo-externo] do [Círculo][circulos] mais amplo deve ser determinado pelo mesmo processo que adotou estes Meta-Acordos.
 
-## 5.5 <span id="atribuicao-de-parceiros-a-papeis">Energização de Parceiros a Papéis</span>
+## 6.5 <span id="atribuicao-de-parceiros-a-papeis">Energização de Papéis</span>
 
-O [Elo Externo][elo-externo] é responsável por convidar [Parceiros][parceiros] para energizarem os [Papéis][papeis] no [Círculo][circulos] e pode convidar qualquer [Parceiro][parceiros] da [Organização](organizacao.md), a não ser que uma [Restrição][restricoes] diga o contrário.
+O [Elo Externo][elo-externo] é responsável por convidar [Parceiros][parceiros] para energizarem os [Papéis][papeis] definidos no [Círculo][circulos] e pode convidar qualquer [Parceiro][parceiros] da [Organização](organizacao.md), a não ser que uma [Restrição][restricoes] diga o contrário.
 
-## 5.6 <span id="facilitador">Facilitador</span>
+## 6.6 <span id="facilitador">Facilitador</span>
 
 O [Papel][papeis] do "Facilitador" possui a seguinte definição inicial:
 
@@ -42,7 +42,7 @@ O [Papel][papeis] do "Facilitador" possui a seguinte definição inicial:
 
 * Facilitar as [Reuniões de Círculo][interacoes]
 
-## 5.7 <span id="secretario">Secretário</span>
+## 6.7 <span id="secretario">Secretário</span>
 
 O [Papel][papeis] do "Secretário" possui a seguinte definição inicial:
 
@@ -58,7 +58,7 @@ O [Papel][papeis] do "Secretário" possui a seguinte definição inicial:
 
 * Registros da [Estrutura Organizacional][estrutura] do [Círculo][circulos]
 
-## 5.8 <span id="elo-externo">Elo Externo</span>
+## 6.8 <span id="elo-externo">Elo Externo</span>
 
 O [Papel][papeis] do "Elo Externo" possui a seguinte definição inicial:
 
@@ -77,7 +77,7 @@ O [Papel][papeis] do "Elo Externo" possui a seguinte definição inicial:
 
 O Elo Externo detém todas as [Responsabilidades][papeis] e [Artefatos][papeis] não delegados do [Círculo][circulos].
 
-## 5.9 <span id="elo-interno">Elo Interno</span>
+## 6.9 <span id="elo-interno">Elo Interno</span>
 
 O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
 
