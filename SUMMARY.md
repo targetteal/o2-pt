@@ -6,7 +6,7 @@
   * [2. Estrutura Organizacional](meta-acordos/estrutura-organizacional.md)
   * [3. Decisões](meta-acordos/decisoes.md)
   * [4. Direitos e Deveres](meta-acordos/direitos-e-deveres.md)
-  * [5. Interações](meta-acordos/reunioes-de-circulo.md)
+  * [5. Interações](meta-acordos/interacoes.md)
   * [6. Papéis Essenciais](meta-acordos/papeis-essenciais.md)
 * [Biblioteca de Padrões e Antipadrões](biblioteca/README.md)
   * [Padrões](biblioteca/padroes/README.md)
