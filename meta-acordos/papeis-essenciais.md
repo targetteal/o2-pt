@@ -40,7 +40,8 @@ O [Papel][papeis] do "Facilitador" possui a seguinte definição inicial:
 
 **Responsabilidades**:
 
-* Facilitar as [Reuniões de Círculo][interacoes]
+* Facilitar as [Reuniões de Círculo][reunioes-de-circulo]
+* Facilitar [Interações][interacoes] entre os [Membros do Círculo][membros-do-circulo] mediante solicitação
 
 ## 6.7 <span id="secretario">Secretário</span>
 
@@ -92,10 +93,12 @@ O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
 [tensoes]: organizacao.md#tensoes
 [estrutura]: estrutura-organizacional.md
 [circulos]: estrutura-organizacional.md#circulos
+[membros-do-circulo]: estrutura-organizacional.md#membros-do-circulo
 [papeis]: estrutura-organizacional.md#papeis
 [restricoes]: estrutura-organizacional.md#restricoes
 [membros]: estrutura-organizacional.md#membros-do-circulo
 [interacoes]: interacoes.md
+[reunioes-de-circulo]: interacoes.md#reunioes-de-circulo
 [elo-externo]: #elo-externo
 [elo-interno]: #elo-interno
 [facilitador]: #facilitador
