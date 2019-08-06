@@ -34,15 +34,15 @@
     * 3.3 Decisão por Aconselhamento
     * 3.4 Restringindo como Parceiros decidem
   * [4. Direitos e Deveres](meta-acordos/direitos-e-deveres.md)
-   * 4.1 Direito de recusar pedidos
-   * 4.2 Direito de agir para o Propósito
-   * 4.3 Direito de agir heroicamente
-   * 4.4 Direito de deixar Papéis
-   * 4.5 Dever da expressão
-   * 4.6 Dever da transparência
-   * 4.7 Dever da priorização
-   * 4.8 Dever do comparecimento
-   * 4.9 Dever da preservação
+    * 4.1 Direito de recusar pedidos
+    * 4.2 Direito de agir para o Propósito
+    * 4.3 Direito de agir heroicamente
+    * 4.4 Direito de deixar Papéis
+    * 4.5 Dever da expressão
+    * 4.6 Dever da transparência
+    * 4.7 Dever da priorização
+    * 4.8 Dever do comparecimento
+    * 4.9 Dever da preservação
   * [5. Interações](meta-acordos/reunioes-de-circulo.md)
     * 5.1 Revisar
     * 5.2 Sincronizar
