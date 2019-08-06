@@ -4,7 +4,7 @@
 * [Meta-Acordos da Organização Orgânica](meta-acordos/README.md)
   * [1. Organização](meta-acordos/organizacao.md)
   * [2. Estrutura Organizacional](meta-acordos/estrutura-organizacional.md)
-  * [3. Decisões](#meta-acordos/decisoes.md)
+  * [3. Decisões](meta-acordos/decisoes.md)
   * [4. Direitos e Deveres](meta-acordos/direitos-e-deveres.md)
   * [5. Interações](meta-acordos/reunioes-de-circulo.md)
   * [6. Papéis Essenciais](meta-acordos/papeis-essenciais.md)
