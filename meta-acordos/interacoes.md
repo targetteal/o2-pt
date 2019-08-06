@@ -14,10 +14,6 @@ Na interação "Sincronizar", dois ou mais [Parceiros][parceiros] buscam resolve
 
 > Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
-### 5.2.1 Facilitador na Sincronização
-
-Se presente na interação de Sincronizar, o [Facilitador][facilitador] do [Círculo][circulos] deve simplesmente permitir que cada [Parceiro][parceiros] que trouxe uma [Tensão][tensoes] engaje os outros nos [Papéis][papeis] que energizam e nos seus [Deveres](direitos-e-deveres.md), até que um caminho para resolver a [Tensão][tensoes] seja identificado.
-
 ## 5.3 <span id="adaptar">Adaptar</span>
 
 Na interação "Adaptar", [Membros do Círculo][membros-do-circulo] buscam resolver [Tensões][tensoes] que envolvam mudanças na [Estrutura Organizacional][estrutura-organizacional]. Cada [Membro do Círculo][membros-do-circulo] sentindo uma [Tensão][tensoes] pode apresentar ou construir uma [Proposta][propostas] envolvendo as [Operações de Adaptar][operacoes-de-adaptar] e deve utilizar a [Decisão Integrativa][decisao-integrativa] para processá-la.
@@ -55,7 +51,7 @@ Na interação "Cuidar", dois ou mais [Parceiros][parceiros] buscam tornar-se pr
 
 Uma "Reunião de Círculo" é um espaço onde os [Membros][membros-do-circulo] podem se encontrar regularmente para interagir e processar [Tensões][tensoes]. Reuniões de Círculo são agendadas pelo [Secretário][secretario] e facilitadas pelo [Facilitador][facilitador], dois [Papéis Essenciais][papeis-essenciais].
 
-## 5.6.1 <span id="somente-membros-podem-processar-tensoes">Somente Membros podem processar tensões</span>
+## 5.6.1 <span id="somente-membros-podem-processar-tensoes">Somente Membros podem processar Tensões</span>
 
 [Parceiros][parceiros] que não são [Membros do Círculo][membros-do-circulo] não podem processar [Tensões][tensoes] nas [Reuniões de Círculo][reunioes]. No entanto, [Parceiros][parceiros] podem ser convidadas por um [Membro do Círculo][membros-do-circulo] para ajudar no tratamento de uma [Tensão][tensoes] específica. Neste caso, a tensão a ser processada ainda será considerada do [Membro do Círculo][membros-do-circulo] e não do [Parceiro][parceiros] convidado.
 
@@ -67,7 +63,7 @@ As [Reuniões de Círculo][reunioes] começam com uma rodada de check-in, onde u
 
 Durante a [Reunião de Círculo][reunioes], um ou mais [Parceiros][parceiros] poderão apresentar [Propostas][propostas] que utilizem a [Decisão Integrativa][decisao-integrativa]. Caso um [Parceiro][parceiros] não esteja presente na reunião, a [Proposta][propostas] segue como se ele ou ela não tivesse qualquer [Objeção][objecoes].
 
-### 5.7 <span id="restricoes-de-facilitacao">Restrições de Facilitação</span>
+### 5.7 <span id="restricoes-de-facilitacao">Restrições de facilitação</span>
 
 Durante a facilitação das [Interações][interacoes], o [Facilitador][facilitador] pode fazer escolhas de que padrões utilizar e como conduzir cada momento. No entanto, o [Facilitador][facilitador] deve sempre manter as suas escolhas alinhadas com o objetivo de cada [Interação][interacoes] e as necessidades do [Círculo][circulos]. Um [Círculo][circulos] pode também adotar uma ou mais [Restrições][restricoes] que limitem como os [Interações][interacoes] são conduzidas. O [Facilitador][facilitador] deve respeitar estas limitações.
 
