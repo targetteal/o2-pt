@@ -13,7 +13,7 @@ Os [Parceiros][parceiros] realizam o trabalho para a [Organização][organizacao
 
 ## 2.1.1 <span id="energizacao">Energização</span>
 
-A "Energização" diz respeito a quais [Parceiros][parceiros] dedicam seu tempo e energia à expressão do [Propósito][papeis] de quais [Papéis][papeis].
+A "Energização" diz respeito a quais [Parceiros][parceiros] dedicam seu tempo e energia à expressão do [Propósito][papeis] de quais [Papéis][papeis]. A Energização não é um componente da [Estrutura Organizacional][estrutura-organizacional], embora esta possa determinar como e em que condições ela ocorre.
 
 ## 2.2 <span id="circulos">Círculos</span>
 
