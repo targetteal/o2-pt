@@ -12,9 +12,10 @@ Os "Parceiros" são pessoas que dedicam seu tempo e energia para ajudar a [Organ
 
 ## 1.3 <span id="tensoes">Tensões Criativas</span>
 
-Ao perseguir o [Propósito][papeis] de um ou mais [Papeis][papeis], os [Parceiros](organizacao.md#parceiros) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões" . As Tensões movimentam a [Organização][organizacao] em direção ao seu [Propósito Evolutivo][proposito-evolutivo].
+Ao perseguir o [Propósito][papeis] de um ou mais [Papeis][papeis], os [Parceiros][parceiros] podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões". As Tensões movimentam a [Organização][organizacao] em direção ao seu [Propósito Evolutivo][proposito-evolutivo].
 
 [organizacao]: #organizacao
+[parceiros]: #parceiros
 [papeis]: estrutura-organizacional.md#papeis
 [proposito-evolutivo]: organizacao.md#proposito-evolutivo
 [estrutura-organizacional]: estrutura-organizacional.md

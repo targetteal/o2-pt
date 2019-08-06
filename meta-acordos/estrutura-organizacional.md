@@ -4,16 +4,16 @@ Os [Parceiros][parceiros] poderão governar e definir uma camada de acordos que 
 
 ## 2.1 <span id="papeis">Papéis</span>
 
-Os [Parceiros][parceiros] executam o trabalho para a [Organização][organizacao] em um ou mais "Papéis" explicitamente definidos. Um Papel é composto de:
+Os [Parceiros][parceiros] realizam o trabalho para a [Organização][organizacao] em um ou mais "Papéis" explicitamente definidos. Um Papel é composto de:
 
 * Um nome descritivo;
 * Um "Propósito", que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
-* Zero ou mais "Responsabilidades", que são atividades contínuas que outros [Parceiros][parceiros] podem esperar que o Papel irá executar;
+* Zero ou mais "Responsabilidades", que são atividades contínuas que outros [Parceiros][parceiros] podem esperar que o Papel irá realizar;
 * Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](organizacao.md).
 
 ## 2.1.1 <span id="energizacao">Energização</span>
 
-A "Energização" diz respeito a quais [Parceiros][parceiros] dedicam seu tempo e energia à expressão do [Propósito][papeis] de quais [Papel][papeis].
+A "Energização" diz respeito a quais [Parceiros][parceiros] dedicam seu tempo e energia à expressão do [Propósito][papeis] de quais [Papéis][papeis].
 
 ## 2.2 <span id="circulos">Círculos</span>
 
@@ -53,13 +53,16 @@ Um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [P
 
 ## 2.6 Círculo Âncora
 
-O [Círculo][circulo] mais amplo definido na [Estrutura Organizacional][estrutura-organizacional] é chamado de "Círculo Âncora". O seu  [Propósito][papeis] é idêntico ao [Propósito Evolutivo][proposito-evolutivo] da [Organização][organizacao]. O Círculo Âncora controla todos os [Artefatos][papeis] da [Organização][organizacao] e pode delegá-los a [Círculos][circulos] internos.
+O [Círculo][circulos] mais amplo definido na [Estrutura Organizacional][estrutura-organizacional] é chamado de "Círculo Âncora". O seu  [Propósito][papeis] é idêntico ao [Propósito Evolutivo][proposito-evolutivo] da [Organização][organizacao]. O Círculo Âncora controla todos os [Artefatos][papeis] da [Organização][organizacao] e pode delegá-los a [Círculos][circulos] internos.
 
 ## 2.7 Alterações na Estrutura Organizacional
 
 Nenhum [Parceiro][parceiros] poderá alterar a [Estrutura Organizacional][estrutura-organizacional] de um [Círculo][circulos], a não ser que utilize a interação [Adaptar][adaptar] para isso. Ainda assim, o nome e o Propósito do [Círculo Âncora][circulo-ancora] ainda poderão ser alterados por qualquer mecanismo responsável por isso e que antecede estes [Meta-Acordos][meta-acordos].
 
 [meta-acordos]: README.md
+[circulo-ancora]: #circulo-ancora
+[organizacao]: organizacao.md
+[proposito-evolutivo]: organizacao.md#proposito-evolutivo
 [parceiros]: organizacao.md#parceiros
 [circulos]: #circulos
 [papeis]: #papeis
