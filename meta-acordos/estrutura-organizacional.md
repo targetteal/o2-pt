@@ -1,14 +1,14 @@
 # 2. <span id="estrutura-organizacional">Estrutura Organizacional</span>
 
-Os [Parceiros][parceiros] poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes]. Cada [Círculo][circulos] governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar][modo-adaptar].
+Os [Parceiros][parceiros] poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes].
 
 ## 2.1 <span id="papeis">Papéis</span>
 
-Os [Parceiros][parceiros] executam o trabalho em um ou mais "Papéis" explicitamente definidos na [Estrutura Organizacional][estrutura-organizacional]. Um Papel é definido por:
+Os [Parceiros][parceiros] realizam o trabalho para a [Organização][organizacao] em um ou mais "Papéis" explicitamente definidos. Um Papel é composto de:
 
 * Um nome descritivo;
 * Um "Propósito", que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
-* Zero ou mais "Responsabilidades", que são atividades contínuas que outros [Parceiros][parceiros] podem esperar que o Papel irá executar;
+* Zero ou mais "Responsabilidades", que são atividades contínuas que outros [Parceiros][parceiros] podem esperar que o Papel irá realizar;
 * Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização][organizacao].
 
 ## 2.1.1 <span id="energizacao">Energização</span>
@@ -17,7 +17,7 @@ A "Energização" diz respeito a quais [Parceiros][parceiros] dedicam seu tempo 
 
 ## 2.2 <span id="circulos">Círculos</span>
 
-Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. Quando um [Papel][papeis] é transformado em um Círculo, os [Parceiros][parceiros] que o energizam tornam-se o [Elo Externo][elo-externo] daquele [Círculo][circulos]. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
+Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] e [Círculos][circulos] menores, contidos dentro dele mesmo. Quando um [Papel][papeis] é transformado em um Círculo, os [Parceiros][parceiros] que o energizam tornam-se o [Elo Externo][elo-externo] daquele [Círculo][circulos]. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
 
 ### 2.2.1 <span id="circulos-nao-alteram-sua-definicao">Círculos não alteram sua definição</span>
 
