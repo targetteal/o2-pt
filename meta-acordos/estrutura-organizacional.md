@@ -21,11 +21,11 @@ Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Pa
 
 ### 2.2.1 <span id="circulos-nao-alteram-sua-definicao">Círculos não alteram sua definição</span>
 
-Um [Círculo][circulos] pode governar os seus próprios [Papéis][papeis] e [Restrições][restricoes], mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo][circulos] externo que contém este [Círculo][circulos].
+Um [Círculo][circulos] pode alterar os seus próprios [Papéis][papeis] e [Restrições][restricoes], mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo][circulos] externo que contém este [Círculo][circulos].
 
 ### 2.2.2 <span id="circulos-nao-estruturam-seus-circulos-internos">Círculos não estruturam seus Círculos internos</span>
 
-Um [Círculo][circulos] não pode alterar os [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes] de um [Círculo][circulos] interno diretamente. No entanto, um [Círculo][circulos] pode realizar algumas operações no [Modo Adaptar][modo-adaptar], como mover [Papéis][papeis] de si para os seus [Círculos][circulos] internos e vice-versa.
+Um [Círculo][circulos] não pode alterar os [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes] de um [Círculo][circulos] interno diretamente.
 
 ## 2.3 <span id="artefatos-do-circulo">Artefatos do Círculo</span>
 
@@ -33,7 +33,7 @@ Quando um [Círculo][circulos] possui [Artefatos][papeis] na sua definição, so
 
 ### 2.3.1 <span id="circulos-podem-delegar-artefatos">Círculos podem delegar Artefatos</span>
 
-Através do seu [Modo Adaptar][modo-adaptar], um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno.
+Um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
 
 ## 2.4 <span id="membros-do-circulo">Membros do Círculo</span>
 
