@@ -51,6 +51,10 @@ Através do seu [Modo Adaptar][modo-adaptar], um [Círculo][circulos] pode espec
 
 [Restrições][restricoes] não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade][papeis]. Ainda assim, uma [Restrição][restricoes] pode exigir ação, mas apenas para [Parceiros][parceiros] em que a [Restrição][restricoes] se aplica na condição específica que desencadeia ela.
 
+## 2.6 Círculo Âncora
+
+O [Círculo][circulos] mais amplo definido na [Estrutura Organizacional][estrutura-organizacional] é chamado de "Círculo Âncora". O seu  [Propósito][papeis] é idêntico ao [Propósito Evolutivo][proposito-evolutivo] da [Organização][organizacao]. O Círculo Âncora controla todos os [Artefatos][papeis] da [Organização][organizacao] e pode delegá-los a [Círculos][circulos] internos.
+
 <!-- Links -->
 [organizacao]: organizacao.md
 [parceiros]: organizacao.md#parceiros

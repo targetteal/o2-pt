@@ -4,15 +4,15 @@ A "Organização" é uma entidade criada para expressar um [Propósito Evolutivo
 
 ## 1.1 <span id="proposito-evolutivo">Propósito Evolutivo</span>
 
-A [Organização][organizacao] possui um "Propósito Evolutivo", que corresponde ao _potencial criativo mais profundo que pode expressar de forma sustentável no mundo_. O Propósito Evolutivo é o [Propósito][papeis] do [Círculo][circulos] mais amplo da [Estrutura Organizacional][estrutura-organizacional].
+A [Organização][organizacao] possui um "Propósito Evolutivo", que corresponde ao _potencial criativo mais profundo que pode expressar de forma sustentável no mundo_. O Propósito Evolutivo é definido em uma camada que antecede estes Meta-Acordos.
 
 ## 1.2 <span id="parceiros">Parceiros</span>
 
-A [Organização][organizacao] pode ter um ou mais "Parceiros", que são pessoas que energizam [Papéis][papeis] e expressam o [Propósito Evolutivo][proposito-evolutivo].
+Os "Parceiros" são pessoas que dedicam seu tempo e energia para ajudar a [Organização][organizacao] a expressar o seu [Propósito Evolutivo][proposito-evolutivo].
 
 ## 1.3 <span id="tensoes">Tensões</span>
 
-Ao perseguir o [Propósito][papeis] de um ou mais [Papeis][papeis], os [Parceiros][parceiros] podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões" . As Tensões movimentam a [Organização][organizacao] em direção ao seu [Propósito Evolutivo][proposito-evolutivo].
+Ao perseguir o [Propósito][papeis] de um ou mais [Papeis][papeis], os [Parceiros][parceiros] podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões". As Tensões movimentam a [Organização][organizacao] em direção ao seu [Propósito Evolutivo][proposito-evolutivo].
 
 <!-- Links -->
 [organizacao]: #organizacao
