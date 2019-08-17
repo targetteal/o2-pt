@@ -11,9 +11,13 @@ Os [Parceiros][parceiros] executam o trabalho em um ou mais "Papéis" explicitam
 * Zero ou mais "Responsabilidades", que são atividades contínuas que outros [Parceiros][parceiros] podem esperar que o Papel irá executar;
 * Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização][organizacao].
 
+## 2.1.1 <span id="energizacao">Energização</span>
+
+A "Energização" diz respeito a quais [Parceiros][parceiros] dedicam seu tempo e energia à expressão do [Propósito][papeis] de quais [Papéis][papeis]. A Energização não é um componente da [Estrutura Organizacional][estrutura-organizacional], embora esta possa determinar como e em que condições ela ocorre.
+
 ## 2.2 <span id="circulos">Círculos</span>
 
-Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. Quando um [Papel][papeis] é transformado em um Círculo, os [Parceiros][parceiros] que o desempenhavam tornam-se o [Elo Externo][elo-externo] daquele [Círculo][circulos]. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
+Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. Quando um [Papel][papeis] é transformado em um Círculo, os [Parceiros][parceiros] que o energizam tornam-se o [Elo Externo][elo-externo] daquele [Círculo][circulos]. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
 
 ### 2.2.1 <span id="circulos-nao-alteram-sua-definicao">Círculos não alteram sua definição</span>
 
@@ -35,9 +39,9 @@ Através do seu [Modo Adaptar][modo-adaptar], um [Círculo][circulos] pode espec
 
 [Parceiros][parceiros] são considerados "Membros" de um determinado [Círculo][circulos] quando atenderem pelo menos um dos critérios abaixo:
 
-* Desempenham pelo menos um [Papel][papeis] definido no [Círculo][circulos];
-* Desempenham pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
-* Desempenham o [Papel][papeis] de [Elo Externo][elo-externo] ou [Elo Interno][elo-interno] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
+* Energizam pelo menos um [Papel][papeis] definido no [Círculo][circulos];
+* Energizam pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
+* Energizam o [Papel][papeis] de [Elo Externo][elo-externo] ou [Elo Interno][elo-interno] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
 
 ## 2.5 <span id="restricoes">Restrições</span>
 

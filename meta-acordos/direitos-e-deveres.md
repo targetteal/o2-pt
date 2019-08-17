@@ -16,11 +16,11 @@ Ao perseguir o [Propósito][papeis] dos seus [Papéis][papeis], os [Parceiros][p
 
 ## 3.4 <span id="direito-de-deixar-papeis">Direito de deixar Papéis</span>
 
-[Parceiros][parceiros] podem a qualquer momento deixar [Papéis][papeis] que desempenham em um ou mais [Círculos][circulos], a não ser que tenham de outra forma acordado com o [Elo Externo][elo-externo] ou outro processo que atribua [Parceiros][parceiros] a [Papéis][papeis].
+[Parceiros][parceiros] podem a qualquer momento deixar [Papéis][papeis] que energizam em um ou mais [Círculos][circulos], a não ser que tenham de outra forma acordado com o [Elo Externo][elo-externo] ou outro processo de [Energização][energizacao].
 
 ## 3.5 <span id="dever-da-expressao">Dever da expressão</span>
 
-Cada [Parceiro][parceiros] é responsável por identificar suas [Tensões][tensoes] a partir de cada [Papel][papeis] que desempenha. Cada [Parceiro][parceiros] também é responsável por tentar resolver essas [Tensões][tensoes], engajando outros [Parceiros][parceiros] em seus [Deveres][direitos-e-deveres] ou propondo mudanças na [Estrutura Organizacional][estrutura-organizacional].
+Cada [Parceiro][parceiros] é responsável por identificar suas [Tensões][tensoes] a partir de cada [Papel][papeis] que energiza. Cada [Parceiro][parceiros] também é responsável por tentar resolver essas [Tensões][tensoes], engajando outros [Parceiros][parceiros] em seus [Deveres][direitos-e-deveres] ou propondo mudanças na [Estrutura Organizacional][estrutura-organizacional].
 
 ## 3.6 <span id="dever-da-transparencia">Dever da transparência</span>
 
@@ -36,7 +36,7 @@ Quando solicitado, [Parceiros][parceiros] devem priorizar comparecer às [Reuni�
 
 ## 3.9 <span id="dever-da-preservacao">Dever da preservação</span>
 
-Os [Parceiros][parceiros], a partir dos seus [Papéis][papeis], não devem impactar os [Artefatos][papeis] de outros [Papéis][papeis] contidos no mesmo [Círculo][circulos], sem antes obter uma permissão explícita do [Parceiro][parceiros] que desempenha o [Papel][papeis] correspondente. Os [Parceiros][parceiros] também devem observar as [Restrições][restricoes] definidas na [Estrutura Organizacional][estrutura-organizacional] e seguir as condições nelas estabelecidas.
+Os [Parceiros][parceiros], a partir dos seus [Papéis][papeis], não devem impactar os [Artefatos][papeis] de outros [Papéis][papeis] contidos no mesmo [Círculo][circulos], sem antes obter uma permissão explícita do [Parceiro][parceiros] que energiza o [Papel][papeis] correspondente. Os [Parceiros][parceiros] também devem observar as [Restrições][restricoes] definidas na [Estrutura Organizacional][estrutura-organizacional] e seguir as condições nelas estabelecidas.
 
 <!-- Links -->
 [meta-acordos]: README.md
@@ -47,6 +47,7 @@ Os [Parceiros][parceiros], a partir dos seus [Papéis][papeis], não devem impac
 [direitos-e-deveres]: direitos-e-deveres.md
 [dever-da-preservacao]: direitos-e-deveres.md\#dever-da-preservacao
 [estrutura-organizacional]: estrutura-organizacional.md
+[energizacao]: estrutura-organizacional.md#energizacao
 [circulos]: estrutura-organizacional.md#circulos
 [papeis]: estrutura-organizacional.md#papeis
 [restricoes]: estrutura-organizacional.md#restricoes
