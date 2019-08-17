@@ -4,11 +4,11 @@ Todos os [Parceiros][parceiros] podem usufruir dos "Direitos" apresentados abaix
 
 ## 3.1 <span id="direito-de-recusar-pedidos">Direito de recusar pedidos</span>
 
-[Parceiros][parceiros] podem recusar pedidos, caso não exista uma [Responsabilidade][papeis] explícita correspondente na descrição do [Papel][papeis] sendo solicitado. Entretanto, os [Parceiros][parceiros] devem sempre aceitar os pedidos que fizerem sentido para o [Propósito][papeis] de algum dos seus [Papéis][papeis], mesmo que nenhuma [Responsabilidade][papeis] explícita esteja registrada.
+[Parceiros][parceiros] podem recusar pedidos, caso não exista uma [Responsabilidade][papeis] explícita correspondente na descrição do [Papel][papeis] sendo solicitado. Entretanto, os [Parceiros][parceiros] devem sempre aceitar os pedidos que fizerem sentido para o [Propósito][papeis] de algum dos [Papéis][papeis] que energizam, mesmo que nenhuma [Responsabilidade][papeis] explícita esteja registrada.
 
 ## 3.2 <span id="direito-de-agir-para-o-proposito">Direito de agir para o Propósito</span>
 
-Ao perseguir o [Propósito][papeis] dos seus [Papéis][papeis], os [Parceiros][parceiros] estão sempre autorizados a tomar ação, a não ser que o [Dever da Preservação][dever-da-preservacao] os restrinja.
+Ao perseguir o [Propósito][papeis] dos [Papéis][papeis] que energizam, os [Parceiros][parceiros] estão sempre autorizados a tomar ação, a não ser que o [Dever da Preservação][dever-da-preservacao] os restrinja.
 
 ## 3.3 <span id="direito-de-agir-heroicamente">Direito de agir heroicamente</span>
 
@@ -24,7 +24,7 @@ Cada [Parceiro][parceiros] é responsável por identificar suas [Tensões][tenso
 
 ## 3.6 <span id="dever-da-transparencia">Dever da transparência</span>
 
-Quando solicitado, é esperado que os [Parceiros][parceiros] compartilhem todas as informações relevantes sobre o trabalho de seus [Papéis][papeis], incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros][parceiros] dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
+Quando solicitado, é esperado que os [Parceiros][parceiros] compartilhem todas as informações relevantes sobre o trabalho dos [Papéis][papeis] que energizam, incluindo cada projeto que estão trabalhando, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que os [Parceiros][parceiros] dêem estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
 ## 3.7 <span id="dever-da-priorizacao">Dever da priorização</span>
 
@@ -32,7 +32,7 @@ Os [Parceiros][parceiros] devem priorizar o seu trabalho em alinhamento com as p
 
 ## 3.8 <span id="dever-do-comparecimento">Dever do comparecimento</span>
 
-Quando solicitado, [Parceiros][parceiros] devem priorizar comparecer às [Reuniões de Círculo][reunioes-de-circulo] em detrimento de trabalhar nos seus [Papéis][papeis].
+Quando solicitado, [Parceiros][parceiros] devem priorizar comparecer às [Reuniões de Círculo][reunioes-de-circulo] em detrimento de trabalhar nos [Papéis][papeis] que energizam.
 
 ## 3.9 <span id="dever-da-preservacao">Dever da preservação</span>
 
