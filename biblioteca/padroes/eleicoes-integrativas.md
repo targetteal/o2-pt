@@ -18,7 +18,7 @@ Os Meta-Acordos da O2 esperam que Membros do Círculo sejam selecionados para os
 
 ## Solução
 
-No Modo Sincronizar da Reunião de Círculo, o facilitador ou o secretário podme conduzir uma eleição para os papéis Facilitador, Secretário e/ou Elo Interno utilizando as seguintes etapas. Para cada eleição, repetir:
+No Modo Sincronizar da Reunião de Círculo, o facilitador ou o secretário podem conduzir uma eleição para os papéis Facilitador, Secretário e/ou Elo Interno utilizando as seguintes etapas. Para cada eleição, repetir:
 
 1. **Apresentar Papel**: Facilitador atual descreve o papel que será eleito \(nome, propósito, responsabilidades e artefatos\) e especifica o tempo de vigência dessa eleição \(normalmente 3, 6 ou 12 meses\). Uma leitura e mais espaço para perguntas sobre o papel geralmente é o suficiente. O Facilitador também pode lembrar a todos quais são as pessoas elegíveis \(os membros do círculo\), considerando as restrições definidas nos Meta-Acordos.
 2. **Votação Inicial**: Participantes que são membros do círculo registram o seu voto em uma cédula, papel ou post-it. Isso pode ser feito descrevendo da seguinte forma: Eu, fulano, nomeio Ciclano para o papel de X. Não é permitido votar em múltiplas pessoas ou se abster, mas é possível votar em si mesmo se você for elegível. As restrições dos meta-acordos devem ser respeitadas \(por exemplo, a pessoa que desempenha o papel de Elo Externo no Círculo não pode ser eleita como Facilitador do mesmo Círculo\). A votação inicial é secreta e as nomeações só podem ser reveladas depois que todos votarem \(na próxima etapa\).
