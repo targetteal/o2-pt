@@ -82,33 +82,7 @@ Alterações na [Estrutura Organizacional][estrutura-organizacional] do [Círcul
 
 > Veja os **Padrões para Adaptar** na na [Biblioteca de Padrões][biblioteca]
 
-## 4.7 <span id="modo-selecionar">Modo Selecionar</span>
-
-O "Modo Selecionar" é um momento da [Reunião de Círculo][reunioes-de-circulo] cujo objetivo é _escolher_ [_Membros do Círculo_][membros-do-circulo] _para energizarem um ou mais dos 3_ [_Papéis Essenciais Eleitos_][papeis-essenciais-eleitos]. O [Facilitador][facilitador] deverá conduzir o Modo Selecionar através de uma eleição democrática, onde a maioria dos votos determinará o [Parceiro][parceiros] eleito.
-
-> Veja os **Padrões para Selecionar** na na [Biblioteca de Padrões][biblioteca]
-
-### 4.7.1 <span id="selecionar-imediatamente">Selecionar imediatamente</span>
-
-Qualquer [Membro do Círculo][membros-do-circulo] pode pedir para o [Facilitador][facilitador] pular para o [Modo Selecionar][modo-selecionar] e realizar uma eleição para um ou mais dos [Papéis Essenciais Eleitos][papeis-essenciais-eleitos]. Se este for o caso, o [Facilitador][facilitador] deve fazer isso imediatamente.
-
-### 4.7.2 <span id="selecionar-apenas-em-reunioes-de-circulo">Selecionar apenas em Reuniões de Círculo</span>
-
-O processo de eleição dos 3 [Papéis Essenciais Eleitos][papeis-essenciais-eleitos] deve ser feito apenas dentro de uma [Reunião de Círculo][reunioes-de-circulo].
-
-### 4.7.3 <span id="parceiros-elegiveis">Parceiros elegíveis</span>
-
-Todos e apenas os [Membros do Círculo][membros-do-circulo] são elegíveis para os 3 [Papéis Essenciais Eleitos][papeis-essenciais-eleitos], com a exceção do [Parceiro][parceiros] que energiza o [Papel][papeis] de [Elo Externo][elo-externo], que não é elegível como [Facilitador][facilitador] ou [Elo Interno][elo-interno] do mesmo [Círculo][circulos].
-
-### 4.7.4 <span id="desempate">Desempate</span>
-
-Em caso de empate na eleição de algum [Papel Essencial Eleito][papeis-essenciais-eleitos], o [Facilitador][facilitador] deverá escolher um dos seguintes critérios para desempatar:
-
-* O [Parceiro][parceiros] que nomeou a si mesmo, se apenas um dos candidatos empatados o fez;
-* O [Parceiro][parceiros] que já está energizando o [Papel][papeis], se apenas um dos candidatos empatados está;
-* Aleatoriamente escolher um dos candidatos empatados.
-
-## 4.8 <span id="modo-cuidar">Modo Cuidar</span>
+## 4.7 <span id="modo-cuidar">Modo Cuidar</span>
 
 O "Modo Cuidar" é um momento da [Reunião de Círculo][reunioes-de-circulo] cujo objetivo é _estimular a presença e a conexão entre os participantes_. Este [Modo][reunioes-de-circulo] não deve ser utilizado para fazer alterações na [Estrutura Organizacional][modo-cuidar] do [Círculo][circulos] ou engajar os [Parceiros][parceiros] nos seus [Papéis][papeis] e [Deveres][direitos-e-deveres].
 

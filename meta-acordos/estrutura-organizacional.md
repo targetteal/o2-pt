@@ -11,7 +11,7 @@ Os [Parceiros][parceiros] executam o trabalho em um ou mais "Papéis" explicitam
 * Zero ou mais "Responsabilidades", que são atividades contínuas que outros [Parceiros][parceiros] podem esperar que o Papel irá executar;
 * Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização][organizacao].
 
-## 2.1.1 <span id="energizacao">Energização</span>
+### 2.1.1 <span id="energizacao">Energização</span>
 
 A "Energização" diz respeito a quais [Parceiros][parceiros] dedicam seu tempo e energia à expressão do [Propósito][papeis] de quais [Papéis][papeis]. A Energização não é um componente da [Estrutura Organizacional][estrutura-organizacional], embora esta possa determinar como e em que condições ela ocorre.
 
