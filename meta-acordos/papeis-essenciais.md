@@ -12,7 +12,7 @@ Todos e apenas os [Membros do Círculo][membros-do-circulo] são elegíveis para
 
 ### 5.1.2 <span id="eleicoes">Eleições</span>
 
-O [Secretário][secretario] atual do [Círculo][circulos] é responsável por realizar "Eleições" regulares para os [Papéis Essenciais Eleitos][papeis-essenciais-eleitos]. O processo de Eleição deve considerar a maioria simples dos votos, sendo que cada [Membro do Círculo][membros-do-circulo] presente tem direito a apenas um voto. A [Estrutura Organizacional][estrutura-organizacional] pode definir em detalhes como e em que condições este processo deve ser facilitado.
+Qualquer [Membro do Círculo][membros-do-circulo] pode solicitar "Eleições" para os [Papéis Essenciais Eleitos][papeis-essenciais-eleitos]. O processo de Eleição deve considerar a maioria simples dos votos, sendo que cada [Membro do Círculo][membros-do-circulo] presente tem direito a apenas um voto. A [Estrutura Organizacional][estrutura-organizacional] pode definir em detalhes como e em que condições este processo deve ser facilitado.
 
 ## 5.2 <span id="alteracoes-nos-papeis-essenciais">Alterações nos Papéis Essenciais</span>
 
@@ -56,7 +56,6 @@ O [Papel][papeis] do "Secretário" possui a seguinte definição inicial:
 
 * Agendar [Reuniões de Círculo][reunioes-de-circulo] regulares
 * Registar as saídas das [Reuniões de Círculo][reunioes-de-circulo]
-* Realizar [Eleições][eleicoes] regulares para os [Papeis Essenciais Eleitos][papeis-essenciais-eleitos] do [Círculo][circulos]
 * Interpretar os [Meta-Acordos][meta-acordos] e a [Estrutura Organizacional][estrutura-organizacional] mediante solicitações
 
 **Artefatos**:

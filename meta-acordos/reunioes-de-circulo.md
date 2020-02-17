@@ -22,6 +22,10 @@ Depois que a lista de [Tensões][tensoes] for construída, o [Facilitador][facil
 
 Durante a facilitação dos [Modos][reunioes-de-circulo], o [Facilitador][facilitador] pode fazer escolhas de que padrões utilizar e como conduzir cada momento. No entanto, o [Facilitador][facilitador] deve sempre manter as suas escolhas alinhadas com o objetivo do [Modo][reunioes-de-circulo] e as necessidades do [Círculo][circulos]. Um [Círculo][circulos] pode também adotar uma ou mais [Restrições][restricoes] que limitem como os [Modos][reunioes-de-circulo] são conduzidos. O [Facilitador][facilitador] deve respeitar estas limitações.
 
+### 4.3.1 <span id="eleicoes-sao-prioritarias">Eleições são prioritárias</span>
+
+Se algum [Membro do Círculo][membros-do-circulo] pedir a [Eleição][eleicoes] de algum dos [Papéis Essenciais Eleitos][papeis-essenciais-eleitos], o [Facilitador][facilitador] deve priorizar essa [Tensão][tensoes] tratando-a antes de qualquer outra.
+
 ## 4.4 <span id="modo-revisar">Modo Revisar</span>
 
 O "Modo Revisar" é um momento da [Reunião de Círculo][reunioes-de-circulo] cujo objetivo é _dar transparência ao trabalho realizado pelo_ [_Círculo_][circulos]. Cabe ao [Facilitador][facilitador] decidir como especificamente o [Modo Revisar][modo-revisar] é conduzido, exceto se uma [Restrição][restricoes] determinar o contrário.
@@ -111,6 +115,7 @@ O "Modo Cuidar" é um momento da [Reunião de Círculo][reunioes-de-circulo] cuj
 [restricoes]: estrutura-organizacional.md#restricoes
 [modo-adaptar]: reunioes-de-circulo.md#modo-adaptar
 [papeis-essenciais]: papeis-essenciais.md
+[eleicoes]: papeis-essenciais.md#eleicoes
 [papeis-essenciais-eleitos]: papeis-essenciais.md#papeis-essenciais-eleitos
 [elo-externo]: papeis-essenciais.md#elo-externo
 [elo-interno]: papeis-essenciais.md#elo-interno
