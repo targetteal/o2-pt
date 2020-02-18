@@ -14,7 +14,7 @@
 * Espelho do Proponente
 * Consentimento Rápido
 
-## Padrões para Selecionar
+## Padrões para Eleições
 
 * [Eleições Integrativas](eleicoes-integrativas.md)
 * Polo Norte
