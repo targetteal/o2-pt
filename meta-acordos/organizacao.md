@@ -8,7 +8,7 @@ A [Organização][organizacao] possui um "Propósito Evolutivo", que corresponde
 
 ## 1.2 <span id="parceiros">Parceiros</span>
 
-A [Organização][organizacao] pode ter um ou mais "Parceiros", que são pessoas que energizam [Papéis][papeis] e expressam o [Propósito Evolutivo][proposito-evolutivo].
+Os "Parceiros" são pessoas que dedicam seu tempo e energia para ajudar a [Organização][organizacao] a expressar o seu [Propósito Evolutivo][proposito-evolutivo].
 
 ## 1.3 <span id="tensoes">Tensões</span>
 
