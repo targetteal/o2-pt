@@ -10,9 +10,9 @@ A [Organização][organizacao] possui um "Propósito Evolutivo", que corresponde
 
 Os "Parceiros" são pessoas que dedicam seu tempo e energia para ajudar a [Organização][organizacao] a expressar o seu [Propósito Evolutivo][proposito-evolutivo].
 
-## 1.3 <span id="tensoes">Tensões</span>
+## 1.3 <span id="tensoes">Tensões Criativas</span>
 
-Ao perseguir o [Propósito][papeis] de um ou mais [Papeis][papeis], os [Parceiros][parceiros] podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões" . As Tensões movimentam a [Organização][organizacao] em direção ao seu [Propósito Evolutivo][proposito-evolutivo].
+Enquanto trabalham para a [Organização][organizacao], os [Parceiros][parceiros] podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões". As Tensões movimentam a [Organização][organizacao] em direção ao seu [Propósito Evolutivo][proposito-evolutivo].
 
 <!-- Links -->
 [organizacao]: #organizacao
