@@ -36,27 +36,23 @@ As pessoas precisam de espaço para apresentar como estão se sentindo na relaç
 
 ## Solução
 
-O Fórum é uma tecnologia que pode ser usada durante o Modo Cuidar.
+O Fórum é uma tecnologia que pode ser usada durante o [Modo Cuidar][cuidar].
 
-OBS: É importante que haja um Facilitador e um Co-Facilitador \(para ser um apoio e cuidar do círculo quando o Facilitador vai ao centro\).
+OBS: É importante que haja um Facilitador e um Co-Facilitador \(para ser um apoio e cuidar do grupo quando o Facilitador vai ao centro\).
 
 Propor alguns acordos para o espaço do Fórum, na linha de:
 
-Quem entra no centro, fala em primeira pessoa. "Sempre que falo, expresso de como algo é pra mim, meus sentimentos e necessidades. Mesmo que eu cite outras pessoas, estou falando como a situação é vivida por mim."
-
-Quem está no círculo, exercita o “suspender os julgamentos” para ouvir com empatia o que o outro traz; muitas vezes percebo meus julgamentos, mas deixo-os de lado para estar presente para o outro que está no centro. O que cada um fala é verdadeiro e importante. Nesse momento só há a escuta, é importante que se evite falas e gestos.
-
-A Facilitação está presente para intervir minimamente, cuidando mais dos aspectos de tempo, clareza da proposta, lembrança dos acordos. O Facilitador pode apoiar a pessoa que está no centro, com perguntas de checagem para buscar mais clareza ou lembrando sobre aspectos importantes como falar a partir dela. É importante que a pessoa se mantenha no território da autoresponsabilização e saia do centro bem.
-
-Confidencialidade do que é tratado no grupo.
+- Quem entra no centro, fala em primeira pessoa. "Sempre que falo, expresso de como algo é pra mim, meus sentimentos e necessidades. Mesmo que eu cite outras pessoas, estou falando como a situação é vivida por mim."
+- Quem está no círculo, exercita o “suspender os julgamentos” para ouvir com empatia o que o outro traz; muitas vezes percebo meus julgamentos, mas deixo-os de lado para estar presente para o outro que está no centro. O que cada um fala é verdadeiro e importante. Nesse momento só há a escuta, é importante que se evite falas e gestos.
+- A Facilitação está presente para intervir minimamente, cuidando mais dos aspectos de tempo, clareza da proposta, lembrança dos acordos. O Facilitador pode apoiar a pessoa que está no centro, com perguntas de checagem para buscar mais clareza ou lembrando sobre aspectos importantes como falar a partir dela. É importante que a pessoa se mantenha no território da autoresponsabilização e saia do centro bem.
+- Confidencialidade do que é tratado no grupo.
 
 Se uma pessoa quiser conversar com a outra sobre algum ponto tratado, sugere-se que ela faça uma checagem interna sobre o que a move para essa conversa e se ela irá agregar para quem trouxe o ponto ao centro \(ou ela só quer se justificar, quer concordar ou discordar, dar conselhos etc\). Se for algo que envolve sentimentos profundos ou assuntos polêmicos, sugere-se uma espera de 24 horas \(é a prática usual\), para que haja tempo suficiente para o assunto ser decantado pela pessoa que foi ao centro.
 
 O facilitador explica a dinâmica e faz uma introdução ritualística para abertura do espaço \(o espaço está aberto para …\):
 
-Fórum de 1 min: o círculo estará aberto para que cada um, se tiver vontade, entre e traga como está se sentindo. Quando der 1 minuto, o Facilitador faz um som \(sono, por ex.\) avisando do tempo para que a pessoa tenha consciência e possa seguir fechando sua fala. É especialmente útil para check-in do CUIDAR ou quando grandes decisões serão tomadas.
-
-Fórum Temático: um tema é proposto pelo Facilitador - uma palavra, uma pergunta - e há o convite para que as pessoas entrem e se expressem a respeito. Não há demarcação de tempo; se o grupo for grande pode-se combinar de ter um aviso após xx min como referência. Fórum Zegg: o Fórum Zegg propriamente dito segue a mesma estrutura, porém não são colocados contornos de tempo ou assunto. Abre-se o centro para a pessoa que sente necessidade falar ou se expressar entre e traga seu ponto.
+- **Fórum de 1 min**: o círculo estará aberto para que cada um, se tiver vontade, entre e traga como está se sentindo. Quando der 1 minuto, o Facilitador faz um som \(sono, por ex.\) avisando do tempo para que a pessoa tenha consciência e possa seguir fechando sua fala. É especialmente útil para check-in do CUIDAR ou quando grandes decisões serão tomadas.
+- **Fórum Temático**: um tema é proposto pelo Facilitador - uma palavra, uma pergunta - e há o convite para que as pessoas entrem e se expressem a respeito. Não há demarcação de tempo; se o grupo for grande pode-se combinar de ter um aviso após xx min como referência. Fórum Zegg: o Fórum Zegg propriamente dito segue a mesma estrutura, porém não são colocados contornos de tempo ou assunto. Abre-se o centro para a pessoa que sente necessidade falar ou se expressar entre e traga seu ponto.
 
 Esse modelo pode demandar uma facilitação mais estruturada, principalmente se a pessoa tem sentimentos vivos e não muita prática de expressão a partir de como isso é pra ela. É importante que haja Facilitadores experientes conduzindo esses Fóruns ou, pelo menos, as primeiros práticas onde um número maior de intervenções pode ser necessário. O Fórum é um momento de reflexão e de trazer percepções para consciência e o Facilitador ajuda para que não se entre em processos de vítima, algoz, divagações externas etc. OBS: No Fórum Zegg há ainda a opção de pessoas do círculo darem “espelhos” - trazerem falas, expressões ou inquietações sobre o que viu sendo expresso pela pessoa que foi ao centro; para esse caso é muito importante que já exista um campo de confiança e auto-responsabilização no grupo e que as pessoas tenham clareza do que é dar um espelho \(cuidando para que se perceba se houve identificação, se a intenção é dar conselhos etc\). O Facilitador também facilita o espelho.
 
@@ -76,3 +72,4 @@ Esse padrão tem inspiração no trabalho do Zegg Fórum.
 
 Já foi usado em times diversos, em comunidades, organizações privadas e sem fins-lucrativos. É uma prática que acontece há mais 40 anos em comunidades e ecovilas, e que está sendo introduzida e adaptada para outros contextos.
 
+[cuidar]: ../../meta-acordos/reunioes-de-circulo.md#modo-cuidar

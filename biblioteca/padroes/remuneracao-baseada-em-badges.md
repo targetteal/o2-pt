@@ -2,21 +2,21 @@
 
 ## Contexto
 
-Uma organização de porte médio ou grande que faz uso de uma estrutura baseada em papéis e que busca formas mais claras e justas de reconhecer financeiramente as habilidade individuais de seus parceiros. Além de dar clareza sobre qual mecanismo os parceiros da organização devem usar para solicitar aumentos salariais.
+Uma [Organizacao][organizacao] de porte médio ou grande que faz uso de uma estrutura baseada em [Papéis][papeis] e que busca formas mais claras e justas de reconhecer financeiramente as habilidade individuais de seus [Parceiros][parceiros].
 
 ## Forças
 
-Quando citamos o termo: "Remuneração" em algumas organizações é como se você estivesse violando uma lei, sem falar que é algo privado a um seleto grupo de pessoas que geralmente é formado por diretores ou gestores e que detêm o poder para decidir quanto um parceiro da organização deve ganhar. Muitas vezes os mecanismo para essa tomada de decisão não são transparentes e quando "são" não conseguem se manter atualizados e nem lidar com estrutura que não faz uso de cargos. As habilidades e talentos individuais que os parceiros usam de forma recorrente no seu grupo de trabalho precisam ser reconhecidas e o mecanismo para que isso aconteça precisa ser o mais claro e objetivo possível.
+Na maior parte das organizações, não há clareza sobre como decisões de remuneração são tomadas ou que critérios são considerados. As habilidades e talentos individuais que os [Parceiros][parceiros] usam de forma recorrente no seu grupo de trabalho precisam ser reconhecidas e o mecanismo para que isso aconteça precisa ser o mais claro e objetivo possível.
 
 ## Problema
 
-Não existe um sistema de compensação transparente, justo e com poder de decisão descentralizado. Pessoas com habilidades e talentos diferentes precisam ser recompensadas de acordo, sem usarmos a estrutura de papéis, pois ela muda com muita frequência e não pode ficar engessada.
+Não existe um sistema de remuneração transparente, justo e com poder de decisão descentralizado na [Organização][organizacao]. Pessoas com habilidades e talentos diferentes precisam ser recompensadas de acordo, sem relacionarmos diretamente com a estrutura de [Papéis][papeis], pois ela muda com muita frequência.
 
 ## Solução
 
-A solução aqui proposta define como a organização cria e modifica um sistema de compensação baseado em uma biblioteca de badges.
+A solução aqui proposta define como a [Organização][organizacao] cria e modifica um sistema de remuneração baseado em uma biblioteca de badges.
 
-O Primeiro elemento desse padrão é a criação de um papel responsável pela biblioteca de badges.
+O primeiro elemento desse padrão é a criação de um papel responsável pela biblioteca de badges.
 
 > **Papel**: Bibliotecário de badges
 >
@@ -58,7 +58,7 @@ Quando uma nova badge é criada ou até mesmo no início desse padrão é natura
 
 ### Para ligar Badges a níveis de remuneração
 
-Agora é hora de entender como a organização define as suas camadas de remuneração e como as badges podem ser ligadas a esta camada.
+Agora é hora de entender como a [Organização][organizacao] define as suas camadas de remuneração e como as badges podem ser ligadas a estas camadas.
 
 > **Papel**: Arquiteto da Remuneração
 >
@@ -89,7 +89,7 @@ Através do processo definido acima, a valorização ligada a qualquer conjunto 
 
 ### Para administrar a remuneração
 
-Agora vamos criar um papel que dá transparência a todos na organização sobre quem detém qual badge e deixar claro o valor da remuneração atrelada aquela badge \(principais badges relacionadas a cada pessoa.\)
+Agora vamos criar um papel que dá transparência a todos na [Organização][organizacao] sobre quem detém qual badge e deixar claro o valor da remuneração atrelada aquela badge \(principais badges relacionadas a cada pessoa.\)
 
 > **Papel**: Administrador da Remuneração
 >
@@ -105,7 +105,7 @@ Agora vamos criar um papel que dá transparência a todos na organização sobre
 > * Revisar evidências enviadas por pessoas que outra pessoa ganhou ou perdeu uma Badge, dados os processos ou mecanismos definidos pela Badge, e atualizar os registros de Badges e remuneração se evidências claras e convincentes indicarem que uma Badge foi adquirida ou perdida
 > * Rastrear gatilhos baseados em tempo ou em eventos que expirem Badges, e, mediante uma expiração, notificar as partes afetadas e atualizar os registros relevantes
 
-O Objetivo desse padrão é não só cuidar de parceiros que já desempenham atividades dentro da organização mas também cuidar de novos parceiros que estão entrando na organização, para que desde o início se tenha uma remuneração justa e transparente.
+O Objetivo desse padrão é não só cuidar de [Parceiros][parceiros] que já desempenham atividades dentro da [Organização][organizacao] mas também cuidar de novos [Parceiros][parceiros] que estão entrando na organização, para que desde o início se tenha uma remuneração justa e transparente.
 
 > **Restrição**: Transição para a Remuneração Baseada em Badges
 >
@@ -126,20 +126,24 @@ Um caso prático para compensar engenheiros de desenvolvimento de software:
 
 **Possíveis níveis de remuneração**:
 
-* Frontend + Backend = 12k
-* Backend + Android = 10k
-* Frontend + Backend + Android = 14k
-* Frontend + Backend + Android + iOS = 15k
-* Backend + iOS = 10k
+* Frontend + Backend = V
+* Backend + Android = W
+* Frontend + Backend + Android = X
+* Frontend + Backend + Android + iOS = Y
+* Backend + iOS = Z
 
 ### Observações sobre a Legislação Trabalhista
 
-Como a lei não permite a redução dos salários, imagino que mesmo que alguém perca uma Badge, o salário real se mantém, mas o “salário virtual” reduz. Sendo assim, a pessoa precisa recuperar essa lacuna perdida ganhando ainda mais badges para aumentar o salário;
+Em alguns países, a legislação trabalhista não permite a redução dos salários. Neste cenário, mesmo que alguém perca uma Badge, o salário real se mantém, mas o “salário virtual” reduz. Sendo assim, a pessoa precisa recuperar essa lacuna perdida ganhando ainda mais badges para aumentar a sua remuneração.
 
 ## Contexto Resultante
 
-Após a adoção desse padrão ou variações dele, a organização começa a construir sua biblioteca de badges e o processo decisório pode ser simplificado ou não, dependendo das tensões sentidas. Ainda pode existir a necessidade de tratar da remuneração variável, talvez com Merit Money or Money Pile.
+Após a adoção desse padrão ou variações dele, a [Organização][organizacao] começa a construir sua biblioteca de badges e o processo decisório pode ser simplificado ou não, dependendo das tensões sentidas. Ainda pode existir a necessidade de tratar da remuneração variável, talvez com Merit Money or Money Pile.
 
 ## Fundamentação
 
 Este padrão foi baseado no [“Badge-based Compensation”](https://www.holacracy.org/badge-based-compensation-app/), descrito por Brian Robertson como uma possível solução de como tratar remuneração na Holacracia. O padrão foi então adaptado para uso na Organização Orgânica.
+
+[organizacao]: ../../meta-acordos/organizacao.md
+[parceiros]: ../../meta-acordos/organizacao.md#parceiros
+[papeis]: ../../meta-acordos/estrutura-organizacional.md#papeis

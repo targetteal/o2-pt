@@ -34,11 +34,17 @@ Imagine que um [Facilitador][facilitador] está participante de uma [Reunião de
 
 Durante o [Modo Sincronizar][modo-sincronizar], Eloá traz uma [Tensão][tensoes] relacionada a uma responsabilidade de um [Papel][papeis] que ela desempenha, chamado Mestre do Instagram.
 
-> Eloá: Gostaria de compartilhar uma estratégia que estou utilizando no Instagram e também saber a opinião de vocês sobre isso. Desde semana passada eu reduzi o número de postagens por semana, porque percebi que o engajamento é o mesmo [...]. Eu queria saber como vocês vêem isso.
-> Roberto: Se você já fez o experimento e os resultados foram esses, acho que não tem porque fazer diferente.
-> Kelly: Eu acho que não faz sentido porque precisamos manter os nossos usuários com conteúdo. Não é só uma questão de métricas [...].
-> Eloá: Entendo Kelly, mas também poderíamos focar a nossa energia em outras coisas mais importantes [...].
-> [A conversa continua se desenrolando por mais alguns minutos]. No final Eloá diz que está satisfeita.
+> **Eloá**: Gostaria de compartilhar uma estratégia que estou utilizando no Instagram e também saber a opinião de vocês sobre isso. Desde semana passada eu reduzi o número de postagens por semana, porque percebi que o engajamento é o mesmo [...]. Eu queria saber como vocês vêem isso.
+>
+> **Roberto**: Se você já fez o experimento e os resultados foram esses, acho que não tem porque fazer diferente.
+>
+> **Kelly**: Eu acho que não faz sentido porque precisamos manter os nossos usuários com conteúdo. Não é só uma questão de métricas [...].
+>
+> **Eloá**: Entendo Kelly, mas também poderíamos focar a nossa energia em outras coisas mais importantes [...].
+>
+> [A conversa continua se desenrolando por mais alguns minutos].
+>
+> No final Eloá diz que está satisfeita.
 
 O [Facilitador][facilitador] observa atentamente e resolve utilizar o "Espelho das Interações", compartilhando então o que observou:
 
