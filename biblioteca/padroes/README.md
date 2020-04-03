@@ -1,43 +1,25 @@
 # Padrões
 
-## Padrões para Revisar
+## Mapeados
 
-* [Revisão Tática](revisao-tatica.md)
-* Revisão do Quadro
-
-## Padrões para Sincronizar
+- [Revisão Tática](revisao-tatica.md)
+- [Revisão Rápida](revisao-rapida.md)
 - [Perguntas Poderosas](#perguntas-poderosas.md)
 - [Espelho de Interações](#espelho-de-interacoes.md)
-
-## Padrões para Adaptar
-
-* Espelho do Proponente
-* Consentimento Rápido
-
-## Padrões para Eleições
-
 * [Eleições Integrativas](eleicoes-integrativas.md)
-* Polo Norte
-
-## Padrões para Cuidar
-
+* [Polo Norte](polo-norte)
 * [Fórum Light](forum-light.md)
 * [Fórum Zegg](forum-zegg.md)
-* Limpar o Ar
-
-## Padrões para Remuneração
-
 * [Círculo de Parceiros](circulo-de-parceiros.md)
 * [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
-
-## Padrões para Adoção
-
 * [Descrição de Papéis](descricao-de-papeis.md)
-
-## Padrões para Feedback
-
 * [Sessão de Feedback em Círculo](sessao-de-feedback-em-circulo.md)
 
-## Padrões para Estratégia
+## Ainda não mapeados
 
-## Padrões para Associação
+- Espelho do Proponente
+- Consentimento Rápido
+- Limpar o ar
+- Fala livre (cuidar)
+- Imita Chefe
+- Autoenergização

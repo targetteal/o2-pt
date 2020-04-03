@@ -1,6 +1,6 @@
 # 2. <span id="estrutura-organizacional">Estrutura Organizacional</span>
 
-Os [Parceiros][parceiros] poderão governar e definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes]. Cada [Círculo][circulos] governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar][modo-adaptar].
+Os [Parceiros][parceiros] podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes]. Cada [Círculo][circulos] governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar][modo-adaptar].
 
 ## 2.1 <span id="papeis">Papéis</span>
 

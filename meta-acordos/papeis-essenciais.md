@@ -30,7 +30,11 @@ As alterações realizadas nos [Papeis Essenciais][papeis-essenciais] de um [Cí
 
 ## 4.3 <span id="energizacao-de-papeis-definidos">Energização de Papéis Definidos</span>
 
-O [Elo Externo][elo-externo] é responsável por convidar [Parceiros][parceiros] para energizarem os [Papéis][papeis] definidos no [Círculo][circulos], com exceção dos [Papéis Essenciais][papeis-essenciais]. O [Elo Externo][elo-externo] pode convidar qualquer [Parceiro][parceiros], a não ser que uma [Restrição][restricoes] diga o contrário. Uma [Restrição][restricoes] também pode modificar inteiramente este mecanismo, inclusive removendo a [Responsabilidade][papeis] e o [Artefato][papeis] correspondente do [Elo Externo][elo-externo].
+O [Elo Externo][elo-externo] é responsável por convidar [Parceiros][parceiros] para energizarem os [Papéis][papeis] definidos no [Círculo][circulos], com exceção dos [Papéis Essenciais][papeis-essenciais]. O [Elo Externo][elo-externo] pode convidar qualquer [Parceiro][parceiros], a não ser que uma [Restrição][restricoes] diga o contrário. Uma [Restrição][restricoes] também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade][papeis] e o [Artefato][papeis] correspondente do [Elo Externo][elo-externo].
+
+### 4.3.1 <span id="">Foco</span>
+
+O processo de [Energização][energizacao] também pode definir um "Foco" para o [Parceiro][parceiros] que energiza um [Papel][papeis]. Este Foco é uma área de atuação em que o [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis] do [Papel][papeis] se aplicam somente.  
 
 ## 4.4 <span id="energizacao-do-elo-externo">Energização do Elo Externo</span>
 
@@ -55,7 +59,7 @@ O [Papel][papeis] do "Secretário" possui a seguinte definição inicial:
 **Responsabilidades**:
 
 * Agendar [Reuniões de Círculo][reunioes-de-circulo] regulares
-* Registar as saídas das [Reuniões de Círculo][reunioes-de-circulo]
+* Registar as pedidos e propostas feitos nas [Reuniões de Círculo][reunioes-de-circulo]
 * Interpretar os [Meta-Acordos][meta-acordos] e a [Estrutura Organizacional][estrutura-organizacional] mediante solicitações
 
 **Artefatos**:
@@ -104,6 +108,7 @@ O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
 [membros-do-circulo]: estrutura-organizacional.md#membros-do-circulo
 [papeis]: estrutura-organizacional.md#papeis
 [restricoes]: estrutura-organizacional.md#restricoes
+[energizacao]: estrutura-organizacional.md#energizacao
 
 [reunioes-de-circulo]: reunioes-de-circulo.md
 
