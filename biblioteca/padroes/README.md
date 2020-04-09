@@ -2,16 +2,16 @@
 
 ## Mapeados
 
-- [Revisão Tática](revisao-tatica.md)
-- [Revisão Rápida](revisao-rapida.md)
-- [Perguntas Poderosas](perguntas-poderosas.md)
-- [Espelho de Interações](espelho-de-interacoes.md)
+- [Círculo de Parceiros](circulo-de-parceiros.md)
+- [Descrição de Papéis](descricao-de-papeis.md)
 - [Eleições Integrativas](eleicoes-integrativas.md)
+- [Espelho de Interações](espelho-de-interacoes.md)
 - [Fórum Light](forum-light.md)
 - [Fórum Zegg](forum-zegg.md)
-- [Círculo de Parceiros](circulo-de-parceiros.md)
+- [Perguntas Poderosas](perguntas-poderosas.md)
 - [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
-- [Descrição de Papéis](descricao-de-papeis.md)
+- [Revisão Rápida](revisao-rapida.md)
+- [Revisão Tática](revisao-tatica.md)
 - [Sessão de Feedback em Círculo](sessao-de-feedback-em-circulo.md)
 
 ## Ainda não mapeados
