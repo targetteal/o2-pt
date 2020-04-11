@@ -93,7 +93,7 @@ O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
 
 **Responsabilidades**:
 
-* Buscar compreender [Tensões][tensoes] trazidas pelos [Membros do Círculo][membros-do-circulo] e processá-las quando apropriado no [Círculo][circulos] externo
+* Buscar compreender [Tensões][tensoes] trazidas pelos [Membros do Círculo][membros-do-circulo] e tratá-las quando apropriado no [Círculo][circulos] externo
 * Fornecer visibilidade sobre a saúde do [Círculo][circulos] para o [Círculo][circulos] externo
 
 <!-- Links -->

@@ -1,6 +1,6 @@
 # 3. <span id="interacoes">Interações</span>
 
-Para perceber e processar [Tensões][tensoes], os [Parceiros][parceiros] podem fazer uso de algumas "Interações" definidas nesta seção.
+Para perceber e tratar [Tensões][tensoes], os [Parceiros][parceiros] podem fazer uso de algumas "Interações" definidas nesta seção.
 
 ## 3.1 <span id="revisar">Revisar</span>
 
@@ -10,13 +10,13 @@ Na interação "Revisar", dois ou mais [Parceiros][parceiros] se reúnem para da
 
 ## 3.2 <span id="sincronizar">Sincronizar</span>
 
-Na interação "Sincronizar", dois ou mais [Parceiros][parceiros] buscam processar [Tensões][tensoes] engajando uns aos outros nos [Papéis][papeis] que energizam. A interação Sincronizar acontece a partir da [Estrutura Organizacional][estrutura-organizacional] atual e normalmente envolve pedidos e compartilhamento de informações.
+Na interação "Sincronizar", dois ou mais [Parceiros][parceiros] buscam tratar [Tensões][tensoes] engajando uns aos outros nos [Papéis][papeis] que energizam. A interação Sincronizar acontece a partir da [Estrutura Organizacional][estrutura-organizacional] atual e normalmente envolve pedidos e compartilhamento de informações.
 
 > Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
 ## 3.3 <span id="adaptar">Adaptar</span>
 
-Na interação "Adaptar", [Membros do Círculo][membros-do-circulo] buscam resolver [Tensões][tensoes] que envolvam mudanças na [Estrutura Organizacional][estrutura-organizacional]. Cada [Membro do Círculo][membros-do-circulo] sentindo uma [Tensão][tensoes] pode apresentar ou construir uma [Proposta][propostas] envolvendo as [Operações de Adaptar][operacoes-de-adaptar] e deve utilizar a [Decisão Integrativa de Círculo][decisao-integrativa-de-circulo] para processá-la.
+Na interação "Adaptar", [Membros do Círculo][membros-do-circulo] buscam resolver [Tensões][tensoes] que envolvam mudanças na [Estrutura Organizacional][estrutura-organizacional]. Cada [Membro do Círculo][membros-do-circulo] sentindo uma [Tensão][tensoes] pode apresentar ou construir uma [Proposta][propostas] envolvendo as [Operações de Adaptar][operacoes-de-adaptar] e deve utilizar a [Decisão Integrativa de Círculo][decisao-integrativa-de-circulo] para tratá-la.
 
 > Veja os **Padrões para Adaptar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
@@ -39,11 +39,11 @@ Na interação "Cuidar", dois ou mais [Parceiros][parceiros] buscam tornar-se pr
 
 ## 3.5 <span id="reuniao-de-circulo">Reunião de Círculo</span>
 
-Uma "Reunião de Círculo" é um espaço onde os [Membros][membros-do-circulo] podem se encontrar regularmente para interagir, perceber e processar [Tensões][tensoes]. Reuniões de Círculo são agendadas pelo [Secretário][secretario] e facilitadas pelo [Facilitador][facilitador], dois [Papéis Essenciais][papeis-essenciais].
+Uma "Reunião de Círculo" é um espaço onde os [Membros][membros-do-circulo] podem se encontrar regularmente para interagir, perceber e tratar [Tensões][tensoes]. Reuniões de Círculo são agendadas pelo [Secretário][secretario] e facilitadas pelo [Facilitador][facilitador], dois [Papéis Essenciais][papeis-essenciais].
 
-### 3.5.1 <span id="somente-membros-podem-processar-tensoes">Somente Membros podem processar Tensões</span>
+### 3.5.1 <span id="somente-membros-podem-tratar-tensoes">Somente Membros podem tratar Tensões</span>
 
-[Parceiros][parceiros] que não são [Membros do Círculo][membros-do-circulo] não podem processar [Tensões][tensoes] nas [Reuniões de Círculo][reunioes]. Ainda assim, outros [Parceiros][parceiros] podem ser convidados por um [Membro do Círculo][membros-do-circulo] para ajudar no processamento de uma [Tensão][tensoes] específica. Neste caso, a tensão a ser processada ainda será considerada do [Membro do Círculo][membros-do-circulo] e não do [Parceiro][parceiros] convidado.
+[Parceiros][parceiros] que não são [Membros do Círculo][membros-do-circulo] não podem tratar [Tensões][tensoes] nas [Reuniões de Círculo][reunioes]. Ainda assim, outros [Parceiros][parceiros] podem ser convidados por um [Membro do Círculo][membros-do-circulo] para ajudar na tratativa de uma [Tensão][tensoes] específica. Neste caso, a tensão a ser tratada ainda será considerada do [Membro do Círculo][membros-do-circulo] e não do [Parceiro][parceiros] convidado.
 
 ### 3.5.2 <span id="formato-da-reuniao">Formato da Reunião</span>
 
@@ -63,11 +63,11 @@ Durante a facilitação das [Interações][interacoes], o [Facilitador][facilita
 
 ### 3.6.1 <span id="uma-tensao-de-cada-vez">Uma Tensão de cada vez</span>
 
-Nas [Interações][interacoes] que buscam processar [Tensões][tensoes], tais como Sincronizar e Adaptar, o [Facilitador][facilitador] deverá focar a atenção em uma [Tensão][tensoes] de cada vez. Isto significa que o [Facilitador][facilitador] não deve permitir que outros participantes tentem incluir suas perspectivas na [Tensão][tensoes] sendo processada, a não ser que o participante que sentiu a [Tensão][tensoes] originalmente acredite que aquela perspectiva seja útil.
+Nas [Interações][interacoes] que buscam tratar [Tensões][tensoes], tais como Sincronizar e Adaptar, o [Facilitador][facilitador] deverá focar a atenção em uma [Tensão][tensoes] de cada vez. Isto significa que o [Facilitador][facilitador] não deve permitir que outros participantes tentem incluir suas perspectivas na [Tensão][tensoes] sendo tratada, a não ser que o participante que sentiu a [Tensão][tensoes] originalmente acredite que aquela perspectiva seja útil.
 
 ### 3.6.2 <span id="lista-de-tensoes">Lista de Tensões</span>
 
-Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador][facilitador] pode pedir que o [Secretário][secretario] construa uma "Lista de Tensões" a processar. Cada [Membro do Círculo][membros-do-circulo] sentindo uma [Tensão][tensoes] pode então nomeá-la usando duas ou três palavras. O [Secretário][secretario] então registra o nome da [Tensão][tensoes], juntamente com o nome do [Parceiro][parceiros], de modo que o [Facilitador](#papeis-essenciais.md#facilitador) possa percorrê-la.
+Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador][facilitador] pode pedir que o [Secretário][secretario] construa uma "Lista de Tensões" a tratar. Cada [Membro do Círculo][membros-do-circulo] sentindo uma [Tensão][tensoes] pode então nomeá-la usando duas ou três palavras. O [Secretário][secretario] então registra o nome da [Tensão][tensoes], juntamente com o nome do [Parceiro][parceiros], de modo que o [Facilitador](#papeis-essenciais.md#facilitador) possa percorrê-la.
 
 ## 3.7 <span id="interacoes-assincronas">Interações Assíncronas</span>
 

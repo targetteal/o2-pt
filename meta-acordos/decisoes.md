@@ -4,19 +4,19 @@ Enquanto [Parceiro][parceiros], você pode fazer uso de diferentes "Processos De
 
 ## 4.1 <span id="decisao-livre-por-padrao">Decisão Livre</span>
 
-Sempre que a [Estrutura Organizacional][estrutura-organizacional] ou os [Meta-Acordos][meta-acordos] não especificarem um [Tipo de Decisão][processos-decisorios], entende-se que o [Parceiro][parceiros] pode responder à [Tensão][tensoes] da forma que julgar mais apropriado, inclusive decidindo individualmente.
+Sempre que a [Estrutura Organizacional][estrutura-organizacional] ou os [Meta-Acordos][meta-acordos] não especificarem um [Processo Decisório][processos-decisorios], entende-se que o [Parceiro][parceiros] pode responder à [Tensão][tensoes] da forma que julgar mais apropriado, inclusive decidindo individualmente.
 
 ## 4.2 <span id="decisao-integrativa">Decisão Integrativa</span>
 
-Uma "Decisão Integrativa" é quando um [Parceiro][parceiros] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de outros [Parceiros][parceiros] da [Organização][organizacao] para então responder à [Tensão][tensoes]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas. Este [Tipo de Decisão][processos-decisorios] é utilizando principalmente na [Interação][interacoes] [Adaptar][adaptar] para alterar a [Estrutura Organizacional][estrutura-organizacional].
+Uma "Decisão Integrativa" é quando um [Parceiro][parceiros] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de outros [Parceiros][parceiros] da [Organização][organizacao] para então responder à [Tensão][tensoes]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas. Este [Processo Decisório][processos-decisorios] é utilizando principalmente na [Interação][interacoes] [Adaptar][adaptar] para alterar a [Estrutura Organizacional][estrutura-organizacional].
 
 ### 4.2.1 <span id="proposta">Proposta</span>
 
-Uma [Proposta][proposta] é uma estratégia descrita por um [Parceiro][parceiros], o "Proponente", para responder a uma [Tensão][tensoes] sentida pelo mesmo ou por alguém que ele ou ela representa. A construção da [Proposta][proposta] é de responsabilidade do [Proponente][proposta], embora ele possa pedir ajuda ou consultar opiniões de outros [Parceiros][parceiros] durante o processo. O objetivo da [Proposta][proposta] é resolver a [Tensão][tensoes] do [Proponente][proposta] sem causar [Objeções][objecoes], e nada além disto.
+Uma [Proposta][proposta] é uma estratégia descrita por um [Parceiro][parceiros], o "Proponente", para responder a uma [Tensão][tensoes] sentida pelo mesmo ou por alguém que ele ou ela representa. A construção da [Proposta][proposta] é de responsabilidade do [Proponente][proposta], embora ele possa pedir ajuda ou consultar opiniões de outros [Parceiros][parceiros] durante o processo. O objetivo da [Proposta][proposta] é tratar a [Tensão][tensoes] do [Proponente][proposta] sem causar [Objeções][objecoes], e nada além disto.
 
 ### 4.2.2 <span id="apresentacao-de-exemplos">Apresentação de Exemplos</span>
 
-O [Proponente][proposta] deve ser capaz de apresentar exemplos de situações passadas ou presentes onde cada parte da [Proposta][proposta] construída resolveria ou reduziria a [Tensão][tensoes].
+O [Proponente][proposta] deve ser capaz de apresentar exemplos de situações passadas ou presentes onde cada parte da [Proposta][proposta] construída trataria a [Tensão][tensoes].
 
 ### 4.2.3 Facilitador pode descartar a Proposta
 
@@ -73,3 +73,5 @@ Através da [Estrutura Organizacional][estrutura-organizacional], os [Parceiros]
 [proposta]: #proposta
 [facilitador]: papeis-essenciais.md#facilitador
 [reuniao-de-circulo]: interacoes.md#reuniao-de-circulo
+[interacoes]: interacoes.md
+[adaptar]: interacoes.md#adaptar
