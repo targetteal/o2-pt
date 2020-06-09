@@ -1,4 +1,4 @@
-# 4. <span id="decisao">Decisões</span>
+# 4. <span id="decisoes">Decisões</span>
 
 Enquanto [Parceiro][parceiros], você pode fazer uso de diferentes "Processos Decisórios" descritos nesta seção, enquanto busca fazer uma escolha para responder a uma [Tensão][tensoes] que percebe.
 
@@ -8,7 +8,7 @@ Sempre que a [Estrutura Organizacional][estrutura-organizacional] ou os [Meta-Ac
 
 ## 4.2 <span id="decisao-integrativa">Decisão Integrativa</span>
 
-Uma "Decisão Integrativa" é quando um [Parceiro][parceiros] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de outros [Parceiros][parceiros] da [Organização][organizacao] para então responder à [Tensão][tensoes]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas. Este [Processo Decisório][processos-decisorios] é utilizando principalmente na [Interação][interacoes] [Adaptar][adaptar] para alterar a [Estrutura Organizacional][estrutura-organizacional]. 
+Uma "Decisão Integrativa" é quando um [Parceiro][parceiros] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de outros [Parceiros][parceiros] da [Organização][organizacao] para então responder à [Tensão][tensoes]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas. Este [Processo Decisório][processos-decisorios] é utilizando principalmente na [Interação][interacoes] [Adaptar][adaptar] para alterar a [Estrutura Organizacional][estrutura-organizacional].
 
 ### 4.2.1 <span id="proposta">Proposta</span>
 
