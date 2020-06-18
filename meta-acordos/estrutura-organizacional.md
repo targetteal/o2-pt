@@ -37,21 +37,21 @@ Um [Círculo][circulos] pode governar os seus próprios [Papéis][papeis] e [Res
 
 Um [Círculo][circulos] não pode alterar os [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes] de um [Círculo][circulos] interno diretamente. No entanto, um [Círculo][circulos] pode realizar algumas operações na interação [Adaptar][adaptar], como mover [Papéis][papeis] de si para os seus [Círculos][circulos] internos e vice-versa.
 
-## 2.3 <span id="artefatos-do-circulo">Artefatos do Círculo</span>
-
-Quando um [Círculo][circulos] possui [Artefatos][papeis] na sua definição, somente [Membros do Círculo][membros-do-circulo] e dos [Círculos][circulos] internos podem impactar estes [Artefatos][papeis] livremente.
-
-### 2.3.1 <span id="circulos-podem-delegar-artefatos">Círculos podem delegar Artefatos</span>
-
-Um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
-
-## 2.4 <span id="membros-do-circulo">Membros do Círculo</span>
+## 2.3 <span id="membros-do-circulo">Membros do Círculo</span>
 
 [Parceiros][parceiros] são considerados "Membros" de um determinado [Círculo][circulos] quando atenderem pelo menos um dos critérios abaixo:
 
 * Energizam pelo menos um [Papel][papeis] definido no [Círculo][circulos];
 * Energizam pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
 * Energizam o [Papel][papeis] de [Elo Externo][elo-externo] ou [Elo Interno][elo-interno] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
+
+## 2.4 <span id="artefatos-do-circulo">Artefatos do Círculo</span>
+
+Quando um [Círculo][circulos] possui [Artefatos][papeis] na sua definição, somente [Membros do Círculo][membros-do-circulo] e dos [Círculos][circulos] internos podem impactar estes [Artefatos][papeis] livremente.
+
+### 2.4.1 <span id="circulos-podem-delegar-artefatos">Círculos podem delegar Artefatos</span>
+
+Um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
 
 ## 2.5 <span id="restricoes">Restrições</span>
 
