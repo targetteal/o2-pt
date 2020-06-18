@@ -1,6 +1,6 @@
 # 2. <span id="estrutura-organizacional">Estrutura Organizacional</span>
 
-Os [Parceiros][parceiros] podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes]. Cada [Círculo][circulos] governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar][modo-adaptar].
+Os [Parceiros][parceiros] podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes]. Cada [Círculo][circulos] governa a sua Estrutura Organizacional, que somente pode ser alterada na interação [Adaptar][adaptar].
 
 ## 2.1 <span id="papeis">Papéis</span>
 
@@ -35,7 +35,7 @@ Um [Círculo][circulos] pode governar os seus próprios [Papéis][papeis] e [Res
 
 ### 2.2.2 <span id="circulos-nao-estruturam-seus-circulos-internos">Círculos não estruturam seus Círculos internos</span>
 
-Um [Círculo][circulos] não pode alterar os [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes] de um [Círculo][circulos] interno diretamente. No entanto, um [Círculo][circulos] pode realizar algumas operações no [Modo Adaptar][modo-adaptar], como mover [Papéis][papeis] de si para os seus [Círculos][circulos] internos e vice-versa.
+Um [Círculo][circulos] não pode alterar os [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes] de um [Círculo][circulos] interno diretamente. No entanto, um [Círculo][circulos] pode realizar algumas operações na interação [Adaptar][adaptar], como mover [Papéis][papeis] de si para os seus [Círculos][circulos] internos e vice-versa.
 
 ## 2.3 <span id="artefatos-do-circulo">Artefatos do Círculo</span>
 
@@ -78,7 +78,7 @@ Um [Círculo][circulos] pode estabelecer prioridades para orientar o trabalho do
 [membros-do-circulo]: estrutura-organizacional.md#membros-do-circulo
 [papeis]: estrutura-organizacional.md#papeis
 [restricoes]: estrutura-organizacional.md#restricoes
-[modo-adaptar]: reunioes-de-circulo.md#modo-adaptar
+[adaptar]: reunioes-de-circulo.md#adaptar
 [papeis-essenciais]: papeis-essenciais.md
 [elo-externo]: papeis-essenciais.md#elo-externo
 [elo-interno]: papeis-essenciais.md#elo-interno
