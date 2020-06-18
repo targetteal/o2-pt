@@ -78,7 +78,7 @@ Um [Círculo][circulos] pode estabelecer prioridades para orientar o trabalho do
 [membros-do-circulo]: estrutura-organizacional.md#membros-do-circulo
 [papeis]: estrutura-organizacional.md#papeis
 [restricoes]: estrutura-organizacional.md#restricoes
-[adaptar]: reunioes-de-circulo.md#adaptar
+[adaptar]: interacoes.md#adaptar
 [papeis-essenciais]: papeis-essenciais.md
 [elo-externo]: papeis-essenciais.md#elo-externo
 [elo-interno]: papeis-essenciais.md#elo-interno
