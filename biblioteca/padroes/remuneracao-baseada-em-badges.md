@@ -120,7 +120,7 @@ Um caso prático para compensar engenheiros de desenvolvimento de software:
 **Possíveis badges**:
 
 * Senior Frontend developer
-* Senior Backend develope
+* Senior Backend developer
 * Senior Android developer
 * Senior iOS developer
 
