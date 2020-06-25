@@ -24,7 +24,7 @@ Ao facilitar uma [Decisão Integrativa][decisao-integrativa] em uma [Reunião de
 
 ### 4.2.4 <span id="objecoes">Objeções</span>
 
-Durante uma [Decisão Integrativa][decisao-integrativa] em uma [Reunião de Círculo][reuniao-de-circulo], os [Parceiros][parceiros] podem apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade do [Parceiro][parceiros] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. Quando um [Parceiro][parceiros] apresenta uma [Objeção][objecoes] ele momentaneamente se torna o "Objetor" daquela [Proposta][proposta].
+Durante uma [Decisão Integrativa][decisao-integrativa], os [Parceiros][parceiros] podem apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade do [Parceiro][parceiros] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. Quando um [Parceiro][parceiros] apresenta uma [Objeção][objecoes] ele momentaneamente se torna o "Objetor" daquela [Proposta][proposta].
 
 ### 4.2.5 <span id="objecoes-validas">Objeções Válidas</span>
 
