@@ -1,4 +1,4 @@
-# Introdução
+# Introduction
 
 _Esta é uma versão de testes da Organização Orgânica, ainda não recomendada para uso generalizado em organizações._
 
@@ -28,7 +28,6 @@ Qualquer pessoa pode propor mudanças nos Meta-Acordos enviando pull requests. A
 
 ## Licença
 
-[Aqui você pode encontrar maiores informações sobre a licença](https://github.com/targetteal/organic-organization/tree/c7c8d0aff2cee134e7e614785c2dd29077de7354/LICENSE.MD).
+[Aqui você pode encontrar maiores informações sobre a licença](LICENSE.MD).
 
 _O2 is currently developed in Portuguese, as most of the contributors are Brazilians. Each release is translated to English, and is available in_ [_another repo_](https://github.com/targetteal/organic-organization-translations/)_._
-
