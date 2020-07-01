@@ -3,6 +3,7 @@
 ## Mapeados
 
 * [Círculo de Parceiros](circulo-de-parceiros.md)
+* [Debate Estruturado](debate-estruturado.md)
 * [Descrição de Papéis](descricao-de-papeis.md)
 * [Eleições Integrativas](eleicoes-integrativas.md)
 * [Espelho de Interações](espelho-de-interacoes.md)
@@ -12,7 +13,6 @@
 * [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
 * [Revisão Tática](revisao-tatica.md)
 * [Sessão de Feedback em Círculo](sessao-de-feedback-em-circulo.md)
-* [Debate Estruturado](https://github.com/targetteal/organic-organization/tree/67eccefe332f089b16d882a58602edb487bc698a/biblioteca/padroes/debate-estruturado.md)
 
 ## Ainda não mapeados
 
