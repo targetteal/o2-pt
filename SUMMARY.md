@@ -19,6 +19,7 @@
     * [Revisão Rápida](biblioteca/padroes/revisao-rapida.md)
     * [Revisão Tática](biblioteca/padroes/revisao-tatica.md)
     * [Sessão de Feedback em Círculo](biblioteca/padroes/sessao-de-feedback-em-circulo.md)
+    * [Debate Estruturado](biblioteca/padroes/debate-estruturado.md)
   * [Antipadrões](biblioteca/antipadroes/README.md)
     * [Metas](biblioteca/antipadroes/metas.md)
     * [Tudo é de Todos](biblioteca/antipadroes/tudo-e-de-todos.md)
