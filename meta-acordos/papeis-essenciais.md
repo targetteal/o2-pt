@@ -1,122 +1,98 @@
-# 4. <span id="papeis-essenciais">Papéis Essenciais</span>
+# 4. Papéis Essenciais
 
-Cada [Círculo][circulos] contém "Papéis Essenciais", chamados de [Elo Externo][elo-externo], [Elo Interno][elo-interno], [Facilitador][facilitador] e [Secretário][secretario].
+Cada [Círculo](estrutura-organizacional.md#circulos) contém "Papéis Essenciais", chamados de [Elo Externo](papeis-essenciais.md#elo-externo), [Elo Interno](papeis-essenciais.md#elo-interno), [Facilitador](papeis-essenciais.md#facilitador) e [Secretário](papeis-essenciais.md#secretario).
 
-## 4.1 <span id="papeis-essenciais-eleitos">Papéis Essenciais Eleitos</span>
+## 4.1 Papéis Essenciais Eleitos
 
-Os [Papéis Essenciais][papeis-essenciais] de [Facilitador][facilitador], [Secretário][secretario] e [Elo Interno][elo-interno] são considerados "Papéis Essenciais Eleitos" e são energizados através de um processo de eleição.
+Os [Papéis Essenciais](papeis-essenciais.md) de [Facilitador](papeis-essenciais.md#facilitador), [Secretário](papeis-essenciais.md#secretario) e [Elo Interno](papeis-essenciais.md#elo-interno) são considerados "Papéis Essenciais Eleitos" e são energizados através de um processo de eleição.
 
-### 4.1.1 <span id="parceiros-elegiveis">Parceiros Elegíveis</span>
+### 4.1.1 Parceiros Elegíveis
 
-Todos e apenas os [Membros do Círculo][membros-do-circulo] são elegíveis para energizar os [Papéis Essenciais Eleitos][papeis-essenciais-eleitos]. Ainda assim, o [Parceiro][parceiros] que energiza o [Papel][papeis] de [Elo Externo][elo-externo] não pode energizar o [Papel][papeis] de [Facilitador][facilitador] ou [Elo Interno][elo-interno] no mesmo [Círculo][circulos].
+Todos e apenas os [Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) são elegíveis para energizar os [Papéis Essenciais Eleitos](papeis-essenciais.md#papeis-essenciais-eleitos). Ainda assim, o [Parceiro](organizacao.md#parceiros) que energiza o [Papel](estrutura-organizacional.md#papeis) de [Elo Externo](papeis-essenciais.md#elo-externo) não pode energizar o [Papel](estrutura-organizacional.md#papeis) de [Facilitador](papeis-essenciais.md#facilitador) ou [Elo Interno](papeis-essenciais.md#elo-interno) no mesmo [Círculo](estrutura-organizacional.md#circulos).
 
-### 4.1.2 <span id="eleicoes">Eleições</span>
+### 4.1.2 Eleições
 
-Qualquer [Membro do Círculo][membros-do-circulo] pode solicitar "Eleições" para os [Papéis Essenciais Eleitos][papeis-essenciais-eleitos]. O processo de Eleição deve considerar a maioria simples dos votos, sendo que cada [Membro do Círculo][membros-do-circulo] presente tem direito a apenas um voto. A [Estrutura Organizacional][estrutura-organizacional] pode definir em detalhes como e em que condições este processo deve ser facilitado.
+Qualquer [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo) pode solicitar "Eleições" para os [Papéis Essenciais Eleitos](papeis-essenciais.md#papeis-essenciais-eleitos). O processo de Eleição deve considerar a maioria simples dos votos, sendo que cada [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo) presente tem direito a apenas um voto. A [Estrutura Organizacional](estrutura-organizacional.md) pode definir em detalhes como e em que condições este processo deve ser facilitado.
 
-## 4.2 <span id="alteracoes-nos-papeis-essenciais">Alterações nos Papéis Essenciais</span>
+## 4.2 Alterações nos Papéis Essenciais
 
-Os [Papéis Essenciais][papeis-essenciais] de cada [Círculo][circulos] podem ser alterados, desde que as restrições abaixo sejam respeitadas:
+Os [Papéis Essenciais](papeis-essenciais.md) de cada [Círculo](estrutura-organizacional.md#circulos) podem ser alterados, desde que as restrições abaixo sejam respeitadas:
 
-* O nome e o [Propósito][papeis] dos [Papéis Essenciais][papeis-essenciais] não pode ser alterado;
-* Novas [Responsabilidades][papeis] e [Artefatos][papeis] não podem ser acrescidas ao [Papel][papeis] do [Elo Externo][elo-externo];
-* As [Responsabilidades][papeis] e [Artefatos][papeis] iniciais do Papel [Elo Externo][elo-externo] podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel][papeis] ou processo no [Círculo][circulos];
-* As [Responsabilidades][papeis] e [Artefatos][papeis] iniciais dos [Papéis][papeis] de [Facilitador][facilitador], [Secretário][secretario] e [Elo Interno][elo-interno] não podem ser removidas ou modificadas;
-* Os [Papéis Essenciais][papeis-essenciais] não podem ser removidos.
+* O nome e o [Propósito](estrutura-organizacional.md#papeis) dos [Papéis Essenciais](papeis-essenciais.md) não pode ser alterado;
+* Novas [Responsabilidades](estrutura-organizacional.md#papeis) e [Artefatos](estrutura-organizacional.md#papeis) não podem ser acrescidas ao [Papel](estrutura-organizacional.md#papeis) do [Elo Externo](papeis-essenciais.md#elo-externo);
+* As [Responsabilidades](estrutura-organizacional.md#papeis) e [Artefatos](estrutura-organizacional.md#papeis) iniciais do Papel [Elo Externo](papeis-essenciais.md#elo-externo) podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel](estrutura-organizacional.md#papeis) ou processo no [Círculo](estrutura-organizacional.md#circulos);
+* As [Responsabilidades](estrutura-organizacional.md#papeis) e [Artefatos](estrutura-organizacional.md#papeis) iniciais dos [Papéis](estrutura-organizacional.md#papeis) de [Facilitador](papeis-essenciais.md#facilitador), [Secretário](papeis-essenciais.md#secretario) e [Elo Interno](papeis-essenciais.md#elo-interno) não podem ser removidas ou modificadas;
+* Os [Papéis Essenciais](papeis-essenciais.md) não podem ser removidos.
 
-### 4.2.1 <span id="alteracoes-nos-papeis-essenciais-nao-propagam">Alterações nos Papéis Essenciais não propagam</span>
+### 4.2.1 Alterações nos Papéis Essenciais não propagam
 
-As alterações realizadas nos [Papeis Essenciais][papeis-essenciais] de um [Círculo][circulos] aplicam-se apenas ao [Círculo][circulos] onde a modificação ocorreu, ou seja, não propagam para os [Círculos][circulos] internos.
+As alterações realizadas nos [Papeis Essenciais](papeis-essenciais.md) de um [Círculo](estrutura-organizacional.md#circulos) aplicam-se apenas ao [Círculo](estrutura-organizacional.md#circulos) onde a modificação ocorreu, ou seja, não propagam para os [Círculos](estrutura-organizacional.md#circulos) internos.
 
-## 4.3 <span id="energizacao-de-papeis-definidos">Energização de Papéis Definidos</span>
+## 4.3 Energização de Papéis Definidos
 
-O [Elo Externo][elo-externo] é responsável por convidar [Parceiros][parceiros] para energizarem os [Papéis][papeis] definidos no [Círculo][circulos], com exceção dos [Papéis Essenciais][papeis-essenciais]. O [Elo Externo][elo-externo] pode convidar qualquer [Parceiro][parceiros], a não ser que uma [Restrição][restricoes] diga o contrário. Uma [Restrição][restricoes] também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade][papeis] e o [Artefato][papeis] correspondente do [Elo Externo][elo-externo].
+O [Elo Externo](papeis-essenciais.md#elo-externo) é responsável por convidar [Parceiros](organizacao.md#parceiros) para energizarem os [Papéis](estrutura-organizacional.md#papeis) definidos no [Círculo](estrutura-organizacional.md#circulos), com exceção dos [Papéis Essenciais](papeis-essenciais.md). O [Elo Externo](papeis-essenciais.md#elo-externo) pode convidar qualquer [Parceiro](organizacao.md#parceiros), a não ser que uma [Restrição](estrutura-organizacional.md#restricoes) diga o contrário. Uma [Restrição](estrutura-organizacional.md#restricoes) também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade](estrutura-organizacional.md#papeis) e o [Artefato](estrutura-organizacional.md#papeis) correspondente do [Elo Externo](papeis-essenciais.md#elo-externo).
 
-### 4.3.1 <span id="">Foco</span>
+### 4.3.1 Foco
 
-O processo de [Energização][energizacao] também pode definir um "Foco" para o [Parceiro][parceiros] que energiza um [Papel][papeis]. Este Foco é uma área de atuação em que o [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis] do [Papel][papeis] se aplicam somente.  
+O processo de [Energização](estrutura-organizacional.md#energizacao) também pode definir um "Foco" para o [Parceiro](organizacao.md#parceiros) que energiza um [Papel](estrutura-organizacional.md#papeis). Este Foco é uma área de atuação em que o [Propósito](estrutura-organizacional.md#papeis), [Responsabilidades](estrutura-organizacional.md#papeis) e [Artefatos](estrutura-organizacional.md#papeis) do [Papel](estrutura-organizacional.md#papeis) se aplicam somente.
 
-## 4.4 <span id="energizacao-do-elo-externo">Energização do Elo Externo</span>
+## 4.4 Energização do Elo Externo
 
-O [Elo Externo][elo-externo] é escolhido pelo [Círculo][circulos] externo, por qualquer processo de [Energização de Papéis Definidos][energizacao-de-papeis-definidos] no [Círculo][circulos] externo. O [Elo Externo][elo-externo] do [Círculo][circulos] mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos][meta-acordos].
+O [Elo Externo](papeis-essenciais.md#elo-externo) é escolhido pelo [Círculo](estrutura-organizacional.md#circulos) externo, por qualquer processo de [Energização de Papéis Definidos](papeis-essenciais.md#energizacao-de-papeis-definidos) no [Círculo](estrutura-organizacional.md#circulos) externo. O [Elo Externo](papeis-essenciais.md#elo-externo) do [Círculo](estrutura-organizacional.md#circulos) mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos](./).
 
-## 4.5 <span id="facilitador">Facilitador</span>
+## 4.5 Facilitador
 
-O [Papel][papeis] do "Facilitador" possui a seguinte definição inicial:
+O [Papel](estrutura-organizacional.md#papeis) do "Facilitador" possui a seguinte definição inicial:
 
-**Propósito**: [_Reuniões de Círculo_][reunioes-de-circulo] _saudáveis e alinhadas com os_ [_Meta-Acordos_][meta-acordos]
-
-**Responsabilidades**:
-
-* Facilitar as [Reuniões de Círculo][reunioes-de-circulo]
-
-## 4.6 <span id="secretario">Secretário</span>
-
-O [Papel][papeis] do "Secretário" possui a seguinte definição inicial:
-
-**Propósito**: [_Meta-Acordos_][meta-acordos] _e_ [_Estrutura Organizacional_][estrutura-organizacional] _do_ [_Círculo_][circulos] _claros_
+**Propósito**: [_Reuniões de Círculo_](reunioes-de-circulo.md) _saudáveis e alinhadas com os_ [_Meta-Acordos_](./)
 
 **Responsabilidades**:
 
-* Agendar [Reuniões de Círculo][reunioes-de-circulo] regulares
-* Registar as pedidos e propostas feitos nas [Reuniões de Círculo][reunioes-de-circulo]
-* Interpretar os [Meta-Acordos][meta-acordos] e a [Estrutura Organizacional][estrutura-organizacional] mediante solicitações
+* Facilitar as [Reuniões de Círculo](reunioes-de-circulo.md)
+
+## 4.6 Secretário
+
+O [Papel](estrutura-organizacional.md#papeis) do "Secretário" possui a seguinte definição inicial:
+
+**Propósito**: [_Meta-Acordos_](./) _e_ [_Estrutura Organizacional_](estrutura-organizacional.md) _do_ [_Círculo_](estrutura-organizacional.md#circulos) _claros_
+
+**Responsabilidades**:
+
+* Agendar [Reuniões de Círculo](reunioes-de-circulo.md) regulares
+* Registar as pedidos e propostas feitos nas [Reuniões de Círculo](reunioes-de-circulo.md)
+* Interpretar os [Meta-Acordos](./) e a [Estrutura Organizacional](estrutura-organizacional.md) mediante solicitações
 
 **Artefatos**:
 
-* Registros da [Estrutura Organizacional][estrutura-organizacional] do [Círculo][circulos]
+* Registros da [Estrutura Organizacional](estrutura-organizacional.md) do [Círculo](estrutura-organizacional.md#circulos)
 
-## 4.7 <span id="elo-externo">Elo Externo</span>
+## 4.7 Elo Externo
 
-O [Papel][papeis] do "Elo Externo" possui a seguinte definição inicial:
+O [Papel](estrutura-organizacional.md#papeis) do "Elo Externo" possui a seguinte definição inicial:
 
-**Propósito**: _O_ [_Propósito_][papeis] _do_ [_Círculo_][circulos]
+**Propósito**: _O_ [_Propósito_](estrutura-organizacional.md#papeis) _do_ [_Círculo_](estrutura-organizacional.md#circulos)
 
 **Responsabilidades**:
 
-* Estruturar o [Círculo][circulos] para expressar o seu [Propósito][papeis] e atender as [Responsabilidades][papeis] definidas pelo [Círculo][circulos] externo
-* Convidar [Parceiros][parceiros] para energizarem [Papéis][papeis] definidos no [Círculo][circulos]
-* Oferecer feedback para melhorar a adequação entre [Parceiro][parceiros] e [Papel][papeis], desenergizando quando necessário
-* Estabelecer prioridades para o [Círculo][circulos]
+* Estruturar o [Círculo](estrutura-organizacional.md#circulos) para expressar o seu [Propósito](estrutura-organizacional.md#papeis) e atender as [Responsabilidades](estrutura-organizacional.md#papeis) definidas pelo [Círculo](estrutura-organizacional.md#circulos) externo
+* Convidar [Parceiros](organizacao.md#parceiros) para energizarem [Papéis](estrutura-organizacional.md#papeis) definidos no [Círculo](estrutura-organizacional.md#circulos)
+* Oferecer feedback para melhorar a adequação entre [Parceiro](organizacao.md#parceiros) e [Papel](estrutura-organizacional.md#papeis), desenergizando quando necessário
+* Estabelecer prioridades para o [Círculo](estrutura-organizacional.md#circulos)
 
 **Artefatos**:
 
-* Energização de [Papéis][papeis] definidos no [Círculo][circulos]
+* Energização de [Papéis](estrutura-organizacional.md#papeis) definidos no [Círculo](estrutura-organizacional.md#circulos)
 
-O Elo Externo detém todas as [Responsabilidades][papeis] e [Artefatos][papeis] não delegados do [Círculo][circulos].
+O Elo Externo detém todas as [Responsabilidades](estrutura-organizacional.md#papeis) e [Artefatos](estrutura-organizacional.md#papeis) não delegados do [Círculo](estrutura-organizacional.md#circulos).
 
-## 4.8 <span id="elo-interno">Elo Interno</span>
+## 4.8 Elo Interno
 
-O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
+O [Papel](estrutura-organizacional.md#papeis) do "Elo Interno" possui a seguinte definição inicial:
 
-**Propósito**: _O_ [_Propósito_][papeis] _do_ [_Círculo_][circulos]
+**Propósito**: _O_ [_Propósito_](estrutura-organizacional.md#papeis) _do_ [_Círculo_](estrutura-organizacional.md#circulos)
 
 **Responsabilidades**:
 
-* Buscar compreender [Tensões][tensoes] trazidas pelos [Membros do Círculo][membros-do-circulo] e processá-las quando apropriado no [Círculo][circulos] externo
-* Fornecer visibilidade sobre a saúde do [Círculo][circulos] para o [Círculo][circulos] externo
+* Buscar compreender [Tensões](organizacao.md#tensoes) trazidas pelos [Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) e processá-las quando apropriado no [Círculo](estrutura-organizacional.md#circulos) externo
+* Fornecer visibilidade sobre a saúde do [Círculo](estrutura-organizacional.md#circulos) para o [Círculo](estrutura-organizacional.md#circulos) externo
 
-<!-- Links -->
-[meta-acordos]: README.md
-
-[organizacao]: organizacao.md
-[parceiros]: organizacao.md#parceiros
-[tensoes]: organizacao.md#tensoes
-
-[estrutura-organizacional]: estrutura-organizacional.md
-[circulos]: estrutura-organizacional.md#circulos
-[membros-do-circulo]: estrutura-organizacional.md#membros-do-circulo
-[papeis]: estrutura-organizacional.md#papeis
-[restricoes]: estrutura-organizacional.md#restricoes
-[energizacao]: estrutura-organizacional.md#energizacao
-
-[reunioes-de-circulo]: reunioes-de-circulo.md
-
-[papeis-essenciais]: papeis-essenciais.md
-[elo-externo]: papeis-essenciais.md#elo-externo
-[elo-interno]: papeis-essenciais.md#elo-interno
-[facilitador]: papeis-essenciais.md#facilitador
-[secretario]: papeis-essenciais.md#secretario
-[energizacao-de-papeis-definidos]: papeis-essenciais.md#energizacao-de-papeis-definidos
-[eleicoes]: papeis-essenciais.md#eleicoes
-[papeis-essenciais-eleitos]: papeis-essenciais.md#papeis-essenciais-eleitos

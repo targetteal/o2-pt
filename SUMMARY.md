@@ -24,3 +24,4 @@
     * [Tudo é de Todos](biblioteca/antipadroes/tudo-e-de-todos.md)
 * [Licença](license.md)
 * [Atribuições de Licença](atribuicoes-licenca.md)
+
