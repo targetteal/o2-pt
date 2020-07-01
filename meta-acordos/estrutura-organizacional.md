@@ -19,7 +19,7 @@ A "Energização" diz respeito a quais [Parceiros][parceiros] dedicam seu tempo 
 
 Ao perseguir o [Propósito][papeis] dos [Papéis][papeis] que energiza, você está sempre autorizado a tomar ação. Ainda assim você não deve impactar os [Artefatos][papeis] definidos em [Papéis][papeis] que você não energiza ou [Artefatos de Círculos][artefatos-do-circulo] que você não é [Membro][membros-do-circulo], sem antes obter uma permissão explícita do [Parceiro][parceiros] responsável. Você também deve observar as [Restrições][restricoes] definidas na [Estrutura Organizacional][estrutura-organizacional] e seguir as condições nelas estabelecidas.
 
-Você também pode recusar um pedido caso não exista uma [Responsabilidade][papeis] explícita correspondente na descrição do [Papel][papeis] sendo solicitado. Ainda assim, você deve aceitar quaisquer solicitações que fizerem sentido para o [Propósito][papeis] de algum dos [Papéis][papeis] que você energiza.
+Ao receber um pedido, você pode avaliar se a solicitação ajuda você a expressar o [Propósito][papeis] ou a atender as [Responsabilidades][papeis] dos [Papéis][papeis] que você energiza. Você pode rejeitar quaisquer pedidos que interpretar não atenderem a esses critérios.
 
 ### 2.1.3 <span id="deixando-papeis">Deixando Papéis</span>
 
