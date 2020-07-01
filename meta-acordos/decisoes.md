@@ -1,77 +1,57 @@
-# 4. <span id="decisoes">Decisões</span>
+# 4. Decisões
 
-Enquanto [Parceiro][parceiros], você pode fazer uso de diferentes "Processos Decisórios" descritos nesta seção, enquanto busca fazer uma escolha para responder a uma [Tensão][tensoes] que percebe.
+Enquanto [Parceiro](organizacao.md#parceiros), você pode fazer uso de diferentes "Processos Decisórios" descritos nesta seção, enquanto busca fazer uma escolha para responder a uma [Tensão](organizacao.md#tensoes) que percebe.
 
-## 4.1 <span id="decisao-livre-por-padrao">Decisão Livre</span>
+## 4.1 Decisão Livre
 
-Sempre que a [Estrutura Organizacional][estrutura-organizacional] ou os [Meta-Acordos][meta-acordos] não especificarem um [Processo Decisório][processos-decisorios], entende-se que o [Parceiro][parceiros] pode responder à [Tensão][tensoes] da forma que julgar mais apropriado, inclusive decidindo individualmente.
+Sempre que a [Estrutura Organizacional](estrutura-organizacional.md) ou os [Meta-Acordos](./) não especificarem um [Processo Decisório](decisoes.md#decisoes), entende-se que o [Parceiro](organizacao.md#parceiros) pode responder à [Tensão](organizacao.md#tensoes) da forma que julgar mais apropriado, inclusive decidindo individualmente.
 
-## 4.2 <span id="decisao-integrativa">Decisão Integrativa</span>
+## 4.2 Decisão Integrativa
 
-Uma "Decisão Integrativa" é quando um [Parceiro][parceiros] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de outros [Parceiros][parceiros] da [Organização][organizacao] para então responder à [Tensão][tensoes]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas. Este [Processo Decisório][processos-decisorios] é utilizando principalmente na [Interação][interacoes] [Adaptar][adaptar] para alterar a [Estrutura Organizacional][estrutura-organizacional].
+Uma "Decisão Integrativa" é quando um [Parceiro](organizacao.md#parceiros) apresenta uma [Proposta](decisoes.md#proposta) e busca integrar possíveis [Objeções](decisoes.md#objecoes) de outros [Parceiros](organizacao.md#parceiros) da [Organização](organizacao.md) para então responder à [Tensão](organizacao.md#tensoes). A [Proposta](decisoes.md#proposta) apresentada é modificada até contemplar todas as [Objeções](decisoes.md#objecoes) levantadas. Este [Processo Decisório](decisoes.md#decisoes) é utilizando principalmente na [Interação](interacoes.md) [Adaptar](interacoes.md#adaptar) para alterar a [Estrutura Organizacional](estrutura-organizacional.md).
 
-### 4.2.1 <span id="proposta">Proposta</span>
+### 4.2.1 Proposta
 
-Uma [Proposta][proposta] é uma estratégia descrita por um [Parceiro][parceiros], o "Proponente", para responder a uma [Tensão][tensoes] sentida pelo mesmo ou por alguém que ele ou ela representa. A construção da [Proposta][proposta] é de responsabilidade do [Proponente][proposta], embora ele possa pedir ajuda ou consultar opiniões de outros [Parceiros][parceiros] durante o processo. O objetivo da [Proposta][proposta] é tratar a [Tensão][tensoes] do [Proponente][proposta] sem causar [Objeções][objecoes], e nada além disto.
+Uma [Proposta](decisoes.md#proposta) é uma estratégia descrita por um [Parceiro](organizacao.md#parceiros), o "Proponente", para responder a uma [Tensão](organizacao.md#tensoes) sentida pelo mesmo ou por alguém que ele ou ela representa. A construção da [Proposta](decisoes.md#proposta) é de responsabilidade do [Proponente](decisoes.md#proposta), embora ele possa pedir ajuda ou consultar opiniões de outros [Parceiros](organizacao.md#parceiros) durante o processo. O objetivo da [Proposta](decisoes.md#proposta) é tratar a [Tensão](organizacao.md#tensoes) do [Proponente](decisoes.md#proposta) sem causar [Objeções](decisoes.md#objecoes), e nada além disto.
 
-### 4.2.2 <span id="apresentacao-de-exemplos">Apresentação de Exemplos</span>
+### 4.2.2 Apresentação de Exemplos
 
-O [Proponente][proposta] deve ser capaz de apresentar exemplos de situações passadas ou presentes onde cada parte da [Proposta][proposta] construída trataria a [Tensão][tensoes].
+O [Proponente](decisoes.md#proposta) deve ser capaz de apresentar exemplos de situações passadas ou presentes onde cada parte da [Proposta](decisoes.md#proposta) construída trataria a [Tensão](organizacao.md#tensoes).
 
 ### 4.2.3 Facilitador pode descartar a Proposta
 
-Ao facilitar uma [Decisão Integrativa][decisao-integrativa] em uma [Reunião de Círculo][reuniao-de-circulo], se o [Facilitador][facilitador] considerar que o [Proponente][proposta] não foi capaz de apresentar exemplos e esclarecimentos de como a [Proposta][proposta] resolve a [Tensão][tensoes], o [Facilitador][facilitador] deve descartar a [Proposta][proposta]. O [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
+Ao facilitar uma [Decisão Integrativa](decisoes.md#decisao-integrativa) em uma [Reunião de Círculo](interacoes.md#reuniao-de-circulo), se o [Facilitador](papeis-essenciais.md#facilitador) considerar que o [Proponente](decisoes.md#proposta) não foi capaz de apresentar exemplos e esclarecimentos de como a [Proposta](decisoes.md#proposta) resolve a [Tensão](organizacao.md#tensoes), o [Facilitador](papeis-essenciais.md#facilitador) deve descartar a [Proposta](decisoes.md#proposta). O [Facilitador](papeis-essenciais.md#facilitador) não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
 
-### 4.2.4 <span id="objecoes">Objeções</span>
+### 4.2.4 Objeções
 
-Durante uma [Decisão Integrativa][decisao-integrativa], os [Parceiros][parceiros] podem apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade do [Parceiro][parceiros] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. Quando um [Parceiro][parceiros] apresenta uma [Objeção][objecoes] ele momentaneamente se torna o "Objetor" daquela [Proposta][proposta].
+Durante uma [Decisão Integrativa](decisoes.md#decisao-integrativa), os [Parceiros](organizacao.md#parceiros) podem apresentar uma ou mais "Objeções" à [Proposta](decisoes.md#proposta). Uma [Objeção](decisoes.md#objecoes) é uma razão pela qual a [Proposta](decisoes.md#proposta) causa mal e prejudica a capacidade do [Parceiro](organizacao.md#parceiros) de expressar o [Propósito](estrutura-organizacional.md#papeis) de algum [Papel](estrutura-organizacional.md#papeis) que representa. Quando um [Parceiro](organizacao.md#parceiros) apresenta uma [Objeção](decisoes.md#objecoes) ele momentaneamente se torna o "Objetor" daquela [Proposta](decisoes.md#proposta).
 
-### 4.2.5 <span id="objecoes-validas">Objeções Válidas</span>
+### 4.2.5 Objeções Válidas
 
-Uma [Objeção][objecoes] é considerada válida caso o [Objetor][objetor] acredite que ela possua todas as 4 características abaixo:
+Uma [Objeção](decisoes.md#objecoes) é considerada válida caso o [Objetor](decisoes.md#objecoes) acredite que ela possua todas as 4 características abaixo:
 
-1. **Prejudicial**: A [Objeção][objecoes] é sobre algum mal que a [Proposta][proposta] causa, e não apenas uma oportunidade de melhoria na [Proposta][proposta].
-2. **Direta**: A [Objeção][objecoes] afeta a capacidade do [Parceiro][parceiros] em expressar o [Propósito][papeis] de um dos [Papéis][papeis] que energiza.
-3. **Causal**: A [Objeção][objecoes] é causado pela [Proposta][proposta], ou seja, ela não existe se a [Proposta][proposta] não for adotada.
-4. **Factual**: A [Objeção][objecoes] é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. Ainda assim, se o dano alegado é tão desastroso que não seria possível se adaptar no futuro, então este critério pode ser desconsiderado.
+1. **Prejudicial**: A [Objeção](decisoes.md#objecoes) é sobre algum mal que a [Proposta](decisoes.md#proposta) causa, e não apenas uma oportunidade de melhoria na [Proposta](decisoes.md#proposta).
+2. **Direta**: A [Objeção](decisoes.md#objecoes) afeta a capacidade do [Parceiro](organizacao.md#parceiros) em expressar o [Propósito](estrutura-organizacional.md#papeis) de um dos [Papéis](estrutura-organizacional.md#papeis) que energiza.
+3. **Causal**: A [Objeção](decisoes.md#objecoes) é causado pela [Proposta](decisoes.md#proposta), ou seja, ela não existe se a [Proposta](decisoes.md#proposta) não for adotada.
+4. **Factual**: A [Objeção](decisoes.md#objecoes) é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. Ainda assim, se o dano alegado é tão desastroso que não seria possível se adaptar no futuro, então este critério pode ser desconsiderado.
 
 ### 4.2.6 Facilitador pode descartar a Objeção
 
-Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador][facilitador] considerar que o [Objetor][objetor] não foi capaz de apresentar exemplos e esclarecimentos de como a [Objeção][objecoes] atende aos critérios de [Objeções Válidas][objecoes-validas], o [Facilitador][facilitador] deve descartar a [Objeção][objecoes]. O [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
+Ao facilitar uma [Decisão Integrativa](decisoes.md#decisao-integrativa), se o [Facilitador](papeis-essenciais.md#facilitador) considerar que o [Objetor](decisoes.md#objecoes) não foi capaz de apresentar exemplos e esclarecimentos de como a [Objeção](decisoes.md#objecoes) atende aos critérios de [Objeções Válidas](decisoes.md#objecoes-validas), o [Facilitador](papeis-essenciais.md#facilitador) deve descartar a [Objeção](decisoes.md#objecoes). O [Facilitador](papeis-essenciais.md#facilitador) não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
 
-### 4.2.7 <span id="integracao">Integração</span>
+### 4.2.7 Integração
 
-Se houver [Objeções][objecoes], o [Proponente][proposta] deve integrá-las à [Proposta][proposta], uma de cada vez. O objetivo da "Integração" é modificar a [Proposta][proposta] para que ela resolva a [Tensão][tensoes] original, mas sem causar a [Objeção][objecoes] levantada. Se a [Proposta][proposta] for alterada, o [Proponente][proposta] deverá dar mais uma oportunidade para os participantes levantarem [Objeções][objecoes].
+Se houver [Objeções](decisoes.md#objecoes), o [Proponente](decisoes.md#proposta) deve integrá-las à [Proposta](decisoes.md#proposta), uma de cada vez. O objetivo da "Integração" é modificar a [Proposta](decisoes.md#proposta) para que ela resolva a [Tensão](organizacao.md#tensoes) original, mas sem causar a [Objeção](decisoes.md#objecoes) levantada. Se a [Proposta](decisoes.md#proposta) for alterada, o [Proponente](decisoes.md#proposta) deverá dar mais uma oportunidade para os participantes levantarem [Objeções](decisoes.md#objecoes).
 
-### 4.2.8 <span id="quebra-dos-meta-acordos">Quebra dos Meta-Acordos</span>
+### 4.2.8 Quebra dos Meta-Acordos
 
-Qualquer [Parceiro][parceiros] participando de uma [Decisão Integrativa][decisao-integrativa] pode levantar uma [Objeção][objecoes] de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta][proposta] viola um [Meta-Acordo][meta-acordos]. Esta [Objeção][objecoes] especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
+Qualquer [Parceiro](organizacao.md#parceiros) participando de uma [Decisão Integrativa](decisoes.md#decisao-integrativa) pode levantar uma [Objeção](decisoes.md#objecoes) de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta](decisoes.md#proposta) viola um [Meta-Acordo](./). Esta [Objeção](decisoes.md#objecoes) especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
 
-## 4.3 <span id="decisao-integrativa-de-circulo">Decisão Integrativa de Círculo</span>
+## 4.3 Decisão Integrativa de Círculo
 
-Quando um Parceiro buscar integrar [Objeções][objecoes] de todos os [Membros de um Círculo][membros-de-circulo] ou quando a [Estrutura Organizacional][estrutura-organizacional] ou os [Meta-Acordos][meta-acordos] exigirem desta forma, esta é considerada uma "Decisão Integrativa de Círculo".
+Quando um Parceiro buscar integrar [Objeções](decisoes.md#objecoes) de todos os [Membros de um Círculo](estrutura-organizacional.md#membros-do-circulo) ou quando a [Estrutura Organizacional](estrutura-organizacional.md) ou os [Meta-Acordos](./) exigirem desta forma, esta é considerada uma "Decisão Integrativa de Círculo".
 
-## 4.4 <span id="novos-processos-decisórios">Novos Processos Decisórios</span>
+## 4.4 Novos Processos Decisórios
 
-Através da [Estrutura Organizacional][estrutura-organizacional], os [Parceiros][parceiros] podem definir novos [Processos Decisórios][processos-decisorios] ou até restringir como [Papéis][papeis] ou [Círculos][circulos] decidem em certas ocasiões.
+Através da [Estrutura Organizacional](estrutura-organizacional.md), os [Parceiros](organizacao.md#parceiros) podem definir novos [Processos Decisórios](decisoes.md#decisoes) ou até restringir como [Papéis](estrutura-organizacional.md#papeis) ou [Círculos](estrutura-organizacional.md#circulos) decidem em certas ocasiões.
 
-[meta-acordos]: README.md
-[processos-decisorios]: #decisoes
-[estrutura-organizacional]: estrutura-organizacional.md
-[papeis]: estrutura-organizacional.md#papeis
-[circulos]: estrutura-organizacional.md#circulos
-[membros-de-circulo]: estrutura-organizacional.md#membros-do-circulo
-[parceiros]: organizacao.md#parceiros
-[papeis]: estrutura-organizacional.md#papeis
-[tensoes]: organizacao.md#tensoes
-[decisao-livre]: #decisao-livre
-[decisao-integrativa]: #decisao-integrativa
-[organizacao]: organizacao.md
-[objetor]: #objecoes
-[objecoes]: #objecoes
-[objecoes-validas]: #objecoes-validas
-[proposta]: #proposta
-[facilitador]: papeis-essenciais.md#facilitador
-[reuniao-de-circulo]: interacoes.md#reuniao-de-circulo
-[interacoes]: interacoes.md
-[adaptar]: interacoes.md#adaptar

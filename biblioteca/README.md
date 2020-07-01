@@ -1,13 +1,14 @@
 # Biblioteca de Padrões e Antipadrões
 
-## [Padrões](padroes/README.md)
+## [Padrões](padroes/)
 
 Solução recorrente e de sucesso para um problema que acontece em um contexto.
 
 Um padrão não é uma receita de bolo.
 
-## [Antipadrões](antipadroes/README.md)
+## [Antipadrões](antipadroes/)
 
 Solução ruim e recorrente, que não resolve o problema ou cria um contexto resultante com mais ou piores problemas.
 
- Um antipadrão não é garantia de fracasso.
+Um antipadrão não é garantia de fracasso.
+
