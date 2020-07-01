@@ -1,10 +1,10 @@
-# Versão Beta
+# Introduction
 
-*Esta é uma versão de testes da Organização Orgânica, ainda não recomendada para uso generalizado em organizações.*
+_Esta é uma versão de testes da Organização Orgânica, ainda não recomendada para uso generalizado em organizações._
 
 ## Introdução
 
-**Organização Orgânica \(O2\)** é uma tecnologia social que ajuda organizações a adotarem a autogestão. A O2 é composto pelos seus [Meta-Acordos](meta-acordos/README.md) e uma [Biblioteca de Padrões](biblioteca/README.md) em constante evolução.
+**Organização Orgânica \(O2\)** é uma tecnologia social que ajuda organizações a adotarem a autogestão. A O2 é composto pelos seus [Meta-Acordos](meta-acordos/) e uma [Biblioteca de Padrões](biblioteca/) em constante evolução.
 
 A O2 é influenciada e construída a partir de:
 
@@ -28,6 +28,7 @@ Qualquer pessoa pode propor mudanças nos Meta-Acordos enviando pull requests. A
 
 ## Licença
 
-[Aqui você pode encontrar maiores informações sobre a licença](LICENSE.MD).
+[Aqui você pode encontrar maiores informações sobre a licença](https://github.com/targetteal/organic-organization/tree/6ecfa251a288e2266cfd3afccf81508bb34e2eb0/LICENSE.MD).
 
 _O2 is currently developed in Portuguese, as most of the contributors are Brazilians. Each release is translated to English, and is available in_ [_another repo_](https://github.com/targetteal/organic-organization-translations/)_._
+

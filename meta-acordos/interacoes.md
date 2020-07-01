@@ -1,109 +1,79 @@
-# 3. <span id="interacoes">Interações</span>
+# 3. Interações
 
-Para perceber e tratar [Tensões][tensoes], os [Parceiros][parceiros] podem fazer uso de algumas "Interações" definidas nesta seção.
+Para perceber e tratar [Tensões](organizacao.md#tensoes), os [Parceiros](organizacao.md#parceiros) podem fazer uso de algumas "Interações" definidas nesta seção.
 
-## 3.1 <span id="revisar">Revisar</span>
+## 3.1 Revisar
 
-Na interação "Revisar", dois ou mais [Parceiros][parceiros] se reúnem para dar transparência ao trabalho realizado a partir dos seus diferentes [Papéis][papeis]. Durante a revisão, os [Parceiros][parceiros] podem realizar perguntas de esclarecimento buscando entender melhor o que é apresentado. O objetivo da interação Revisar é perceber [Tensões][tensoes] a partir de uma inspeção do trabalho.
+Na interação "Revisar", dois ou mais [Parceiros](organizacao.md#parceiros) se reúnem para dar transparência ao trabalho realizado a partir dos seus diferentes [Papéis](estrutura-organizacional.md#papeis). Durante a revisão, os [Parceiros](organizacao.md#parceiros) podem realizar perguntas de esclarecimento buscando entender melhor o que é apresentado. O objetivo da interação Revisar é perceber [Tensões](organizacao.md#tensoes) a partir de uma inspeção do trabalho.
 
-> Veja os **Padrões para Revisar** na [Biblioteca de Padrões](../biblioteca/README.md).
+> Veja os **Padrões para Revisar** na [Biblioteca de Padrões](../biblioteca/).
 
-## 3.2 <span id="sincronizar">Sincronizar</span>
+## 3.2 Sincronizar
 
-Na interação "Sincronizar", dois ou mais [Parceiros][parceiros] buscam tratar [Tensões][tensoes] engajando uns aos outros nos [Papéis][papeis] que energizam. A interação Sincronizar acontece a partir da [Estrutura Organizacional][estrutura-organizacional] atual e normalmente envolve pedidos e compartilhamento de informações.
+Na interação "Sincronizar", dois ou mais [Parceiros](organizacao.md#parceiros) buscam tratar [Tensões](organizacao.md#tensoes) engajando uns aos outros nos [Papéis](estrutura-organizacional.md#papeis) que energizam. A interação Sincronizar acontece a partir da [Estrutura Organizacional](estrutura-organizacional.md) atual e normalmente envolve pedidos e compartilhamento de informações.
 
-> Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](../biblioteca/README.md).
+> Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](../biblioteca/).
 
-## 3.3 <span id="adaptar">Adaptar</span>
+## 3.3 Adaptar
 
-Na interação "Adaptar", [Membros do Círculo][membros-do-circulo] buscam resolver [Tensões][tensoes] que envolvam mudanças na [Estrutura Organizacional][estrutura-organizacional]. Cada [Membro do Círculo][membros-do-circulo] sentindo uma [Tensão][tensoes] pode apresentar ou construir uma [Proposta][propostas] envolvendo as [Operações de Adaptar][operacoes-de-adaptar] e deve utilizar a [Decisão Integrativa de Círculo][decisao-integrativa-de-circulo] para tratá-la.
+Na interação "Adaptar", [Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) buscam resolver [Tensões](organizacao.md#tensoes) que envolvam mudanças na [Estrutura Organizacional](estrutura-organizacional.md). Cada [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo) sentindo uma [Tensão](organizacao.md#tensoes) pode apresentar ou construir uma [Proposta](decisoes.md#proposta) envolvendo as [Operações de Adaptar](interacoes.md#operacoes-de-adaptar) e deve utilizar a [Decisão Integrativa de Círculo](decisoes.md#decisao-integrativa-de-circulo) para tratá-la.
 
-> Veja os **Padrões para Adaptar** na [Biblioteca de Padrões](../biblioteca/README.md).
+> Veja os **Padrões para Adaptar** na [Biblioteca de Padrões](../biblioteca/).
 
-### 3.3.1 <span id="operacoes-de-adaptar">Operações de Adaptar</span>
+### 3.3.1 Operações de Adaptar
 
-Uma [Proposta][propostas] de [Adaptar][adaptar] pode somente incluir uma ou mais das operações descritas abaixo:
+Uma [Proposta](decisoes.md#proposta) de [Adaptar](interacoes.md#adaptar) pode somente incluir uma ou mais das operações descritas abaixo:
 
-* Adicionar, remover ou alterar [Papéis][papeis] do [Círculo][circulos];
-* Adicionar, remover ou alterar [Círculos][circulos] internos;
-* Adicionar, remover ou alterar [Restrições][restricoes] do [Círculo][circulos];
-* Mover seus [Papéis][papeis], [Restrições][restricoes] ou [Círculos][circulos] internos para um [Círculo][circulos] interno;
-* Mover [Papéis][papeis], [Restrições][restricoes] ou [Círculos][circulos] de um [Círculo][circulos] interno para si;
-* Transformar os seus [Papéis][papeis] em [Círculos][circulos] internos, e vice-versa.
+* Adicionar, remover ou alterar [Papéis](estrutura-organizacional.md#papeis) do [Círculo](estrutura-organizacional.md#circulos);
+* Adicionar, remover ou alterar [Círculos](estrutura-organizacional.md#circulos) internos;
+* Adicionar, remover ou alterar [Restrições](estrutura-organizacional.md#restricoes) do [Círculo](estrutura-organizacional.md#circulos);
+* Mover seus [Papéis](estrutura-organizacional.md#papeis), [Restrições](estrutura-organizacional.md#restricoes) ou [Círculos](estrutura-organizacional.md#circulos) internos para um [Círculo](estrutura-organizacional.md#circulos) interno;
+* Mover [Papéis](estrutura-organizacional.md#papeis), [Restrições](estrutura-organizacional.md#restricoes) ou [Círculos](estrutura-organizacional.md#circulos) de um [Círculo](estrutura-organizacional.md#circulos) interno para si;
+* Transformar os seus [Papéis](estrutura-organizacional.md#papeis) em [Círculos](estrutura-organizacional.md#circulos) internos, e vice-versa.
 
-## 3.4 <span id="cuidar">Cuidar</span>
+## 3.4 Cuidar
 
-Na interação "Cuidar", dois ou mais [Parceiros][parceiros] buscam tornar-se presentes e conectar-se profundamente através de escuta empática. Durante a interação Cuidar, os [Parceiros][parceiros] deixam de lado seus [Papeis][papeis] para estarem integralmente presentes como pessoas. Esta interação pode ser usada para ajudar um [Parceiro][parceiros] a compreender ou explorar uma [Tensão][tensoes] emocionalmente carregada, ou simplesmente proporcionar um espaço de apoio e fala livre da [Estrutura Organizacional][estrutura-organizacional].
+Na interação "Cuidar", dois ou mais [Parceiros](organizacao.md#parceiros) buscam tornar-se presentes e conectar-se profundamente através de escuta empática. Durante a interação Cuidar, os [Parceiros](organizacao.md#parceiros) deixam de lado seus [Papeis](estrutura-organizacional.md#papeis) para estarem integralmente presentes como pessoas. Esta interação pode ser usada para ajudar um [Parceiro](organizacao.md#parceiros) a compreender ou explorar uma [Tensão](organizacao.md#tensoes) emocionalmente carregada, ou simplesmente proporcionar um espaço de apoio e fala livre da [Estrutura Organizacional](estrutura-organizacional.md).
 
-> Veja os **Padrões para Cuidar** na [Biblioteca de Padrões](../biblioteca/README.md).
+> Veja os **Padrões para Cuidar** na [Biblioteca de Padrões](../biblioteca/).
 
-## 3.5 <span id="reuniao-de-circulo">Reunião de Círculo</span>
+## 3.5 Reunião de Círculo
 
-Uma "Reunião de Círculo" é um espaço onde os [Membros][membros-do-circulo] podem se encontrar regularmente para interagir, perceber e tratar [Tensões][tensoes]. Reuniões de Círculo são agendadas pelo [Secretário][secretario] e facilitadas pelo [Facilitador][facilitador], dois [Papéis Essenciais][papeis-essenciais].
+Uma "Reunião de Círculo" é um espaço onde os [Membros](estrutura-organizacional.md#membros-do-circulo) podem se encontrar regularmente para interagir, perceber e tratar [Tensões](organizacao.md#tensoes). Reuniões de Círculo são agendadas pelo [Secretário](papeis-essenciais.md#secretario) e facilitadas pelo [Facilitador](papeis-essenciais.md#facilitador), dois [Papéis Essenciais](papeis-essenciais.md).
 
-### 3.5.1 <span id="somente-membros-podem-tratar-tensoes">Somente Membros podem tratar Tensões</span>
+### 3.5.1 Somente Membros podem tratar Tensões
 
-[Parceiros][parceiros] que não são [Membros do Círculo][membros-do-circulo] não podem tratar [Tensões][tensoes] nas [Reuniões de Círculo][reunioes]. Ainda assim, outros [Parceiros][parceiros] podem ser convidados por um [Membro do Círculo][membros-do-circulo] para ajudar na tratativa de uma [Tensão][tensoes] específica. Neste caso, a tensão a ser tratada ainda será considerada do [Membro do Círculo][membros-do-circulo] e não do [Parceiro][parceiros] convidado.
+[Parceiros](organizacao.md#parceiros) que não são [Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) não podem tratar [Tensões](organizacao.md#tensoes) nas [Reuniões de Círculo](interacoes.md#reuniao-de-circulo). Ainda assim, outros [Parceiros](organizacao.md#parceiros) podem ser convidados por um [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo) para ajudar na tratativa de uma [Tensão](organizacao.md#tensoes) específica. Neste caso, a tensão a ser tratada ainda será considerada do [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo) e não do [Parceiro](organizacao.md#parceiros) convidado.
 
-### 3.5.2 <span id="formato-da-reuniao">Formato da Reunião</span>
+### 3.5.2 Formato da Reunião
 
-As [Reuniões de Círculo][reunioes] começam com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro. O [Facilitador][facilitador] preenche o encontro com as [Interações][interacoes] definidas nesta seção ou na [Estrutura Organizacional][estrutura-organizacional], de acordo com o tempo disponível e as necessidades do [Círculo][circulos]. As [Reuniões de Círculo][reunioes] terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
+As [Reuniões de Círculo](interacoes.md#reuniao-de-circulo) começam com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro. O [Facilitador](papeis-essenciais.md#facilitador) preenche o encontro com as [Interações](interacoes.md) definidas nesta seção ou na [Estrutura Organizacional](estrutura-organizacional.md), de acordo com o tempo disponível e as necessidades do [Círculo](estrutura-organizacional.md#circulos). As [Reuniões de Círculo](interacoes.md#reuniao-de-circulo) terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
 
-### 3.5.3 <span id="membros-ausentes">Membros ausentes</span>
+### 3.5.3 Membros ausentes
 
-Durante a [Reunião de Círculo][reunioes], um ou mais [Parceiros][parceiros] podem apresentar [Propostas][propostas] que utilizem a [Decisão Integrativa][decisao-integrativa]. Caso um [Parceiro][parceiros] não esteja presente na reunião, a [Proposta][propostas] segue como se ele ou ela não tivesse qualquer [Objeção][objecoes].
+Durante a [Reunião de Círculo](interacoes.md#reuniao-de-circulo), um ou mais [Parceiros](organizacao.md#parceiros) podem apresentar [Propostas](decisoes.md#proposta) que utilizem a [Decisão Integrativa](decisoes.md#decisao-integrativa). Caso um [Parceiro](organizacao.md#parceiros) não esteja presente na reunião, a [Proposta](decisoes.md#proposta) segue como se ele ou ela não tivesse qualquer [Objeção](https://github.com/targetteal/organic-organization/tree/6ecfa251a288e2266cfd3afccf81508bb34e2eb0/meta-acordos/deisoes.md#objecoes).
 
-### 3.5.4 <span id="">Priorize a Reunião</span>
+### 3.5.4 Priorize a Reunião
 
-Quando solicitado por outro [Membro de um Círculo][membros-do-circulo] do qual você faz parte, você deve priorizar participar da [Reunião de Círculo][reunioes] em detrimento de trabalhar nos seus [Papéis][papeis].
+Quando solicitado por outro [Membro de um Círculo](estrutura-organizacional.md#membros-do-circulo) do qual você faz parte, você deve priorizar participar da [Reunião de Círculo](interacoes.md#reuniao-de-circulo) em detrimento de trabalhar nos seus [Papéis](estrutura-organizacional.md#papeis).
 
-## 3.6 <span id="restricoes-de-facilitacao">Restrições de facilitação</span>
+## 3.6 Restrições de facilitação
 
-Durante a facilitação das [Interações][interacoes], o [Facilitador][facilitador] pode fazer escolhas de que padrões utilizar e como conduzir cada momento. Ainda assim, o [Facilitador][facilitador] deve sempre manter as suas escolhas alinhadas com o objetivo de cada [Interação][interacoes] e as necessidades do [Círculo][circulos]. Um [Círculo][circulos] pode também adotar uma ou mais [Restrições][restricoes] que limitem como os [Interações][interacoes] são conduzidas. O [Facilitador][facilitador] deve respeitar estas limitações.
+Durante a facilitação das [Interações](interacoes.md), o [Facilitador](papeis-essenciais.md#facilitador) pode fazer escolhas de que padrões utilizar e como conduzir cada momento. Ainda assim, o [Facilitador](papeis-essenciais.md#facilitador) deve sempre manter as suas escolhas alinhadas com o objetivo de cada [Interação](interacoes.md) e as necessidades do [Círculo](estrutura-organizacional.md#circulos). Um [Círculo](estrutura-organizacional.md#circulos) pode também adotar uma ou mais [Restrições](estrutura-organizacional.md#restricoes) que limitem como os [Interações](interacoes.md) são conduzidas. O [Facilitador](papeis-essenciais.md#facilitador) deve respeitar estas limitações.
 
-### 3.6.1 <span id="uma-tensao-de-cada-vez">Uma Tensão de cada vez</span>
+### 3.6.1 Uma Tensão de cada vez
 
-Nas [Interações][interacoes] que buscam tratar [Tensões][tensoes], tais como Sincronizar e Adaptar, o [Facilitador][facilitador] deverá focar a atenção em uma [Tensão][tensoes] de cada vez. Isto significa que o [Facilitador][facilitador] não deve permitir que outros participantes tentem incluir suas perspectivas na [Tensão][tensoes] sendo tratada, a não ser que o participante que sentiu a [Tensão][tensoes] originalmente acredite que aquela perspectiva seja útil.
+Nas [Interações](interacoes.md) que buscam tratar [Tensões](organizacao.md#tensoes), tais como Sincronizar e Adaptar, o [Facilitador](papeis-essenciais.md#facilitador) deverá focar a atenção em uma [Tensão](organizacao.md#tensoes) de cada vez. Isto significa que o [Facilitador](papeis-essenciais.md#facilitador) não deve permitir que outros participantes tentem incluir suas perspectivas na [Tensão](organizacao.md#tensoes) sendo tratada, a não ser que o participante que sentiu a [Tensão](organizacao.md#tensoes) originalmente acredite que aquela perspectiva seja útil.
 
-### 3.6.2 <span id="lista-de-tensoes">Lista de Tensões</span>
+### 3.6.2 Lista de Tensões
 
-Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador][facilitador] pode pedir que o [Secretário][secretario] construa uma "Lista de Tensões" a tratar. Cada [Membro do Círculo][membros-do-circulo] sentindo uma [Tensão][tensoes] pode então nomeá-la usando duas ou três palavras. O [Secretário][secretario] então registra o nome da [Tensão][tensoes], juntamente com o nome do [Parceiro][parceiros], de modo que o [Facilitador](#papeis-essenciais.md#facilitador) possa percorrê-la.
+Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador](papeis-essenciais.md#facilitador) pode pedir que o [Secretário](papeis-essenciais.md#secretario) construa uma "Lista de Tensões" a tratar. Cada [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo) sentindo uma [Tensão](organizacao.md#tensoes) pode então nomeá-la usando duas ou três palavras. O [Secretário](papeis-essenciais.md#secretario) então registra o nome da [Tensão](organizacao.md#tensoes), juntamente com o nome do [Parceiro](organizacao.md#parceiros), de modo que o [Facilitador](interacoes.md#papeis-essenciais.md#facilitador) possa percorrê-la.
 
-## 3.7 <span id="interacoes-assincronas">Interações Assíncronas</span>
+## 3.7 Interações Assíncronas
 
-As [Interações][interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reunioes] e neste caso são consideradas "Interações Assíncronas". Caso um [Parceiro][parceiros] apresente uma [Proposta][propostas] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Parceiro][parceiros] participando da decisão pode "escalar" a [Proposta][propostas] para uma [Reunião de Círculo][reunioes] convencional.
+As [Interações](interacoes.md) descritas nesta seção podem acontecer fora de uma [Reunião de Círculo](interacoes.md#reuniao-de-circulo) e neste caso são consideradas "Interações Assíncronas". Caso um [Parceiro](organizacao.md#parceiros) apresente uma [Proposta](decisoes.md#proposta) utilizando a [Decisão Integrativa](decisoes.md#decisao-integrativa) nestas circunstâncias, qualquer [Parceiro](organizacao.md#parceiros) participando da decisão pode "escalar" a [Proposta](decisoes.md#proposta) para uma [Reunião de Círculo](interacoes.md#reuniao-de-circulo) convencional.
 
-## 3.8 <span id="novas-interacoes">Novas Interações</span>
+## 3.8 Novas Interações
 
-Enquanto [Parceiro][parceiros], você pode criar novos tipos de [Interações][interacoes] além dos definidos nesta seção. Ainda assim, quaisquer expectativas ou limitações de autoridade devem ser registradas na [Estrutura Organizacional][estrutura-organizacional], na forma de [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes].
+Enquanto [Parceiro](organizacao.md#parceiros), você pode criar novos tipos de [Interações](interacoes.md) além dos definidos nesta seção. Ainda assim, quaisquer expectativas ou limitações de autoridade devem ser registradas na [Estrutura Organizacional](estrutura-organizacional.md), na forma de [Papéis](estrutura-organizacional.md#papeis), [Círculos](estrutura-organizacional.md#circulos) e [Restrições](estrutura-organizacional.md#restricoes).
 
-<!-- Links -->
-[meta-acordos]: README.md
-
-[proposito-evolutivo]: organizacao.md#proposito-evolutivo
-[organizacao]: organizacao.md
-[tensoes]: organizacao.md#tensoes
-[parceiros]: organizacao.md#parceiros
-
-[estrutura-organizacional]: estrutura-organizacional.md
-[membros-do-circulo]: estrutura-organizacional.md#membros-do-circulo
-[papeis]: estrutura-organizacional.md#papeis
-[restricoes]: estrutura-organizacional.md#restricoes
-[circulos]: estrutura-organizacional.md#circulos
-
-[decisao-integrativa]: decisoes.md#decisao-integrativa
-[decisao-integrativa-de-circulo]: decisoes.md#decisao-integrativa-de-circulo
-[propostas]: decisoes.md#proposta
-[objecoes]: deisoes.md#objecoes
-[deveres]: direitos-e-deveres.md
-
-[interacoes]: interacoes.md
-[adaptar]: interacoes.md#adaptar
-[operacoes-de-adaptar]: interacoes.md#operacoes-de-adaptar
-[reunioes]: interacoes.md#reuniao-de-circulo
-
-[papeis-essenciais]: papeis-essenciais.md
-[elo-externo]: papeis-essenciais.md#elo-externo
-[elo-interno]: papeis-essenciais.md#elo-interno
-[facilitador]: papeis-essenciais.md#facilitador
-[secretario]: papeis-essenciais.md#secretario
