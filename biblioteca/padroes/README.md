@@ -10,7 +10,6 @@
 - [Fórum Zegg](forum-zegg.md)
 - [Perguntas Poderosas](perguntas-poderosas.md)
 - [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
-- [Revisão Rápida](revisao-rapida.md)
 - [Revisão Tática](revisao-tatica.md)
 - [Sessão de Feedback em Círculo](sessao-de-feedback-em-circulo.md)
 - [Debate Estruturado](debate-estruturado.md)
