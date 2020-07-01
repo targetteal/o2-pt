@@ -27,7 +27,7 @@ Você pode a qualquer momento deixar de energizar [Papéis][papeis] em um ou mai
 
 ## 2.2 <span id="circulos">Círculos</span>
 
-Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. Quando um [Papel][papeis] é transformado em um Círculo, os [Parceiros][parceiros] que o energizam tornam-se o [Elo Externo][elo-externo] daquele [Círculo][circulos]. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
+Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
 
 ### 2.2.1 <span id="circulos-nao-alteram-sua-definicao">Círculos não alteram sua definição</span>
 
