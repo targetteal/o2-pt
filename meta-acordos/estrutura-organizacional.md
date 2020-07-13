@@ -19,7 +19,7 @@ A "Energização" diz respeito a quais [Parceiros](organizacao.md#parceiros) ded
 
 Ao perseguir o [Propósito](estrutura-organizacional.md#papeis) dos [Papéis](estrutura-organizacional.md#papeis) que energiza, você está sempre autorizado a tomar ação. Ainda assim você não deve impactar os [Artefatos](estrutura-organizacional.md#papeis) definidos em [Papéis](estrutura-organizacional.md#papeis) que você não energiza ou [Artefatos de Círculos](estrutura-organizacional.md#artefatos-do-circulo) que você não é [Membro](estrutura-organizacional.md#membros-do-circulo), sem antes obter uma permissão explícita do [Parceiro](organizacao.md#parceiros) responsável. Você também deve observar as [Restrições](estrutura-organizacional.md#restricoes) definidas na [Estrutura Organizacional](estrutura-organizacional.md) e seguir as condições nelas estabelecidas.
 
-Você também pode recusar um pedido caso não exista uma [Responsabilidade](estrutura-organizacional.md#papeis) explícita correspondente na descrição do [Papel](estrutura-organizacional.md#papeis) sendo solicitado. Ainda assim, você deve aceitar quaisquer solicitações que fizerem sentido para o [Propósito](estrutura-organizacional.md#papeis) de algum dos [Papéis](estrutura-organizacional.md#papeis) que você energiza.
+Ao receber um pedido, você pode avaliar se a solicitação ajuda você a expressar o [Propósito][papeis] ou a atender as [Responsabilidades][papeis] dos [Papéis][papeis] que você energiza. Você pode rejeitar quaisquer pedidos que interpretar não atenderem a esses critérios.
 
 ### 2.1.3 Deixando Papéis
 
@@ -27,7 +27,7 @@ Você pode a qualquer momento deixar de energizar [Papéis](estrutura-organizaci
 
 ## 2.2 Círculos
 
-Um "Círculo" é um [Papel](estrutura-organizacional.md#papeis) que possui a autoridade de se dividir em [Papéis](estrutura-organizacional.md#papeis) menores, contidos dentro dele mesmo. Quando um [Papel](estrutura-organizacional.md#papeis) é transformado em um Círculo, os [Parceiros](organizacao.md#parceiros) que o energizam tornam-se o [Elo Externo](papeis-essenciais.md#elo-externo) daquele [Círculo](estrutura-organizacional.md#circulos). [Círculos](estrutura-organizacional.md#circulos) são definidos exatamente como os [Papéis](estrutura-organizacional.md#papeis), ou seja, através dos elementos nome, [Propósito](estrutura-organizacional.md#papeis), [Responsabilidades](estrutura-organizacional.md#papeis) e [Artefatos](estrutura-organizacional.md#papeis).
+Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
 
 ### 2.2.1 Círculos não alteram sua definição
 
@@ -64,4 +64,3 @@ Um [Círculo](estrutura-organizacional.md#circulos) pode especificar um de seus 
 ## 2.6 Prioridades do Círculo
 
 Um [Círculo](estrutura-organizacional.md#circulos) pode estabelecer prioridades para orientar o trabalho dos seus [Membros](estrutura-organizacional.md#membros-do-circulo). Enquanto [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo), você deve priorizar o seu trabalho em alinhamento com estas diretrizes estabelecidas.
-
