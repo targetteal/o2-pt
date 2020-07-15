@@ -64,3 +64,6 @@ Um [Círculo](estrutura-organizacional.md#circulos) pode especificar um de seus 
 ## 2.6 Prioridades do Círculo
 
 Um [Círculo](estrutura-organizacional.md#circulos) pode estabelecer prioridades para orientar o trabalho dos seus [Membros](estrutura-organizacional.md#membros-do-circulo). Enquanto [Membro do Círculo](estrutura-organizacional.md#membros-do-circulo), você deve priorizar o seu trabalho em alinhamento com estas diretrizes estabelecidas.
+
+[papeis]: #papeis
+[circulos]: #circulos
