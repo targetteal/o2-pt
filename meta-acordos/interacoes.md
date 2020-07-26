@@ -103,7 +103,7 @@ Enquanto [Parceiro][parceiros], você pode criar novos tipos de [Interações][i
 [reunioes]: interacoes.md#reuniao-de-circulo
 
 [papeis-essenciais]: papeis-essenciais.md
-[elo-externo]: papeis-essenciais.md#elo-externo
-[elo-interno]: papeis-essenciais.md#elo-interno
+[guia]: papeis-essenciais.md#guia
+[representante]: papeis-essenciais.md#representante
 [facilitador]: papeis-essenciais.md#facilitador
 [secretario]: papeis-essenciais.md#secretario

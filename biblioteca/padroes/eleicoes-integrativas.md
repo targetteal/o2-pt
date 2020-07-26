@@ -14,14 +14,14 @@ A principal força deste padrão é realizar uma seleção rápida de pessoas pa
 
 ## Problema
 
-Os Meta-Acordos da O2 esperam que Membros do Círculo sejam selecionados para os [Papéis][papeis] de [Facilitador][facilitador], [Secretário][secretario] e [Elo Interno][elo-interno]. Este padrão apresenta uma forma simples e direta de eleger qualquer Membro do Círculo \(presente ou não no momento\), evitando ao máximo os vieses descritos na seção anterior.
+Os Meta-Acordos da O2 esperam que Membros do Círculo sejam selecionados para os [Papéis][papeis] de [Facilitador][facilitador], [Secretário][secretario] e [Representante][representante]. Este padrão apresenta uma forma simples e direta de eleger qualquer Membro do Círculo \(presente ou não no momento\), evitando ao máximo os vieses descritos na seção anterior.
 
 ## Solução
 
-No Modo Sincronizar da [Reunião de Círculo][reuniao-de-circulo], o facilitador ou o secretário podem conduzir uma eleição para os [Papéis][papeis] [Facilitador][facilitador], [Secretário][secretario] e/ou [Elo Interno][elo-interno] utilizando as seguintes etapas. Para cada eleição, repetir:
+No Modo Sincronizar da [Reunião de Círculo][reuniao-de-circulo], o facilitador ou o secretário podem conduzir uma eleição para os [Papéis][papeis] [Facilitador][facilitador], [Secretário][secretario] e/ou [Representante][representante] utilizando as seguintes etapas. Para cada eleição, repetir:
 
 1. **Apresentar Papel**: [Facilitador][facilitador] atual descreve o [Papel][papeis] que será eleito \(nome, propósito, responsabilidades e artefatos\) e especifica o tempo de vigência dessa eleição \(normalmente 3, 6 ou 12 meses\). Uma leitura e mais espaço para perguntas sobre o [Papel][papeis] geralmente é o suficiente. O [Facilitador][facilitador] também pode lembrar a todos quais são as pessoas elegíveis \(os membros do [Círculo][circulo]\), considerando as restrições definidas nos Meta-Acordos.
-2. **Votação Inicial**: Participantes que são membros do [Círculo][circulo] registram o seu voto em uma cédula. Isso pode ser feito descrevendo da seguinte forma: Eu, fulano, nomeio Ciclano para o [Papel][papeis] de X. Não é permitido votar em múltiplas pessoas ou se abster, mas é possível votar em si mesmo se você for elegível. As restrições dos meta-acordos devem ser respeitadas \(por exemplo, a pessoa que energiza o [Papel][papeis] de [Elo Externo][elo-externo] no [Círculo][circulos] não pode ser eleita como [Facilitador][facilitador] do mesmo [Círculo][circulos]\). A votação inicial é secreta e as nomeações só podem ser reveladas depois que todos votarem \(na próxima etapa\).
+2. **Votação Inicial**: Participantes que são membros do [Círculo][circulo] registram o seu voto em uma cédula. Isso pode ser feito descrevendo da seguinte forma: Eu, fulano, nomeio Ciclano para o [Papel][papeis] de X. Não é permitido votar em múltiplas pessoas ou se abster, mas é possível votar em si mesmo se você for elegível. As restrições dos meta-acordos devem ser respeitadas \(por exemplo, a pessoa que energiza o [Papel][papeis] de [Guia][guia] no [Círculo][circulos] não pode ser eleita como [Facilitador][facilitador] do mesmo [Círculo][circulos]\). A votação inicial é secreta e as nomeações só podem ser reveladas depois que todos votarem \(na próxima etapa\).
 3. **Explicação Inicial**. Em uma rodada, cada participante explica o motivo do seu voto, sem citar outros participantes além do votado. Este processo assegura que a pessoa irá se responsabilizar pela sua escolha, além de evitar com que ela deixe de lidar com a renúncia de não ter votado em outra pessoa.
 4. **Votação Final**: Depois de ouvirem todas as explicações, cada participante repete a votação, preenchendo novamente a cédula. É permitido manter o voto ou trocar para outra pessoa, caso você tenha sido convencido de algum outro argumento.
 5. **Explicação Final:** Cada participante que mudou o voto explica o porquê, sem citar outros participantes além do votado.
@@ -35,7 +35,7 @@ Objeções em um processo de eleição são raras, mas possíveis. A mais freque
 
 Outro caso comum é o participante alegar que tem disposição em fazer o [Papel][papeis], mas não possui as competências necessárias para desempenhá-lo. Nesse caso o [Facilitador][facilitador] pode lembrá-lo que ele pode experimentar o novo [Papel][papeis], e caso essa tensão se manifeste, ele pode pedir uma nova eleição.
 
-Uma objeção que pode ser descartada e desconsiderada nas Eleições Integrativas, é aquela que questiona o próprio processo de eleição. Por exemplo, em um dado grupo, um participante pode dizer que possui uma objeção e afirmar: o Gabriel que foi eleito não me representa. Este tipo de objeção deve ser descartada, porque isso desqualifica os próprios Meta-Acordos, que utilizam [Eleições][eleicoes] para energizar [Facilitador][facilitador], [Secretário][secretario] e [Elo Interno][elo-interno]. Caso isso aconteça, o [Facilitador][facilitador] deve também considerar o uso do Modo Cuidar, para tratar essa tensão trazida pelo participante que levantou a objeção, que tem caráter tribal \(é uma tensão entre pessoas\).
+Uma objeção que pode ser descartada e desconsiderada nas Eleições Integrativas, é aquela que questiona o próprio processo de eleição. Por exemplo, em um dado grupo, um participante pode dizer que possui uma objeção e afirmar: o Gabriel que foi eleito não me representa. Este tipo de objeção deve ser descartada, porque isso desqualifica os próprios Meta-Acordos, que utilizam [Eleições][eleicoes] para energizar [Facilitador][facilitador], [Secretário][secretario] e [Representante][representante]. Caso isso aconteça, o [Facilitador][facilitador] deve também considerar o uso do Modo Cuidar, para tratar essa tensão trazida pelo participante que levantou a objeção, que tem caráter tribal \(é uma tensão entre pessoas\).
 
 ## Contexto resultante
 
@@ -45,7 +45,7 @@ Em alguns casos, participantes também costumam sentir um certo desconforto na h
 
 ## Fundamentação
 
-Este padrão está presente na Holacracia e constitui a forma padrão e definitiva de realizar as [Eleições][eleicoes] dos [Papéis][papeis] de [Facilitador][facilitador], [Secretário][secretario] e Elo Representativo (o [Elo Interno][elo-interno] na O2).
+Este padrão está presente na Holacracia e constitui a forma padrão e definitiva de realizar as [Eleições][eleicoes] dos [Papéis][papeis] de [Facilitador][facilitador], [Secretário][secretario] e Elo Representativo (o [Representante][representante] na O2).
 
 ## Usos conhecidos
 
