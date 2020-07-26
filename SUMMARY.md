@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Últimas Mudanças](mudancas.md)
 * [Introdução](README.md)
 * [Meta-Acordos da Organização Orgânica](meta-acordos/README.md)
   * [1. Organização](meta-acordos/organizacao.md)

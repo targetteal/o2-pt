@@ -1,6 +1,6 @@
 # 2. <span id="estrutura-organizacional">Estrutura Organizacional</span>
 
-Os [Parceiros][parceiros] podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes]. Cada [Círculo][circulos] governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar][modo-adaptar].
+Os [Parceiros][parceiros] podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes]. Cada [Círculo][circulos] governa a sua Estrutura Organizacional, que somente pode ser alterada na interação [Adaptar][adaptar].
 
 ## 2.1 <span id="papeis">Papéis</span>
 
@@ -19,7 +19,7 @@ A "Energização" diz respeito a quais [Parceiros][parceiros] dedicam seu tempo 
 
 Ao perseguir o [Propósito][papeis] dos [Papéis][papeis] que energiza, você está sempre autorizado a tomar ação. Ainda assim você não deve impactar os [Domínios][papeis] definidos em [Papéis][papeis] que você não energiza ou [Domínios de Círculos][dominios-do-circulo] que você não é [Membro][membros-do-circulo], sem antes obter uma permissão explícita do [Parceiro][parceiros] responsável. Você também deve observar as [Restrições][restricoes] definidas na [Estrutura Organizacional][estrutura-organizacional] e seguir as condições nelas estabelecidas.
 
-Você também pode recusar um pedido caso não exista uma [Responsabilidade][papeis] explícita correspondente na descrição do [Papel][papeis] sendo solicitado. Ainda assim, você deve aceitar quaisquer solicitações que fizerem sentido para o [Propósito][papeis] de algum dos [Papéis][papeis] que você energiza.
+Ao receber um pedido, você pode avaliar se a solicitação ajuda você a expressar o [Propósito][papeis] ou a atender as [Responsabilidades][papeis] dos [Papéis][papeis] que você energiza. Você pode rejeitar quaisquer pedidos que interpretar não atenderem a esses critérios.
 
 ### 2.1.3 <span id="deixando-papeis">Deixando Papéis</span>
 
@@ -27,7 +27,7 @@ Você pode a qualquer momento deixar de energizar [Papéis][papeis] em um ou mai
 
 ## 2.2 <span id="circulos">Círculos</span>
 
-Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. Quando um [Papel][papeis] é transformado em um Círculo, os [Parceiros][parceiros] que o energizam tornam-se o [Guia][guia] daquele [Círculo][circulos]. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Domínios][papeis].
+Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
 
 ### 2.2.1 <span id="circulos-nao-alteram-sua-definicao">Círculos não alteram sua definição</span>
 
@@ -35,7 +35,7 @@ Um [Círculo][circulos] pode governar os seus próprios [Papéis][papeis] e [Res
 
 ### 2.2.2 <span id="circulos-nao-estruturam-seus-circulos-internos">Círculos não estruturam seus Círculos internos</span>
 
-Um [Círculo][circulos] não pode alterar os [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes] de um [Círculo][circulos] interno diretamente. No entanto, um [Círculo][circulos] pode realizar algumas operações no [Modo Adaptar][modo-adaptar], como mover [Papéis][papeis] de si para os seus [Círculos][circulos] internos e vice-versa.
+Um [Círculo][circulos] não pode alterar os [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes] de um [Círculo][circulos] interno diretamente. No entanto, um [Círculo][circulos] pode realizar algumas operações na interação [Adaptar][adaptar], como mover [Papéis][papeis] de si para os seus [Círculos][circulos] internos e vice-versa.
 
 ## 2.3 <span id="domínios-do-circulo">Domínios do Círculo</span>
 
@@ -52,6 +52,14 @@ Um [Círculo][circulos] pode especificar um de seus [Domínios][papeis] em um [P
 * Energizam pelo menos um [Papel][papeis] definido no [Círculo][circulos];
 * Energizam pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
 * Energizam o [Papel][papeis] de [Guia][guia] ou [Representante][representante] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
+
+## 2.4 <span id="artefatos-do-circulo">Artefatos do Círculo</span>
+
+Quando um [Círculo][circulos] possui [Artefatos][papeis] na sua definição, somente [Membros do Círculo][membros-do-circulo] e dos [Círculos][circulos] internos podem impactar estes [Artefatos][papeis] livremente.
+
+### 2.4.1 <span id="circulos-podem-delegar-artefatos">Círculos podem delegar Artefatos</span>
+
+Um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
 
 ## 2.5 <span id="restricoes">Restrições</span>
 
@@ -78,7 +86,7 @@ Um [Círculo][circulos] pode estabelecer prioridades para orientar o trabalho do
 [membros-do-circulo]: estrutura-organizacional.md#membros-do-circulo
 [papeis]: estrutura-organizacional.md#papeis
 [restricoes]: estrutura-organizacional.md#restricoes
-[modo-adaptar]: reunioes-de-circulo.md#modo-adaptar
+[adaptar]: interacoes.md#adaptar
 [papeis-essenciais]: papeis-essenciais.md
 [guia]: papeis-essenciais.md#guia
 [representante]: papeis-essenciais.md#representante

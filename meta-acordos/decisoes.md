@@ -1,4 +1,4 @@
-# 4. <span id="decisao">Decisões</span>
+# 4. <span id="decisoes">Decisões</span>
 
 Enquanto [Parceiro][parceiros], você pode fazer uso de diferentes "Processos Decisórios" descritos nesta seção, enquanto busca fazer uma escolha para responder a uma [Tensão][tensoes] que percebe.
 
@@ -8,7 +8,7 @@ Sempre que a [Estrutura Organizacional][estrutura-organizacional] ou os [Meta-Ac
 
 ## 4.2 <span id="decisao-integrativa">Decisão Integrativa</span>
 
-Uma "Decisão Integrativa" é quando um [Parceiro][parceiros] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de outros [Parceiros][parceiros] da [Organização][organizacao] para então responder à [Tensão][tensoes]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas. Este [Processo Decisório][processos-decisorios] é utilizando principalmente na [Interação][interacoes] [Adaptar][adaptar] para alterar a [Estrutura Organizacional][estrutura-organizacional]. 
+Uma "Decisão Integrativa" é quando um [Parceiro][parceiros] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de outros [Parceiros][parceiros] da [Organização][organizacao] para então responder à [Tensão][tensoes]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas. Este [Processo Decisório][processos-decisorios] é utilizando principalmente na [Interação][interacoes] [Adaptar][adaptar] para alterar a [Estrutura Organizacional][estrutura-organizacional].
 
 ### 4.2.1 <span id="proposta">Proposta</span>
 
@@ -24,7 +24,7 @@ Ao facilitar uma [Decisão Integrativa][decisao-integrativa] em uma [Reunião de
 
 ### 4.2.4 <span id="objecoes">Objeções</span>
 
-Durante uma [Decisão Integrativa][decisao-integrativa] em uma [Reunião de Círculo][reuniao-de-circulo], os [Parceiros][parceiros] podem apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade do [Parceiro][parceiros] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. Quando um [Parceiro][parceiros] apresenta uma [Objeção][objecoes] ele momentaneamente se torna o "Objetor" daquela [Proposta][proposta].
+Durante uma [Decisão Integrativa][decisao-integrativa], os [Parceiros][parceiros] podem apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade do [Parceiro][parceiros] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. Quando um [Parceiro][parceiros] apresenta uma [Objeção][objecoes] ele momentaneamente se torna o "Objetor" daquela [Proposta][proposta].
 
 ### 4.2.5 <span id="objecoes-validas">Objeções Válidas</span>
 

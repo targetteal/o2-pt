@@ -110,7 +110,7 @@ O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
 [restricoes]: estrutura-organizacional.md#restricoes
 [energizacao]: estrutura-organizacional.md#energizacao
 
-[reunioes-de-circulo]: reunioes-de-circulo.md
+[reunioes-de-circulo]: interacoes.md#reuniao-de-circulo
 
 [papeis-essenciais]: papeis-essenciais.md
 [guia]: papeis-essenciais.md#guia
