@@ -6,7 +6,7 @@ Um [Círculo][circulos] que está funcionando, porém onde as pessoas ainda não
 
 ## Forças
 
-O tema feedback suscita desconfortos e até trauma na maioria das pessoas que já vivenciou um ambiente corporativo. Em um processo de transição para autogestão usando Organização Orgânica, o tema ainda pode gerar grande ansiedade no início. Por mais que esteja escrito nos meta-acordos que é responsabilidade do Guia oferecer feedback para melhorar a adequação da pessoa em um [Papel][papeis], ainda é confuso para muitos o que é isso na prática.
+O tema feedback suscita desconfortos e até trauma na maioria das pessoas que já vivenciou um ambiente corporativo. Em um processo de transição para autogestão usando Organização Orgânica, o tema ainda pode gerar grande ansiedade no início. Por mais que esteja escrito nos meta-acordos que é responsabilidade do Elo Externo oferecer feedback para melhorar a adequação da pessoa em um [Papel][papeis], ainda é confuso para muitos o que é isso na prática.
 
 ## Problema
 
@@ -48,7 +48,7 @@ A consigna dada pelo [Facilitador][facilitador]:
 5. Dar ultima olhada em todos as folhas que você deixou feedbacks \(10min\)
 6. Não se contentar com essa sessão, continuar buscando feedbacks e pensando em como melhorar.
 
-Se o Guia do [Círculo][circulos] tem a atribuição de alocar pessoas em [Papéis][papeis] e dar feedback de adequação, é fundamental que ele esteja presente nessa sessão. Porém, todos terão oportunidade de trocar feedback e isso é importante no desenvolvimento de cada indivíduo nos respectivos [Papéis][papeis].
+Se o Elo Externo do [Círculo][circulos] tem a atribuição de alocar pessoas em [Papéis][papeis] e dar feedback de adequação, é fundamental que ele esteja presente nessa sessão. Porém, todos terão oportunidade de trocar feedback e isso é importante no desenvolvimento de cada indivíduo nos respectivos [Papéis][papeis].
 
 Chame a atenção dos participantes para um tipo específico de feedback que na verdade é a manifestação de uma expectativa implícita. Por exemplo, existe um [Papel][papeis] de Infraestrutura do site, e nele não consta uma [Responsabilidade][papeis] que diz: “Fazer back-ups regulares do site.”. Neste contexto, dar um feedback como “Você deveria ter feito mais back-ups, para evitar os problemas que tivemos” seria uma expectativa implícita que poderia ser melhor resolvida no [Modo Adaptar][adaptar], com a proposta de uma nova [Responsabilidade][papeis].
 

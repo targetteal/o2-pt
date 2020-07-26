@@ -30,7 +30,7 @@ Depois de compartilhar as observações, o [Facilitador][facilitador] pode tamb�
 
 ### Exemplo de Aplicação
 
-Imagine que um [Facilitador][facilitador] está participante de uma [Reunião de Círculo][reunioes-de-circulo] com quatro pessoas. Kelly ([Guia][guia] e antiga gestora do time), Roberto (pessoa nova no círculo e [Secretário][secretario]), Eloá (membro menos experimente) e Yuri (membro mais experiente, um antigo coordenador).
+Imagine que um [Facilitador][facilitador] está participante de uma [Reunião de Círculo][reunioes-de-circulo] com quatro pessoas. Kelly ([Elo Externo][elo-externo] e antiga gestora do time), Roberto (pessoa nova no círculo e [Secretário][secretario]), Eloá (membro menos experimente) e Yuri (membro mais experiente, um antigo coordenador).
 
 Durante o [Modo Sincronizar][modo-sincronizar], Eloá traz uma [Tensão][tensoes] relacionada a uma responsabilidade de um [Papel][papeis] que ela desempenha, chamado Mestre do Instagram.
 

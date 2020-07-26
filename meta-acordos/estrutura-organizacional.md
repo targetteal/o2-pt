@@ -23,11 +23,11 @@ Você também pode recusar um pedido caso não exista uma [Responsabilidade][pap
 
 ### 2.1.3 <span id="deixando-papeis">Deixando Papéis</span>
 
-Você pode a qualquer momento deixar de energizar [Papéis][papeis] em um ou mais [Círculos][circulos], a não ser que você tenha de outra forma acordado com o [Guia][guia] ou outro processo de [Energização][energizacao].
+Você pode a qualquer momento deixar de energizar [Papéis][papeis] em um ou mais [Círculos][circulos], a não ser que você tenha de outra forma acordado com o [Elo Externo][elo-externo] ou outro processo de [Energização][energizacao].
 
 ## 2.2 <span id="circulos">Círculos</span>
 
-Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. Quando um [Papel][papeis] é transformado em um Círculo, os [Parceiros][parceiros] que o energizam tornam-se o [Guia][guia] daquele [Círculo][circulos]. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
+Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. Quando um [Papel][papeis] é transformado em um Círculo, os [Parceiros][parceiros] que o energizam tornam-se o [Elo Externo][elo-externo] daquele [Círculo][circulos]. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
 
 ### 2.2.1 <span id="circulos-nao-alteram-sua-definicao">Círculos não alteram sua definição</span>
 
@@ -51,7 +51,7 @@ Um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [P
 
 * Energizam pelo menos um [Papel][papeis] definido no [Círculo][circulos];
 * Energizam pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
-* Energizam o [Papel][papeis] de [Guia][guia] ou [Representante][representante] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
+* Energizam o [Papel][papeis] de [Elo Externo][elo-externo] ou [Elo Interno][elo-interno] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
 
 ## 2.5 <span id="restricoes">Restrições</span>
 

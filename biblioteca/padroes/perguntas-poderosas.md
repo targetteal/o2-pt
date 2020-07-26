@@ -38,7 +38,7 @@ Para revelar a estrutura atual e mostrar para os participantes que o que importa
 - **D.** Existe algum [Artefato][papeis] ou [Restrição][restricoes] que impeça a sua ação?
 - **E.** Você está esperando que alguém faça isso?
 
-O foco neste caso é ajudar o participante a fazer um pedido claro. O primeiro passo é verificar o que diz a estrutura a respeito do pedido sendo feito. Se já existir um [Papel][papeis] que cuida daquilo, basta encaminhar o pedido àquele [Papel][papeis]. Se ele for de outro [Círculo][circulos], o [Representante][representante] pode ajudar. Se não existir um [Papel][papeis], o [Facilitador][facilitador] pode ajudar o participante a pedir um ato heróico ou então propor uma responsabilidade ou novo [Papel][papeis] no modo adaptar.
+O foco neste caso é ajudar o participante a fazer um pedido claro. O primeiro passo é verificar o que diz a estrutura a respeito do pedido sendo feito. Se já existir um [Papel][papeis] que cuida daquilo, basta encaminhar o pedido àquele [Papel][papeis]. Se ele for de outro [Círculo][circulos], o [Elo Interno][elo-interno] pode ajudar. Se não existir um [Papel][papeis], o [Facilitador][facilitador] pode ajudar o participante a pedir um ato heróico ou então propor uma responsabilidade ou novo [Papel][papeis] no modo adaptar.
 
 Se tudo indica que é o próprio participante que possui um [Papel][papeis] responsável, o [Facilitador][facilitador] pode verificar o que ele ou ela quer fazer:
 

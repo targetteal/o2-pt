@@ -26,7 +26,7 @@ O primeiro elemento desse padrão é a criação de um papel responsável pela b
 >
 > * Manter e publicar a biblioteca oficial de Badges
 > * Revisar e avaliar adições ou propostas de mudanças à biblioteca de Badges quando propostas completas de Badges forem enviadas por quaisquer Papéis ou pessoas da organização;
-> * Auxiliar outros Papéis e pessoas na construção de propostas de Badges, mediante solicitação e sobre a confirmação de que um Guia acredita que a Badge representa uma consideração significativa na escolha da atribuição.
+> * Auxiliar outros Papéis e pessoas na construção de propostas de Badges, mediante solicitação e sobre a confirmação de que um Elo Externo acredita que a Badge representa uma consideração significativa na escolha da atribuição.
 
 O segundo passo é adicionar uma restrição que deixa claro o processo que as pessoas precisam seguir para propor novas badges ou fazer alterações/exclusões em badges já existentes.
 
