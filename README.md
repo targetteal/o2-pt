@@ -1,10 +1,10 @@
-# Introduction
+# Versão Beta
 
-_Esta é uma versão de testes da Organização Orgânica, ainda não recomendada para uso generalizado em organizações._
+*Esta é uma versão de testes da Organização Orgânica, ainda não recomendada para uso generalizado em organizações.*
 
 ## Introdução
 
-**Organização Orgânica \(O2\)** é uma tecnologia social que ajuda organizações a adotarem a autogestão. A O2 é composto pelos seus [Meta-Acordos](meta-acordos/) e uma [Biblioteca de Padrões](biblioteca/) em constante evolução.
+**Organização Orgânica \(O2\)** é uma tecnologia social que ajuda organizações a adotarem a autogestão. A O2 é composto pelos seus [Meta-Acordos](meta-acordos/README.md) e uma [Biblioteca de Padrões](biblioteca/README.md) em constante evolução.
 
 A O2 é influenciada e construída a partir de:
 

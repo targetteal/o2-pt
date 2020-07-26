@@ -1,8 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
 * [Últimas Mudanças](mudancas.md)
-* [Introdução](readme.md)
+* [Introdução](README.md)
 * [Meta-Acordos da Organização Orgânica](meta-acordos/README.md)
   * [1. Organização](meta-acordos/organizacao.md)
   * [2. Estrutura Organizacional](meta-acordos/estrutura-organizacional.md)
@@ -27,4 +26,3 @@
     * [Tudo é de Todos](biblioteca/antipadroes/tudo-e-de-todos.md)
 * [Licença](license.md)
 * [Atribuições de Licença](atribuicoes-licenca.md)
-
