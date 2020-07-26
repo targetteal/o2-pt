@@ -27,7 +27,7 @@ Você pode a qualquer momento deixar de energizar [Papéis][papeis] em um ou mai
 
 ## 2.2 <span id="circulos">Círculos</span>
 
-Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
+Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Domínios][papeis].
 
 ### 2.2.1 <span id="circulos-nao-alteram-sua-definicao">Círculos não alteram sua definição</span>
 
@@ -53,13 +53,13 @@ Um [Círculo][circulos] pode especificar um de seus [Domínios][papeis] em um [P
 * Energizam pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
 * Energizam o [Papel][papeis] de [Guia][guia] ou [Representante][representante] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
 
-## 2.4 <span id="artefatos-do-circulo">Artefatos do Círculo</span>
+## 2.4 <span id="dominios-do-circulo">Domínios do Círculo</span>
 
-Quando um [Círculo][circulos] possui [Artefatos][papeis] na sua definição, somente [Membros do Círculo][membros-do-circulo] e dos [Círculos][circulos] internos podem impactar estes [Artefatos][papeis] livremente.
+Quando um [Círculo][circulos] possui [Domínios][papeis] na sua definição, somente [Membros do Círculo][membros-do-circulo] e dos [Círculos][circulos] internos podem impactar estes [Domínios][papeis] livremente.
 
-### 2.4.1 <span id="circulos-podem-delegar-artefatos">Círculos podem delegar Artefatos</span>
+### 2.4.1 <span id="circulos-podem-delegar-dominios">Círculos podem delegar Domínios</span>
 
-Um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
+Um [Círculo][circulos] pode especificar um de seus [Domínios][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
 
 ## 2.5 <span id="restricoes">Restrições</span>
 
