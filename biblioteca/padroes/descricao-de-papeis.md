@@ -46,7 +46,7 @@ Nesta etapa, [Responsabilidades][papeis] muito próximas ou duplicadas também s
 
 **5) Verificação:** Os participantes podem tentar identificar quem desempenha cada um dos [Papéis][papeis], posicionando um nota adesiva pequena com o nome das pessoas ao lado dos agrupamentos. Após isso, é importante verificar se cada participante que desempenha o [Papel][papeis] de fato executa todas as [Responsabilidades][papeis] ali presentes. Não é possível você energizar apenas uma parte do [Papel][papeis]. Talvez a partir dessa verificação um [Papel][papeis] deva ser dividido em outros [Papéis][papeis] menores.
 
-**6) Artefatos:** Verifica-se se não existe algum [Artefato][papeis] de controle exclusivo que já é conhecido e que precisa ser registrado em algum [Papel][papeis]. Lembre-se: vale somente adicionar [Artefato][papeis]s que já são, de fato, de controle exclusivo de alguém. Também é possível pular essa etapa e começar sem nenhum [Artefato][papeis].
+**6) Domínios:** Verifica-se se não existe algum [Domínio][papeis] de controle exclusivo que já é conhecido e que precisa ser registrado em algum [Papel][papeis]. Lembre-se: vale somente adicionar [Domínio][papeis]s que já são, de fato, de controle exclusivo de alguém. Também é possível pular essa etapa e começar sem nenhum [Domínio][papeis].
 
 Pronto, a estrutura inicial está descrita!
 
@@ -59,7 +59,7 @@ Pronto, a estrutura inicial está descrita!
 
 **Garantir**: Em geral, implica uma tentativa de controlar um resultado. Devemos capturar como isto é feito, e não o resultado final. Exemplos Ao invés de: “Garantir que o produto tenha o maior engajamento possível”, devemos nos perguntar, como isto é feito? A resposta talvez seja “Desenvolver funcionalidades que aumentem o engajamento dos usuários”.
 
-**Aprovar**: Em geral quando alguém utiliza o verbo aprovar, esta pessoa está buscando o controle exclusivo de algo. Mas na O2, uma [Responsabilidade][papeis] nunca limita outro [Papel][papeis]. Normalmente faz mais sentido adicionar o [Artefato][papeis] da "coisa" que se está buscando aprovação no [Papel][papeis] que centraliza isso. Exemplo: ao invés da [Responsabilidade][papeis] "Aprovar alterações no Website", adicionar o [Artefato][papeis] "Alterações on Website" no [Papel][papeis].
+**Aprovar**: Em geral quando alguém utiliza o verbo aprovar, esta pessoa está buscando o controle exclusivo de algo. Mas na O2, uma [Responsabilidade][papeis] nunca limita outro [Papel][papeis]. Normalmente faz mais sentido adicionar o [Domínio][papeis] da "coisa" que se está buscando aprovação no [Papel][papeis] que centraliza isso. Exemplo: ao invés da [Responsabilidade][papeis] "Aprovar alterações no Website", adicionar o [Domínio][papeis] "Alterações on Website" no [Papel][papeis].
 
 **Alinhar**: O verbo alinhar em português é muito ambíguo e geralmente não dá a clareza que buscamos nos [Papéis][papeis]. Pode significar: decidir em conjunto, comunicar alguma coisa, buscar aconselhamento, etc. Utilize qualquer um desses citados, que já são mais objetivos que alinhar.
 

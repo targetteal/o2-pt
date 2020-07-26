@@ -19,9 +19,9 @@ Qualquer [Membro do Círculo][membros-do-circulo] pode solicitar "Eleições" pa
 Os [Papéis Essenciais][papeis-essenciais] de cada [Círculo][circulos] podem ser alterados, desde que as restrições abaixo sejam respeitadas:
 
 * O nome e o [Propósito][papeis] dos [Papéis Essenciais][papeis-essenciais] não pode ser alterado;
-* Novas [Responsabilidades][papeis] e [Artefatos][papeis] não podem ser acrescidas ao [Papel][papeis] do [Elo Externo][elo-externo];
-* As [Responsabilidades][papeis] e [Artefatos][papeis] iniciais do Papel [Elo Externo][elo-externo] podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel][papeis] ou processo no [Círculo][circulos];
-* As [Responsabilidades][papeis] e [Artefatos][papeis] iniciais dos [Papéis][papeis] de [Facilitador][facilitador], [Secretário][secretario] e [Elo Interno][elo-interno] não podem ser removidas ou modificadas;
+* Novas [Responsabilidades][papeis] e [Domínios][papeis] não podem ser acrescidas ao [Papel][papeis] do [Elo Externo][elo-externo];
+* As [Responsabilidades][papeis] e [Domínios][papeis] iniciais do Papel [Elo Externo][elo-externo] podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel][papeis] ou processo no [Círculo][circulos];
+* As [Responsabilidades][papeis] e [Domínios][papeis] iniciais dos [Papéis][papeis] de [Facilitador][facilitador], [Secretário][secretario] e [Elo Interno][elo-interno] não podem ser removidas ou modificadas;
 * Os [Papéis Essenciais][papeis-essenciais] não podem ser removidos.
 
 ### 5.2.1 <span id="alteracoes-nos-papeis-essenciais-nao-propagam">Alterações nos Papéis Essenciais não propagam</span>
@@ -30,11 +30,11 @@ As alterações realizadas nos [Papeis Essenciais][papeis-essenciais] de um [Cí
 
 ## 5.3 <span id="energizacao-de-papeis-definidos">Energização de Papéis Definidos</span>
 
-O [Elo Externo][elo-externo] é responsável por convidar [Parceiros][parceiros] para energizarem os [Papéis][papeis] definidos no [Círculo][circulos], com exceção dos [Papéis Essenciais][papeis-essenciais]. O [Elo Externo][elo-externo] pode convidar qualquer [Parceiro][parceiros], a não ser que uma [Restrição][restricoes] diga o contrário. Uma [Restrição][restricoes] também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade][papeis] e o [Artefato][papeis] correspondente do [Elo Externo][elo-externo].
+O [Elo Externo][elo-externo] é responsável por convidar [Parceiros][parceiros] para energizarem os [Papéis][papeis] definidos no [Círculo][circulos], com exceção dos [Papéis Essenciais][papeis-essenciais]. O [Elo Externo][elo-externo] pode convidar qualquer [Parceiro][parceiros], a não ser que uma [Restrição][restricoes] diga o contrário. Uma [Restrição][restricoes] também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade][papeis] e o [Domínio][papeis] correspondente do [Elo Externo][elo-externo].
 
 ### 5.3.1 <span id="">Foco</span>
 
-O processo de [Energização][energizacao] também pode definir um "Foco" para o [Parceiro][parceiros] que energiza um [Papel][papeis]. Este Foco é uma área de atuação em que o [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis] do [Papel][papeis] se aplicam somente.  
+O processo de [Energização][energizacao] também pode definir um "Foco" para o [Parceiro][parceiros] que energiza um [Papel][papeis]. Este Foco é uma área de atuação em que o [Propósito][papeis], [Responsabilidades][papeis] e [Domínios][papeis] do [Papel][papeis] se aplicam somente.  
 
 ## 5.4 <span id="energizacao-do-elo-externo">Energização do Elo Externo</span>
 
@@ -62,7 +62,7 @@ O [Papel][papeis] do "Secretário" possui a seguinte definição inicial:
 * Registar as pedidos e propostas feitos nas [Reuniões de Círculo][reunioes-de-circulo]
 * Interpretar os [Meta-Acordos][meta-acordos] e a [Estrutura Organizacional][estrutura-organizacional] mediante solicitações
 
-**Artefatos**:
+**Domínios**:
 
 * Registros da [Estrutura Organizacional][estrutura-organizacional] do [Círculo][circulos]
 
@@ -79,11 +79,11 @@ O [Papel][papeis] do "Elo Externo" possui a seguinte definição inicial:
 * Oferecer feedback para melhorar a adequação entre [Parceiro][parceiros] e [Papel][papeis], desenergizando quando necessário
 * Estabelecer prioridades para o [Círculo][circulos]
 
-**Artefatos**:
+**Domínios**:
 
 * Energização de [Papéis][papeis] definidos no [Círculo][circulos]
 
-O Elo Externo detém todas as [Responsabilidades][papeis] e [Artefatos][papeis] não delegados do [Círculo][circulos].
+O Elo Externo detém todas as [Responsabilidades][papeis] e [Domínios][papeis] não delegados do [Círculo][circulos].
 
 ## 5.8 <span id="elo-interno">Elo Interno</span>
 

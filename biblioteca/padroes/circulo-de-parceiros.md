@@ -18,7 +18,7 @@ Na maior parte das organizações, tudo que tange a relação Parceiros-Organiza
 
 ## Solução
 
-A solução passa pela definição de um [Círculo][circulos] denominado “Parceiros”, “Relações Parceiros-Organização”, ou qualquer outro nome que represente as pessoas da [Organização][organizacao] em questão. Este [Círculo][circulos] tem a autoridade exclusiva \(na forma de um [Artefato][papeis]\) de governar a relação Parceiros-Organização. A ideia central é que qualquer mudança nos contratos dos [Parceiros][parceiros] deve ser decidida por este [Círculo][circulos]. Além disso, quando uma pessoa busca uma mudança, ela deve integrar [Objeções][objecoes] de todos os membros do [Círculo][circulos].
+A solução passa pela definição de um [Círculo][circulos] denominado “Parceiros”, “Relações Parceiros-Organização”, ou qualquer outro nome que represente as pessoas da [Organização][organizacao] em questão. Este [Círculo][circulos] tem a autoridade exclusiva \(na forma de um [Domínio][papeis]\) de governar a relação Parceiros-Organização. A ideia central é que qualquer mudança nos contratos dos [Parceiros][parceiros] deve ser decidida por este [Círculo][circulos]. Além disso, quando uma pessoa busca uma mudança, ela deve integrar [Objeções][objecoes] de todos os membros do [Círculo][circulos].
 
 ![Círculo de Parceiros](../imagens/circulo-de-parceiros.png)
 
@@ -32,7 +32,7 @@ O primeiro elemento do padrão constitui a criação de um [Círculo][circulos]:
 >
 > * Definir condições e restrições que limitem como mudanças nas relações entre a [Organização][organizacao] e os seus [Parceiros][parceiros] devem acontecer
 >
-> **Artefatos**:
+> **Domínios**:
 >
 > * Relação Parceiros-Organizações \(mudanças nos contratos de trabalho, como rescisão, aumentos, admissões, etc\)
 

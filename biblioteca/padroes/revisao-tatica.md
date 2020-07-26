@@ -53,7 +53,7 @@ Os checklists, métricas e projetos de cada [Papel][papeis] do [Círculo][circul
 
 **Projetos**: [Facilitador][facilitador] lê cada projeto e pergunta ao participante responsável: "Alguma atualização? O participante responde reportando o que mudou no projeto desde o último encontro. Se não houverem atualizações, o participante deve responder apenas sem atualizações. Perguntas rápidas de esclarecimento são permitidas, demais preocupações e pedidos deverão ser tratadas como [Tensões][tensoes].
 
-Os checklists, métricas e projetos iniciais podem ser alterados. Novos também podem ser criados ao longo dos encontros. Cada solicitação de mudança pode ser tratada com uma [Tensão][tensoes] e processada no [Modo Sincronizar][modo-sincronizar], ou fora das [Reuniões de Círculo][reunioes-de-circulo]. O dono dos checklists, métricas e projetos pode alterá-los livremente, a não ser que uma [Restrição][restricoes] ou [Artefato][papeis] diga o contrário.
+Os checklists, métricas e projetos iniciais podem ser alterados. Novos também podem ser criados ao longo dos encontros. Cada solicitação de mudança pode ser tratada com uma [Tensão][tensoes] e processada no [Modo Sincronizar][modo-sincronizar], ou fora das [Reuniões de Círculo][reunioes-de-circulo]. O dono dos checklists, métricas e projetos pode alterá-los livremente, a não ser que uma [Restrição][restricoes] ou [Domínio][papeis] diga o contrário.
 
 ## Contexto resultante
 
