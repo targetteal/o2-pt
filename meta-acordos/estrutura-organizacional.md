@@ -23,7 +23,7 @@ Ao receber um pedido, você pode avaliar se a solicitação ajuda você a expres
 
 ### 2.1.3 <span id="deixando-papeis">Deixando Papéis</span>
 
-Você pode a qualquer momento deixar de energizar [Papéis][papeis] em um ou mais [Círculos][circulos], a não ser que você tenha de outra forma acordado com o [Guia][guia] ou outro processo de [Energização][energizacao].
+Você pode a qualquer momento deixar de energizar [Papéis][papeis] em um ou mais [Círculos][circulos], a não ser que você tenha de outra forma acordado com o [Anfitrião][anfitriao] ou outro processo de [Energização][energizacao].
 
 ## 2.2 <span id="circulos">Círculos</span>
 
@@ -51,7 +51,7 @@ Um [Círculo][circulos] pode especificar um de seus [Domínios][papeis] em um [P
 
 * Energizam pelo menos um [Papel][papeis] definido no [Círculo][circulos];
 * Energizam pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
-* Energizam o [Papel][papeis] de [Guia][guia] ou [Representante][representante] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
+* Energizam o [Papel][papeis] de [Anfitrião][anfitriao] ou [Representante][representante] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
 
 ## 2.4 <span id="dominios-do-circulo">Domínios do Círculo</span>
 

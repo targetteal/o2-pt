@@ -1,6 +1,6 @@
 # 5. <span id="papeis-essenciais">Papéis Essenciais</span>
 
-Cada [Círculo][circulos] contém "Papéis Essenciais", chamados de [Guia][guia], [Representante][representante], [Facilitador][facilitador] e [Secretário][secretario].
+Cada [Círculo][circulos] contém "Papéis Essenciais", chamados de [Anfitrião][anfitriao], [Representante][representante], [Facilitador][facilitador] e [Secretário][secretario].
 
 ## 5.1 <span id="papeis-essenciais-eleitos">Papéis Essenciais Eleitos</span>
 
@@ -8,7 +8,7 @@ Os [Papéis Essenciais][papeis-essenciais] de [Facilitador][facilitador], [Secre
 
 ### 5.1.1 <span id="parceiros-elegiveis">Parceiros Elegíveis</span>
 
-Todos e apenas os [Membros do Círculo][membros-do-circulo] são elegíveis para energizar os [Papéis Essenciais Eleitos][papeis-essenciais-eleitos]. Ainda assim, o [Parceiro][parceiros] que energiza o [Papel][papeis] de [Guia][guia] não pode energizar o [Papel][papeis] de [Facilitador][facilitador] ou [Representante][representante] no mesmo [Círculo][circulos].
+Todos e apenas os [Membros do Círculo][membros-do-circulo] são elegíveis para energizar os [Papéis Essenciais Eleitos][papeis-essenciais-eleitos]. Ainda assim, o [Parceiro][parceiros] que energiza o [Papel][papeis] de [Anfitrião][anfitriao] não pode energizar o [Papel][papeis] de [Facilitador][facilitador] ou [Representante][representante] no mesmo [Círculo][circulos].
 
 ### 5.1.2 <span id="eleicoes">Eleições</span>
 
@@ -19,8 +19,8 @@ Qualquer [Membro do Círculo][membros-do-circulo] pode solicitar "Eleições" pa
 Os [Papéis Essenciais][papeis-essenciais] de cada [Círculo][circulos] podem ser alterados, desde que as restrições abaixo sejam respeitadas:
 
 * O nome e o [Propósito][papeis] dos [Papéis Essenciais][papeis-essenciais] não pode ser alterado;
-* Novas [Responsabilidades][papeis] e [Domínios][papeis] não podem ser acrescidas ao [Papel][papeis] do [Guia][guia];
-* As [Responsabilidades][papeis] e [Domínios][papeis] iniciais do Papel [Guia][guia] podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel][papeis] ou processo no [Círculo][circulos];
+* Novas [Responsabilidades][papeis] e [Domínios][papeis] não podem ser acrescidas ao [Papel][papeis] do [Anfitrião][anfitriao];
+* As [Responsabilidades][papeis] e [Domínios][papeis] iniciais do Papel [Anfitrião][anfitriao] podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel][papeis] ou processo no [Círculo][circulos];
 * As [Responsabilidades][papeis] e [Domínios][papeis] iniciais dos [Papéis][papeis] de [Facilitador][facilitador], [Secretário][secretario] e [Representante][representante] não podem ser removidas ou modificadas;
 * Os [Papéis Essenciais][papeis-essenciais] não podem ser removidos.
 
@@ -30,15 +30,15 @@ As alterações realizadas nos [Papeis Essenciais][papeis-essenciais] de um [Cí
 
 ## 5.3 <span id="energizacao-de-papeis-definidos">Energização de Papéis Definidos</span>
 
-O [Guia][guia] é responsável por convidar [Parceiros][parceiros] para energizarem os [Papéis][papeis] definidos no [Círculo][circulos], com exceção dos [Papéis Essenciais][papeis-essenciais]. O [Guia][guia] pode convidar qualquer [Parceiro][parceiros], a não ser que uma [Restrição][restricoes] diga o contrário. Uma [Restrição][restricoes] também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade][papeis] e o [Domínio][papeis] correspondente do [Guia][guia].
+O [Anfitrião][anfitriao] é responsável por convidar [Parceiros][parceiros] para energizarem os [Papéis][papeis] definidos no [Círculo][circulos], com exceção dos [Papéis Essenciais][papeis-essenciais]. O [Anfitrião][anfitriao] pode convidar qualquer [Parceiro][parceiros], a não ser que uma [Restrição][restricoes] diga o contrário. Uma [Restrição][restricoes] também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade][papeis] e o [Domínio][papeis] correspondente do [Anfitrião][anfitriao].
 
 ### 5.3.1 <span id="">Foco</span>
 
 O processo de [Energização][energizacao] também pode definir um "Foco" para o [Parceiro][parceiros] que energiza um [Papel][papeis]. Este Foco é uma área de atuação em que o [Propósito][papeis], [Responsabilidades][papeis] e [Domínios][papeis] do [Papel][papeis] se aplicam somente.  
 
-## 5.4 <span id="energizacao-do-guia">Energização do Guia</span>
+## 5.4 <span id="energizacao-do-guia">Energização do Anfitrião</span>
 
-O [Guia][guia] é escolhido pelo [Círculo][circulos] externo, por qualquer processo de [Energização de Papéis Definidos][energizacao-de-papeis-definidos] no [Círculo][circulos] externo. O [Guia][guia] do [Círculo][circulos] mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos][meta-acordos].
+O [Anfitrião][anfitriao] é escolhido pelo [Círculo][circulos] externo, por qualquer processo de [Energização de Papéis Definidos][energizacao-de-papeis-definidos] no [Círculo][circulos] externo. O [Anfitrião][anfitriao] do [Círculo][circulos] mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos][meta-acordos].
 
 ## 5.5 <span id="facilitador">Facilitador</span>
 
@@ -66,9 +66,9 @@ O [Papel][papeis] do "Secretário" possui a seguinte definição inicial:
 
 * Registros da [Estrutura Organizacional][estrutura-organizacional] do [Círculo][circulos]
 
-## 5.7 <span id="guia">Guia</span>
+## 5.7 <span id="anfitriao">Anfitrião</span>
 
-O [Papel][papeis] do "Guia" possui a seguinte definição inicial:
+O [Papel][papeis] do "Anfitrião" possui a seguinte definição inicial:
 
 **Propósito**: _O_ [_Propósito_][papeis] _do_ [_Círculo_][circulos]
 
@@ -83,7 +83,7 @@ O [Papel][papeis] do "Guia" possui a seguinte definição inicial:
 
 * Energização de [Papéis][papeis] definidos no [Círculo][circulos]
 
-O Guia detém todas as [Responsabilidades][papeis] e [Domínios][papeis] não delegados do [Círculo][circulos].
+O Anfitrião detém todas as [Responsabilidades][papeis] e [Domínios][papeis] não delegados do [Círculo][circulos].
 
 ## 5.8 <span id="representante">Elo Interno</span>
 
@@ -113,7 +113,7 @@ O [Papel][papeis] do "Elo Interno" possui a seguinte definição inicial:
 [reunioes-de-circulo]: interacoes.md#reuniao-de-circulo
 
 [papeis-essenciais]: papeis-essenciais.md
-[guia]: papeis-essenciais.md#guia
+[guia]: papeis-essenciais.md#anfitriao
 [representante]: papeis-essenciais.md#representante
 [facilitador]: papeis-essenciais.md#facilitador
 [secretario]: papeis-essenciais.md#secretario
