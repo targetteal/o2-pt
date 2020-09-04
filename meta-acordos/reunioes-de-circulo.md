@@ -1,6 +1,6 @@
 # 3. Reuniões de Círculo
 
-[Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) regularmente se encontram em um espaço chamado "Reunião de Círculo" para executar um ou mais dos 5 "Modos" especiais de reunião descritos na seção seguinte: [Revisar](reunioes-de-circulo.md#modo-revisar), [Sincronizar](reunioes-de-circulo.md#modo-sincronizar), [Adaptar](reunioes-de-circulo.md#modo-adaptar), [Selecionar](reunioes-de-circulo.md#modo-selecionar) e [Cuidar](reunioes-de-circulo.md#modo-cuidar). Reuniões de Círculo são agendadas pelo [Secretário](papeis-essenciais.md#secretario) e facilitadas pelo [Facilitador](papeis-essenciais.md#facilitador), dois [Papéis Essenciais](papeis-essenciais.md).
+[Membros do Círculo](estrutura-organizacional.md#membros-do-circulo) regularmente se encontram em um espaço chamado "Reunião de Círculo" para executar um ou mais dos 4 "Modos" especiais de reunião descritos na seção seguinte: [Revisar](reunioes-de-circulo.md#modo-revisar), [Sincronizar](reunioes-de-circulo.md#modo-sincronizar), [Adaptar](reunioes-de-circulo.md#modo-adaptar) e [Cuidar](reunioes-de-circulo.md#modo-cuidar). Reuniões de Círculo são agendadas pelo [Secretário](papeis-essenciais.md#secretario) e facilitadas pelo [Facilitador](papeis-essenciais.md#facilitador), dois [Papéis Essenciais](papeis-essenciais.md).
 
 ## 3.1 Somente Membros podem processar tensões
 
