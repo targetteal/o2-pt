@@ -8,7 +8,7 @@
   * [4. Papéis Essenciais](meta-acordos/papeis-essenciais.md)
 * [Biblioteca de Padrões e Antipadrões](biblioteca/README.md)
   * [Padrões](biblioteca/padroes/README.md)
-    * [Ciclo de Silêncio](ciclo-de-silencio.md)
+    * [Ciclo de Silêncio](biblioteca/padroes/ciclo-de-silencio.md)
     * [Círculo de Parceiros](biblioteca/padroes/circulo-de-parceiros.md)
     * [Debate Estruturado](biblioteca/padroes/debate-estruturado.md)
     * [Descrição de Papéis](biblioteca/padroes/descricao-de-papeis.md)
