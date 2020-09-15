@@ -2,6 +2,7 @@
 
 ## Mapeados
 
+* [Ciclo de Silêncio](ciclo-de-silencio.md)
 * [Círculo de Parceiros](circulo-de-parceiros.md)
 * [Debate Estruturado](debate-estruturado.md)
 * [Descrição de Papéis](descricao-de-papeis.md)
