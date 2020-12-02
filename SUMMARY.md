@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Introdução](README.md)
-* [Meta-Acordos da Organização Orgânica](meta-acordos/README.md)
-  * [1. Organização](meta-acordos/organizacao.md)
-  * [2. Estrutura Organizacional](meta-acordos/estrutura-organizacional.md)
-  * [3. Reuniões de Círculo](meta-acordos/reunioes-de-circulo.md)
-  * [4. Papéis Essenciais](meta-acordos/papeis-essenciais.md)
+* [Meta-Acordos da Organização Orgânica](meta-acordos.md)
+  * [1. Organização](meta-acordos.md#organizacao)
+  * [2. Estrutura Organizacional](meta-acordos.md#estrutura-organizacional)
+  * [3. Reuniões de Círculo](meta-acordos.md#reunioes-de-circulo)
+  * [4. Papéis Essenciais](meta-acordos.md#papeis-essenciais)
 * [Biblioteca de Padrões e Antipadrões](biblioteca/README.md)
   * [Padrões](biblioteca/padroes/README.md)
     * [Ciclo de Silêncio](biblioteca/padroes/ciclo-de-silencio.md)
@@ -25,4 +25,3 @@
     * [Tudo é de Todos](biblioteca/antipadroes/tudo-e-de-todos.md)
 * [Licença](license.md)
 * [Atribuições de Licença](atribuicoes-licenca.md)
-
