@@ -179,7 +179,9 @@ Ao validar [Objeções](#objecoes), o [Facilitador](#facilitador) não deve julg
 
 ### <span id="integracao">3.6.5 Integração</span>
 
-Se houver [Objeções](#objecoes), o [Facilitador](#facilitador) deve facilitar um processo para integrá-las à proposta, uma de cada vez. O objetivo da "Integração" é modificar a [Proposta](#proposta) para que ela resolva a [Tensão](#tensoes) original, mas sem causar a [Objeção](#objecoes) levantada. Se a [Proposta](#proposta) for alterada, o [Facilitador](#facilitador) deve dar mais uma oportunidade para os participantes levantarem [Objeções](#objecoes). Se uma [Proposta](#proposta) estiver levando muito tempo para integrar, o [Facilitador](#facilitador) pode descartar a [Proposta](#proposta) inteiramente, a fim de passar para o próximo item da [Lista de Tensões](#lista-de-tensoes).
+Se houver [Objeções](#objecoes), o [Facilitador](#facilitador) deve facilitar um processo para integrá-las à proposta, uma de cada vez. O objetivo da "Integração" é modificar a [Proposta](#proposta) para que ela resolva a [Tensão](#tensoes) original, mas sem causar a [Objeção](#objecoes) levantada. Se a [Proposta](#proposta) for alterada, o [Facilitador](#facilitador) deve dar mais uma oportunidade para os participantes levantarem [Objeções](#objecoes).
+
+Durante a [Integração](#integracao), o [Facilitador](#facilitador) também poderá descartar a [Objeção][objecao] inteiramente caso julgue que o [Objetor](#objecoes) não está fazendo um esforço genuíno em ajudar o [Proponente](#proposta) a encontrar uma nova [Proposta](#proposta). Se uma [Proposta](#proposta) estiver levando muito tempo para integrar, o [Facilitador](#facilitador) pode descartar a [Proposta](#proposta) inteiramente, a fim de passar para o próximo item da [Lista de Tensões](#lista-de-tensoes).
 
 ### <span id="quebra-dos-meta-acordos">3.6.6 Quebra dos Meta-Acordos</span>
 
