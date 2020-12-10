@@ -2,10 +2,6 @@
 
 * [Introdução](README.md)
 * [Meta-Acordos da Organização Orgânica](meta-acordos.md)
-  * [1. Organização](meta-acordos.md#organizacao)
-  * [2. Estrutura Organizacional](meta-acordos.md#estrutura-organizacional)
-  * [3. Reuniões de Círculo](meta-acordos.md#reunioes-de-circulo)
-  * [4. Papéis Essenciais](meta-acordos.md#papeis-essenciais)
 * [Biblioteca de Padrões e Antipadrões](biblioteca/README.md)
   * [Padrões](biblioteca/padroes/README.md)
     * [Ciclo de Silêncio](biblioteca/padroes/ciclo-de-silencio.md)
