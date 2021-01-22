@@ -36,7 +36,7 @@ As pessoas precisam de espaço para apresentar como estão se sentindo na relaç
 
 ## Solução
 
-O Fórum é uma tecnologia que pode ser usada durante o [Modo Cuidar](../../meta-acordos/reunioes-de-circulo.md#modo-cuidar).
+O Fórum é uma tecnologia que pode ser usada durante o [Modo Cuidar](../../meta-acordos.md#3-7-modo-cuidar).
 
 OBS: É importante que haja um Facilitador e um Co-Facilitador \(para ser um apoio e cuidar do grupo quando o Facilitador vai ao centro\).
 
@@ -71,4 +71,3 @@ Esse padrão tem inspiração no trabalho do Zegg Fórum.
 ## Usos conhecidos
 
 Já foi usado em times diversos, em comunidades, organizações privadas e sem fins-lucrativos. É uma prática que acontece há mais 40 anos em comunidades e ecovilas, e que está sendo introduzida e adaptada para outros contextos.
-

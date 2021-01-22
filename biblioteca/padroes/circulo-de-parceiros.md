@@ -20,7 +20,7 @@ Na maior parte das organizações, tudo que tange a relação Parceiros-Organiza
 
 A solução passa pela definição de um [Círculo](../../meta-acordos.md#2-2-circulos) denominado “Parceiros”, “Relações Parceiros-Organização”, ou qualquer outro nome que represente as pessoas da [Organização](../../meta-acordos.md#1-organizacao) em questão. Este [Círculo](../../meta-acordos.md#2-2-circulos) tem a autoridade exclusiva \(na forma de um [Artefato](../../meta-acordos.md#2-1-papeis)\) de governar a relação Parceiros-Organização. A ideia central é que qualquer mudança nos contratos dos [Parceiros](../../meta-acordos.md#1-2-parceiros) deve ser decidida por este [Círculo](../../meta-acordos.md#2-2-circulos). Além disso, quando uma pessoa busca uma mudança, ela deve integrar [Objeções](../../meta-acordos.md#3-6-3-objecoes) de todos os membros do [Círculo](../../meta-acordos.md#2-2-circulos).
 
-![C&#xED;rculo de Parceiros](imagens/circulo-de-parceiros.png)
+![Círculo de Parceiros](./imagens/circulo-de-parceiros.png)
 
 O primeiro elemento do padrão constitui a criação de um [Círculo](../../meta-acordos.md#2-2-circulos):
 

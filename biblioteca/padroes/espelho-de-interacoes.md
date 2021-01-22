@@ -75,4 +75,3 @@ Este padrão é inspirado em Comunicação Não-Violenta e também em práticas 
 ## Usos Conhecidos
 
 Já foi usado em algumas organizações brasileiras praticantes de O2.
-
