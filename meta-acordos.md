@@ -93,11 +93,20 @@ Um [Círculo](#2-2-circulos) pode especificar um de seus [Artefatos](#2-1-papeis
 
 ## 2.5 Restrições
 
-"Restrições" são limitações de autoridade que aplicam-se a todos os [Papéis](#2-1-papeis) de um [Círculo](#2-2-circulos). Restrições são compostas por um nome e uma descrição. A não ser que de outra forma especificado em sua descrição, o efeito de uma Restrição se aplica a todos os [Papéis](#2-1-papeis) e [Círculos](#2-2-circulos) internos ao [Círculo](#2-2-circulos) onde ela é definida. Uma Restrição é parte de um [Círculo](#2-2-circulos), assim como um [Papel](#2-1-papeis) ou [Círculo](#2-2-circulos) interno.
+"Restrições" são acordos que estabelecem procedimentos e limitações de autoridade que aplicam-se a todos os [Papéis](#2-1-papeis) de um [Círculo](#2-2-circulos). Restrições são compostas por um nome e uma descrição. A não ser que de outra forma especificado em sua descrição, o efeito de uma Restrição se aplica a todos os [Papéis](#2-1-papeis) e [Círculos](#2-2-circulos) internos ao [Círculo](#2-2-circulos) onde ela é definida. Uma Restrição é parte de um [Círculo](#2-2-circulos), assim como um [Papel](#2-1-papeis) ou [Círculo](#2-2-circulos) interno.
+
+
+Uma restrição descreve os seguintes cenários:
+
+     (a) uma restrição à autoridade de um ou mais papel contido no [Círculo](#2-2-circulos); ou
+     (b) a concessão de uma autoridade que o [Círculo](#2-2-circulos) ou [Elo Externo](#4-7-elo-externo) detém para uma ou mais [papéis](#2-1-papeis); ou
+     (c) uma concessão de autoridade que permite que pessoas ou papéis não autorizados de outra forma controlem ou impactem um dos Artefatos do [Círculo](#2-2-circulos), ou uma restrição sobre como eles podem fazer isso quando autorizados de outra forma; ou
+     (d) um procedimento que deve ser seguido por todos os [Membros](#2-4-membros-do-circulo) [Círculo](#2-2-circulos) para executar um determinado processo ou ação;
+
 
 ### 2.5.1 Restrições não estabelecem expectativas
 
-[Restrições](#2-5-restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#2-1-papeis). Ainda assim, uma [Restrição](#2-5-restricoes) pode exigir ação, mas apenas para [Parceiros](#1-2-parceiros) em que a [Restrição](#2-5-restricoes) se aplica na condição específica que desencadeia ela.
+[Restrições](#2-5-restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#2-1-papeis). Ainda assim, uma [Restrição](#2-5-restricoes) pode exigir ação, mas apenas para [Parceiros](#1-2-parceiros) que estão sujeitos à mesma.
 
 ## 2.6 Prioridades do Círculo
 
