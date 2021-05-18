@@ -42,6 +42,8 @@ Os [Parceiros](#1-2-parceiros) podem definir uma camada de acordos que estabelec
 
 ## 2.1 Papéis
 
+Um papel é um acordo explícito acerca das expectativas sobre como o trabalho será realizado no contexto operacional da organização.
+
 Os [Parceiros](#1-2-parceiros) executam o trabalho em um ou mais "Papéis" explicitamente definidos na [Estrutura Organizacional](#2-estrutura-organizacional). Um Papel é definido por:
 
 * Um nome descritivo;
