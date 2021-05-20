@@ -98,15 +98,15 @@ Um [Círculo](#2-2-circulos) pode especificar um de seus [Artefatos](#2-1-papeis
 
 Uma restrição descreve os seguintes cenários:
 
-     (a) uma restrição à autoridade de um ou mais papel contido no [Círculo](#2-2-circulos); ou
-     (b) a concessão de uma autoridade que o [Círculo](#2-2-circulos) ou [Elo Externo](#4-7-elo-externo) detém para uma ou mais [papéis](#2-1-papeis); ou
-     (c) uma concessão de autoridade que permite que pessoas ou papéis não autorizados de outra forma controlem ou impactem um dos Artefatos do [Círculo](#2-2-circulos), ou uma restrição sobre como eles podem fazer isso quando autorizados de outra forma; ou
-     (d) um procedimento que deve ser seguido por todos os [Membros](#2-4-membros-do-circulo) [Círculo](#2-2-circulos) para executar um determinado processo ou ação;
+(a) Definir quem faz algo e o que deve ser feito(quem e o quê).  
+(b) Definir condições e ações para um procedimento(como).
+(c) Limitar o acesso de um [Papel](#2-1-papeis) ou [Membros do Círculo](#2-4-membros-do-circulo) a algum item ou procedimento.
+
 
 
 ### 2.5.1 Restrições não estabelecem expectativas
 
-[Restrições](#2-5-restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#2-1-papeis). Ainda assim, uma [Restrição](#2-5-restricoes) pode exigir ação, mas apenas para [Parceiros](#1-2-parceiros) que estão sujeitos à mesma.
+[Restrições](#2-5-restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#2-1-papeis). Ainda assim, uma [Restrição](#2-5-restricoes) pode exigir ação, mas apenas para [Parceiros](#1-2-parceiros) que estão associados a uma condição que gerou a mesma.
 
 ## 2.6 Prioridades do Círculo
 
