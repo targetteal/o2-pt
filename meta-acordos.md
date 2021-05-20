@@ -217,7 +217,7 @@ Todos e apenas os [Membros do Círculo](#2-4-membros-do-circulo) são elegíveis
 
 ### 4.1.2 Eleições
 
-Qualquer [Membro do Círculo](#2-4-membros-do-circulo) pode solicitar "Eleições" para os [Papéis Essenciais Eleitos](#4-1-papeis-essenciais-eleitos). O processo de Eleição deve considerar a maioria simples dos votos, sendo que cada [Membro do Círculo](#2-4-membros-do-circulo) presente tem direito a apenas um voto. A [Estrutura Organizacional](#2-estrutura-organizacional) pode definir em detalhes como e em que condições este processo deve ser facilitado.
+Qualquer [Membro do Círculo](#2-4-membros-do-circulo) pode solicitar "Eleições" para os [Papéis Essenciais Eleitos](#4-1-papeis-essenciais-eleitos). O processo de Eleição é feito inicialmente por maioria simples para escolher uma pessoa que será nomeada e em seguida faz-se o uso de consentimento para efetivar a nomeação. A [Estrutura Organizacional](#2-estrutura-organizacional) pode definir em detalhes como e em que condições este processo deve ser facilitado.
 
 ## 4.2 Alterações nos Papéis Essenciais
 
