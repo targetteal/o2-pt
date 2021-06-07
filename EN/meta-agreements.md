@@ -155,3 +155,120 @@
     # 4. Essential Roles
 
     Each[ Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) contains "Essential Roles": The [ External Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-externo),[ Internal Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-interno),[ Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) and[ Secretary](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#secretario).
+
+
+        # **4.1 Elected Essential Roles**
+
+        The [ Essential Role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais) of[ Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador),[ Secretary](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#secretario) a[ Lead Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-interno) are considered "Essential Elected Roles" and are energized using an election process.
+
+        **4.1.1 Eligible Partners**
+
+        All and only the[ Circle Members ](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#membros-do-circulo)are eligible to energize the [Essential Elected Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#papeis-essenciais-eleitos). Even still, [ Partners](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#parceiros) that energize the [Role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of[ External Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-externo) can't energize the  [Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of[ Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) or[ Internal Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-interno) in the same [ Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos).
+
+
+        ## **4.1.2 Elections**
+
+        Any [ Circle Member ](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#membros-do-circulo)can solicit  "Elections" for the [Essential Elected Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#papeis-essenciais-eleitos). The Election process is initially made by a simple majority to choose a person who will be nominated and then consent is used to effect the nomination. Each[ Circle Member](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#membros-do-circulo) has the right to just one vote. The [ Organizational Structure](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional) can define in what conditions the process should be facilitated.
+
+
+        # **4.2 Altering Essential Roles**
+
+        The [Essential Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais) of each [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) can be changed, as long as the restrictions below are respected:
+
+        The name and [Purpose](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of [Essential Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais) cannot be changed;
+
+        New [Accountabilities](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) and [Artifacts](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) cannot be added to the [Role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the [External Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-externo);
+
+        Initial [External Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-externo) [Role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) [Accountabilities](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) and [Artifacts](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) can be modified or removed altogether, as long as they are delegated to another [Role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) or process in the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos);
+
+        The Initial [Accountabilities](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) and [Artifacts](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the [Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador), [Secretary](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#secretario) and [Internal Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-interno) [Roles ](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis)cannot be removed or modified;
+
+        [Essential Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais) cannot be removed.
+
+
+        ## **4.2.1 Alterations to the Essential Roles don't extend to Internal Circles**
+
+        Changes made to the [Essential Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais) of a [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) apply only to the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) where the change occurred, that is, they do not extend to the internal [Circles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos).
+
+
+        # **4.3 Energizing Defined Roles**
+
+        The [External Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-externo) is responsible for inviting [Partners](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#parceiros) to energize the [Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) defined in the Circle, with the exception of [Essential Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais). The [External Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-externo) may invite any [Partner](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#parceiros), unless a [Restriction](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#restricoes) says otherwise. A [Restriction](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#restricoes) can also modify this process entirely, including removing the [Accountability](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) and corresponding [Artifact](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) from the [External Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-externo).
+
+
+        ## **4.3.1 Focus**
+
+        The [Energization](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#energizacao) process can also define a "Focus" for the [Partner ](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#parceiros) who energizes a [Role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis). The Focus is an area of ​​activity in which the [Purpose](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis), [Accountabilities](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) and [Artifacts](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the [Role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) apply only.
+
+        **4.4 Energizing the External Link Role**
+
+        The [External Link](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-externo) is chosen by the External [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos), by the process used for [Energizing Roles Defined](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#energizacao-de-papeis-definidos) in the external [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos). The [External Link ](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#elo-externo)of the external [circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) must be determined by the same process that adopted these [Meta-Agreements](https://o2.targetteal.com/v/v3.1-pt/meta-acordos).
+
+        **4.5 Facilitador**
+
+        The [role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the "Facilitator" has the following initial definition:
+
+        Purpose: Healthy [Circle Meetings](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo) aligned with [Meta-Agreements](https://o2.targetteal.com/v/v3.1-pt/meta-acordos)
+
+        Responsibilities:
+
+
+
+        *   Facilitate [Circle Meetings](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo)
+
+        **4.6 Secretary**
+
+        The [role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the "Secretary" has the following initial definition:
+
+        Purpose: Clear [Meta-Agreements](https://o2.targetteal.com/v/v3.1-pt/meta-acordos) and [Organizational Structure](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional) of the Circle
+
+        Responsibilities:
+
+
+
+        *   Schedule regular [Circle Meetings](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo)
+        *   Record requests and proposals made at [Circle Meetings](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo)
+        *   Interpret [Meta-Agreements](https://o2.targetteal.com/v/v3.1-pt/meta-acordos) and [Organizational Structure](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional) upon request
+
+        Artifacts:
+
+
+
+        *   Records of the [Organizational Structure](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional) of the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo)
+
+
+        # **4.7 External Link**
+
+        The [role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the "External Link" has the following initial definition:
+
+        Purpose: The [Purpose](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
+
+        Responsibilities:
+
+
+
+        *   Structure the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) to express its [Purpose](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) and meet the [Accountabilities](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) defined by the external [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
+        *   Invite [Partners](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#parceiros) to energize [Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) defined in the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
+        *   Provide feedback to improve the match between [Partner](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#parceiros) and [Role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis), de-energizing when necessary
+        *   Set priorities for the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
+
+        Artifacts:
+
+
+
+        *   Energization of [Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) defined in the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
+
+        The External Link holds all the [Circle's](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) non-delegated [Accountabilities](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) and [Artifacts](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis).
+
+
+        # **4.8 Internal Link**
+
+        The [role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the "Internal Link" has the following initial definition:
+
+        Purpose: The [Purpose](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
+
+        Accountabilities:
+
+
+        -   Seek to understand [Tensions](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes) brought on by [Circle Members](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#membros-do-circulo) and process them where appropriate in the Outer [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
+        -   Provide visibility on the health of the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) to the Outer [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
