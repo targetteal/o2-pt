@@ -22,4 +22,4 @@ Anyone can propose changes to Meta-Agreements by sending a pull request. Still, 
 
 [Here you can find more information about the license.](https://github.com/targetteal/organic-organization/tree/0cb730d7d488cf2a3c92d616025609e4f03e9015/LICENSE.MD)
 
-O2 is currently developed in Portuguese, as most of the contributors are Brazilians. Each release is translated to English, and is available in [another repo](https://github.com/targetteal/organic-organization-translations/).
+O2 is currently developed in Portuguese, as most of the contributors are Brazilians. Each release is translated to English, and is available in this repository.
