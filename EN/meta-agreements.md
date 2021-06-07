@@ -100,14 +100,9 @@
     During [Adapt Mode](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#modo-adaptar), the [Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) must facilitate a process that allows the participant who brought the [Tension](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes), the "Proponent", to build a "Proposal" to resolve it. This Proposal must contain only the operations described as valid outputs from [Adapt Mode](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#modo-adaptar).
 
 
-    ## **3.6.2 Presenting Examples**
+    ## *3.6.2 Presentation of Examples**
 
     The [Proponent ](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta)of a change in the [Organizational Structure](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional) must be able to present examples of past or present situations where each part of the constructed [Proposal](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta) would resolve or reduce the [Tension](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes). If the[ Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) considers that the [Proponent](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta) was unable to provide examples and clarification, the [Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) must discard the [Proposal](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta). However, the [Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) should not judge the accuracy of the arguments presented, but rather if they have been presented with logical reasoning and are therefore plausible.
-
-
-    3.6.2 Presentation of Examples
-
-    The [Proponent ](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta)of a change in the [Organizational Structure](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional) must be able to present examples of past or present situations where each part of the constructed [Proposal](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta) would resolve or reduce the [Tension](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes). If the [Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) considers that the Bidder was unable to provide examples and clarification, the [Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) must discard the [Proposal](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta). However, the [Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) should not judge the accuracy of the arguments presented, but only if they have been presented with logical reasoning and are therefore plausible.
 
 
     ## **3.6.3 Objections**
