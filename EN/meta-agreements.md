@@ -270,6 +270,5 @@
     Accountabilities:
 
 
-
-    *   Seek to understand [Tensions](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes) brought on by [Circle Members](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#membros-do-circulo) and process them where appropriate in the Outer [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
-    *   Provide visibility on the health of the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) to the Outer [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
+    -   Seek to understand [Tensions](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes) brought on by [Circle Members](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#membros-do-circulo) and process them where appropriate in the Outer [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
+    -   Provide visibility on the health of the [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) to the Outer [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos)
