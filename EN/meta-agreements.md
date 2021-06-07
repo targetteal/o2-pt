@@ -5,7 +5,7 @@ The "Organization" is an entity created to express an [Evolutionary Purpose](htt
 
 # **1.1 Evolutionary Purpose**
 
-The [Organization](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#proposito-evolutivo, which corresponds to the deepest creative potential that it can express in a sustainable way in the world. The Evolutionary Purpose is the Purpose of the wider Circle of the Organizational Structure.) has an "Evolutionary Purpose", which corresponds to the deepest creative potential that it can express in a sustainable way in the world. The Evolutionary Purpose is the [Purpose](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the largest [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) of the [Organizational Structure](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional).
+The [Organization](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#proposito-evolutivo), which corresponds to the deepest creative potential that it can express in a sustainable way in the world. The Evolutionary Purpose is the Purpose of the wider Circle of the Organizational Structure.) has an "Evolutionary Purpose", which corresponds to the deepest creative potential that it can express in a sustainable way in the world. The Evolutionary Purpose is the [Purpose](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the largest [Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#circulos) of the [Organizational Structure](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional).
 
 
 # **1.2 Partners**
@@ -13,12 +13,12 @@ The [Organization](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#
 "Partners" are people who dedicate their time and energy to help the [Organization](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#organizacao) express its [Evolutionary Purpose](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#proposito-evolutivo).
 
 
-# **1.3 Creative Tensions **
+# **1.3 Creative Tensions**
 
 While working for the [Organization](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#parceiros), [Partners](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#parceiros) can identify a difference between the current reality and a potential that they perceive. These gaps, which can be identified problems or opportunities, are called "Creative Tensions", or simply "Tensions". Tensions move the [Organization](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#parceiros) towards its [Evolutionary Purpose](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#proposito-evolutivo).
 
 
-# **1.4 Self Responsibility **
+# **1.4 Self Responsibility**
 
 As a [Partner](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#parceiros), you are responsible for addressing the [Tensions](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes) you perceive, taking actions or engaging other [Partners](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes) in these [Meta-Agreements](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes). You are also expected to ask for help when you don't know which paths to take. This responsibility cannot be transferred to third parties or to a group.
 
@@ -134,7 +134,7 @@ In validating [Objections](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reun
 If there are [objections](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#objecoes), the [facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) should facilitate a process for integrating them into the proposal, one at a time. The purpose of "Integration" is to modify the [Proposal](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta) so that it resolves the original [Tension](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes), but without causing the objection raised. If the [Proposal](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta) is changed, the [Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) should provide another opportunity for participants to raise [Objections](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#objecoes). If a [Proposal](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta) is taking a long time to integrate, the [Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) can discard the [Proposal](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta) entirely in order to move on to the next item on the [List of Tensions](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/organizacao#tensoes).
 
 
-## **3.6.6 Breach of Meta-Agreements **
+## **3.6.6 Breach of Meta-Agreements**
 
 Any participant may raise an [Objection](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#objecoes) to "Breach of[ Meta-Agreements](https://o2.targetteal.com/v/v3.1-pt/meta-acordos)" if he or she considers that the [Proposal](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#proposta) violates one of the rules described in these [Meta-Agreements](https://o2.targetteal.com/v/v3.1-pt/meta-acordos). The [Facilitator](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#facilitador) must then ask the [Secretary](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/papeis-essenciais#secretario) to interpret whether this is true or not. This special [Objection](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo#objecoes) does not need to be validated against the criteria normally used, but it must be integrated like the others.
 
@@ -151,7 +151,7 @@ The "Caring Mode" is a moment of the [Circle Meeting](https://o2.targetteal.com/
 View Standards for Care in the [Patterns Library](https://o2.targetteal.com/v/v3.1-pt/biblioteca)
 
 
-# **3.8 Prioritizing Meetings **
+# **3.8 Prioritizing Meetings**
 
 When requested by another [Member of a Circle](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#membros-do-circulo) of which you are a member, you must prioritize attending the [Circle Meeting](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo) rather than working on your [Roles](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis).
 
@@ -221,7 +221,7 @@ Responsibilities:
 
 *   Facilitate [Circle Meetings](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/reunioes-de-circulo)
 
-**4.6 Secretary **
+**4.6 Secretary**
 
 The [role](https://o2.targetteal.com/v/v3.1-pt/meta-acordos/estrutura-organizacional#papeis) of the "Secretary" has the following initial definition:
 
