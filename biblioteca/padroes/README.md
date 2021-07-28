@@ -14,14 +14,11 @@
 * [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
 * [Revisão Tática](revisao-tatica.md)
 * [Sessão de Feedback em Círculo](sessao-de-feedback-em-circulo.md)
+* [Sessão Explorar](sessao-explorar.md)
+* [Modo Explorar](modo-explorar.md)
 
-## Ainda não mapeados
+---
 
-* Espelho do Proponente
-* Consentimento Rápido
-* Limpar o ar
-* Fala livre \(cuidar\)
-* Imita Chefe
-* Autoenergização
-* Polo Norte
+Você pode nos dar sugestões e observar o desenvolvimento da O2 enquanto tecnologia social no nosso notion
 
+Clique [aqui](https://www.notion.so/targetteal/e9d33672f1ca462ab169a6405227e607?v=a297812e7c4549888efa3be3d5ed4f97) para visualizar nosso fluxo de produção.
