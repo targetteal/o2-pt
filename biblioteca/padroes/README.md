@@ -7,6 +7,7 @@
 * [Debate Estruturado](debate-estruturado.md)
 * [Descrição de Papéis](descricao-de-papeis.md)
 * [Eleições Integrativas](eleicoes-integrativas.md)
+* [Decisão Integrativa Estruturada](decisao-integrativa.md)
 * [Espelho de Interações](espelho-de-interacoes.md)
 * [Fórum Light](forum-light.md)
 * [Fórum Zegg](forum-zegg.md)
