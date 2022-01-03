@@ -4,7 +4,7 @@
 * [Meta-Acordos da Organização Orgânica](meta-acordos.md)
 * [Biblioteca de Padrões e Antipadrões](biblioteca/README.md)
   * [Padrões](biblioteca/padroes/README.md)
-    * [Ciclo de Silêncio](biblioteca/padroes/assincronicidade.md)
+    * [Assincronicidade](biblioteca/padroes/assincronicidade.md)
     * [Ciclo de Silêncio](biblioteca/padroes/ciclo-de-silencio.md)
     * [Círculo de Parceiros](biblioteca/padroes/circulo-de-parceiros.md)
     * [Debate Estruturado](biblioteca/padroes/debate-estruturado.md)
