@@ -10,6 +10,7 @@
     * [Descrição de Papéis](biblioteca/padroes/descricao-de-papeis.md)
     * [Eleições Integrativas](biblioteca/padroes/eleicoes-integrativas.md)
     * [Decisão Integrativa Estruturada](biblioteca/padroes/decisao-integrativa.md)
+    * [Integração de Objeções](biblioteca/padroes/integracao-objecoes.md)
     * [Espelho de Interações](biblioteca/padroes/espelho-de-interacoes.md)
     * [Fórum Light](biblioteca/padroes/forum-light.md)
     * [Fórum Zegg](biblioteca/padroes/forum-zegg.md)
