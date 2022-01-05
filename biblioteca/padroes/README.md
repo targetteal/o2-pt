@@ -16,9 +16,8 @@
 * [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
 * [Revisão Tática](revisao-tatica.md)
 * [Sessão de Feedback em Círculo](sessao-de-feedback-em-circulo.md)
-* [Sessão Explorar](sessao-explorar.md)
 * [Modo Explorar](modo-explorar.md)
-
+* [Sessão Explorar](sessao-explorar.md)
 ---
 
 Você pode nos dar sugestões e observar o desenvolvimento da O2 enquanto tecnologia social no nosso notion
