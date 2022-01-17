@@ -127,6 +127,6 @@ When the participant seeks consensus, despite having autonomy to execute the req
 Some of these questions are derived from the Holacracia "Tactical Meeting" practice. Others - like the one that questions the next step - are highly influenced by David Allen's Getting Things Done method.
 
 
-# **Known Uses **
+# **Known Uses**
 
 This pattern is practised in almost all organizations that have started their journey using Organic Organization.

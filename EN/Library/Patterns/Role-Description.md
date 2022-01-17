@@ -1,8 +1,8 @@
 # Role Description
 
 
-# **Also known as: **Reverse To-Do, Initial Structure Description \
- \
+# **Also known as**: Reverse To-Do, Initial Structure Description
+
 **Context**
 
 When a [Circle](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#circulos) is forming and needs to describe [Roles](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) for the first time. The people involved are those that are already working and usually meet regularly.
@@ -67,8 +67,7 @@ Tips for Good [Accountabilities](https://o2.targetteal.com/meta-acordos/estrutur
 
 **Guarantee**: Using the verb guarantee usually involves an attempt to control a result. We want to know how this is done, rather than the end result. Instead of: "Ensuring that the product is as engaging as possible", we should ask ourselves, how is this done? The answer may be "Developing features that increase user engagement".
 
-** \
-Approve**: In general, when someone uses the verb approve, that person is seeking exclusive control of something. But at O2, an [Accountability](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) never limits another [Role](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis). It usually makes more sense to add an [Artifact](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) of the "thing" that is seeking approval in the [Role](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) that centralizes it. Here's an example: instead of the [Accountability](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) "Approve changes to the Website", add the Artifact "Alterations on Website" to the [Role](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis).
+**Approve**: In general, when someone uses the verb approve, that person is seeking exclusive control of something. But at O2, an [Accountability](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) never limits another [Role](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis). It usually makes more sense to add an [Artifact](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) of the "thing" that is seeking approval in the [Role](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) that centralizes it. Here's an example: instead of the [Accountability](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) "Approve changes to the Website", add the Artifact "Alterations on Website" to the [Role](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis).
 
 **Align**: The verb to align is very ambiguous and generally does not give the clarity that we seek in [Role](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) descriptions. It can mean: deciding together, communicating something, seeking advice, etc. Using any of the examples above, as they are more objective than aligning.
 
@@ -87,7 +86,7 @@ The name must be simple and memorable. Avoid job names, such as analyst, assista
 
 ## **Tips for a good [Purpose](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis)**
 
- \
+
 The [Purpose](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) describes what a [Role](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) seeks to achieve, usually an unattainable or inexhaustible goal. Qualities are important here. You don't need to use a verb, in a [Purpose](https://o2.targetteal.com/meta-acordos/estrutura-organizacional#papeis) the nouns and adjectives are most important:
 
 Here are some examples:

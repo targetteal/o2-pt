@@ -46,7 +46,7 @@ Example of invalid speech: "How can you want to change the name, you never seem 
 The facilitator repeats the process, often by way of rounds, until the requester is satisfied or the time for the scheduled meeting runs out. The goal is not to reach consensus, just to debate an important topic, making clear the different arguments for and against.
 
 
-# **Contextual Results **
+# **Contextual Results**
 
 After a debate, there may be a need for deliberation on the topic. In this case, the organizational structure that already exists can give clarity to who decides or what decision process can or should be used.
 

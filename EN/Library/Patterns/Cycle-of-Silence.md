@@ -26,13 +26,12 @@ The cycles of silence are very useful to connect to the purpose of our roles and
 It is a cyclic ritual that can help members of an organization to connect with the purpose of its evolutionary process as human beings, community and planet.
 
 
-## **Tips for good practice **
+## **Tips for good practice**
 
-** \
-**Use a bell or something that makes a subtle sound to activate cycles of silence. Do not confuse the cycle of silence with a request for silence. Leave the pattern as something that can be invoked at any time by the group.
+Use a bell or something that makes a subtle sound to activate cycles of silence. Do not confuse the cycle of silence with a request for silence. Leave the pattern as something that can be invoked at any time by the group.
 
 
-## **Contextual Results **
+## **Contextual Results**
 
 Com uma utilização constante dos ciclos de silêncio os participantes conseguem se manter focados, bem dispostos e serenos.
 
