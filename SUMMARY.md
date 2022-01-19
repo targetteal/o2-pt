@@ -21,6 +21,7 @@
     * [Sessão de Feedback em Círculo](biblioteca/padroes/sessao-de-feedback-em-circulo.md)
     * [Modo Explorar](biblioteca/padroes/modo-explorar.md)
     * [Sessão Explorar](biblioteca/padroes/sessao-explorar.md)
+    * [Priorização Bimodal](priorizacao-bimodal.md) 
   * [Antipadrões](biblioteca/antipadroes/README.md)
     * [Metas](biblioteca/antipadroes/metas.md)
     * [Tudo é de Todos](biblioteca/antipadroes/tudo-e-de-todos.md)
