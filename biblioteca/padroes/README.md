@@ -12,13 +12,13 @@
 * [Espelho de Interações](espelho-de-interacoes.md)
 * [Fórum Light](forum-light.md)
 * [Fórum Zegg](forum-zegg.md)
+* [Priorização Bimodal](priorizacao-bimodal.md)
 * [Perguntas Poderosas](perguntas-poderosas.md)
 * [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
 * [Revisão Tática](revisao-tatica.md)
 * [Sessão de Feedback em Círculo](sessao-de-feedback-em-circulo.md)
 * [Modo Explorar](modo-explorar.md)
 * [Sessão Explorar](sessao-explorar.md)
-* [Priorização Bimodal](priorizacao-bimodal.md)
 ---
 
 Você pode nos dar sugestões e observar o desenvolvimento da O2 enquanto tecnologia social no nosso notion
