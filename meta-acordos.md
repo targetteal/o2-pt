@@ -235,7 +235,7 @@ As alterações realizadas nos [Papeis Essenciais](#4-papeis-essenciais) de um [
 
 ## 4.3 Energização de Papéis Definidos
 
-O [Elo Externo](#4-7-elo-externo) é responsável por convidar [Parceiros](#1-2-parceiros) para energizarem os [Papéis](#2-1-papeis) definidos no [Círculo](#2-2-circulos), com exceção dos [Papéis Essenciais](#4-papeis-essenciais). O [Elo Externo](#4-7-elo-externo) pode convidar qualquer [Parceiro](#1-2-parceiros), a não ser que uma [Restrição](#2-5-restricoes) diga o contrário. Uma [Restrição](#2-5-restricoes) também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade](#2-1-papeis) e o [Artefato](#2-1-papeis) correspondente do [Elo Externo](#4-7-elo-externo).
+O [Elo Externo](#4-7-elo-externo) é responsável por convidar [Parceiros](#1-2-parceiros) para energizarem os [Papéis](#2-1-papeis) definidos no [Círculo](#2-2-circulos), com exceção dos [Papéis Essenciais Eleitos](#4-1-papeis-essenciais-eleitos). O [Elo Externo](#4-7-elo-externo) pode convidar qualquer [Parceiro](#1-2-parceiros), a não ser que uma [Restrição](#2-5-restricoes) diga o contrário. Uma [Restrição](#2-5-restricoes) também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade](#2-1-papeis) e o [Artefato](#2-1-papeis) correspondente do [Elo Externo](#4-7-elo-externo).
 
 ### 4.3.1 Foco
 
