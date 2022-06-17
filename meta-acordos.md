@@ -46,7 +46,7 @@ A "Energização" diz respeito a quais [Parceiros](#1-2-parceiros) dedicam seu t
 
 Ao perseguir o [Propósito](#2-1-papeis) dos [Papéis](#2-1-papeis) que energiza, você está sempre autorizado a tomar ação. Ainda assim você não deve impactar os [Artefatos](#2-1-papeis) definidos em [Papéis](#2-1-papeis) que você não energiza ou [Artefatos de Círculos](#2-3-artefatos-do-circulo) que você não é [Membro](#2-4-membros-do-circulo), sem antes obter uma permissão explícita do [Parceiro](#1-2-parceiros) responsável. Você também deve observar as [Restrições](#2-5-restricoes) definidas na [Estrutura Organizacional](#2-estrutura-organizacional) e seguir as condições nelas estabelecidas.
 
-Você também pode recusar um pedido caso não exista uma [Responsabilidade](#2-1-papeis) explícita correspondente na descrição do [Papel](#2-1-papeis) sendo solicitado. Ainda assim, você deve aceitar quaisquer solicitações que fizerem sentido para o [Propósito](#2-1-papeis) de algum dos [Papéis](#2-1-papeis) que você energiza.
+Você também pode recusar um pedido caso interprete que ele não faz parte do escopo dos [Papéis](#2-1-papeis) que você energiza, isto é, não há uma [Responsabilidade](#2-1-papeis) explícita correspondente e não está incluso no [Propósito](#2-1-papeis).
 
 ### 2.1.3 Deixando Papéis
 
