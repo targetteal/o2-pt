@@ -249,12 +249,13 @@ O [Papel](#2-1-papeis) do "Secretário" possui a seguinte definição inicial:
 **Responsabilidades**:
 
 * Agendar [Reuniões de Círculo](#3-reunioes-de-circulo) regulares
-* Registrar tensões, propostas, objeções e saídas durante as [Reuniões de Círculo](#3-reunioes-de-circulo), quando solicitado.
+* Registrar tensões, propostas, objeções e saídas durante as [Reuniões de Círculo](#3-reunioes-de-circulo), quando solicitado
 * Interpretar os [Meta-Acordos](#meta-acordos) e a [Estrutura Organizacional](#2-estrutura-organizacional) mediante solicitações
 
 **Artefatos**:
 
 * Registros da [Estrutura Organizacional](#2-estrutura-organizacional) do [Círculo](#2-2-circulos)
+* Interpretação final dos [Meta-Acordos](#meta-acordos) e da [Estrutura](#2-estrutura-organizacional) do [Círculo](#2-2-circulos) quando houver conflito
 
 ## 4.5 Papéis Essenciais Eleitos
 
