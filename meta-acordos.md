@@ -120,6 +120,10 @@ Durante a facilitação dos [Modos](#3-reunioes-de-circulo), o [Facilitador](#4-
 
 Se algum [Membro do Círculo](#2-4-membros-do-circulo) pedir a [Eleição](#4-5-2-eleicoes) de algum dos [Papéis Essenciais Eleitos](#4-5-papeis-essenciais-eleitos), o [Facilitador](#4-3-facilitador) deve priorizar essa [Tensão](#1-3-tensoes-criativas) tratando-a antes de qualquer outra.
 
+### 3.3.2 Ausência do Facilitador ou do Secretário Eleito
+
+Na ausência dos [Parceiros](#1-2-parceiros) eleitos para os papéis de [Facilitador](#4-3-facilitador) ou de [Secretário](#4-4-secretario) em uma reunião, qualquer [Parceiros](#1-2-parceiros) que seja membro do [Círculo](#2-2-circulos) poderá assumir esses [Papéis](#2-1-papeis) voluntariamente, integrando [Objeções](#3-6-3-objecoes) se houver, respeitando as limitações existentes ao papel [Elo Externo](#4-5-1-parceiros-elegiveis).
+
 ## 3.4 Modo Revisar
 
 O "Modo Revisar" é um momento da [Reunião de Círculo](#3-reunioes-de-circulo) cujo objetivo é _dar transparência ao trabalho realizado pelo_ [_Círculo_](#2-2-circulos). Cabe ao [Facilitador](#4-3-facilitador) decidir como especificamente o [Modo Revisar](#3-4-modo-revisar) é conduzido, exceto se uma [Restrição](#2-5-restricoes) determinar o contrário.
