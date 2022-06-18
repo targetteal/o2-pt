@@ -82,9 +82,9 @@ Um [Círculo](#2-2-circulos) pode especificar um de seus [Artefatos](#2-1-papeis
 
 ## 2.5 Restrições
 
-"Restrições" são limitações de autoridade que aplicam-se a todos os [Papéis](#2-1-papeis) de um [Círculo](#2-2-circulos). Restrições são compostas por um nome e uma descrição. A não ser que de outra forma especificado em sua descrição, o efeito de uma Restrição se aplica a todos os [Papéis](#2-1-papeis) e [Círculos](#2-2-circulos) internos ao [Círculo](#2-2-circulos) onde ela é definida. Uma Restrição é parte de um [Círculo](#2-2-circulos), assim como um [Papel](#2-1-papeis) ou [Círculo](#2-2-circulos) interno.
+Uma restrição é um acordo que pode existir em um [Círculo](#2-2-circulos), que limita a maneira como um processo interno deve acontecer ou como um artefato daquele [Círculo](#2-2-circulos) deve ser utilizado. A restrição é composta de um título e uma descrição, e normalmente seu efeito se aplica a todos os papéis naquele [Círculo](#2-2-circulos) e dos [Círculos](#2-2-circulos) internos, a menos que sua descrição defina um conjunto específico de [Papéis](#2-1-papeis).
 
-### 2.5.1 Restrições não estabelecem expectativas,
+### 2.5.1 Restrições não estabelecem expectativas
 
 [Restrições](#2-5-restricoes) não podem estabelecer expectativas, porque este é o objetivo de uma [Responsabilidade](#2-1-papeis). Ainda assim, uma [Restrição](#2-5-restricoes) pode exigir ação, mas apenas para [Parceiros](#1-2-parceiros) em que a [Restrição](#2-5-restricoes) se aplica na condição específica que desencadeia ela.
 
