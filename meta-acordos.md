@@ -82,7 +82,7 @@ Um [Círculo](#2-2-circulos) pode especificar um de seus [Artefatos](#2-1-papeis
 
 ## 2.5 Restrições
 
-Uma restrição é um acordo que pode existir em um [Círculo](#2-2-circulos), que limita a maneira como um processo interno deve acontecer ou como um artefato daquele [Círculo](#2-2-circulos) deve ser utilizado. A restrição é composta de um título e uma descrição, e normalmente seu efeito se aplica a todos os papéis naquele [Círculo](#2-2-circulos) e dos [Círculos](#2-2-circulos) internos, a menos que sua descrição defina um conjunto específico de [Papéis](#2-1-papeis).
+A restrição é um acordo, próprio dos [Círculos](#2-2-circulos), que limita a maneira como um processo interno deve acontecer ou como um artefato daquele [Círculo](#2-2-circulos) deve ser utilizado. A restrição é composta de um título e uma descrição, e normalmente seu efeito se aplica a todos os papéis naquele [Círculo](#2-2-circulos) e dos [Círculos](#2-2-circulos) internos, a menos que sua descrição defina um conjunto específico de [Papéis](#2-1-papeis).
 
 ### 2.5.1 Restrições não estabelecem expectativas
 
