@@ -12,9 +12,9 @@ Este documento não define como os [Meta-Acordos](#meta-acordos) são adotados, 
 
 A "Organização" é uma entidade criada para expressar um [Propósito Evolutivo](#1-1-proposito-evolutivo). Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
 
-## 1.1 Propósito Evolutivo
+## 1.1 Propósito
 
-A [Organização](#1-organizacao) possui um "Propósito Evolutivo", que corresponde ao _potencial criativo mais profundo que pode expressar de forma sustentável no mundo_. O Propósito Evolutivo é o [Propósito](#2-1-papeis) do [Círculo](#2-2-circulos) mais amplo da [Estrutura Organizacional](#2-estrutura-organizacional).
+O propósito é uma frase que expressa a razão de existir da [organização](#1-organizacao). A organização dos círculos e dos papéis internos devem contribuir para este propósito. 
 
 ## 1.2 Parceiros
 
@@ -82,7 +82,7 @@ Um [Círculo](#2-2-circulos) pode especificar um de seus [Artefatos](#2-1-papeis
 
 ## 2.5 Restrições
 
-A restrição é um acordo, próprio dos [Círculos](#2-2-circulos), que limita a maneira como um processo interno deve acontecer ou como um artefato daquele [Círculo](#2-2-circulos) deve ser utilizado. A restrição é composta de um título e uma descrição, e normalmente seu efeito se aplica a todos os papéis naquele [Círculo](#2-2-circulos) e dos [Círculos](#2-2-circulos) internos, a menos que sua descrição defina um conjunto específico de [Papéis](#2-1-papeis).
+A restrição é um acordo, próprio dos [Círculos](#2-2-circulos), que limita a maneira como um processo deve acontecer ou como um artefato deve ser utilizado. A restrição possui um título e uma descrição e seu efeito se aplica a todos os papéis naquele [Círculo](#2-2-circulos) e a todos os seus [Círculos](#2-2-circulos) internos, a menos que sua descrição defina algo diferente.
 
 ### 2.5.1 Restrições não estabelecem expectativas
 
