@@ -1,6 +1,6 @@
 # Changelog
 
-### v3.4.1 (2022-?-?)
+### v3.4.1 (2022-09-21)
 
 - Alteração: Relação entre Restrições e Responsabilidades ajustada.
 - Correção: Correção dos links para cabeçalhos em todos os arquivos.
