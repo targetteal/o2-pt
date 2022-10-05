@@ -20,7 +20,7 @@ O O2 é atualmente mantido pela [Target Teal](https://targetteal.com/pt/) e outr
 
 ### Propondo Mudanças nos Meta-Acordos
 
-Qualquer pessoa pode propor mudanças nos Meta-Acordos enviando pull requests. Ainda assim, nós recomendamos fortemente que você primeiro junte-se ao nosso Slack e inicie conversas com a comunidade antes de enviar propostas. Se você quiser participar, entre em contato através de [evoluir@targetteal.com](mailto:evoluir@targetteal.com).
+Qualquer pessoa pode propor mudanças nos Meta-Acordos enviando pull requests. Ainda assim, nós recomendamos fortemente que você primeiro junte-se ao nosso Slack e inicie conversas com a comunidade antes de enviar propostas. Se você quiser participar, entre em contato através de [falecom@targetteal.com](mailto:falecom@targetteal.com).
 
 ## Licença
 
