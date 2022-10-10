@@ -1,5 +1,10 @@
 # Changelog
 
+### v3.4.2 (2022-10-10)
+
+- Correção: Formato do arquivo do padrão Priorização Bimodal corrigido.
+- Correção: Nova correção dos links para cabeçalhos em todos os arquivos.
+
 ### v3.4.1 (2022-09-21)
 
 - Alteração: Relação entre Restrições e Responsabilidades ajustada.
