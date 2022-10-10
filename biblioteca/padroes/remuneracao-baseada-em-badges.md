@@ -2,19 +2,19 @@
 
 ## Contexto
 
-Uma [Organizacao](../../meta-acordos.md#-organizacao) de porte médio ou grande que faz uso de uma estrutura baseada em [Papéis](../../meta-acordos.md#-papeis) e que busca formas mais claras e justas de reconhecer financeiramente as habilidade individuais de seus [Parceiros](../../meta-acordos.md#-parceiros).
+Uma [Organizacao](../../meta-acordos.md#organizacao) de porte médio ou grande que faz uso de uma estrutura baseada em [Papéis](../../meta-acordos.md#papeis) e que busca formas mais claras e justas de reconhecer financeiramente as habilidade individuais de seus [Parceiros](../../meta-acordos.md#parceiros).
 
 ## Forças
 
-Na maior parte das organizações, não há clareza sobre como decisões de remuneração são tomadas ou que critérios são considerados. As habilidades e talentos individuais que os [Parceiros](../../meta-acordos.md#-parceiros) usam de forma recorrente no seu grupo de trabalho precisam ser reconhecidas e o mecanismo para que isso aconteça precisa ser o mais claro e objetivo possível.
+Na maior parte das organizações, não há clareza sobre como decisões de remuneração são tomadas ou que critérios são considerados. As habilidades e talentos individuais que os [Parceiros](../../meta-acordos.md#parceiros) usam de forma recorrente no seu grupo de trabalho precisam ser reconhecidas e o mecanismo para que isso aconteça precisa ser o mais claro e objetivo possível.
 
 ## Problema
 
-Não existe um sistema de remuneração transparente, justo e com poder de decisão descentralizado na [Organização](../../meta-acordos.md#-organizacao). Pessoas com habilidades e talentos diferentes precisam ser recompensadas de acordo, sem relacionarmos diretamente com a estrutura de [Papéis](../../meta-acordos.md#-papeis), pois ela muda com muita frequência.
+Não existe um sistema de remuneração transparente, justo e com poder de decisão descentralizado na [Organização](../../meta-acordos.md#organizacao). Pessoas com habilidades e talentos diferentes precisam ser recompensadas de acordo, sem relacionarmos diretamente com a estrutura de [Papéis](../../meta-acordos.md#papeis), pois ela muda com muita frequência.
 
 ## Solução
 
-A solução aqui proposta define como a [Organização](../../meta-acordos.md#-organizacao) cria e modifica um sistema de remuneração baseado em uma biblioteca de badges.
+A solução aqui proposta define como a [Organização](../../meta-acordos.md#organizacao) cria e modifica um sistema de remuneração baseado em uma biblioteca de badges.
 
 O primeiro elemento desse padrão é a criação de um papel responsável pela biblioteca de badges.
 
@@ -58,7 +58,7 @@ Quando uma nova badge é criada ou até mesmo no início desse padrão é natura
 
 ### Para ligar Badges a níveis de remuneração
 
-Agora é hora de entender como a [Organização](../../meta-acordos.md#-organizacao) define as suas camadas de remuneração e como as badges podem ser ligadas a estas camadas.
+Agora é hora de entender como a [Organização](../../meta-acordos.md#organizacao) define as suas camadas de remuneração e como as badges podem ser ligadas a estas camadas.
 
 > **Papel**: Arquiteto da Remuneração
 >
@@ -89,7 +89,7 @@ Através do processo definido acima, a valorização ligada a qualquer conjunto 
 
 ### Para administrar a remuneração
 
-Agora vamos criar um papel que dá transparência a todos na [Organização](../../meta-acordos.md#-organizacao) sobre quem detém qual badge e deixar claro o valor da remuneração atrelada aquela badge \(principais badges relacionadas a cada pessoa.\)
+Agora vamos criar um papel que dá transparência a todos na [Organização](../../meta-acordos.md#organizacao) sobre quem detém qual badge e deixar claro o valor da remuneração atrelada aquela badge \(principais badges relacionadas a cada pessoa.\)
 
 > **Papel**: Administrador da Remuneração
 >
@@ -105,7 +105,7 @@ Agora vamos criar um papel que dá transparência a todos na [Organização](../
 > * Revisar evidências enviadas por pessoas que outra pessoa ganhou ou perdeu uma Badge, dados os processos ou mecanismos definidos pela Badge, e atualizar os registros de Badges e remuneração se evidências claras e convincentes indicarem que uma Badge foi adquirida ou perdida
 > * Rastrear gatilhos baseados em tempo ou em eventos que expirem Badges, e, mediante uma expiração, notificar as partes afetadas e atualizar os registros relevantes
 
-O Objetivo desse padrão é não só cuidar de [Parceiros](../../meta-acordos.md#-parceiros) que já desempenham atividades dentro da [Organização](../../meta-acordos.md#-organizacao) mas também cuidar de novos [Parceiros](../../meta-acordos.md#-parceiros) que estão entrando na organização, para que desde o início se tenha uma remuneração justa e transparente.
+O Objetivo desse padrão é não só cuidar de [Parceiros](../../meta-acordos.md#parceiros) que já desempenham atividades dentro da [Organização](../../meta-acordos.md#organizacao) mas também cuidar de novos [Parceiros](../../meta-acordos.md#parceiros) que estão entrando na organização, para que desde o início se tenha uma remuneração justa e transparente.
 
 > **Restrição**: Transição para a Remuneração Baseada em Badges
 >
@@ -138,7 +138,7 @@ Em alguns países, a legislação trabalhista não permite a redução dos salá
 
 ## Contexto Resultante
 
-Após a adoção desse padrão ou variações dele, a [Organização](../../meta-acordos.md#-organizacao) começa a construir sua biblioteca de badges e o processo decisório pode ser simplificado ou não, dependendo das tensões sentidas. Ainda pode existir a necessidade de tratar da remuneração variável, talvez com Merit Money or Money Pile.
+Após a adoção desse padrão ou variações dele, a [Organização](../../meta-acordos.md#organizacao) começa a construir sua biblioteca de badges e o processo decisório pode ser simplificado ou não, dependendo das tensões sentidas. Ainda pode existir a necessidade de tratar da remuneração variável, talvez com Merit Money or Money Pile.
 
 ## Fundamentação
 
