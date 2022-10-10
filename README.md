@@ -1,6 +1,6 @@
 # Introdução
 
-**Organização Orgânica \(O2\)** é um catalisador que ajuda organizações a adotarem autogestão. O O2 é composto pelos seus [Meta-Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
+**Organização Orgânica \(O2\)** é um catalisador que ajuda organizações a adotarem autogestão. O O2 é composto pelos seus [Meta-Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](biblioteca/) em constante evolução.
 
 O O2 é influenciado e construído a partir de:
 

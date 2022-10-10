@@ -1,6 +1,6 @@
 # Meta-Acordos da Organização Orgânica {#meta-acordos}
 
-Organização Orgânica \(O2\) é um catalisador que ajuda organizações a adotarem autogestão. O O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
+Organização Orgânica \(O2\) é um catalisador que ajuda organizações a adotarem autogestão. O O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões](biblioteca/) em constante evolução.
 
 Um "Meta-Acordo" é um acordo para formação de novos acordos. Neste documento, estão descritos os [Meta-Acordos](#meta-acordos) iniciais da Organização Orgânica, cada um identificado por um título e uma descrição. Os [Meta-Acordos](#meta-acordos) possuem hiperligações uns com os outros para demonstrar sua interdependência.
 
@@ -127,13 +127,13 @@ Na ausência dos [Parceiros](#parceiros) eleitos para os papéis de [Facilitador
 
 O "Modo Revisar" é um momento da [Reunião de Círculo](#reunioes) cujo objetivo é _dar transparência ao trabalho realizado pelo_ [_Círculo_](#circulos). Cabe ao [Facilitador](#facilitador) decidir como especificamente o [Modo Revisar](#modo-revisar) é conduzido, exceto se uma [Restrição](#restricoes) determinar o contrário.
 
-> Veja os **Padrões para Revisar** na [Biblioteca de Padrões](/biblioteca/)
+> Veja os **Padrões para Revisar** na [Biblioteca de Padrões](biblioteca/)
 
 ## 3.5 - Modo Sincronizar {#modo-sincronizar}
 
 O "Modo Sincronizar" é um momento da [Reunião de Círculo](#reunioes) cujo objetivo é _rapidamente processar_ [_Tensões_](#tensoes-criativas) _que não exigem o_ [_Círculo_](#circulos) _atualizar a sua_ [_Estrutura Organizacional_](#estrutura-organizacional). Saídas típicas do _Modo Sincronizar_ incluem ações, projetos, pedidos de ajuda e compartilhamento de informações. O [Facilitador](#facilitador) deve simplesmente permitir que cada participante que trouxe uma [Tensão](#tensoes-criativas) engaje os outros nos seus [Papéis](#papeis) e nestes [Meta-Acordos](#meta-acordos), até que um caminho para resolver a [Tensão](#tensoes-criativas) seja identificado. O [Secretário](#secretario) deve registrar quaisquer pedidos aceitos pelos outros participantes em seus [Papéis](#papeis) ou como Atos Heróicos.
 
-> Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](/biblioteca/)
+> Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](biblioteca/)
 
 ## 3.6 - Modo Adaptar {#modo-adaptar}
 
@@ -183,13 +183,13 @@ Qualquer participante pode levantar uma [Objeção](#objecoes) de "Quebra dos Me
 
 Alterações na [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos) podem ser propostas fora da [Reunião de Círculo](#reunioes) e são automaticamente aprovadas se todos os [Membros do Círculo](#membros-do-circulo) declararem que não têm qualquer [Objeção](#objecoes). Se qualquer [Objeção](#objecoes) for levantada ou um participante declarar que gostaria de tratar a [Tensão](#tensoes-criativas) de forma convencional, a [Proposta](#proposta) deve ser escalada para o [Modo Adaptar](#modo-adaptar) de uma [Reunião de Círculo](#reunioes) convencional.
 
-> Veja os **Padrões para Adaptar** na na [Biblioteca de Padrões](/biblioteca/)
+> Veja os **Padrões para Adaptar** na na [Biblioteca de Padrões](biblioteca/)
 
 ## 3.7 - Modo Cuidar {#modo-cuidar}
 
 O "Modo Cuidar" é um momento da [Reunião de Círculo](#reunioes) cujo objetivo é _estimular a presença e a conexão entre os participantes_. Este [Modo](#reunioes) não deve ser utilizado para fazer alterações na [Estrutura Organizacional](#modo-cuidar) do [Círculo](#circulos) ou engajar os [Parceiros](#parceiros) nos seus [Papéis](#papeis).
 
-> Veja os **Padrões para Cuidar** na [Biblioteca de Padrões](/biblioteca/)
+> Veja os **Padrões para Cuidar** na [Biblioteca de Padrões](biblioteca/)
 
 ## 3.8 - Priorize a Reunião {#priorize}
 
