@@ -1,6 +1,6 @@
-# Priorização Bimodal
+# Estratégia Bimodal
 
-Também conhecido como Priorização "even over", ou "mais que". Também conhecido como "renúncias".
+Também conhecido como Priorização Bimodal, "Even Over", ou "Mais Que". Também conhecido como "renúncias".
 
 ## Contexto
 
