@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "markdown-link-check": "^3.10.3"
+  },
+  "scripts": {
+    "check:markdown": "find *.md -exec npx markdown-link-check {} \\;"
+  }
+}
