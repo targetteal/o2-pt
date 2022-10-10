@@ -12,7 +12,6 @@
 * [Espelho de Interações](./espelho-de-interacoes.md)
 * [Fórum Light](./forum-light.md)
 * [Fórum Zegg](./forum-zegg.md)
-* [Priorização Bimodal](./priorizacao-bimodal.md)
 * [Perguntas Poderosas](./perguntas-poderosas.md)
 * [Remuneração Baseada em Badges](./remuneracao-baseada-em-badges.md)
 * [Revisão Tática](./revisao-tatica.md)
