@@ -1,12 +1,12 @@
-# <a name="-meta-acordos">Meta-Acordos da Organização Orgânica</a>
+# Meta-Acordos da Organização Orgânica {#-meta-acordos}
 
 Organização Orgânica \(O2\) é um catalisador que ajuda organizações a adotarem autogestão. O O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
 
-Um "Meta-Acordo" é um acordo para formação de novos acordos. Neste documento, estão descritos os [Meta-Acordos](#-meta-acordos) iniciais da Organização Orgânica, cada um identificado por um título e uma descrição. Os [Meta-Acordos](#-meta-acordos) possuem hiperligações uns com os outros para demonstrar sua interdependência.
+Um "Meta-Acordo" é um acordo para formação de novos acordos. Neste documento, estão descritos os [Meta-Acordos](#meta-acordos) iniciais da Organização Orgânica, cada um identificado por um título e uma descrição. Os [Meta-Acordos](#meta-acordos) possuem hiperligações uns com os outros para demonstrar sua interdependência.
 
 ## Adoção {#-adocao}
 
-Este documento não define como os [Meta-Acordos](#-meta-acordos) são adotados, como podem ser modificados e qual é o [Propósito](#-proposito) da [Organização](#-organizacao). Isto geralmente é estabelecido através de um contrato social, estatuto ou acordo entre um grupo de pessoas que criou a entidade organizacional.
+Este documento não define como os [Meta-Acordos](#meta-acordos) são adotados, como podem ser modificados e qual é o [Propósito](#-proposito) da [Organização](#-organizacao). Isto geralmente é estabelecido através de um contrato social, estatuto ou acordo entre um grupo de pessoas que criou a entidade organizacional.
 
 # 1 - Organização {#-organizacao}
 
@@ -131,7 +131,7 @@ O "Modo Revisar" é um momento da [Reunião de Círculo](#-reunioes) cujo objeti
 
 ## 3.5 - Modo Sincronizar {#-modo-sincronizar}
 
-O "Modo Sincronizar" é um momento da [Reunião de Círculo](#-reunioes) cujo objetivo é _rapidamente processar_ [_Tensões_](#-tensoes-criativas) _que não exigem o_ [_Círculo_](#-circulos) _atualizar a sua_ [_Estrutura Organizacional_](#-estrutura-organizacional). Saídas típicas do _Modo Sincronizar_ incluem ações, projetos, pedidos de ajuda e compartilhamento de informações. O [Facilitador](#-facilitador) deve simplesmente permitir que cada participante que trouxe uma [Tensão](#-tensoes-criativas) engaje os outros nos seus [Papéis](#-papeis) e nestes [Meta-Acordos](#-meta-acordos), até que um caminho para resolver a [Tensão](#-tensoes-criativas) seja identificado. O [Secretário](#-secretario) deve registrar quaisquer pedidos aceitos pelos outros participantes em seus [Papéis](#-papeis) ou como Atos Heróicos.
+O "Modo Sincronizar" é um momento da [Reunião de Círculo](#-reunioes) cujo objetivo é _rapidamente processar_ [_Tensões_](#-tensoes-criativas) _que não exigem o_ [_Círculo_](#-circulos) _atualizar a sua_ [_Estrutura Organizacional_](#-estrutura-organizacional). Saídas típicas do _Modo Sincronizar_ incluem ações, projetos, pedidos de ajuda e compartilhamento de informações. O [Facilitador](#-facilitador) deve simplesmente permitir que cada participante que trouxe uma [Tensão](#-tensoes-criativas) engaje os outros nos seus [Papéis](#-papeis) e nestes [Meta-Acordos](#meta-acordos), até que um caminho para resolver a [Tensão](#-tensoes-criativas) seja identificado. O [Secretário](#-secretario) deve registrar quaisquer pedidos aceitos pelos outros participantes em seus [Papéis](#-papeis) ou como Atos Heróicos.
 
 > Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](/biblioteca/)
 
@@ -177,7 +177,7 @@ Durante a [Integração](#-integracao), o [Facilitador](#-facilitador) também p
 
 ### 3.6.6 - Quebra dos Meta-Acordos {#-quebra}
 
-Qualquer participante pode levantar uma [Objeção](#-objecoes) de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta](#-proposta) viola uma das regras descritas nestes [Meta-Acordos](#-meta-acordos). O [Facilitador](#-facilitador) deve então pedir ao [Secretário](#-secretario) que interprete se isto é verdadeiro ou não. Esta [Objeção](#-objecoes) especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
+Qualquer participante pode levantar uma [Objeção](#-objecoes) de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta](#-proposta) viola uma das regras descritas nestes [Meta-Acordos](#meta-acordos). O [Facilitador](#-facilitador) deve então pedir ao [Secretário](#-secretario) que interprete se isto é verdadeiro ou não. Esta [Objeção](#-objecoes) especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
 
 ### 3.6.7 - Propostas Assíncronas {#-assincronas}
 
@@ -220,7 +220,7 @@ O Elo Externo detém todas as [Responsabilidades](#-papeis) e [Artefatos](#-pape
 
 ### 4.1.1 - Energização do Elo Externo {#-energizacao-elo-externo}
 
-O [Elo Externo](#-elo-externo) é escolhido pelo [Círculo](#-circulos) externo, por qualquer processo de [Energização de Papéis Definidos](#-energizacao-papeis-definidos) no [Círculo](#-circulos) externo. O [Elo Externo](#-elo-externo) do [Círculo](#-circulos) mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos](#-meta-acordos).
+O [Elo Externo](#-elo-externo) é escolhido pelo [Círculo](#-circulos) externo, por qualquer processo de [Energização de Papéis Definidos](#-energizacao-papeis-definidos) no [Círculo](#-circulos) externo. O [Elo Externo](#-elo-externo) do [Círculo](#-circulos) mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos](#meta-acordos).
 
 ## 4.2 - Elo Interno {#-elo-interno}
 
@@ -253,12 +253,12 @@ O [Papel](#-papeis) do "Secretário" possui a seguinte definição inicial:
 
 * Agendar [Reuniões de Círculo](#-reunioes) regulares
 * Registrar tensões, propostas, objeções e saídas durante as [Reuniões de Círculo](#-reunioes), quando solicitado
-* Interpretar os [Meta-Acordos](#-meta-acordos) e a [Estrutura Organizacional](#-estrutura-organizacional) mediante solicitações
+* Interpretar os [Meta-Acordos](#meta-acordos) e a [Estrutura Organizacional](#-estrutura-organizacional) mediante solicitações
 
 **Artefatos**:
 
 * Registros da [Estrutura Organizacional](#-estrutura-organizacional) do [Círculo](#-circulos)
-* Interpretação final dos [Meta-Acordos](#-meta-acordos) e da [Estrutura](#-estrutura-organizacional) do [Círculo](#-circulos) quando houver conflito
+* Interpretação final dos [Meta-Acordos](#meta-acordos) e da [Estrutura](#-estrutura-organizacional) do [Círculo](#-circulos) quando houver conflito
 
 ## 4.5 - Papéis Essenciais Eleitos {#-papeis-eleitos}
 
@@ -296,7 +296,7 @@ O processo de [Energização](#-energizacao-papeis-definidos) também pode defin
 
 ## 5.2 - Autorresponsabilização {#-autorresponsabilizacao}
 
-Enquanto [Parceiro](#-parceiros), você é responsável por tratar as [Tensões](#-tensoes-criativas) que percebe, tomando ações ou engajando outros [Parceiros](#-parceiros) nestes [Meta-Acordos](#-meta-acordos). É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
+Enquanto [Parceiro](#-parceiros), você é responsável por tratar as [Tensões](#-tensoes-criativas) que percebe, tomando ações ou engajando outros [Parceiros](#-parceiros) nestes [Meta-Acordos](#meta-acordos). É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
 
 ## 5.3 - Transparência {#-transparencia}
 
@@ -304,4 +304,4 @@ Enquanto [Parceiro](#-parceiros), é esperado que você compartilhe quando solic
 
 ## 5.4 - Ato Heróico {#-ato-heroico}
 
-Você pode temporariamente ignorar estes [Meta-Acordos](#-meta-acordos) se isto for útil e necessário para expressar o [Propósito](#-proposito) da [Organização](#-organizacao). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heroicos". Você deve sempre buscar reparar quaisquer danos causados após um Ato Heroico, propondo mudanças na [Estrutura Organizacional](#-estrutura-organizacional) ou até nestes [Meta-Acordos](#-meta-acordos) se necessário.
+Você pode temporariamente ignorar estes [Meta-Acordos](#meta-acordos) se isto for útil e necessário para expressar o [Propósito](#-proposito) da [Organização](#-organizacao). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heroicos". Você deve sempre buscar reparar quaisquer danos causados após um Ato Heroico, propondo mudanças na [Estrutura Organizacional](#-estrutura-organizacional) ou até nestes [Meta-Acordos](#meta-acordos) se necessário.
