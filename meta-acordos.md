@@ -1,4 +1,4 @@
-# Meta-Acordos da Organização Orgânica {#-meta-acordos}
+# <a name="-meta-acordos">Meta-Acordos da Organização Orgânica</a>
 
 Organização Orgânica \(O2\) é um catalisador que ajuda organizações a adotarem autogestão. O O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
 
