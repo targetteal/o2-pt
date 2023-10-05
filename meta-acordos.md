@@ -26,7 +26,7 @@ Enquanto trabalham para a [Organização](#organizacao), os [Parceiros](#parceir
 
 # 2 Estrutura Organizacional
 
-Os [Parceiros](#parceiros) podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](#circulos) e formada por [Papéis](#papeis) e [Restrições](#restricoes). Cada [Círculo](#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada no [Modo Adaptar](#modo-adaptar).
+Os [Parceiros](#parceiros) podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](#circulos) e formada por [Papéis](#papeis) e [Restrições](#restricoes). Cada [Círculo](#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada conforme descrito na [Interação Adaptar](#adaptar).
 
 ## 2.1 Papéis
 
@@ -61,7 +61,7 @@ Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [R
 
 ### 2.2.2 Círculos não estruturam seus Círculos internos
 
-Um [Círculo](#circulos) não pode alterar os [Papéis](#papeis), [Círculos](#circulos) e [Restrições](#restricoes) de um [Círculo](#circulos) interno diretamente. No entanto, um [Círculo](#circulos) pode realizar algumas operações no [Modo Adaptar](#modo-adaptar), como mover [Papéis](#papeis) de si para os seus [Círculos](#circulos) internos e vice-versa.
+Um [Círculo](#circulos) não pode alterar os [Papéis](#papeis), [Círculos](#circulos) e [Restrições](#restricoes) de um [Círculo](#circulos) interno diretamente. No entanto, um [Círculo](#circulos) pode realizar algumas operações descricas na [Interação Adaptar](#adaptar), como mover [Papéis](#papeis) de si para os seus [Círculos](#circulos) internos e vice-versa.
 
 ## 2.3 Artefatos do Círculo
 
