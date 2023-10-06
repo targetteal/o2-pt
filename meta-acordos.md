@@ -124,27 +124,27 @@ Uma [Proposta][proposta] de [Adaptar][adaptar] pode somente incluir uma ou mais 
 * Mover [Papéis][papeis], [Restrições][restricoes] ou [Círculos][circulos] de um [Círculo][circulos] interno para si;
 * Transformar os seus [Papéis][papeis] em [Círculos][circulos] internos, e vice-versa.
 
-## 3.3.2 Decisão Integrativa
+### 3.3.2 Decisão Integrativa
 
 Para processar [Propostas][proposta] no [Adaptar][adaptar], os [Membros do Círculo][membros-do-circulo] devem utilizar a "Decisão Integrativa". Durante este processo decisório, o [Parceiro][parceiros] sentindo a [Tensão][tensoes] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de todos os [Membros do Círculo][membros-do-circulo]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas.
 
-### 3.3.2.1 Proposta
+#### 3.3.2.1 Proposta
 
 Uma [Proposta][proposta] é uma estratégia descrita por um [Parceiro][parceiros], o "Proponente", para responder a uma [Tensão][tensoes] sentida pelo mesmo ou por alguém que ele ou ela representa. A construção da [Proposta][proposta] é de responsabilidade do [Proponente][proposta], embora ele possa pedir ajuda ou consultar opiniões de outros [Parceiros][parceiros] durante o processo.
 
-### 3.3.2.2 Apresentação de Exemplos
+#### 3.3.2.2 Apresentação de Exemplos
 
 O [Proponente][proposta] deve ser capaz de apresentar exemplos de situações passadas ou presentes onde cada parte da [Proposta][proposta] construída trataria a [Tensão][tensoes].
 
-### 3.3.2.3 Facilitador pode descartar a Proposta
+#### 3.3.2.3 Facilitador pode descartar a Proposta
 
 Ao facilitar uma [Decisão Integrativa][decisao-integrativa] em uma [Reunião de Círculo][reuniao-de-circulo], se o [Facilitador][facilitador] considerar que o [Proponente][proposta] não foi capaz de apresentar exemplos e esclarecimentos de como a [Proposta][proposta] resolve a [Tensão][tensoes], o [Facilitador][facilitador] deve descartar a [Proposta][proposta]. O [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
 
-### 3.3.2.4 Objeções
+#### 3.3.2.4 Objeções
 
 Durante uma [Decisão Integrativa][decisao-integrativa], os [Membros do Círculo][membros-do-circulo] podem apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade do [Parceiro][parceiros] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. 
 
-### 3.3.2.5 Objeções Válidas
+#### 3.3.2.5 Objeções Válidas
 
 Uma [Objeção][objecoes] é considerada válida caso o [Parceiro][parceiros] que a levantou acredite que ela possua todas as 4 características abaixo:
 
@@ -153,15 +153,15 @@ Uma [Objeção][objecoes] é considerada válida caso o [Parceiro][parceiros] qu
 3. **Causal**: A [Objeção][objecoes] é causado pela [Proposta][proposta], ou seja, ela não existe se a [Proposta][proposta] não for adotada.
 4. **Factual**: A [Objeção][objecoes] é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. Ainda assim, se o dano alegado é tão desastroso que não seria possível se adaptar no futuro, então este critério pode ser desconsiderado.
 
-### 3.3.2.6 Facilitador pode descartar a Objeção
+#### 3.3.2.6 Facilitador pode descartar a Objeção
 
 Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador][facilitador] considerar que o [Parceiro][parceiros] não foi capaz de apresentar exemplos e esclarecimentos de como a [Objeção][objecoes] atende aos critérios de [Objeções Válidas][objecoes-validas], o [Facilitador][facilitador] deve descartar a [Objeção][objecoes]. O [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
 
-### 3.3.2.7 Integração
+#### 3.3.2.7 Integração
 
 Se houver [Objeções][objecoes], o [Proponente][proposta] deve integrá-las à [Proposta][proposta], uma de cada vez. O objetivo da "Integração" é modificar a [Proposta][proposta] para que ela resolva a [Tensão][tensoes] original, mas sem causar a [Objeção][objecoes] levantada. Se a [Proposta][proposta] for alterada, o [Proponente][proposta] deverá dar mais uma oportunidade para os participantes levantarem [Objeções][objecoes].
 
-### 3.3.2.8 Quebra dos Meta-Acordos
+#### 3.3.2.8 Quebra dos Meta-Acordos
 
 Qualquer [Membro do Círculo][membros-do-circulo] participando de uma [Decisão Integrativa][decisao-integrativa] pode levantar uma [Objeção][objecoes] de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta][proposta] viola um [Meta-Acordo][meta-acordos]. Esta [Objeção][objecoes] especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
 
