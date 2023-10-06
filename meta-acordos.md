@@ -109,13 +109,13 @@ Na interação "Sincronizar", dois ou mais [Parceiros][parceiros] buscam tratar 
 
 ## 3.3 Adaptar
 
-Na interação "Adaptar", [Membros do Círculo][membros-do-circulo] buscam resolver [Tensões][tensoes] que envolvam mudanças na [Estrutura Organizacional][estrutura-organizacional]. Cada [Membro do Círculo][membros-do-circulo] sentindo uma [Tensão][tensoes] pode apresentar ou construir uma [Proposta][propostas] envolvendo as [Operações de Adaptar][operacoes-de-adaptar] e deve utilizar a [Decisão Integrativa de Círculo][decisao-integrativa-de-circulo] para tratá-la.
+Na interação "Adaptar", [Membros do Círculo][membros-do-circulo] buscam resolver [Tensões][tensoes] que envolvam mudanças na [Estrutura Organizacional][estrutura-organizacional]. Cada [Membro do Círculo][membros-do-circulo] sentindo uma [Tensão][tensoes] pode apresentar ou construir uma [Proposta][proposta] envolvendo as [Operações de Adaptar][operacoes-de-adaptar] e deve utilizar a [Decisão Integrativa][decisao-integrativa] para tratá-la.
 
 > Veja os **Padrões para Adaptar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
 ### 3.3.1 Operações de Adaptar
 
-Uma [Proposta][propostas] de [Adaptar][adaptar] pode somente incluir uma ou mais das operações descritas abaixo:
+Uma [Proposta][proposta] de [Adaptar][adaptar] pode somente incluir uma ou mais das operações descritas abaixo:
 
 * Adicionar, remover ou alterar [Papéis][papeis] do [Círculo][circulos];
 * Adicionar, remover ou alterar [Círculos][circulos] internos;
@@ -123,6 +123,47 @@ Uma [Proposta][propostas] de [Adaptar][adaptar] pode somente incluir uma ou mais
 * Mover seus [Papéis][papeis], [Restrições][restricoes] ou [Círculos][circulos] internos para um [Círculo][circulos] interno;
 * Mover [Papéis][papeis], [Restrições][restricoes] ou [Círculos][circulos] de um [Círculo][circulos] interno para si;
 * Transformar os seus [Papéis][papeis] em [Círculos][circulos] internos, e vice-versa.
+
+## 3.3.2 Decisão Integrativa
+
+Para processar [Propostas][proposta] no [Adaptar][adaptar], os [Membros do Círculo][membros-do-circulo] devem utilizar a "Decisão Integrativa". Durante este processo decisório, o [Parceiro][parceiros] sentindo a [Tensão][tensoes] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de todos os [Membros do Círculo][membros-do-circulo]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas.
+
+### 3.3.2.1 Proposta
+
+Uma [Proposta][proposta] é uma estratégia descrita por um [Parceiro][parceiros], o "Proponente", para responder a uma [Tensão][tensoes] sentida pelo mesmo ou por alguém que ele ou ela representa. A construção da [Proposta][proposta] é de responsabilidade do [Proponente][proposta], embora ele possa pedir ajuda ou consultar opiniões de outros [Parceiros][parceiros] durante o processo.
+
+### 3.3.2.2 Apresentação de Exemplos
+
+O [Proponente][proposta] deve ser capaz de apresentar exemplos de situações passadas ou presentes onde cada parte da [Proposta][proposta] construída trataria a [Tensão][tensoes].
+
+### 3.3.2.3 Facilitador pode descartar a Proposta
+
+Ao facilitar uma [Decisão Integrativa][decisao-integrativa] em uma [Reunião de Círculo][reuniao-de-circulo], se o [Facilitador][facilitador] considerar que o [Proponente][proposta] não foi capaz de apresentar exemplos e esclarecimentos de como a [Proposta][proposta] resolve a [Tensão][tensoes], o [Facilitador][facilitador] deve descartar a [Proposta][proposta]. O [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
+
+### 3.3.2.4 Objeções
+
+Durante uma [Decisão Integrativa][decisao-integrativa], os [Membros do Círculo][membros-do-circulo] podem apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade do [Parceiro][parceiros] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. 
+
+### 3.3.2.5 Objeções Válidas
+
+Uma [Objeção][objecoes] é considerada válida caso o [Parceiro][parceiros] que a levantou acredite que ela possua todas as 4 características abaixo:
+
+1. **Prejudicial**: A [Objeção][objecoes] é sobre algum mal que a [Proposta][proposta] causa, e não apenas uma oportunidade de melhoria na [Proposta][proposta].
+2. **Direta**: A [Objeção][objecoes] afeta a capacidade do [Parceiro][parceiros] em expressar o [Propósito][papeis] de um dos [Papéis][papeis] que energiza.
+3. **Causal**: A [Objeção][objecoes] é causado pela [Proposta][proposta], ou seja, ela não existe se a [Proposta][proposta] não for adotada.
+4. **Factual**: A [Objeção][objecoes] é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. Ainda assim, se o dano alegado é tão desastroso que não seria possível se adaptar no futuro, então este critério pode ser desconsiderado.
+
+### 3.3.2.6 Facilitador pode descartar a Objeção
+
+Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador][facilitador] considerar que o [Parceiro][parceiros] não foi capaz de apresentar exemplos e esclarecimentos de como a [Objeção][objecoes] atende aos critérios de [Objeções Válidas][objecoes-validas], o [Facilitador][facilitador] deve descartar a [Objeção][objecoes]. O [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
+
+### 3.3.2.7 Integração
+
+Se houver [Objeções][objecoes], o [Proponente][proposta] deve integrá-las à [Proposta][proposta], uma de cada vez. O objetivo da "Integração" é modificar a [Proposta][proposta] para que ela resolva a [Tensão][tensoes] original, mas sem causar a [Objeção][objecoes] levantada. Se a [Proposta][proposta] for alterada, o [Proponente][proposta] deverá dar mais uma oportunidade para os participantes levantarem [Objeções][objecoes].
+
+### 3.3.2.8 Quebra dos Meta-Acordos
+
+Qualquer [Membro do Círculo][membros-do-circulo] participando de uma [Decisão Integrativa][decisao-integrativa] pode levantar uma [Objeção][objecoes] de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta][proposta] viola um [Meta-Acordo][meta-acordos]. Esta [Objeção][objecoes] especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
 
 ## 3.4 Cuidar
 
@@ -136,19 +177,19 @@ Uma "Reunião de Círculo" é um espaço onde os [Membros][membros-do-circulo] p
 
 ### 3.5.1 Somente Membros podem tratar Tensões
 
-[Parceiros][parceiros] que não são [Membros do Círculo][membros-do-circulo] não podem tratar [Tensões][tensoes] nas [Reuniões de Círculo][reunioes-de-circulo]. Ainda assim, outros [Parceiros][parceiros] podem ser convidados por um [Membro do Círculo][membros-do-circulo] para ajudar em uma [Tensão][tensoes] específica. Neste caso, a tensão ainda será considerada do [Membro do Círculo][membros-do-circulo] e não do [Parceiro][parceiros] convidado.
+[Parceiros][parceiros] que não são [Membros do Círculo][membros-do-circulo] não podem tratar [Tensões][tensoes] nas [Reuniões de Círculo][reuniao-de-circulo]. Ainda assim, outros [Parceiros][parceiros] podem ser convidados por um [Membro do Círculo][membros-do-circulo] para ajudar em uma [Tensão][tensoes] específica. Neste caso, a tensão ainda será considerada do [Membro do Círculo][membros-do-circulo] e não do [Parceiro][parceiros] convidado.
 
 ### 3.5.2 Formato da Reunião
 
-As [Reuniões de Círculo][reunioes-de-circulo] começam com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro. O [Facilitador][facilitador] preenche o encontro com as [Interações][reunioes-e-interacoes] definidas nesta seção ou na [Estrutura Organizacional][estrutura-organizacional], de acordo com o tempo disponível e as necessidades do [Círculo][circulos]. As [Reuniões de Círculo][reunioes-de-circulo] terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
+As [Reuniões de Círculo][reuniao-de-circulo] começam com uma rodada de check-in, onde um por vez, cada participante compartilha como ele ou ela está chegando no encontro. O [Facilitador][facilitador] preenche o encontro com as [Interações][reunioes-e-interacoes] definidas nesta seção ou na [Estrutura Organizacional][estrutura-organizacional], de acordo com o tempo disponível e as necessidades do [Círculo][circulos]. As [Reuniões de Círculo][reuniao-de-circulo] terminam com uma rodada de encerramento, onde um por vez, cada participante compartilha uma reflexão final sobre o encontro.
 
 ### 3.5.3 Membros ausentes
 
-Durante a [Reunião de Círculo][reunioes-de-circulo], um ou mais [Parceiros][parceiros] podem apresentar [Propostas][propostas] que utilizem a [Decisão Integrativa][decisao-integrativa]. Caso um [Parceiro][parceiros] não esteja presente na reunião, a [Proposta][propostas] segue como se ele ou ela não tivesse qualquer [Objeção][objecoes].
+Durante a [Reunião de Círculo][reuniao-de-circulo], um ou mais [Parceiros][parceiros] podem apresentar [Propostas][proposta] que utilizem a [Decisão Integrativa][decisao-integrativa]. Caso um [Parceiro][parceiros] não esteja presente na reunião, a [Proposta][proposta] segue como se o [Parceiro][parceiros] ausente não tivesse qualquer [Objeção][objecoes].
 
 ### 3.5.4 Priorize a Reunião
 
-Quando solicitado por outro [Membro de um Círculo][membros-do-circulo] do qual você faz parte, você deve priorizar participar da [Reunião de Círculo][reunioes-de-circulo] em detrimento de trabalhar nos seus [Papéis][papeis].
+Quando solicitado por outro [Membro de um Círculo][membros-do-circulo] do qual você faz parte, você deve priorizar participar da [Reunião de Círculo][reuniao-de-circulo] em detrimento de trabalhar nos seus [Papéis][papeis].
 
 ## 3.6 Restrições de facilitação
 
@@ -156,7 +197,7 @@ Durante a facilitação das [Interações][reunioes-e-interacoes], o [Facilitado
 
 ### 3.6.1 Uma Tensão de cada vez
 
-Ao facilitar a [Reunião de Círculo](#reuniao-de-circulo), o [Facilitador][facilitador] deverá focar a atenção em uma [Tensão][tensoes] de cada vez. Isto significa que o [Facilitador][facilitador] não deve permitir que outros participantes tentem incluir suas perspectivas na [Tensão][tensoes] sendo tratada, a não ser que o participante que sentiu a [Tensão][tensoes] originalmente acredite que aquela perspectiva seja útil e desejável.
+Ao facilitar a [Reunião de Círculo][reuniao-de-circulo], o [Facilitador][facilitador] deverá focar a atenção em uma [Tensão][tensoes] de cada vez. Isto significa que o [Facilitador][facilitador] não deve permitir que outros participantes tentem incluir suas perspectivas na [Tensão][tensoes] sendo tratada, a não ser que o participante que sentiu a [Tensão][tensoes] originalmente acredite que aquela perspectiva seja útil e desejável.
 
 ### 3.6.2 Lista de Tensões
 
@@ -164,68 +205,11 @@ Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador][facilita
 
 ## 3.7 Interações Assíncronas
 
-As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reunioes-de-circulo] e neste caso são consideradas "Interações Assíncronas". Caso um [Parceiro][parceiros] apresente uma [Proposta][propostas] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Parceiro][parceiros] participando da decisão pode "escalar" a [Proposta][propostas] para uma [Reunião de Círculo][reunioes-de-circulo] convencional.
+As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reuniao-de-circulo] e neste caso são consideradas "Interações Assíncronas". Caso um [Parceiro][parceiros] apresente uma [Proposta][proposta] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Parceiro][parceiros] participando da decisão pode "escalar" a [Proposta][proposta] para uma [Reunião de Círculo][reuniao-de-circulo] convencional.
 
 ## 3.8 Novas Interações
 
-Enquanto [Parceiro][parceiros], você pode criar novos tipos de [Interações][reunioes-e-interacoes] além dos definidos nesta seção. Ainda assim, quaisquer expectativas ou limitações de autoridade devem ser registradas na [Estrutura Organizacional][estrutura-organizacional], na forma de [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes].
-
-# 4. Processos Decisórios
-
-Enquanto [Parceiro][parceiros], você pode fazer uso de diferentes "Processos Decisórios" descritos nesta seção, enquanto busca fazer uma escolha para responder a uma [Tensão][tensoes] que percebe.
-
-## 4.1 Decisão Livre
-
-Sempre que a [Estrutura Organizacional][estrutura-organizacional] ou os [Meta-Acordos][meta-acordos] não especificarem um [Processo Decisório][processos-decisorios], entende-se que o [Parceiro][parceiros] pode responder à [Tensão][tensoes] da forma que julgar mais apropriado, inclusive decidindo individualmente.
-
-## 4.2 Decisão Integrativa
-
-Uma "Decisão Integrativa" é quando um [Parceiro][parceiros] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de outros [Parceiros][parceiros] da [Organização][organizacao] para então responder à [Tensão][tensoes]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas. Este [Processo Decisório][processos-decisorios] é utilizando principalmente na [Interação][reunioes-e-interacoes] [Adaptar][adaptar] para alterar a [Estrutura Organizacional][estrutura-organizacional]. 
-
-### 4.2.1 Proposta
-
-Uma [Proposta][proposta] é uma estratégia descrita por um [Parceiro][parceiros], o "Proponente", para responder a uma [Tensão][tensoes] sentida pelo mesmo ou por alguém que ele ou ela representa. A construção da [Proposta][proposta] é de responsabilidade do [Proponente][proposta], embora ele possa pedir ajuda ou consultar opiniões de outros [Parceiros][parceiros] durante o processo. O objetivo da [Proposta][proposta] é tratar a [Tensão][tensoes] do [Proponente][proposta] sem causar [Objeções][objecoes].
-
-### 4.2.2 Apresentação de Exemplos
-
-O [Proponente][proposta] deve ser capaz de apresentar exemplos de situações passadas ou presentes onde cada parte da [Proposta][proposta] construída trataria a [Tensão][tensoes].
-
-### 4.2.3 Facilitador pode descartar a Proposta
-
-Ao facilitar uma [Decisão Integrativa][decisao-integrativa] em uma [Reunião de Círculo][reuniao-de-circulo], se o [Facilitador][facilitador] considerar que o [Proponente][proposta] não foi capaz de apresentar exemplos e esclarecimentos de como a [Proposta][proposta] resolve a [Tensão][tensoes], o [Facilitador][facilitador] deve descartar a [Proposta][proposta]. O [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
-
-### 4.2.4 Objeções
-
-Durante uma [Decisão Integrativa][decisao-integrativa], os [Parceiros][parceiros] podem apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade do [Parceiro][parceiros] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. Quando um [Parceiro][parceiros] apresenta uma [Objeção][objecoes] ele momentaneamente se torna o "Objetor" daquela [Proposta][proposta].
-
-### 4.2.5 Objeções Válidas
-
-Uma [Objeção][objecoes] é considerada válida caso o [Objetor][objetor] acredite que ela possua todas as 4 características abaixo:
-
-1. **Prejudicial**: A [Objeção][objecoes] é sobre algum mal que a [Proposta][proposta] causa, e não apenas uma oportunidade de melhoria na [Proposta][proposta].
-2. **Direta**: A [Objeção][objecoes] afeta a capacidade do [Parceiro][parceiros] em expressar o [Propósito][papeis] de um dos [Papéis][papeis] que energiza.
-3. **Causal**: A [Objeção][objecoes] é causado pela [Proposta][proposta], ou seja, ela não existe se a [Proposta][proposta] não for adotada.
-4. **Factual**: A [Objeção][objecoes] é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. Ainda assim, se o dano alegado é tão desastroso que não seria possível se adaptar no futuro, então este critério pode ser desconsiderado.
-
-### 4.2.6 Facilitador pode descartar a Objeção
-
-Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador][facilitador] considerar que o [Objetor][objetor] não foi capaz de apresentar exemplos e esclarecimentos de como a [Objeção][objecoes] atende aos critérios de [Objeções Válidas][objecoes-validas], o [Facilitador][facilitador] deve descartar a [Objeção][objecoes]. O [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
-
-### 4.2.7 Integração
-
-Se houver [Objeções][objecoes], o [Proponente][proposta] deve integrá-las à [Proposta][proposta], uma de cada vez. O objetivo da "Integração" é modificar a [Proposta][proposta] para que ela resolva a [Tensão][tensoes] original, mas sem causar a [Objeção][objecoes] levantada. Se a [Proposta][proposta] for alterada, o [Proponente][proposta] deverá dar mais uma oportunidade para os participantes levantarem [Objeções][objecoes].
-
-### 4.2.8 Quebra dos Meta-Acordos
-
-Qualquer [Parceiro][parceiros] participando de uma [Decisão Integrativa][decisao-integrativa] pode levantar uma [Objeção][objecoes] de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta][proposta] viola um [Meta-Acordo][meta-acordos]. Esta [Objeção][objecoes] especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
-
-## 4.3 Decisão Integrativa de Círculo
-
-Quando um Parceiro buscar integrar [Objeções][objecoes] de todos os [Membros de um Círculo][membros-de-circulo] ou quando a [Estrutura Organizacional][estrutura-organizacional] ou os [Meta-Acordos][meta-acordos] exigirem desta forma, esta é considerada uma "Decisão Integrativa de Círculo".
-
-## 4.4 Novos Processos Decisórios
-
-Através da [Estrutura Organizacional][estrutura-organizacional], os [Parceiros][parceiros] podem definir novos [Processos Decisórios][processos-decisorios] ou até restringir como [Papéis][papeis] ou [Círculos][circulos] decidem em certas ocasiões.
+Enquanto [Parceiro][parceiros] energizando [Papeis][papeis], você pode criar e usar novos tipos de [Interações][reunioes-e-interacoes] além dos definidos nesta seção. Ainda assim, quaisquer expectativas ou limitações de autoridade devem ser registradas na [Estrutura Organizacional][estrutura-organizacional], na forma de [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes].
 
 # 5 Papéis Essenciais
 
@@ -363,8 +347,17 @@ Você pode temporariamente ignorar estes [Meta-Acordos](#meta-acordos-da-organiz
 [sincronizar]: #3.2-sincronizar
 [adaptar]: #3.3-adaptar
 [operacoes-de-adaptar]: #3.3.1-operacoes-de-adaptar
+[decisao-integrativa]: #3.3.2-decisao-integrativa
+[proposta]: #3.3.2.1-proposta
+[apresentacao-de-exemplos]: #3.3.2.2-apresentacao-de-exemplos
+[facilitador-pode-descartar-a-proposta]: #3.3.2.3-facilitador-pode-descartar-a-proposta
+[objecoes]: #3.3.2.4-objecoes
+[objecoes-validas]: #3.3.2.5-objecoes-validas
+[facilitador-pode-descartar-a-objecao]: #3.3.2.6-facilitador-pode-descartar-a-objecao
+[integracao]: #3.3.2.7-integracao
+[quebra-dos-meta-acordos]: #3.3.2.8-quebra-dos-meta-acordos
 [cuidar]: #3.4-cuidar
-[reunioes-de-circulo]: #3.5-reuniao-de-circulo
+[reuniao-de-circulo]: #3.5-reuniao-de-circulo
 [somente-membros-podem-tratar-tensoes]: #3.5.1-somente-membros-podem-tratar-tensoes
 [formato-da-reuniao]: #3.5.2-formato-da-reuniao
 [membros-ausentes]: #3.5.3-membros-ausentes
@@ -374,32 +367,19 @@ Você pode temporariamente ignorar estes [Meta-Acordos](#meta-acordos-da-organiz
 [lista-de-tensoes]: #3.6.2-lista-de-tensoes
 [interacoes-assincronas]: #3.7-interacoes-assincronas
 [novas-interacoes]: #3.8-novas-interacoes
-[processos-decisorios]: #4-processos-decisorios
-[decisao-livre]: #4.1-decisao-livre
-[decisao-integrativa]: #4.2-decisao-integrativa
-[proposta]: #4.2.1-proposta
-[apresentacao-de-exemplos]: #4.2.2-apresentacao-de-exemplos
-[facilitador-pode-descartar-a-proposta]: #4.2.3-facilitador-pode-descartar-a-proposta
-[objecoes]: #4.2.4-objecoes
-[objecoes-validas]: #4.2.5-objecoes-validas
-[facilitador-pode-descartar-a-objecao]: #4.2.6-facilitador-pode-descartar-a-objecao
-[integracao]: #4.2.7-integracao
-[quebra-dos-meta-acordos]: #4.2.8-quebra-dos-meta-acordos
-[decisao-integrativa-de-circulo]: #4.3-decisao-integrativa-de-circulo
-[novos-processos-decisorios]: #4.4-novos-processos-decisorios
-[papeis-essenciais]: #5-papeis-essenciais
-[elo-externo]: #5.1-elo-externo
-[energizacao-do-elo-externo]: #5.1.1-energizacao-do-elo-externo
-[elo-interno]: #5.2-elo-interno
-[facilitador]: #5.3-facilitador
-[secretario]: #5.4-secretario
-[papeis-essenciais-eleitos]: #5.5-papeis-essenciais-eleitos
-[parceiros-elegiveis]: #5.5.1-parceiros-elegiveis
-[eleicoes]: #5.5.2-eleicoes
-[alteracoes-nos-papeis-essenciais]: #5.5.3-alteracoes-nos-papeis-essenciais
-[alteracoes-nos-papeis-essenciais-nao-propagam]: #5.5.3.1-alteracoes-nos-papeis-essenciais-nao-propagam
-[energizacao-de-papeis-definidos]: #6-energizacao-de-papeis-definidos
-[foco]: #6.1-foco
-[autorresponsabilizacao]: #6.2-autorresponsabilizacao
-[transparencia]: #6.3-transparencia
-[ato-heroico]: #6.4-ato-heroico
+[papeis-essenciais]: #4-papeis-essenciais
+[elo-externo]: #4.1-elo-externo
+[energizacao-do-elo-externo]: #4.1.1-energizacao-do-elo-externo
+[elo-interno]: #4.2-elo-interno
+[facilitador]: #4.3-facilitador
+[secretario]: #4.4-secretario
+[papeis-essenciais-eleitos]: #4.5-papeis-essenciais-eleitos
+[parceiros-elegiveis]: #4.5.1-parceiros-elegiveis
+[eleicoes]: #4.5.2-eleicoes
+[alteracoes-nos-papeis-essenciais]: #4.5.3-alteracoes-nos-papeis-essenciais
+[alteracoes-nos-papeis-essenciais-nao-propagam]: #4.5.3.1-alteracoes-nos-papeis-essenciais-nao-propagam
+[energizacao-de-papeis-definidos]: #5-energizacao-de-papeis-definidos
+[foco]: #5.1-foco
+[autorresponsabilizacao]: #5.2-autorresponsabilizacao
+[transparencia]: #5.3-transparencia
+[ato-heroico]: #5.4-ato-heroico
