@@ -205,7 +205,7 @@ Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador][facilita
 
 ## 3.7 Interações Assíncronas
 
-As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reuniao-de-circulo] e neste caso são consideradas "Interações Assíncronas". Caso um [Parceiro][parceiros] apresente uma [Proposta][proposta] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Membro do Círculo][membros-do-circulo] pode "escalar" a [Proposta][proposta] para uma [Reunião de Círculo][reuniao-de-circulo] convencional. O processo de interações assíncronas pode ser especificado como uma [Restrição][restricoes] do [Círculo][circulos].
+As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reuniao-de-circulo] e neste caso são consideradas "Interações Assíncronas". Caso um [Parceiro][parceiros] apresente uma [Proposta][proposta] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Membro do Círculo][membros-do-circulo] pode escalar a [Proposta][proposta] para uma [Reunião de Círculo][reuniao-de-circulo] convencional. O processo de interações assíncronas pode ser especificado como uma [Restrição][restricoes] do [Círculo][circulos].
 
 ## 3.8 Novas Interações
 
