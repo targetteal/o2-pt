@@ -126,7 +126,7 @@ Uma [Proposta][proposta] de [Adaptar][adaptar] pode somente incluir uma ou mais 
 
 ### 3.3.2 Decisão Integrativa
 
-Para processar [Propostas][proposta] no [Adaptar][adaptar], os [Membros do Círculo][membros-do-circulo] devem utilizar a "Decisão Integrativa". Durante este processo decisório, o [Parceiro][parceiros] sentindo a [Tensão][tensoes] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de todos os [Membros do Círculo][membros-do-circulo]. A [Proposta][proposta] apresentada é modificada até contemplar todas as [Objeções][objecoes] levantadas.
+Para processar [Propostas][proposta] no [Adaptar][adaptar], os [Membros do Círculo][membros-do-circulo] devem utilizar a "Decisão Integrativa". Durante este processo decisório, o [Parceiro][parceiros] sentindo a [Tensão][tensoes] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de todos os [Membros do Círculo][membros-do-circulo]. A [Proposta][proposta] apresentada só será considerada aceita após todas as [Objeções][objecoes] válidas serem integradas, descartadas ou abandonadas.
 
 #### 3.3.2.1 Proposta
 
@@ -205,7 +205,7 @@ Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador][facilita
 
 ## 3.7 Interações Assíncronas
 
-As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reuniao-de-circulo] e neste caso são consideradas "Interações Assíncronas". Caso um [Parceiro][parceiros] apresente uma [Proposta][proposta] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Parceiro][parceiros] participando da decisão pode "escalar" a [Proposta][proposta] para uma [Reunião de Círculo][reuniao-de-circulo] convencional.
+As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reuniao-de-circulo] e neste caso são consideradas "Interações Assíncronas". Caso um [Parceiro][parceiros] apresente uma [Proposta][proposta] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Membro do Círculo][membros-do-circulo] pode "escalar" a [Proposta][proposta] para uma [Reunião de Círculo][reuniao-de-circulo] convencional. O processo de interações assíncronas pode ser especificado como uma [Restrição][restricoes] do [Círculo][circulos].
 
 ## 3.8 Novas Interações
 
