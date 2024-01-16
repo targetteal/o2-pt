@@ -1,6 +1,6 @@
 # Meta-Acordos da Organização Orgânica
 
-Organização Orgânica \(O2\) é um catalisador que ajuda organizações a adotarem autogestão. O O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
+Organização Orgânica \(O2\) é um catalisador que ajuda organizações a adotarem autogestão. A O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
 
 Um "Meta-Acordo" é um acordo para formação de novos acordos. Neste documento, estão descritos os [Meta-Acordos](#meta-acordos-da-organizacao-organica) iniciais da Organização Orgânica, cada um identificado por um título e uma descrição. Os [Meta-Acordos](#meta-acordos-da-organizacao-organica) possuem hiperligações uns com os outros para demonstrar sua interdependência.
 
@@ -61,7 +61,7 @@ Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [R
 
 ### 2.2.2 Círculos não estruturam seus Círculos internos
 
-Um [Círculo](#circulos) não pode alterar os [Papéis](#papeis), [Círculos](#circulos) e [Restrições](#restricoes) de um [Círculo](#circulos) interno diretamente. No entanto, um [Círculo](#circulos) pode realizar algumas operações descricas na [Interação Adaptar](#adaptar), como mover [Papéis](#papeis) de si para os seus [Círculos](#circulos) internos e vice-versa.
+Um [Círculo](#circulos) não pode alterar os [Papéis](#papeis), [Círculos](#circulos) e [Restrições](#restricoes) de um [Círculo](#circulos) interno diretamente. No entanto, um [Círculo](#circulos) pode realizar algumas operações descritas na [Interação Adaptar](#adaptar), como mover [Papéis](#papeis) de si para os seus [Círculos](#circulos) internos e vice-versa.
 
 ## 2.3 Artefatos do Círculo
 
@@ -89,7 +89,7 @@ A restrição é um acordo, próprio dos [Círculos](#circulos), que limita a ma
 
 ## 2.6 Prioridades do Círculo
 
-Um [Círculo](#circulos) pode estabelecer prioridades para orientar o trabalho dos seus [Integrantes](#integrantes-do-circulo). Enquanto [Membro do Círculo](#integrantes-do-circulo), você deve priorizar o seu trabalho em alinhamento com estas diretrizes estabelecidas.
+Um [Círculo](#circulos) pode estabelecer prioridades para orientar o trabalho dos seus [Integrantes](#integrantes-do-circulo). Enquanto [Integrante do Círculo](#integrantes-do-circulo), você deve priorizar o seu trabalho em alinhamento com estas diretrizes estabelecidas.
 
 # 3. Reuniões e Interações
 
@@ -109,7 +109,7 @@ Na interação "Sincronizar", dois ou mais [Colegas][colegas] buscam tratar [Ten
 
 ## 3.3 Adaptar
 
-Na interação "Adaptar", [Integrantes do Círculo][integrantes-do-circulo] buscam resolver [Tensões][tensoes] que envolvam mudanças na [Estrutura Organizacional][estrutura-organizacional]. Cada [Membro do Círculo][integrantes-do-circulo] sentindo uma [Tensão][tensoes] pode apresentar ou construir uma [Proposta][proposta] envolvendo as [Operações de Adaptar][operacoes-de-adaptar] e deve utilizar a [Decisão Integrativa][decisao-integrativa] para tratá-la.
+Na interação "Adaptar", [Integrantes do Círculo][integrantes-do-circulo] buscam resolver [Tensões][tensoes] que envolvam mudanças na [Estrutura Organizacional][estrutura-organizacional]. Cada [Integrante do Círculo][integrantes-do-circulo] sentindo uma [Tensão][tensoes] pode apresentar ou construir uma [Proposta][proposta] envolvendo as [Operações de Adaptar][operacoes-de-adaptar] e deve utilizar a [Decisão Integrativa][decisao-integrativa] para tratá-la.
 
 > Veja os **Padrões para Adaptar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
@@ -163,7 +163,7 @@ Se houver [Objeções][objecoes], a pessoa [Proponente][proposta] deve integrá-
 
 #### 3.3.2.8 Quebra dos Meta-Acordos
 
-Qualquer [Membro do Círculo][integrantes-do-circulo] participando de uma [Decisão Integrativa][decisao-integrativa] pode levantar uma [Objeção][objecoes] de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta][proposta] viola um [Meta-Acordo][meta-acordos]. Esta [Objeção][objecoes] especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
+Qualquer [Integrante do Círculo][integrantes-do-circulo] participando de uma [Decisão Integrativa][decisao-integrativa] pode levantar uma [Objeção][objecoes] de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta][proposta] viola um [Meta-Acordo][meta-acordos]. Esta [Objeção][objecoes] especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
 
 ## 3.4 Cuidar
 
@@ -177,7 +177,7 @@ Uma "Reunião de Círculo" é um espaço onde as pessoas [Integrantes][integrant
 
 ### 3.5.1 Somente Integrantes podem tratar Tensões
 
-[Colegas][colegas] que não são [Integrantes do Círculo][integrantes-do-circulo] não podem tratar [Tensões][tensoes] nas [Reuniões de Círculo][reuniao-de-circulo]. Ainda assim, outros [Colegas][colegas] podem ser convidados por um [Membro do Círculo][integrantes-do-circulo] para ajudar em uma [Tensão][tensoes] específica. Neste caso, a tensão ainda será considerada do [Membro do Círculo][integrantes-do-circulo] e não do [Colega][colegas] convidado.
+[Colegas][colegas] que não são [Integrantes do Círculo][integrantes-do-circulo] não podem tratar [Tensões][tensoes] nas [Reuniões de Círculo][reuniao-de-circulo]. Ainda assim, outros [Colegas][colegas] podem ser convidados por um [Integrante do Círculo][integrantes-do-circulo] para ajudar em uma [Tensão][tensoes] específica. Neste caso, a tensão ainda será considerada do [Integrante do Círculo][integrantes-do-circulo] e não do [Colega][colegas] convidado.
 
 ### 3.5.2 Formato da Reunião
 
@@ -189,7 +189,7 @@ Durante a [Reunião de Círculo][reuniao-de-circulo], um ou mais [Colegas][coleg
 
 ### 3.5.4 Priorize a Reunião
 
-Quando solicitado por outro [Membro de um Círculo][integrantes-do-circulo] do qual você faz parte, você deve priorizar participar da [Reunião de Círculo][reuniao-de-circulo] em detrimento de trabalhar nos seus [Papéis][papeis].
+Quando solicitado por outro [Integrante de um Círculo][integrantes-do-circulo] do qual você faz parte, você deve priorizar participar da [Reunião de Círculo][reuniao-de-circulo] em detrimento de trabalhar nos seus [Papéis][papeis].
 
 ## 3.6 Restrições de facilitação
 
@@ -201,11 +201,11 @@ Ao facilitar a [Reunião de Círculo][reuniao-de-circulo], o [Facilitador][facil
 
 ### 3.6.2 Lista de Tensões
 
-Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador][facilitador] pode pedir que o [Escriba][escriba] construa uma "Lista de Tensões" a tratar. Cada [Membro do Círculo][integrantes-do-circulo] sentindo uma [Tensão][tensoes] pode então nomeá-la usando poucas palavras. O [Escriba][escriba] então registra o nome da [Tensão][tensoes], juntamente com o nome do [Colega][colegas], de modo que o [Facilitador](#papeis-essenciais.md#facilitador) possa percorrê-la.
+Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador][facilitador] pode pedir que o [Escriba][escriba] construa uma "Lista de Tensões" a tratar. Cada [Integrante do Círculo][integrantes-do-circulo] sentindo uma [Tensão][tensoes] pode então nomeá-la usando poucas palavras. O [Escriba][escriba] então registra o nome da [Tensão][tensoes], juntamente com o nome do [Colega][colegas], de modo que o [Facilitador](#papeis-essenciais.md#facilitador) possa percorrê-la.
 
 ## 3.7 Interações Assíncronas
 
-As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reuniao-de-circulo] e neste caso são consideradas "Interações Assíncronas". Caso um [Colega][colegas] apresente uma [Proposta][proposta] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Membro do Círculo][integrantes-do-circulo] pode escalar a [Proposta][proposta] para uma [Reunião de Círculo][reuniao-de-circulo] convencional. O processo de interações assíncronas pode ser especificado como uma [Restrição][restricoes] do [Círculo][circulos].
+As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reuniao-de-circulo] e neste caso são consideradas "Interações Assíncronas". Caso um [Colega][colegas] apresente uma [Proposta][proposta] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Integrante do Círculo][integrantes-do-circulo] pode escalar a [Proposta][proposta] para uma [Reunião de Círculo][reuniao-de-circulo] convencional. O processo de interações assíncronas pode ser especificado como uma [Restrição][restricoes] do [Círculo][circulos].
 
 ## 3.8 Novas Interações
 
@@ -286,7 +286,7 @@ Todas e apenas as pessoas [Integrantes do Círculo](#integrantes-do-circulo) sã
 
 ### 5.5.2 Eleições
 
-Qualquer [Membro do Círculo](#integrantes-do-circulo) pode solicitar "Eleições" para os [Papéis Essenciais Eleitos](#papeis-essenciais). O processo de Eleição é feito inicialmente por maioria simples para escolher uma pessoa que será nomeada e em seguida faz-se o uso de consentimento para efetivar a nomeação. A [Estrutura Organizacional](#estrutura-organizacional) pode definir em detalhes como e em que condições este processo deve ser facilitado.
+Qualquer [Integrante do Círculo](#integrantes-do-circulo) pode solicitar "Eleições" para os [Papéis Essenciais Eleitos](#papeis-essenciais). O processo de Eleição é feito inicialmente por maioria simples para escolher uma pessoa que será nomeada e em seguida faz-se o uso de consentimento para efetivar a nomeação. A [Estrutura Organizacional](#estrutura-organizacional) pode definir em detalhes como e em que condições este processo deve ser facilitado.
 
 ### 5.5.3 Alterações nos Papéis Essenciais
 

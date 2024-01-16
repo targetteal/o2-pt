@@ -10,8 +10,6 @@ No primeiro contato com a Integração de Objeções, Facilitadores pouco experi
 
 Quando não utilizam um contorno específico, é comum que os Facilitadores iniciantes caiam rapidamente na armadilha do consenso. Logo podem dizer para o grupo: "agora vocês devem resolver a Objeção". Desorientados, os participantes podem tentar chegar a uma solução perfeita, ou que agrade a todos. Se outros participantes entrarem na discussão é muito provável que o foco rapidamente se desloque da Tensão original que foi trazida. É comum também o Facilitador assumir que ele deve resolver a Integração, ao invés de extraí-la inicialmente do Objetor ou do Proponente. Como resultado disso, o Objetor pode se desinteressar pela Integração e apenas levantar a Objeção como uma forma de "barrar" a Proposta. Para honrar o princípio da Autorresponsabilização (vide meta-acordos), é importante que todo o Objetor se responsabilize por tratar a Objeção que traz.
 
-
-
 ## Solução
 
 Para começar, as Objeções Válidas, assim como as Tensões, devem ser tratadas sempre uma de cada vez. É importante que o Secretário registre em algum local por escrito uma síntese tanto da Tensão (no início da Decisão Integrativa) quando da Objeção Válida em Integração. Para integrar, 3 perguntas podem apoiar o Facilitador:
