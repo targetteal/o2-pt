@@ -14,12 +14,18 @@ Uma alternativa de solução para o problema de priorização em [Círculo][circ
 
 ## Solução
 O padrão envolve a utilização de uma estratégia de polaridades para não só dar clareza ao que é importante, mas definir o que não é importante no momento. Por este motivo ele recebe o adjetivo "bimodal". Para descrever uma heurística de priorização desta forma, o [Guia][guia] ou [Papel][papeis] responsável por isso no [Círculo][circulos] pode utilizar desta linguagem:
-**X mais que Y**
+
+> **X mais que Y**
+
 Ou seja, poderíamos definir as seguintes heurísticas de priorização bimodal:
-**Cursos abertos mais que cursos fechados em organizações**
-**Conteúdos no blog mais que palestras em eventos**
+
+- **Cursos abertos mais que cursos fechados em organizações**
+- **Conteúdos no blog mais que palestras em eventos**
+
 Aqui estamos dando clareza de que cursos abertos ao público são mais importantes para um dado [Círculo][circulos] do que cursos fechados em organizações. Isto ajuda os [Integrantes do Círculo][integrantes-do-circulo] a orientarem sua ação e entender o que pode ser renunciado.
+
 Mas atenção! Existe um truque importante para que este padrão funcione bem. Tanto o X quanto o Y precisam ser coisas importantes e valiosas. Normalmente utilizamos a metáfora "bolo mais do que sorvete" para revelar isto. Por exemplo, a heurística "bolo mais do que quiabo" não seria boa, porque é muito fácil fazer essa escolha! São justamente as escolhas mais difíceis que precisam de orientações de prioridade.
+
 O [Guia][guia] ou [Papel][papeis] responsável por isso pode simplesmente escrever uma ou mais sentenças de prioridade bimodal e publicá-las em algum local acessível para todo o [Círculo][circulos]. Ao contrário do [Propósito][proposito], as sentenças podem ser alteradas a qualquer momento, gerando uma boa responsividade. Obviamente, espera-se que elas estejam coerentes com o [Propósito][proposito] do [Círculo][circulos] e as suas responsabilidades.
 
 ## Contexto resultante
@@ -30,6 +36,7 @@ Este padrão foi escrito com base em [um artigo](https://focus.parabol.co/strate
 
 ## Usos conhecidos
 Utilizada em organizações que rodam O2 e Holacracia e em outras que não estão relacionadas a autogestão.
+
 <!-- Links -->
 [meta-acordos]: ../../meta-acordos.md#meta-acordos-da-organizacao-organica
 [organizacao ]: ../../meta-acordos.md#1-organizacao

@@ -13,19 +13,25 @@ Precisamos de um ritual que ajude as pessoas a trocarem feedback de forma compat
 Uma sessão que pode ser dividida em dois momentos, de 1h30min cada, com um fluxo que pode ser descrito abaixo:
 * 1° momento: Troca de feedback de adequação
 * 2° momento: Troca de feedback entre pessoas
+
 Logo depois de um check-in, o [Facilitador][facilitador] da sessão apresenta a diferença entre o feedback de adequação e o feedback entre pessoas.
+
 **Feedback de adequação**:
 * Como a pessoa X desempenha o [Papel][papeis] Y, ou seja:
 * Como ela desempenha as [Responsabilidades][papeis] daquele [Papel][papeis]?
 * Se ela atua além das [Responsabilidades][papeis] descritas, buscando o [Propósito][proposito] do [Papel][papeis]
 * Como ela pode melhorar sua atuação naquele [Papel][papeis]?
+
 **Feedback entre pessoas**:
 * Como a pessoa X sente-se ao trabalhar com a pessoa Z e vice-versa. Ou seja:
 * Qual é o impacto das ações de X em Z e vice-versa
 * Que sentimentos X tem em relação às ações de Z e vice-versa
 * Como X e Z podem se comunicar de maneira a fortalecer os laços de confiança e o espaço tribal
+
 Logo após essa explicação, o [Facilitador][facilitador] entrega uma folha de canvas de Feedback de Adequação para cada [Papel][papeis] que as pessoas energizam. Assim, se fulano energiza 4 [Papéis][papeis] naquele [Círculo][circulos], ele recebe 4 folhas, como abaixo:
+
 ![Canvas de Feedback de Adequa&#xE7;&#xE3;o](../../.gitbook/assets/canvas-de-feedback-de-adequacao%20%281%29.png)
+
 A consigna dada pelo [Facilitador][facilitador]:
 1. Preencher uma folha para cada [Papel][papeis] \(30min\)
 2. Colar suas folhas na parede
@@ -33,15 +39,22 @@ A consigna dada pelo [Facilitador][facilitador]:
 4. Classificar os feedbacks recebidos como Reconhecido \(1a10\) e Importante \(1a10\) \(5min\)
 5. Dar última olhada em todas as folhas que você deixou feedbacks \(10min\)
 6. Não se contentar com essa sessão, continuar buscando feedbacks e pensando em como melhorar.
+
 Se o [Guia][guia] do [Círculo][circulos] tem a atribuição de alocar pessoas em [Papéis][papeis] e dar feedback de adequação, é fundamental que ele esteja presente nessa sessão. Porém, todos terão oportunidade de trocar feedback e isso é importante no desenvolvimento de cada indivíduo nos respectivos [Papéis][papeis].
+
 Chame a atenção dos participantes para um tipo específico de feedback que na verdade é a manifestação de uma expectativa implícita. Por exemplo, existe um [Papel][papeis] de Infraestrutura do site, e nele não consta uma [Responsabilidade][papeis] que diz: "Fazer back-ups regulares do site.". Neste contexto, dar um feedback como "Você deveria ter feito mais back-ups, para evitar os problemas que tivemos" seria uma expectativa implícita que poderia ser melhor resolvida no [Adaptar][adaptar], com a proposta de uma nova [Responsabilidade][papeis].
+
 Na segunda parte da sessão, ou em outro dia, o [Facilitador][facilitador] introduz a segunda parte do processo, focado na troca de feedback entre pessoas. Aqui o foco é fortalecer o espaço relacional, por meio de conversas um-a-um. Não estamos mais interessados em feedbacks de adequação, mas como cada um é impactado pelas ações do outro.
+
 _"Você só pode mudar a si mesmo. Talvez você possa oferecer informações e fazer pedidos que podem impactar os outros. Mas se isso não der certo, foque em você. Afinal, quando você quer dar um feedback não é sobre a outra pessoa. É sobre as suas necessidades."_
+
 As instruções abaixo são passadas:
 * Se você está sentado com um colega em uma dupla, então estão trocando feedback.
 * Se você está de pé, então está esperando para ser chamado ou esperando alguém para chamar para trocar feedback.
 * Aproveite da melhor maneira possível esses 90 minutos.
+
 Estamos buscando criar um espaço para as pessoas terem conversas profundas e às vezes difíceis, por isso é importante olhar para como as pessoas estão familiarizadas com práticas e princípios da comunicação não violenta.
+
 Vale também aproveitar esse momento para celebrar a qualidade das relações, a confiança e a generosidade das pessoas.
 
 ## Contexto resultante

@@ -11,28 +11,36 @@ Trazer à tona uma ampla gama de informações em uma reunião em um curto espa�
 Para que a auto-organização em um grupo seja possível, precisamos que os [Integrantes do Círculo][integrantes-do-circulo] tenham visibilidade sobre o que está acontecendo. O [Revisar][revisar] da Organização Orgânica garante isso, mas não prescreve um formato. É sobre isso que trata este padrão.
 
 ## Solução
-No [Revisar][revisar] da [Reunião de Círculo][reuniao-de-circulo], o [Facilitador][facilitador] pode conduzir a revisão de 3 elementos que capturam praticamente todos os tipos de trabalho que um grupo executa: checklists, métricas e projetos
-**Checklists**: São perguntas cuja resposta é "Sim" ou "Não" e que buscam dar clareza se uma determinada atividade recorrente aconteceu no período sendo verificado.
-**Métricas**: Indicadores quantitativos associados a um [Papel][papeis] \(idealmente algo que quem desempenha o [Papel][papeis] tenha condições de impactar\) e que representam uma leitura do contexto no qual [Círculo][circulos] está inserido.
-**Projetos**: Iniciativas com início, meio e fim e que buscam chegar a um determinado resultado.
+No [Revisar][revisar] da [Reunião de Círculo][reuniao-de-circulo], o [Facilitador][facilitador] pode conduzir a revisão de 3 elementos que capturam praticamente todos os tipos de trabalho que um grupo executa: checklists, métricas e projetos.
+
+- **Checklists**: São perguntas cuja resposta é "Sim" ou "Não" e que buscam dar clareza se uma determinada atividade recorrente aconteceu no período sendo verificado.
+- **Métricas**: Indicadores quantitativos associados a um [Papel][papeis] \(idealmente algo que quem desempenha o [Papel][papeis] tenha condições de impactar\) e que representam uma leitura do contexto no qual [Círculo][circulos] está inserido.
+- **Projetos**: Iniciativas com início, meio e fim e que buscam chegar a um determinado resultado.
 
 ### Exemplos
 Dado o [Papel][papeis] _Produtor de Conteúdo_ com o [Propósito][proposito] de _Os melhores conteúdos sobre o futuro do trabalho no blog da Target Teal_, poderíamos ter os seguintes checklists, métricas e projetos:
+
 **Checklists**:
-* Novos conteúdos criados? \(semanal\)
-* Ofertas de serviços integradas nos novos conteúdos? \(semanal\)
+- Novos conteúdos criados? \(semanal\)
+- Ofertas de serviços integradas nos novos conteúdos? \(semanal\)
+
 **Métricas**:
-* Número de novos usuários no site \(semanal\)
-* Conteúdos produzidos no mês \(mensal\)
+- Número de novos usuários no site \(semanal\)
+- Conteúdos produzidos no mês \(mensal\)
+
 **Projetos**:
-* Guia da Sociocracia publicado
-* Novo post sobre organizações evolutivas publicado
+- Guia da Sociocracia publicado
+- Novo post sobre organizações evolutivas publicado
 
 ### Construção & Facilitação
 Os checklists, métricas e projetos de cada [Papel][papeis] do [Círculo][circulos] devem ser construídos antes da [Reunião de Círculo][reuniao-de-circulo], para que o [Facilitador][facilitador] possa percorrê-los durante o encontro. A facilitação pode assumir o seguinte formato:
+
 **Checklists**: [Facilitador][facilitador] lê cada checklist de cada [Papel][papeis]. Participante responde "Sim" ou "Não". Comentários rápidos são permitidos para justificar um "Não". Participantes não podem fazer perguntas ou reações. Em caso de interrupção, o [Escriba][escriba] do [Círculo][circulos] deverá registrar um item na [Lista de Tensões][lista-de-tensoes] para mais tarde processar no [Sincronizar][sincronizar].
+
 **Métricas**: [Facilitador][facilitador] lê as métricas e os participantes responsáveis reportam brevemente cada uma. Demais participantes podem fazer perguntas rápidas de esclarecimento. Quaisquer outras coisas também devem ir para a [Lista de Tensões][lista-de-tensoes], exatamente como na revisão dos checklists.
+
 **Projetos**: [Facilitador][facilitador] lê cada projeto e pergunta ao participante responsável: "Alguma atualização? O participante responde reportando o que mudou no projeto desde o último encontro. Se não houver atualizações, o participante deve responder apenas "sem atualizações". Perguntas rápidas de esclarecimento são permitidas, demais preocupações e pedidos deverão ser tratados como [Tensões][tensoes].
+
 Os checklists, métricas e projetos iniciais podem ser alterados. Novos também podem ser criados ao longo dos encontros. Cada solicitação de mudança pode ser tratada como uma [Tensão][tensoes] e processada no [Sincronizar][sincronizar], ou fora das [Reuniões de Círculo][reuniao-de-circulo]. O dono dos checklists, métricas e projetos pode alterá-los livremente, a não ser que uma [Restrição][restricoes] ou [Artefato][artefatos] diga o contrário.
 
 ## Contexto resultante

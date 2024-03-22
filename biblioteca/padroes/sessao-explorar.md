@@ -23,30 +23,41 @@ Algumas armadilhas:
 -   Pode silenciar vozes dissonantes de maneira recorrente e violenta;
 -   Pode ocorrer abuso no uso do consenso e processos decisórios disfuncionais;
 -   Alguns assuntos são evitados ou desviados e pessoas saem com pouca clareza dos próximos passos.
-Fica claro que o abuso ou foco exclusivo nesse tipo de espaço exploratório pode ter consequências bem ruins. Ver mais sobre isso no [Contexto Resultante.](https://www.notion.so/Sess-o-Explorar-3e1586c174fb40febb6afb6d40ccce20)
+
+Fica claro que o abuso ou foco exclusivo nesse tipo de espaço exploratório pode ter consequências bem ruins.
 
 ## Solução
 Adicionar uma [Restrição][restricoes] e um [Papel][papeis] no [Círculo][circulos] que pode ajudar a fomentar espaços de Explorar e melhorar a qualidade deles.
+
 Criar um [Papel][papeis] com a seguinte descrição:
+
 **Nome:** Anfitrião do Explorar
+
 **Propósito:** Sessões de conversas exploratórias saudáveis
+
 **Responsabilidades:**
 -   Planejar a estrutura da Sessão Explorar ouvindo necessidades da pessoa que está trazendo o tema
 -   Facilitar a Sessão Explorar
+
 Criar uma [Restrição][restricoes] como descrita abaixo:
+
 **Nome:** Sessão Explorar
+
 Se uma pessoa tiver necessidade em explorar um tema, ela poderá convidar qualquer [Parceiro][parceiras] para assumir o [Papel][papeis] Anfitrião do Explorar para sua sessão ou sessões, incluindo ela mesmo.
----
+
 Ao fazer essa proposta no [Adaptar][adaptar], a única coisa que você está fazendo é dando legitimidade e facilitando algo que já poderia acontecer. Ao adicionar o [Papel][papeis] abre-se espaço para explicitar o que se espera de alguém que estaria facilitando uma sessão como essa. Duas coisas podem acontecer também seguindo essa mudança estrutural:
 -   O [Facilitador][facilitador] do [Círculo][circulos] pode muitas vezes ser chamado para ser Anfitrião do Explorar;
 -   A sessão pode acontecer após uma [Reunião de Círculo][reuniao-de-circulo] mais curta, aproveitando que muitos dos possíveis convidados estão na sala.
+
 Diferentes Padrões podem ser encontrados na biblioteca que podem ajudar um [Facilitador][facilitador] novato a conduzir esses momentos. Em alguns contextos pode ser uma facilitação difícil e acaba demandando posturas e hábitos um pouco diferentes das outras interações.
 
 ## Contexto resultante
-É uma solução mais simples e menos impactante do que o [Padrão Modo Explorar](https://www.notion.so/Patch-Modo-Explorar-12c9eb10b73a4e3eb335741bb5c041f6), mas vai na mesma direção. Talvez o caráter mais voluntário (sem [Meta-Acordo][meta-acordos] sobre priorização) da Sessão Explorar evite problemas de pessoas que não querem estar em reuniões com longas discussões sobre temas que não te interessam. Por outro lado, isso pode passar a imagem de ser uma conversa menos importante ou uma conversa onde apenas os escolhidos foram convidados.
+É uma solução mais simples e menos impactante do que a interação Explorar, mas vai na mesma direção. Talvez o caráter mais voluntário (sem [Meta-Acordo][meta-acordos] sobre priorização) da Sessão Explorar evite problemas de pessoas que não querem estar em reuniões com longas discussões sobre temas que não te interessam. Por outro lado, isso pode passar a imagem de ser uma conversa menos importante ou uma conversa onde apenas os escolhidos foram convidados.
+
 De qualquer maneira existe uma chance de aumentar as oportunidades de conversas importantes e espaços de qualidade para discutir temas diversos, como estratégia, processos, questões associativas, etc.. Porém algumas coisas também podem acontecer:
 -   As pessoas marcarem muitas Sessões Explorar e lotarem suas agendas, sem terem o resultado desejado;
 -   As Sessões Explorar se tornarem "Reuniões de alinhamento" onde são feitas decisões e acordos que não respeitam a estrutura e [Meta-Acordos][meta-acordos].
+
 Olhar para as pessoas que estão assumindo esse [Papel][papeis] de Anfitrião pode ajudar a balancear esses efeitos. Talvez ter uma [Restrição][restricoes] sobre alocação que seja um pouco diferente, deixando claro que a pessoa precisa ter algum curso ou experiência prévia sobre facilitação do Explorar.
 
 ## Fundamentação
