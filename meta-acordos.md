@@ -16,34 +16,34 @@ A "Organização" é uma entidade criada para expressar um [Propósito](#proposi
 
 O propósito é uma frase que expressa a razão de existir da [Organização](#organizacao). A organização dos círculos e dos papéis internos devem contribuir para este propósito. 
 
-## 1.2 Colegas
+## 1.2 Parceiras
 
-Os "Colegas" são pessoas que dedicam seu tempo e energia para ajudar a [Organização](#organizacao) a expressar o seu [Propósito](#proposito).
+As pessoas "Parceiras" são aquelas que dedicam seu tempo e energia para ajudar a [Organização](#organizacao) a expressar o seu [Propósito](#proposito).
 
 ## 1.3 Tensões Criativas
 
-Enquanto trabalham para a [Organização](#organizacao), os [Colegas](#colegas) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões". As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito](#proposito).
+Enquanto trabalham para a [Organização](#organizacao), as pessoas [Parceiras](#parceiras) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões". As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito](#proposito).
 
 # 2 Estrutura Organizacional
 
-Os [Colegas](#colegas) podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](#circulos) e formada por [Papéis](#papeis) e [Restrições](#restricoes). Cada [Círculo](#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada conforme descrito na [Interação Adaptar](#adaptar).
+As pessoas [Parceiras](#parceiras) podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](#circulos) e formada por [Papéis](#papeis) e [Restrições](#restricoes). Cada [Círculo](#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada conforme descrito na [Interação Adaptar](#adaptar).
 
 ## 2.1 Papéis
 
-Os [Colegas](#colegas) executam o trabalho em um ou mais "Papéis" explicitamente definidos na [Estrutura Organizacional](#estrutura-organizacional). Um Papel é definido por:
+As pessoas [Parceiras](#parceiras) executam o trabalho em um ou mais "Papéis" explicitamente definidos na [Estrutura Organizacional](#estrutura-organizacional). Um Papel é definido por:
 
 * Um nome descritivo;
 * Um "Propósito", que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
-* Zero ou mais "Responsabilidades", que são atividades contínuas que outros [Colegas](#colegas) podem esperar que o Papel irá executar;
+* Zero ou mais "Responsabilidades", que são atividades contínuas que outras pessoas [Parceiras](#parceiras) podem esperar que o Papel irá executar;
 * Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](#organizacao).
 
 ### 2.1.1 Energização
 
-A "Energização" diz respeito a quais [Colegas](#colegas) dedicam seu tempo e energia à expressão do [Propósito](#papeis) de quais [Papéis](#papeis). A Energização não é um componente da [Estrutura Organizacional](#estrutura-organizacional), embora esta possa determinar como e em que condições ela ocorre.
+A "Energização" diz respeito a quais pessoas [Parceiras](#parceiras) dedicam seu tempo e energia à expressão do [Propósito](#papeis) de quais [Papéis](#papeis). A Energização não é um componente da [Estrutura Organizacional](#estrutura-organizacional), embora esta possa determinar como e em que condições ela ocorre.
 
 ### 2.1.2 Autoridade do Papel
 
-Ao perseguir o [Propósito](#papeis) dos [Papéis](#papeis) que energiza, você está sempre autorizado a tomar ação. Ainda assim você não deve impactar os [Artefatos](#papeis) definidos em [Papéis](#papeis) que você não energiza ou [Artefatos de Círculos](#artefatos-do-circulo) que você não é [Integrante](#integrantes-do-circulo), sem antes obter uma permissão explícita do [Colega](#colegas) responsável. Você também deve observar as [Restrições](#restricoes) definidas na [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
+Ao perseguir o [Propósito](#papeis) dos [Papéis](#papeis) que energiza, você está sempre autorizado a tomar ação. Ainda assim você não deve impactar os [Artefatos](#papeis) definidos em [Papéis](#papeis) que você não energiza ou [Artefatos de Círculos](#artefatos-do-circulo) que você não é [Integrante](#integrantes-do-circulo), sem antes obter uma permissão explícita da pessoa [Parceira](#parceiras) responsável. Você também deve observar as [Restrições](#restricoes) definidas na [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
 
 Você também pode recusar um pedido caso interprete que ele não faz parte do escopo dos [Papéis](#papeis) que você energiza, isto é, não há uma [Responsabilidade](#papeis) explícita correspondente e não está incluso no [Propósito](#papeis).
 
@@ -53,7 +53,7 @@ Você pode a qualquer momento deixar de energizar [Papéis](#papeis) em um ou ma
 
 ## 2.2 Círculos
 
-Um "Círculo" é um [Papel](#papeis) que possui a autoridade de se dividir em [Papéis](#papeis) menores, contidos dentro dele mesmo. Quando um [Papel](#papeis) é transformado em um Círculo, os [Colegas](#colegas) que o energizam tornam-se o [Guia](#guia) daquele [Círculo](#circulos). [Círculos](#circulos) são definidos exatamente como os [Papéis](#papeis), ou seja, através dos elementos nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis).
+Um "Círculo" é um [Papel](#papeis) que possui a autoridade de se dividir em [Papéis](#papeis) menores, contidos dentro dele mesmo. Quando um [Papel](#papeis) é transformado em um Círculo, as pessoas [Parceiras](#parceiras) que o energizam tornam-se o [Guia](#guia) daquele [Círculo](#circulos). [Círculos](#circulos) são definidos exatamente como os [Papéis](#papeis), ou seja, através dos elementos nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis).
 
 ### 2.2.1 Círculos não alteram sua definição
 
@@ -73,7 +73,7 @@ Um [Círculo](#circulos) pode especificar um de seus [Artefatos](#papeis) em um 
 
 ## 2.4 Integrantes do Círculo
 
-[Colegas](#colegas) são considerados "Integrantes" de um determinado [Círculo](#circulos) quando atenderem pelo menos um dos critérios abaixo:
+As pessoas [Parceiras](#parceiras) são considerados "Integrantes" de um determinado [Círculo](#circulos) quando atenderem pelo menos um dos critérios abaixo:
 
 * Energizam pelo menos um [Papel](#papeis) definido no [Círculo](#circulos);
 * Energizam pelo menos um dos [Papéis Essenciais](#papeis-essenciais) no [Círculo](#circulos);
@@ -85,7 +85,7 @@ A restrição é um acordo, próprio dos [Círculos](#circulos), que limita a ma
 
 ### 2.5.1 Restrições não estabelecem responsabilidades
 
-[Restrições](#restricoes) não podem estabelecer responsabilidades, porque este é o objetivo de um papel. Ainda assim, uma [Restrição](#restricoes) pode exigir ação, mas apenas para [Colegas](#colegas) em que a [Restrição](#restricoes) se aplica.
+[Restrições](#restricoes) não podem estabelecer responsabilidades, porque este é o objetivo de um papel. Ainda assim, uma [Restrição](#restricoes) pode exigir ação, mas apenas para pessoas [Parceiras](#parceiras) em que a [Restrição](#restricoes) se aplica.
 
 ## 2.6 Prioridades do Círculo
 
@@ -93,17 +93,17 @@ Um [Círculo](#circulos) pode estabelecer prioridades para orientar o trabalho d
 
 # 3. Reuniões e Interações
 
-Para perceber e tratar [Tensões][tensoes], os [Colegas][colegas] podem fazer uso de algumas "Interações" definidas nesta seção.
+Para perceber e tratar [Tensões][tensoes], as pessoas [Parceiras][parceiras] podem fazer uso de algumas "Interações" definidas nesta seção.
 
 ## 3.1 Revisar
 
-Na interação "Revisar", dois ou mais [Colegas][colegas] compartilham e solicitam informações sobre o trabalho realizado a partir dos seus diferentes [Papéis][papeis]. O objetivo da interação Revisar é perceber [Tensões][tensoes] a partir de uma inspeção do trabalho. 
+Na interação "Revisar", duas ou mais pessoas [Parceiras][parceiras] compartilham e solicitam informações sobre o trabalho realizado a partir dos seus diferentes [Papéis][papeis]. O objetivo da interação Revisar é perceber [Tensões][tensoes] a partir de uma inspeção do trabalho. 
 
 > Veja os **Padrões para Revisar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
 ## 3.2 Sincronizar
 
-Na interação "Sincronizar", dois ou mais [Colegas][colegas] buscam tratar [Tensões][tensoes] engajando uns aos outros nos [Papéis][papeis] que energizam. A interação Sincronizar acontece a partir da [Estrutura Organizacional][estrutura-organizacional] definida e pode ser usada para solicitar projetos e ações específicos para [Colegas][colegas] nos seus papéis ou [Atos Heroicos](#ato-heroico). 
+Na interação "Sincronizar", duas ou mais pessoas [Parceiras][parceiras] buscam tratar [Tensões][tensoes] engajando uns aos outros nos [Papéis][papeis] que energizam. A interação Sincronizar acontece a partir da [Estrutura Organizacional][estrutura-organizacional] definida e pode ser usada para solicitar projetos e ações específicos para as pessoas [Parceiras][parceiras] nos seus papéis ou [Atos Heroicos](#ato-heroico). 
 
 > Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
@@ -126,11 +126,11 @@ Uma [Proposta][proposta] de [Adaptar][adaptar] pode somente incluir uma ou mais 
 
 ### 3.3.2 Decisão Integrativa
 
-Para processar [Propostas][proposta] no [Adaptar][adaptar], [Integrantes do Círculo][integrantes-do-circulo] devem utilizar a "Decisão Integrativa". Durante este processo decisório, o [Colega][colegas] sentindo a [Tensão][tensoes] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de todas as pessoas [Integrantes do Círculo][integrantes-do-circulo]. A [Proposta][proposta] apresentada só será considerada aceita após todas as [Objeções][objecoes] válidas serem integradas, descartadas ou abandonadas.
+Para processar [Propostas][proposta] no [Adaptar][adaptar], [Integrantes do Círculo][integrantes-do-circulo] devem utilizar a "Decisão Integrativa". Durante este processo decisório, a pessoa [Parceira][parceiras] sentindo a [Tensão][tensoes] apresenta uma [Proposta][proposta] e busca integrar possíveis [Objeções][objecoes] de todas as pessoas [Integrantes do Círculo][integrantes-do-circulo]. A [Proposta][proposta] apresentada só será considerada aceita após todas as [Objeções][objecoes] válidas serem integradas, descartadas ou abandonadas.
 
 #### 3.3.2.1 Proposta
 
-Uma [Proposta][proposta] é uma estratégia descrita por um [Colega][colegas], chamado de "Proponente", para responder a uma [Tensão][tensoes] sentida pelo mesmo ou por alguém que ele ou ela representa. A construção da [Proposta][proposta] é de responsabilidade da pessoa [Proponente][proposta], embora ele possa pedir ajuda ou consultar opiniões de outros [Colegas][colegas] durante o processo.
+Uma [Proposta][proposta] é uma estratégia descrita por uma pessoa [Parceira][parceiras], chamada de "Proponente", para responder a uma [Tensão][tensoes] sentida pelo mesmo ou por alguém que ele ou ela representa. A construção da [Proposta][proposta] é de responsabilidade da pessoa [Proponente][proposta], embora ele possa pedir ajuda ou consultar opiniões de outras pessoas [Parceiras][parceiras] durante o processo.
 
 #### 3.3.2.2 Apresentação de Exemplos
 
@@ -142,20 +142,20 @@ Ao facilitar uma [Decisão Integrativa][decisao-integrativa] em uma [Reunião de
 
 #### 3.3.2.4 Objeções
 
-Durante uma [Decisão Integrativa][decisao-integrativa], as pessoas [Integrantes do Círculo][integrantes-do-circulo] podem apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade do [Colega][colegas] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. 
+Durante uma [Decisão Integrativa][decisao-integrativa], as pessoas [Integrantes do Círculo][integrantes-do-circulo] podem apresentar uma ou mais "Objeções" à [Proposta][proposta]. Uma [Objeção][objecoes] é uma razão pela qual a [Proposta][proposta] causa mal e prejudica a capacidade da pessoa [Parceira][parceiras] de expressar o [Propósito][papeis] de algum [Papel][papeis] que representa. 
 
 #### 3.3.2.5 Objeções Válidas
 
-Uma [Objeção][objecoes] é considerada válida caso o [Colega][colegas] que a levantou acredite que ela possua todas as 4 características abaixo:
+Uma [Objeção][objecoes] é considerada válida caso a pessoa [Parceira][parceiras] que a levantou acredite que ela possua todas as 4 características abaixo:
 
 1. **Prejudicial**: A [Objeção][objecoes] é sobre algum mal que a [Proposta][proposta] causa, e não apenas uma oportunidade de melhoria na [Proposta][proposta].
-2. **Direta**: A [Objeção][objecoes] afeta a capacidade do [Colega][colegas] em expressar o [Propósito][papeis] de um dos [Papéis][papeis] que energiza.
+2. **Direta**: A [Objeção][objecoes] afeta a capacidade da pessoa [Parceira][parceiras] em expressar o [Propósito][papeis] de um dos [Papéis][papeis] que energiza.
 3. **Causal**: A [Objeção][objecoes] é causado pela [Proposta][proposta], ou seja, ela não existe se a [Proposta][proposta] não for adotada.
 4. **Factual**: A [Objeção][objecoes] é baseada em dados atuais ou experiências passadas, portanto não é uma antecipação de eventos futuros. Ainda assim, se o dano alegado é tão desastroso que não seria possível se adaptar no futuro, então este critério pode ser desconsiderado.
 
 #### 3.3.2.6 Facilitador pode descartar a Objeção
 
-Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador][facilitador] considerar que o [Colega][colegas] não foi capaz de apresentar exemplos e esclarecimentos de como a [Objeção][objecoes] atende aos critérios de [Objeções Válidas][objecoes-validas], o [Facilitador][facilitador] deve descartar a [Objeção][objecoes]. O [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
+Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador][facilitador] considerar que a pessoa [Parceira][parceiras] não foi capaz de apresentar exemplos e esclarecimentos de como a [Objeção][objecoes] atende aos critérios de [Objeções Válidas][objecoes-validas], o [Facilitador][facilitador] deve descartar a [Objeção][objecoes]. O [Facilitador][facilitador] não deve julgar a exatidão dos argumentos apresentados, mas somente se eles foram apresentados com um raciocínio lógico e são, portanto, plausíveis.
 
 #### 3.3.2.7 Integração
 
@@ -167,7 +167,7 @@ Qualquer [Integrante do Círculo][integrantes-do-circulo] participando de uma [D
 
 ## 3.4 Cuidar
 
-Na interação "Cuidar", dois ou mais [Colegas][colegas] buscam tornar-se presentes e conectar-se profundamente através de escuta empática. Durante a interação Cuidar, os [Colegas][colegas] deixam de lado seus [Papeis][papeis] para estarem integralmente presentes como pessoas. Esta interação pode ser usada para ajudar um [Colega][colegas] a compreender ou explorar uma [Tensão][tensoes] emocionalmente carregada, ou simplesmente proporcionar um espaço de apoio e fala livre da [Estrutura Organizacional][estrutura-organizacional].
+Na interação "Cuidar", duas ou mais pessoas [Parceiras][parceiras] buscam tornar-se presentes e conectar-se profundamente através de escuta empática. Durante a interação Cuidar, as pessoas [Parceiras][parceiras] deixam de lado seus [Papeis][papeis] para estarem integralmente presentes como pessoas. Esta interação pode ser usada para ajudar uma pessoa [Parceira][parceiras] a compreender ou explorar uma [Tensão][tensoes] emocionalmente carregada, ou simplesmente proporcionar um espaço de apoio e fala livre da [Estrutura Organizacional][estrutura-organizacional].
 
 > Veja os **Padrões para Cuidar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
@@ -177,7 +177,7 @@ Uma "Reunião de Círculo" é um espaço onde as pessoas [Integrantes][integrant
 
 ### 3.5.1 Somente Integrantes podem tratar Tensões
 
-[Colegas][colegas] que não são [Integrantes do Círculo][integrantes-do-circulo] não podem tratar [Tensões][tensoes] nas [Reuniões de Círculo][reuniao-de-circulo]. Ainda assim, outros [Colegas][colegas] podem ser convidados por um [Integrante do Círculo][integrantes-do-circulo] para ajudar em uma [Tensão][tensoes] específica. Neste caso, a tensão ainda será considerada do [Integrante do Círculo][integrantes-do-circulo] e não do [Colega][colegas] convidado.
+Pessoas [Parceiras][parceiras] que não são [Integrantes do Círculo][integrantes-do-circulo] não podem tratar [Tensões][tensoes] nas [Reuniões de Círculo][reuniao-de-circulo]. Ainda assim, outras [Parceiras][parceiras] podem ser convidadas por um [Integrante do Círculo][integrantes-do-circulo] para ajudar em uma [Tensão][tensoes] específica. Neste caso, a tensão ainda será considerada do [Integrante do Círculo][integrantes-do-circulo] e não da pessoa [Parceira][parceiras] convidada.
 
 ### 3.5.2 Formato da Reunião
 
@@ -185,7 +185,7 @@ As [Reuniões de Círculo][reuniao-de-circulo] começam com uma rodada de check-
 
 ### 3.5.3 Integrantes ausentes
 
-Durante a [Reunião de Círculo][reuniao-de-circulo], um ou mais [Colegas][colegas] podem apresentar [Propostas][proposta] que utilizem a [Decisão Integrativa][decisao-integrativa]. Caso um [Colega][colegas] não esteja presente na reunião, a [Proposta][proposta] segue como se o [Colega][colegas] ausente não tivesse qualquer [Objeção][objecoes].
+Durante a [Reunião de Círculo][reuniao-de-circulo], uma ou mais pessoas [Parceiras][parceiras] podem apresentar [Propostas][proposta] que utilizem a [Decisão Integrativa][decisao-integrativa]. Caso uma pessoa [Parceira][parceiras] não esteja presente na reunião, a [Proposta][proposta] segue como se a pessoa ausente não tivesse qualquer [Objeção][objecoes].
 
 ### 3.5.4 Priorize a Reunião
 
@@ -201,15 +201,15 @@ Ao facilitar a [Reunião de Círculo][reuniao-de-circulo], o [Facilitador][facil
 
 ### 3.6.2 Lista de Tensões
 
-Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador][facilitador] pode pedir que o [Escriba][escriba] construa uma "Lista de Tensões" a tratar. Cada [Integrante do Círculo][integrantes-do-circulo] sentindo uma [Tensão][tensoes] pode então nomeá-la usando poucas palavras. O [Escriba][escriba] então registra o nome da [Tensão][tensoes], juntamente com o nome do [Colega][colegas], de modo que o [Facilitador](#papeis-essenciais.md#facilitador) possa percorrê-la.
+Para facilitar o tratamento de uma Tensão de cada vez, o [Facilitador][facilitador] pode pedir que o [Escriba][escriba] construa uma "Lista de Tensões" a tratar. Cada [Integrante do Círculo][integrantes-do-circulo] sentindo uma [Tensão][tensoes] pode então nomeá-la usando poucas palavras. O [Escriba][escriba] então registra o nome da [Tensão][tensoes], juntamente com o nome da pessoa [Parceira][parceiras], de modo que o [Facilitador](#papeis-essenciais.md#facilitador) possa percorrê-la.
 
 ## 3.7 Interações Assíncronas
 
-As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reuniao-de-circulo] e neste caso são consideradas "Interações Assíncronas". Caso um [Colega][colegas] apresente uma [Proposta][proposta] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Integrante do Círculo][integrantes-do-circulo] pode escalar a [Proposta][proposta] para uma [Reunião de Círculo][reuniao-de-circulo] convencional. O processo de interações assíncronas pode ser especificado como uma [Restrição][restricoes] do [Círculo][circulos].
+As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer fora de uma [Reunião de Círculo][reuniao-de-circulo] e neste caso são consideradas "Interações Assíncronas". Caso uma pessoa [Parceira][parceiras] apresente uma [Proposta][proposta] utilizando a [Decisão Integrativa][decisao-integrativa] nestas circunstâncias, qualquer [Integrante do Círculo][integrantes-do-circulo] pode escalar a [Proposta][proposta] para uma [Reunião de Círculo][reuniao-de-circulo] convencional. O processo de interações assíncronas pode ser especificado como uma [Restrição][restricoes] do [Círculo][circulos].
 
 ## 3.8 Novas Interações
 
-Enquanto [Colega][colegas] energizando [Papeis][papeis], você pode criar e usar novos tipos de [Interações][reunioes-e-interacoes] além dos definidos nesta seção. Ainda assim, quaisquer expectativas ou limitações de autoridade devem ser registradas na [Estrutura Organizacional][estrutura-organizacional], na forma de [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes].
+Enquanto pessoa [Parceira][parceiras] energizando [Papeis][papeis], você pode criar e usar novos tipos de [Interações][reunioes-e-interacoes] além dos definidos nesta seção. Ainda assim, quaisquer expectativas ou limitações de autoridade devem ser registradas na [Estrutura Organizacional][estrutura-organizacional], na forma de [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes].
 
 # 5 Papéis Essenciais
 
@@ -224,8 +224,8 @@ O [Papel](#energizacao) do "Guia" possui a seguinte definição inicial:
 **Responsabilidades**:
 
 * Estruturar o [Círculo](#circulos) para expressar o seu [Propósito](#papeis) e atender as [Responsabilidades](#papeis) definidas pelo [Círculo](#circulos) externo
-* Convidar [Colegas](#colegas) para energizarem [Papéis](#papeis) definidos no [Círculo](#circulos)
-* Oferecer feedback para melhorar a adequação entre [Colega](#colegas) e [Papel](#papeis), desenergizando quando necessário
+* Convidar pessoas [Parceiras](#parceiras) para energizarem [Papéis](#papeis) definidos no [Círculo](#circulos)
+* Oferecer feedback para melhorar a adequação entre pessoa [Parceira](#parceiras) e [Papel](#papeis), desenergizando quando necessário
 * Estabelecer prioridades para o [Círculo](#circulos)
 
 **Artefatos**:
@@ -280,9 +280,9 @@ O [Papel](#papeis) do "Escriba" possui a seguinte definição inicial:
 
 Os [Papéis Essenciais](#papeis-essenciais) de [Facilitador](#facilitador), [Escriba](#escriba) e [Representante](#representante) são considerados "Papéis Essenciais Eleitos" e são energizados através de um processo de eleição.
 
-### 5.5.1 Colegas Elegíveis
+### 5.5.1 Parceiras Elegíveis
 
-Todas e apenas as pessoas [Integrantes do Círculo](#integrantes-do-circulo) são elegíveis para energizar os [Papéis Essenciais Eleitos](#papeis-essenciais). Ainda assim, o [Colega](#colegas) que energiza o [Papel](#papeis) de [Guia](#guia) não pode energizar o [Papel](#papeis) de [Facilitador](#facilitador) ou [Representante](#representante) no mesmo [Círculo](#circulos).
+Todas e apenas as pessoas [Integrantes do Círculo](#integrantes-do-circulo) são elegíveis para energizar os [Papéis Essenciais Eleitos](#papeis-essenciais). Ainda assim, a pessoa [Parceira](#parceiras) que energiza o [Papel](#papeis) de [Guia](#guia) não pode energizar o [Papel](#papeis) de [Facilitador](#facilitador) ou [Representante](#representante) no mesmo [Círculo](#circulos).
 
 ### 5.5.2 Eleições
 
@@ -304,19 +304,19 @@ As alterações realizadas nos [Papeis Essenciais](#papeis-essenciais) de um [C�
 
 # 6 Energização de Papéis Definidos
 
-O [Guia](#guia) é responsável por convidar [Colegas](#colegas) para energizarem os [Papéis](#papeis) definidos no [Círculo](#circulos), com exceção dos [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos). O [Guia](#guia) pode convidar qualquer [Colega](#colegas), a não ser que uma [Restrição](#restricoes) diga o contrário. Uma [Restrição](#restricoes) também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade](#papeis) e o [Artefato](#papeis) correspondente do [Guia](#guia).
+O [Guia](#guia) é responsável por convidar pessoas [Parceiras](#parceiras) para energizarem os [Papéis](#papeis) definidos no [Círculo](#circulos), com exceção dos [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos). O [Guia](#guia) pode convidar qualquer pessoa [Parceira](#parceiras), a não ser que uma [Restrição](#restricoes) diga o contrário. Uma [Restrição](#restricoes) também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade](#papeis) e o [Artefato](#papeis) correspondente do [Guia](#guia).
 
 ## 6.1 Foco
 
-O processo de [Energização](#energizacao-de-papeis-definidos) também pode definir um "Foco" para o [Colega](#colegas) que energiza um [Papel](#papeis). Este Foco é uma área de atuação em que o [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis) do [Papel](#papeis) se aplicam somente.
+O processo de [Energização](#energizacao-de-papeis-definidos) também pode definir um "Foco" para o [Parceiro](#parceiras) que energiza um [Papel](#papeis). Este Foco é uma área de atuação em que o [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis) do [Papel](#papeis) se aplicam somente.
 
 ## 6.2 Autorresponsabilização
 
-Enquanto [Colega](#colegas), você é responsável por tratar as [Tensões](#tensoes-criativas) que percebe, tomando ações ou engajando outros [Colegas](#colegas) nestes [Meta-Acordos](#meta-acordos-da-organizacao-organica). É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
+Enquanto pessoa [Parceira](#parceiras), você é responsável por tratar as [Tensões](#tensoes-criativas) que percebe, tomando ações ou engajando outras pessoas [Parceiras](#parceiras) nestes [Meta-Acordos](#meta-acordos-da-organizacao-organica). É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
 
 ## 6.3 Transparência
 
-Enquanto [Colega](#colegas), é esperado que você compartilhe quando solicitado por outros [Colegas](#colegas) todas as informações relevantes sobre o trabalho que você realiza para a [Organização](#organizacao), incluindo os seus projetos, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que você forneça estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
+Enquanto pessoa [Parceira](#parceiras), é esperado que você compartilhe quando solicitado por outras pessoas [Parceiras](#parceiras) todas as informações relevantes sobre o trabalho que você realiza para a [Organização](#organizacao), incluindo os seus projetos, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que você forneça estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
 ## 6.4 Ato Heróico
 
@@ -326,7 +326,7 @@ Você pode temporariamente ignorar estes [Meta-Acordos](#meta-acordos-da-organiz
 [meta-acordos]: #meta-acordos-da-organizacao-organica
 [organizacao ]: #1-organizacao
 [proposito]: #1.1-proposito
-[colegas]: #1.2-colegas
+[parceiras]: #1.2-parceiras
 [tensoes]: #1.3-tensoes-criativas
 [estrutura-organizacional]: #2-estrutura-organizacional
 [papeis]: #2.1-papeis
@@ -374,7 +374,7 @@ Você pode temporariamente ignorar estes [Meta-Acordos](#meta-acordos-da-organiz
 [facilitador]: #4.3-facilitador
 [escriba]: #4.4-escriba
 [papeis-essenciais-eleitos]: #4.5-papeis-essenciais-eleitos
-[colegas-elegiveis]: #4.5.1-colegas-elegiveis
+[parceiras-elegiveis]: #4.5.1-parceiras-elegiveis
 [eleicoes]: #4.5.2-eleicoes
 [alteracoes-nos-papeis-essenciais]: #4.5.3-alteracoes-nos-papeis-essenciais
 [alteracoes-nos-papeis-essenciais-nao-propagam]: #4.5.3.1-alteracoes-nos-papeis-essenciais-nao-propagam
