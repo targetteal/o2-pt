@@ -20,7 +20,7 @@ A solução envolve um conjunto de etapas que o facilitador pode percorrer para 
 
 **1. Apresentação da Proposta** No primeiro momento, o proponente apresenta sua tensão e proposta. É importante que somente ele ou ela fale, a não ser que peça ajuda dos demais para construir a proposta.
 
-**Fluxo:** Facilitador: Qual é a sua tensão? Secretário registra a descrição da tensão em um local visível para todos. Facilitador: Qual é a sua proposta para tratar a tensão? Se não houver proposta: Facilitador: Alguém tem alguma ideia de como tratar esta tensão? Quando a primeira ideia surgir, verificar se atende a tensão original e se sim, seguir. A ideia precisa atender somente a pessoa que trouxe a tensão (atenção a busca pelo consenso). Secretário registra todas as partes da proposta (criação, modificação ou exclusão de papéis, círculos e restrições). Facilitador: Esta é a sua proposta? Se necessário, o proponente pode fazer ajuste Secretário atualiza.
+**Fluxo:** Facilitador: Qual é a sua tensão? Escriba registra a descrição da tensão em um local visível para todos. Facilitador: Qual é a sua proposta para tratar a tensão? Se não houver proposta: Facilitador: Alguém tem alguma ideia de como tratar esta tensão? Quando a primeira ideia surgir, verificar se atende a tensão original e se sim, seguir. A ideia precisa atender somente a pessoa que trouxe a tensão (atenção a busca pelo consenso). Escriba registra todas as partes da proposta (criação, modificação ou exclusão de papéis, círculos e restrições). Facilitador: Esta é a sua proposta? Se necessário, o proponente pode fazer ajuste Escriba atualiza.
 
 **2. Perguntas de Esclarecimento** Neste momento os demais participantes podem fazer perguntas para entender melhor a tensão ou a proposta. Os participantes perguntam, o proponente responde, uma pergunta de cada vez. O proponente sempre pode responder: "não sei", "não está especificado na proposta" ou "não refleti sobre isso".
 
@@ -42,7 +42,7 @@ Como facilitador, evite qualquer interrupção ou correção da fala, mesmo que 
 
 **4. Alteração da Proposta** Nesta quarta etapa, o proponente pode falar apenas e fazer uma alteração na proposta ou então algum esclarecimento, caso acreditar que algo não foi bem compreendido na proposta, frente às reações que ele ou ela ouviu.
 
-Fluxo: Facilitador: Agora você pode fazer uma alteração na proposta ou esclarecer algum ponto a partir das reações que ouviu. Secretário registra as mudanças, se houver.
+Fluxo: Facilitador: Agora você pode fazer uma alteração na proposta ou esclarecer algum ponto a partir das reações que ouviu. Escriba registra as mudanças, se houver.
 
 Neste momento pode ser que a pessoa que trouxe a proposta se sinta no dever de endereçar todas as preocupações, críticas ou sugestões que surgiram na rodada de reações. Se isto acontecer, o facilitador pode lembrá-lo que o objetivo é atender a tensão original, e nada além disso. O próximo momento permite aos participantes trazerem objeções caso vejam algum dano que a proposta pode causar.
 
@@ -50,7 +50,7 @@ Neste momento pode ser que a pessoa que trouxe a proposta se sinta no dever de e
 
 Fluxo: Facilitador: Agora vocês podem declarar, um de cada vez, se vêem algum dano que a proposta causa. Caso sim, digam "objeção". Quando a primeira objeção surgir, o facilitador deve verificar se ela precisa ser integrada neste momento de acordo com os critérios de objeções válidas dos Meta-Acordos. Para isto, veja o padrão "Validação de Objeções". Se a objeção precisar ser integrada, integrá-la antes de verificar se existem outras. Ver padrão "Integração de Objeções".
 
-Quando não houver mais objeções, a proposta está aprovada e o Secretário deve atualizar a estrutura organizacional para contemplar as mudanças. Sempre tratar uma objeção de cada vez. Toda vez que a proposta sofrer alguma alteração devido a uma integração de objeção, o facilitador deve repetir a rodada de reações se certificando de que nenhum Membro do Círculo tenho uma objeção à nova proposta. Somente membros do círculo podem levantar objeções, diferente das reações e perguntas que podem ser abertas a outros participantes.
+Quando não houver mais objeções, a proposta está aprovada e o Escriba deve atualizar a estrutura organizacional para contemplar as mudanças. Sempre tratar uma objeção de cada vez. Toda vez que a proposta sofrer alguma alteração devido a uma integração de objeção, o facilitador deve repetir a rodada de reações se certificando de que nenhum Membro do Círculo tenho uma objeção à nova proposta. Somente membros do círculo podem levantar objeções, diferente das reações e perguntas que podem ser abertas a outros participantes.
 
 ## Contexto resultante
 
