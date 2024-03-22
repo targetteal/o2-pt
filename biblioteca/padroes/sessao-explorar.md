@@ -1,3 +1,5 @@
+# Sessão Explorar
+
 ## Contexto
 Organizações de tamanho e naturezas diversas. Alguns fatores aumentam a chance do problema surgir:
 
@@ -8,10 +10,10 @@ Organizações de tamanho e naturezas diversas. Alguns fatores aumentam a chance
 -   Necessidade de explorar em profundidade perspectivas diferentes sobre um assunto
 
 ## Problema
-Quando as pessoas estão adotando O2 e fazendo reuniões de círculo regulares, existe a possibilidade delas sentirem falta de espaços mais livres de conversas ou assim chamados mais espaços exploratórios. Elas podem ter receio em trazer tensões pouco elaboradas ou de caráter exploratório para o sincronizar ou para os outros modos de reunião existentes. Outras pessoas tentam inibir ou impedir outras pessoas de tratar suas tensões exploratórias devido ao tempo necessário para isso em uma reunião com muitos itens na pauta.
+Quando as pessoas estão adotando O2 e fazendo reuniões de círculo regulares, existe a possibilidade delas sentirem falta de espaços mais livres de conversas ou assim chamados mais espaços exploratórios. Elas podem ter receio em trazer tensões pouco elaboradas ou de caráter exploratório para o sincronizar ou para as outras interações/modos de reunião existentes. Outras pessoas tentam inibir ou impedir outras pessoas de tratar suas tensões exploratórias devido ao tempo necessário para isso em uma reunião com muitos itens na pauta.
 
 ## Forças do problema
-Os três modos (Revisar, Sincronizar e Adaptar) que existem para lidar com o espaço organizacional são configurados para oferecer o melhor ambiente possível para as pessoas saírem dali com passos claros e registrados (projetos), acordos firmados ou revisados e mais visibilidade sobre o que está acontecendo no círculo. Além disso, são modos criados para lidarem com muitas tensões, de várias pessoas, uma de cada vez no menor tempo possível. Já o modo Cuidar está focado no espaço relacional e não faria sentido discutir nele questões sobre como realizar o trabalho. Conversas espontâneas e não estruturadas entre 2, 3 ou 4 pessoas podem oferecer boas condições para esse tipo de espaço exploratório quando as pessoas conseguem aproveitar as vantagens ao mesmo tempo que evitar certas armadilhas. Algumas vantagens identificadas:
+As três interações (Revisar, Sincronizar e Adaptar) que existem para lidar com o espaço organizacional são configurados para oferecer o melhor ambiente possível para as pessoas saírem dali com passos claros e registrados (projetos), acordos firmados ou revisados e mais visibilidade sobre o que está acontecendo no círculo. Além disso, são momentos criados para lidarem com muitas tensões, de várias pessoas, uma de cada vez no menor tempo possível. Já o Cuidar está focado no espaço relacional e não faria sentido discutir nele questões sobre como realizar o trabalho. Conversas espontâneas e não estruturadas entre 2, 3 ou 4 pessoas podem oferecer boas condições para esse tipo de espaço exploratório quando as pessoas conseguem aproveitar as vantagens ao mesmo tempo que evitar certas armadilhas. Algumas vantagens identificadas:
 
 -   A conexão de ideias tende a ser fácil, pois as pessoas se complementam rapidamente e até se interrompem;
 -   O surgimento de ideias novas também pode ser mais fácil, por conta das muitas conexões feitas;
@@ -55,7 +57,7 @@ Ao fazer essa proposta no Adaptar, a única coisa que você está fazendo é dan
 -   O Facilitador do círculo pode muitas vezes ser chamado para ser Anfitrião do Explorar;
 -   A sessão pode acontecer após uma reunião de círculo mais curta, aproveitando que muitos dos possíveis convidados estão na sala.
 
-Diferentes Padrões podem ser encontrados na biblioteca que podem ajudar um facilitador novato a conduzir esses momentos. Em alguns contextos pode ser uma facilitação difícil e acaba demandando posturas e hábitos um pouco diferentes dos outros modos.
+Diferentes Padrões podem ser encontrados na biblioteca que podem ajudar um facilitador novato a conduzir esses momentos. Em alguns contextos pode ser uma facilitação difícil e acaba demandando posturas e hábitos um pouco diferentes das outras interações.
 
 ## Contexto resultante
 

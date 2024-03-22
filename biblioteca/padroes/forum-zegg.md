@@ -36,7 +36,7 @@ As pessoas precisam de espaço para apresentar como estão se sentindo na relaç
 
 ## Solução
 
-O Fórum é uma tecnologia que pode ser usada durante o [Modo Cuidar](../../meta-acordos.md#-modo-cuidar).
+O Fórum é uma tecnologia que pode ser usada durante o [Cuidar](../../meta-acordos.md#-modo-cuidar).
 
 OBS: É importante que haja um Facilitador e um Co-Facilitador \(para ser um apoio e cuidar do grupo quando o Facilitador vai ao centro\).
 

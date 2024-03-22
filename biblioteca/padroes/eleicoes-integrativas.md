@@ -32,7 +32,7 @@ Após praticar o padrão de Eleições Integrativas, é comum que as pessoas par
 Em alguns casos, pessoas participantes também costumam sentir um certo desconforto na hora de ter que escolher apenas uma pessoa para votarem, sem justificarem porque não votaram em outra. Apesar de ser desafiador, é uma oportunidade de crescimento em termos de autorresponsabilização e também uma forma de preservar o espaço organizacional.
 
 ## Fundamentação
-Este padrão está presente na Holacracia e constitui a forma padrão e definitiva de realizar as [Eleições][eleicoes] dos [Papéis][papeis] de [Facilitador][facilitador], [Escriba][escriba] e Elo Representativo \(o [Representante][representante] na O2\).
+Este padrão está presente na Holacracia e constitui a forma padrão e definitiva de realizar as [Eleições][eleicoes] dos papeis de Facilitador, Secretário e Rep Link.
 
 ## Usos conhecidos
 O padrão já foi usado em praticamente todas as organizações que praticam ou praticaram Holacracia.

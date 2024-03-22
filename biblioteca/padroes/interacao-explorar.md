@@ -1,3 +1,5 @@
+# Interação Explorar
+
 ## Contexto
 
 Organizações de tamanho e naturezas diversas. Alguns fatores aumentam a chance do problema surgir:
