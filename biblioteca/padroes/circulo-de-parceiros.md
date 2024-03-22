@@ -13,7 +13,9 @@ Na maior parte das organizações, tudo que tange a relação Parceiras-Organiza
 
 ## Solução
 A solução passa pela definição de um [Círculo][circulos] denominado "Parceiros", "Relações Parceiras-Organização", ou qualquer outro nome que represente as pessoas da [Organização][organizacao] em questão. Este [Círculo][circulos] tem a autoridade exclusiva (na forma de um [Artefato][papeis] de governar a relação Parceiras-Organização. A ideia central é que qualquer mudança nos contratos das pessoas [Parceiras][parceiras] deve ser decidida por este [Círculo][circulos]. Além disso, quando uma pessoa busca uma mudança, ela deve integrar [Objeções][objecoes] de todos os membros do [Círculo][circulos].
+
 ![Círculo de Parceiros](https://github.com/targetteal/organic-organization/blob/master/biblioteca/imagens/circulo-de-parceiros.png?raw=true)
+
 O primeiro elemento do padrão constitui a criação de um [Círculo][circulos]:
 > **Círculo**: Parceiros
 >
@@ -88,7 +90,6 @@ A partir da aplicação do padrão "Círculo de Parceiros", novos caminhos come�
 A partir da aplicação do padrão “Círculo de Parceiros, novos caminhos começam a se delinear para a resolução das questões contratuais entre as partes [Organização][organizacao] e seus parceiros. O padrão tende a dar um conforto em esclarecer quais são os canais para que demissões, contratações e alterações salariais sejam aprovadas. Apesar disso, ele não define “como” ou que tipos de aumentos, por exemplo, são desejáveis e/ou aplicáveis. Basicamente qualquer membro pode propor uma mudança, e ela seguirá em frente depois que as [Objeções][objecoes] forem integradas.
 
 Isso vai inevitavelmente gerar uma série de tensões, que poderão estabelecer restrições de em que condições essas propostas devem ser feitas. Por exemplo, uma [Organização][organizacao] poderá estabelecer que antes de uma [Parceiro][parceiras] ser demitido, ele deve obrigatoriamente perder todos os seus [Papéis][papeis] na estrutura. Ou que antes de apresentar uma proposta de aumento, o proponente deverá verificar o impacto financeiro junto ao [Círculo][circulos] que cuida disso. As possibilidades são inúmeras, e o padrão “Círculo de Parceiros abre caminhos para consolidação de relações mais bilaterais e saudáveis entre as pessoas e a [Organização][organizacao].
-
 
 ## Fundamentação
 Este padrão foi baseado no [“Partnership Circle”](https://github.com/holacracyone/Holacracy-Constitution/issues/90), descrito por Brian Robertson como uma possível solução de como tratar a relação Parceiros-Organização na Holacracia. O padrão foi então adaptado para uso na Organização Orgânica.

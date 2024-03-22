@@ -4,7 +4,7 @@
 Um grupo que se encontra regularmente e que está buscando ganhar mais consciência sobre suas interações.
 
 ## Forças
-As interações de um grupo mostram claramente como as pessoas se comportam ao se deparar com diferentes [Tensões][lista-de-tensoes]. Nestes encontros, que podem ser as [Reuniões de Círculo][reunioes-de-circulo] propostas pelo O2 ou outras interações mais informais, antipadrões como o [Tudo é de Todos](../antipadroes/tudo-e-de-todos.md) podem se manifestar. Se um indivíduo tem uma preferência por sistematicamente esperar pela aprovação de todos antes de tomar ação, a pessoa Parceira observadora pode claramente observar este filme se desenrolar. Estas são oportunidades que podem ser exploradas para ajudar o [Círculo de Parceiros][circulos] ou time a tomar consciência sobre essas interações, que muitas vezes não são identificadas, e portanto nunca adaptadas.
+As interações de um grupo mostram claramente como as pessoas se comportam ao se deparar com diferentes [Tensões][lista-de-tensoes]. Nestes encontros, que podem ser as [Reuniões de Círculo][reuniao-de-circulo] propostas pelo O2 ou outras interações mais informais, antipadrões como o [Tudo é de Todos](../antipadroes/tudo-e-de-todos.md) podem se manifestar. Se um indivíduo tem uma preferência por sistematicamente esperar pela aprovação de todos antes de tomar ação, a pessoa Parceira observadora pode claramente observar este filme se desenrolar. Estas são oportunidades que podem ser exploradas para ajudar o [Círculo de Parceiros][circulos] ou time a tomar consciência sobre essas interações, que muitas vezes não são identificadas, e portanto nunca adaptadas.
 
 ## Problema
 Precisamos dar clareza sobre as interações e os mecanismos que as pessoas estão utilizando para tratar suas [Tensões][lista-de-tensoes], e não apenas no conteúdo de uma conversa e/ou discussão.
@@ -16,13 +16,13 @@ Durante o [Sincronizar][sincronizar] ou qualquer encontro em que o grupo esteja 
 3. Quem falou e quem não falou
 4. Quem olhou ou quem não olhou
 5. Quem foi consultado ou opinou e quem não
-6. O que o [Escriba][secretario] fez com o pedido realizado
+6. O que o [Escriba][escriba] fez com o pedido realizado
 Depois de compartilhar as observações, o [Facilitador][facilitador] pode também promover uma reflexão sobre a qualidade da interação, fazendo algumas perguntas:
 * Como vocês avaliam a qualidade desta interação?
 * Esta interação representa a nova estrutura de poder distribuída/autogerida, ou contém sombras da estrutura antiga?
 
 ### Exemplo de Aplicação
-Imagine que um [Facilitador][facilitador] está participante de uma [Reunião de Círculo][reunioes-de-circulo] com quatro pessoas. Kelly \([Guia][elo-externo] e antiga gestora do time\), Roberto \(pessoa nova no círculo e [Escriba][secretario]\), Eloá \(integrante menos experimente\) e Yuri \(integrante mais experiente, um antigo coordenador\).
+Imagine que um [Facilitador][facilitador] está participante de uma [Reunião de Círculo][reuniao-de-circulo] com quatro pessoas. Kelly \([Guia][elo-externo] e antiga gestora do time\), Roberto \(pessoa nova no círculo e [Escriba][escriba]\), Eloá \(integrante menos experimente\) e Yuri \(integrante mais experiente, um antigo coordenador\).
 Durante o [Sincronizar][sincronizar], Eloá traz uma [Tensão][lista-de-tensoes] relacionada a uma responsabilidade de um [Papel][papeis] que ela desempenha, chamado Mestre do Instagram.
 > **Eloá**: Gostaria de compartilhar uma estratégia que estou utilizando no Instagram e também saber a opinião de vocês sobre isso. Desde semana passada eu reduzi o número de postagens por semana, porque percebi que o engajamento é o mesmo \[...\]. Eu queria saber como vocês vêem isso.
 >
@@ -41,7 +41,7 @@ O [Facilitador][facilitador] observa atentamente e resolve utilizar o "Espelho d
 3. Roberto e Kelly compartilham sua opinião. Os demais permanecem em silêncio.
 4. Kelly parece que vê algum mal no caminho descrito por Eloá e investe um tempo argumentando que o caminho B \(postar mais\) é melhor. Kelly parece descontente com a opção sugerida por Eloá \(isto é uma inferência\) e a conversa se prolonga.
 5. Eloá diz estar satisfeita, mas o seu semblante mostra o contrário \(inferência\).
-6. O [Escriba][secretario] não registra nenhuma saída ou acionável a partir da conversa.
+6. O [Escriba][escriba] não registra nenhuma saída ou acionável a partir da conversa.
 O [Facilitador][facilitador] então abre espaço para que os participantes falem sobre o espelho oferecido e ofereçam visões diferentes, especialmente das inferências. Eloá confirma que ficou um pouco desconfortável com a conversa. Kelly também assume que estava tentando convencer Eloá a seguir o caminho B. Na sequência, o grupo conversa sobre sua interação e chega nas seguintes conclusões:
 * Eloá percebe que apesar de já ter um caminho na cabeça \(estratégia A\), ela tenta agradar Kelly e incluir sua perspectiva, mesmo tendo autonomia/autoridade para isso no seu [Papel][papeis] de Mestre do Instagram.
 * Kelly reconhece ter sido um pouco enfática nas suas colocações e que insistiu na sua sugestão mesmo sabendo que a autoridade de decisão era da Eloá.
