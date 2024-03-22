@@ -31,19 +31,19 @@ Adicionar uma [Restrição][restricoes] e um [Papel][papeis] no [Círculo][circu
 
 Criar um [Papel][papeis] com a seguinte descrição:
 
-**Nome:** Anfitrião do Explorar
-
-**Propósito:** Sessões de conversas exploratórias saudáveis
-
-**Responsabilidades:**
--   Planejar a estrutura da Sessão Explorar ouvindo necessidades da pessoa que está trazendo o tema
--   Facilitar a Sessão Explorar
+> **Nome:** Anfitrião do Explorar
+>
+> **Propósito:** Sessões de conversas exploratórias saudáveis
+> 
+> **Responsabilidades:**
+> -   Planejar a estrutura da Sessão Explorar ouvindo necessidades da pessoa que está trazendo o tema
+> -   Facilitar a Sessão Explorar
 
 Criar uma [Restrição][restricoes] como descrita abaixo:
 
-**Nome:** Sessão Explorar
-
-Se uma pessoa tiver necessidade em explorar um tema, ela poderá convidar qualquer [Parceiro][parceiras] para assumir o [Papel][papeis] Anfitrião do Explorar para sua sessão ou sessões, incluindo ela mesmo.
+> **Sessão Explorar**
+> 
+> Se uma pessoa tiver necessidade em explorar um tema, ela poderá convidar qualquer [Parceiro][parceiras] para assumir o [Papel][papeis] Anfitrião do Explorar para sua sessão ou sessões, incluindo ela mesmo.
 
 Ao fazer essa proposta no [Adaptar][adaptar], a única coisa que você está fazendo é dando legitimidade e facilitando algo que já poderia acontecer. Ao adicionar o [Papel][papeis] abre-se espaço para explicitar o que se espera de alguém que estaria facilitando uma sessão como essa. Duas coisas podem acontecer também seguindo essa mudança estrutural:
 -   O [Facilitador][facilitador] do [Círculo][circulos] pode muitas vezes ser chamado para ser Anfitrião do Explorar;
