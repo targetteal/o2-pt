@@ -12,7 +12,7 @@
     * [Eleições Integrativas](biblioteca/padroes/eleicoes-integrativas.md)
     * [Integração de Objeções](biblioteca/padroes/integracao-objecoes.md)
     * [Interação Explorar](biblioteca/padroes/interacao-explorar.md)
-    * [Decisão Integrativa Estruturada](biblioteca/padroes/decisao-integrativa.md)
+    * [Decisão Integrativa Estruturada](biblioteca/padroes/decisao-integrativa-estruturada.md)
     * [Espelho de Interações](biblioteca/padroes/espelho-de-interacoes.md)
     * [Fórum Light](biblioteca/padroes/forum-light.md)
     * [Fórum Zegg](biblioteca/padroes/forum-zegg.md)
