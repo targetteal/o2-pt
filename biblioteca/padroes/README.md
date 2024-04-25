@@ -7,7 +7,7 @@
 * [Debate Estruturado](debate-estruturado.md)
 * [Descrição de Papéis](descricao-de-papeis.md)
 * [Integração de Objeções](integracao-objecoes.md)
-* [Decisão Integrativa Estruturada](decisao-integrativa.md)
+* [Decisão Integrativa Estruturada](decisao-integrativa-estruturada.md)
 * [Eleições Integrativas](eleicoes-integrativas.md)
 * [Espelho de Interações](espelho-de-interacoes.md)
 * [Fórum Light](forum-light.md)
@@ -17,7 +17,7 @@
 * [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
 * [Revisão Tática](revisao-tatica.md)
 * [Sessão de Feedback em Círculo](sessao-de-feedback-em-circulo.md)
-* [Modo Explorar](modo-explorar.md)
+* [Interação Explorar](interacao-explorar.md)
 * [Sessão Explorar](sessao-explorar.md)
 ---
 
