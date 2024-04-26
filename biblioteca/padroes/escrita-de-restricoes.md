@@ -38,9 +38,9 @@ A resposta corresponde a uma ou mais ações que são esperadas das pessoas afet
 1. ...verifique se o texto está otimizado para motores de busca (SEO) e faça as alterações necessárias. 
 2. ...peça aconselhamento para o @Precificador quanto ao preço e se julgar necessário faça os ajustes.
 3. ...
- - Comunique no canal #propostas do Slack, incluindo todas as informações que tiver sobre projeto.
- - Aguarde até 24h para que os demais consultores manifestem interesse.
- - Discuta com os consultores interessados para avaliar quem vai elaborar a proposta.
+   * Comunique no canal #propostas do Slack, incluindo todas as informações que tiver sobre projeto.
+   * Aguarde até 24h para que os demais consultores manifestem interesse.
+   * Discuta com os consultores interessados para avaliar quem vai elaborar a proposta.
 4. ...informe o @Projetista para dar sequência no processo.
 
 ### Restrições mais sofisticadas
