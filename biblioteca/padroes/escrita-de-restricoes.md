@@ -29,7 +29,7 @@ Exemplos:
 3. Sempre que um cliente pedir uma proposta comercial...
 4. Sempre que o @Designer finalizar as páginas..
 
-Note que é possível mencionar algum papel específico no Gatilho caso a restrição se aplique a ele, conforme último exempl oda lista.
+Note que é possível mencionar algum papel específico no Gatilho caso a restrição se aplique a ele, conforme último exemplo da lista.
 
 ### Resposta
 
