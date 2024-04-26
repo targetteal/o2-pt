@@ -35,7 +35,7 @@ Como podemos tornar explícitas as restrições já implícitas na organização
    * **Estabilidade**: É importante sempre seguir o acordo conforme está escrito, pois não fazê-lo traria muito risco.
 9. Os acordos mais próximos da "Flexibilidade" podem tornar-se documentações de trabalho ou boas práticas. Os mais próximos da "Estabilidade" devem tornar-se [Restrições][restricoes] ou elementos da [Estrutura Organizacional][estrutura-organizacional].
 10. Refine e reescreva as [Restrições][restricoes] identificadas, utilizando o padrão [Escrita de Restrições](escrita-de-restricoes.md) se desejar.
-11. As [Restrições][restricoes] definidas podem ser imediatamente inseridas na [Estrutura Organizacional][estrutura-organizacional] (caso o grupo ainda não tenha iniciado as [Reuniões de Círculo][reunioes-de-circulo]) ou transformadas em Propostas para serem apresentadas nas Reuniões. 
+11. As [Restrições][restricoes] definidas podem ser imediatamente inseridas na [Estrutura Organizacional][estrutura-organizacional] (caso o grupo ainda não tenha iniciado as [Reuniões de Círculo][reuniao-de-circulo]) ou transformadas em Propostas para serem apresentadas nas Reuniões. 
 
 # Contexto Resultante
 

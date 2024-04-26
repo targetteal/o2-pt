@@ -49,7 +49,7 @@ A resposta corresponde a uma ou mais ações que são esperadas das pessoas afet
 
 ## Contexto Resultante
 
-Ter um modelo ou template pode auxiliar as pessoas a visualizarem as possibilidades e escreverem [Restrições][restricoes] de forma mais estruturada e completa, facilitando a adoção desse importante elemento da [Estrutura Organizacional][estrutura-organizacaionl] da O2.
+Ter um modelo ou template pode auxiliar as pessoas a visualizarem as possibilidades e escreverem [Restrições][restricoes] de forma mais estruturada e completa, facilitando a adoção desse importante elemento da [Estrutura Organizacional][estrutura-organizacional] da O2.
 
 <!-- Links -->
 [meta-acordos]: ../../meta-acordos.md#meta-acordos-da-organizacao-organica
