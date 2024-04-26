@@ -2,26 +2,26 @@
 
 ## Contexto
 
-Organizações que estão iniciando a prática da autogestão com o sistema Organização Orgânica (O2) enfrentam o desafio de escrever restrições, devido à falta de referências e exemplos sobre como fazê-lo.
+Organizações que estão iniciando a prática da autogestão com o sistema Organização Orgânica (O2) enfrentam o desafio de escrever [Restrições][restricoes], devido à falta de referências e exemplos sobre como fazê-lo.
 
 ## Forças
 
-Nos Meta-Acordos da O2, especifica-se que uma restrição deve ter um título e uma descrição detalhada, explicando as condições e limitações que ela estabelece para os parceiros, bem como os artefatos que busca impactar na organização. No entanto, para aqueles que estão começando a praticar a autogestão, pode ser difícil imaginar e formular essas restrições.
+Nos Meta-Acordos da O2, especifica-se que uma [Restrição][restricoes] deve ter um título e uma descrição detalhada, explicando as condições e limitações que ela estabelece para os parceiros, bem como os artefatos que busca impactar na organização. No entanto, para aqueles que estão começando a praticar a autogestão, pode ser difícil imaginar e formular essas [Restrições][restricoes].
 
 ## Problema
 
-Como facilitar a criação e redação de restrições, especialmente para organizações que estão iniciando a jornada da autogestão com a O2?
+Como facilitar a criação e redação de [Restrições][restricoes], especialmente para organizações que estão iniciando a jornada da autogestão com a O2?
 
 ## Solução
 
-A estrutura proposta para descrição das Restrições envolve um ou mais **Gatilhos** seguidos de **Respostas**.
+A estrutura proposta para descrição das [Restrições][restricoes] envolve um ou mais **Gatilhos** seguidos de **Respostas**.
 
 ### Gatilho
 
-O gatilho é a condição disparadora da restrição. Lembre-se que as restrições não podem ser incondicionais, caso contrário devem ser registradas como responsabilidade de algum papel.
+O gatilho é a condição disparadora da [Restrição][restricoes]. Lembre-se que as [Restrições][restricoes] não podem ser incondicionais, caso contrário devem ser registradas como responsabilidade de algum papel.
 
 1. Comece com uma conjunção subordinativa que estabelece uma relação de causa, condição, tempo, etc. Exemplos: "Antes de", "Durante", "Depois", "Assim que", "Se", "Caso", "Sempre que", etc.
-2. Especifique a situação particular que deve ocorrer para que a restrição seja ativada.
+2. Especifique a situação particular que deve ocorrer para que a [Restrição][restricoes] seja ativada.
 
 Exemplos:
 1. Antes de publicar novos posts no blog...
@@ -29,11 +29,11 @@ Exemplos:
 3. Sempre que um cliente pedir uma proposta comercial...
 4. Sempre que o @Designer finalizar as páginas..
 
-Note que é possível mencionar algum papel específico no Gatilho caso a restrição se aplique a ele, conforme último exemplo da lista.
+Note que é possível mencionar algum papel específico no Gatilho caso a [Restrição][restricoes] se aplique a ele, conforme último exemplo da lista.
 
 ### Resposta
 
-A resposta corresponde a uma ou mais ações que são esperadas das pessoas afetadas pela restrição. Os exemplos abaixo são continuações dos gatilhos anteriores:
+A resposta corresponde a uma ou mais ações que são esperadas das pessoas afetadas pela [Restrição][restricoes]. Os exemplos abaixo são continuações dos gatilhos anteriores:
 
 1. ...verifique se o texto está otimizado para motores de busca (SEO) e faça as alterações necessárias. 
 2. ...peça aconselhamento para o @Precificador quanto ao preço e se julgar necessário faça os ajustes.
@@ -45,11 +45,11 @@ A resposta corresponde a uma ou mais ações que são esperadas das pessoas afet
 
 ### Restrições mais sofisticadas
 
-É possível que uma mesma restrição possua dois ou mais conjuntos de Gatilho-Resposta. Este modelo também pode não ser suficiente para restrições mais longas e complexas, por isso utilize-o apenas como um ponto de partida e em situações onde as pessoas estão aprendendo a utilizar restrições.
+É possível que uma mesma [Restrição][restricoes] possua dois ou mais conjuntos de Gatilho-Resposta. Este modelo também pode não ser suficiente para [Restrições][restricoes] mais longas e complexas, por isso utilize-o apenas como um ponto de partida e em situações onde as pessoas estão aprendendo a utilizar [Restrições][restricoes].
 
 ## Contexto Resultante
 
-Ter um modelo ou template pode auxiliar as pessoas a visualizarem as possibilidades e escreverem restrições de forma mais estruturada e completa, facilitando a adoção desse importante elemento da Estrutura Organizacional da O2.
+Ter um modelo ou template pode auxiliar as pessoas a visualizarem as possibilidades e escreverem [Restrições][restricoes] de forma mais estruturada e completa, facilitando a adoção desse importante elemento da [Estrutura Organizacional][estrutura-organizacaionl] da O2.
 
 <!-- Links -->
 [meta-acordos]: ../../meta-acordos.md#meta-acordos-da-organizacao-organica
