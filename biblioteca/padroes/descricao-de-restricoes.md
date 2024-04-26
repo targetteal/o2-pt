@@ -18,21 +18,21 @@ Como podemos tornar explícitas as restrições já implícitas na organização
 2. Peça que descrevam brevemente esses acordos implícitos em notas adesivas (físicas ou digitais).
 3. Faça rodadas para que as pessoas tirem dúvidas e compreendam cada acordo listado. Sem discussões, apenas esclarecimentos. 
 4. Utilize bolinhas ou tags para que os participantes avaliem se as restrições correspondem a acordos implícitos ou a desejos e tensões ainda não resolvidas. Exemplos de categorias:
- - Não acho que esse acordo deveria existir.
- - Acho que esse acordo faz sentido mas está incompleto.
- - Não quero tornar esse acordo explícito.
- - Tenho dúvidas e/ou preocupações sobre este acordo.
- - Eu não conhecia esse acordo, mas acho que ele faz sentido.
-5. Promova uma conversa sobre a classificação anterior e avance apenas com os acordos que correspondem a restrições existentes, porém implícitas. Qualquer acordo que corresponda a um "futuro desejado" deve ser trazido como uma tensão nas reuniões de círculo.
-6. Peça que classifiquem os acordos com cores diferentes, de acordo com o tipo de aprovação que demandam:
- - Aprovação simples (uma outra pessoa decide se aquela decisão vai para frente ou não)
- - Consenso (decisão a ser tomada em conjunto com todo o grupo)
- - Aconselhamento (buscar opinião, mas a decisão final é individual)
- - Outro
+   * *"Não acho que esse acordo deveria existir."*
+   * *"Acho que esse acordo faz sentido mas está incompleto."*
+   * *"Não quero tornar esse acordo explícito."*
+   * *"Tenho dúvidas e/ou preocupações sobre este acordo."*
+   * *"Eu não conhecia esse acordo, mas acho que ele faz sentido."*
+6. Promova uma conversa sobre a classificação anterior e avance apenas com os acordos que correspondem a restrições existentes, porém implícitas. Qualquer acordo que corresponda a um "futuro desejado" deve ser trazido como uma tensão nas reuniões de círculo.
+7. Peça que classifiquem os acordos com cores diferentes, de acordo com o tipo de aprovação que demandam:
+   * Aprovação simples (uma outra pessoa decide se aquela decisão vai para frente ou não)
+   * Consenso (decisão a ser tomada em conjunto com todo o grupo)
+   * Aconselhamento (buscar opinião, mas a decisão final é individual)
+   * Outro
 7. Em geral, para os acordos da categoria "Aprovação", as pessoas podem simplesmente propor adicionar [Artefatos][papeis] em [Papéis][papeis] para explicitá-los, portanto podem ser descartados nesse momento, pois não são [Restrições][restricoes]. 
 8. Para os acordos das categorias "Consenso" e "Aconselhamento", "Outro" o grupo deve posicioná-los em um eixo entre os polos "Flexibilidade" e "Estabilidade".
-- Flexibilidade: É importante termos a liberdade de seguir esse acordo ou não conforme o contexto e a situação.
-- Estabilidade: É importante sempre seguir o acordo conforme está escrito, pois não fazê-lo traria muito risco.
+   * **Flexibilidade**: É importante termos a liberdade de seguir esse acordo ou não conforme o contexto e a situação.
+   * **Estabilidade**: É importante sempre seguir o acordo conforme está escrito, pois não fazê-lo traria muito risco.
 9. Os acordos mais próximos da "Flexibilidade" podem tornar-se documentações de trabalho ou boas práticas. Os mais próximos da "Estabilidade" devem tornar-se [Restrições][restricoes] ou elementos da [Estrutura Organizacional][estrutura-organizacional].
 10. Refine e reescreva as [Restrições][restricoes] identificadas, utilizando o padrão [Escrita de Restrições](escrita-de-restricoes.md) se desejar.
 11. As [Restrições][restricoes] definidas podem ser imediatamente inseridas na [Estrutura Organizacional][estrutura-organizacional] (caso o grupo ainda não tenha iniciado as [Reuniões de Círculo][reunioes-de-circulo]) ou transformadas em Propostas para serem apresentadas nas Reuniões. 
