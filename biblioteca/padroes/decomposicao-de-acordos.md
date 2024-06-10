@@ -44,7 +44,7 @@ Esse padrão se inspira em conceitos de decomposição natural e obsolescência 
 
 ## Usos Conhecidos
 
-Em experientação na TT.
+Não há usos conhecidos deste padrão.
 
 <!-- Links -->
 [meta-acordos]: ../../meta-acordos.md#meta-acordos-da-organizacao-organica
