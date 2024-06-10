@@ -26,7 +26,7 @@ Enquanto trabalham para a [Organização][organizacao], as pessoas [Parceiras][p
 
 ## 1.4 Autoridades Legais
 
-Estes Meta-Acordos não alteram automaticamente decisões e autoridades estabelecidas por dispositivos legais. Para que uma autoridade legalmente atribuída a uma pessoa ou grupo específico seja delegada a outros elementos da [Estrutura Organizacional][estrutura-organizacional], é necessário que isso seja feito de maneira explícita. Ou seja, uma pessoa Parceira não está autorizada a tomar decisões que requeiram representação legal da organização sem que esteja explicitamente descrito na [Estrutura Organizacional][estrutura-organizacional] que ela possa fazê-lo.
+Estes [Meta-Acordos][meta-acordos] não alteram automaticamente decisões e autoridades estabelecidas por dispositivos legais. Para que uma autoridade legalmente atribuída a uma pessoa ou grupo específico seja delegada a outros elementos da [Estrutura Organizacional][estrutura-organizacional], é necessário que isso seja feito de maneira explícita. Ou seja, uma pessoa [Parceira][parceiras] não está autorizada a tomar decisões que requeiram representação legal da organização sem que esteja explicitamente descrito na [Estrutura Organizacional][estrutura-organizacional] que ela possa fazê-lo.
 
 # 2 Estrutura Organizacional
 
