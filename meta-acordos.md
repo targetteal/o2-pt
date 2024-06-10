@@ -2,94 +2,98 @@
 
 Organização Orgânica \(O2\) é um catalisador que ajuda organizações a adotarem autogestão. A O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
 
-Um "Meta-Acordo" é um acordo para formação de novos acordos. Neste documento, estão descritos os [Meta-Acordos](#meta-acordos-da-organizacao-organica) iniciais da Organização Orgânica, cada um identificado por um título e uma descrição. Os [Meta-Acordos](#meta-acordos-da-organizacao-organica) possuem hiperligações uns com os outros para demonstrar sua interdependência.
+Um "Meta-Acordo" é um acordo para formação de novos acordos. Neste documento, estão descritos os [Meta-Acordos][meta-acordos] iniciais da Organização Orgânica, cada um identificado por um título e uma descrição. Os [Meta-Acordos][meta-acordos] possuem hiperligações uns com os outros para demonstrar sua interdependência.
 
 ## Adoção
 
-Este documento não define como os [Meta-Acordos](#meta-acordos-da-organizacao-organica) são adotados, como podem ser modificados e qual é o [Propósito](#proposito) da [Organização](#organizacao). Isto geralmente é estabelecido através de um contrato social, estatuto ou acordo entre um grupo de pessoas que criou a entidade organizacional.
+Este documento não define como os [Meta-Acordos][meta-acordos] são adotados, como podem ser modificados e qual é o [Propósito][proposito] da [Organização][organizacao]. Isto geralmente é estabelecido através de um contrato social, estatuto ou acordo entre um grupo de pessoas que criou a entidade organizacional.
 
 # 1 Organização
 
-A "Organização" é uma entidade criada para expressar um [Propósito](#proposito). Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
+A "Organização" é uma entidade criada para expressar um [Propósito][proposito]. Uma Organização possui ativos que controla e uma fronteira clara com o mundo exterior.
 
 ## 1.1 Propósito
 
-O propósito é uma frase que expressa a razão de existir da [Organização](#organizacao). A organização dos círculos e dos papéis internos devem contribuir para este propósito. 
+O propósito é uma frase que expressa a razão de existir da [Organização][organizacao]. A organização dos círculos e dos papéis internos devem contribuir para este propósito. 
 
 ## 1.2 Parceiras
 
-As pessoas "Parceiras" são aquelas que dedicam seu tempo e energia para ajudar a [Organização](#organizacao) a expressar o seu [Propósito](#proposito).
+As pessoas "Parceiras" são aquelas que dedicam seu tempo e energia para ajudar a [Organização][organizacao] a expressar o seu [Propósito][proposito].
 
 ## 1.3 Tensões Criativas
 
-Enquanto trabalham para a [Organização](#organizacao), as pessoas [Parceiras](#parceiras) podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões". As Tensões movimentam a [Organização](#organizacao) em direção ao seu [Propósito](#proposito).
+Enquanto trabalham para a [Organização][organizacao], as pessoas [Parceiras][parceiras] podem identificar uma diferença entre a realidade atual e um potencial que percebem. Estas lacunas, que podem ser problemas ou oportunidades identificadas, são denominadas "Tensões Criativas", ou simplesmente "Tensões". As Tensões movimentam a [Organização][organizacao] em direção ao seu [Propósito][proposito].
+
+## 1.4 Autoridades Legais
+
+Estes Meta-Acordos não alteram automaticamente decisões e autoridades estabelecidas por dispositivos legais. Para que uma autoridade legalmente atribuída a uma pessoa ou grupo específico seja delegada a outros elementos da [Estrutura Organizacional][estrutura-organizacional], é necessário que isso seja feito de maneira explícita. Ou seja, uma pessoa Parceira não está autorizada a tomar decisões que requeiram representação legal da organização sem que esteja explicitamente descrito na [Estrutura Organizacional][estrutura-organizacional] que ela possa fazê-lo.
 
 # 2 Estrutura Organizacional
 
-As pessoas [Parceiras](#parceiras) podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos](#circulos) e formada por [Papéis](#papeis) e [Restrições](#restricoes). Cada [Círculo](#circulos) governa a sua Estrutura Organizacional, que somente pode ser alterada conforme descrito na [Interação Adaptar](#adaptar).
+As pessoas [Parceiras][parceiras] podem definir uma camada de acordos que estabelece expectativas e limitações de autoridade entre eles. Esta camada, chamada de "Estrutura Organizacional", é organizada em uma hierarquia de [Círculos][circulos] e formada por [Papéis][papeis] e [Restrições][restricoes]. Cada [Círculo][circulos] governa a sua Estrutura Organizacional, que somente pode ser alterada conforme descrito na [Interação Adaptar][adaptar].
 
 ## 2.1 Papéis
 
-As pessoas [Parceiras](#parceiras) executam o trabalho em um ou mais "Papéis" explicitamente definidos na [Estrutura Organizacional](#estrutura-organizacional). Um Papel é definido por:
+As pessoas [Parceiras][parceiras] executam o trabalho em um ou mais "Papéis" explicitamente definidos na [Estrutura Organizacional][estrutura-organizacional]. Um Papel é definido por:
 
 * Um nome descritivo;
 * Um "Propósito", que é uma capacidade, potencial ou objetivo inalcançável que o Papel irá perseguir ou expressar;
-* Zero ou mais "Responsabilidades", que são atividades contínuas que outras pessoas [Parceiras](#parceiras) podem esperar que o Papel irá executar;
-* Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização](#organizacao).
+* Zero ou mais "Responsabilidades", que são atividades contínuas que outras pessoas [Parceiras][parceiras] podem esperar que o Papel irá executar;
+* Zero ou mais "Artefatos", que são ativos que o Papel pode exclusivamente controlar e regular em nome da [Organização][organizacao].
 
 ### 2.1.1 Energização
 
-A "Energização" diz respeito a quais pessoas [Parceiras](#parceiras) dedicam seu tempo e energia à expressão do [Propósito](#papeis) de quais [Papéis](#papeis). A Energização não é um componente da [Estrutura Organizacional](#estrutura-organizacional), embora esta possa determinar como e em que condições ela ocorre.
+A "Energização" diz respeito a quais pessoas [Parceiras][parceiras] dedicam seu tempo e energia à expressão do [Propósito][papeis] de quais [Papéis][papeis]. A Energização não é um componente da [Estrutura Organizacional][estrutura-organizacional], embora esta possa determinar como e em que condições ela ocorre.
 
 ### 2.1.2 Autoridade do Papel
 
-Ao perseguir o [Propósito](#papeis) dos [Papéis](#papeis) que energiza, você está sempre autorizado a tomar ação. Ainda assim você não deve impactar os [Artefatos](#papeis) definidos em [Papéis](#papeis) que você não energiza ou [Artefatos de Círculos](#artefatos-do-circulo) que você não é [Integrante](#integrantes-do-circulo), sem antes obter uma permissão explícita da pessoa [Parceira](#parceiras) responsável. Você também deve observar as [Restrições](#restricoes) definidas na [Estrutura Organizacional](#estrutura-organizacional) e seguir as condições nelas estabelecidas.
+Ao perseguir o [Propósito][papeis] dos [Papéis][papeis] que energiza, você está sempre autorizado a tomar ação. Ainda assim você não deve impactar os [Artefatos][papeis] definidos em [Papéis][papeis] que você não energiza ou [Artefatos de Círculos][artefatos-do-circulo] que você não é [Integrante][integrantes-do-circulo], sem antes obter uma permissão explícita da pessoa [Parceira][parceiras] responsável. Você também deve observar as [Restrições][restricoes] definidas na [Estrutura Organizacional][estrutura-organizacional] e seguir as condições nelas estabelecidas.
 
-Você também pode recusar um pedido caso interprete que ele não faz parte do escopo dos [Papéis](#papeis) que você energiza, isto é, não há uma [Responsabilidade](#papeis) explícita correspondente e não está incluso no [Propósito](#papeis).
+Você também pode recusar um pedido caso interprete que ele não faz parte do escopo dos [Papéis][papeis] que você energiza, isto é, não há uma [Responsabilidade][papeis] explícita correspondente e não está incluso no [Propósito][papeis].
 
 ### 2.1.3 Deixando Papéis
 
-Você pode a qualquer momento deixar de energizar [Papéis](#papeis) em um ou mais [Círculos](#circulos), a não ser que você tenha de outra forma acordado com o [Guia](#guia) ou outro processo de [Energização](#energizacao).
+Você pode a qualquer momento deixar de energizar [Papéis][papeis] em um ou mais [Círculos][circulos], a não ser que você tenha de outra forma acordado com o [Guia][guia] ou outro processo de [Energização][energizacao].
 
 ## 2.2 Círculos
 
-Um "Círculo" é um [Papel](#papeis) que possui a autoridade de se dividir em [Papéis](#papeis) menores, contidos dentro dele mesmo. Quando um [Papel](#papeis) é transformado em um Círculo, as pessoas [Parceiras](#parceiras) que o energizam tornam-se o [Guia](#guia) daquele [Círculo](#circulos). [Círculos](#circulos) são definidos exatamente como os [Papéis](#papeis), ou seja, através dos elementos nome, [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis).
+Um "Círculo" é um [Papel][papeis] que possui a autoridade de se dividir em [Papéis][papeis] menores, contidos dentro dele mesmo. Quando um [Papel][papeis] é transformado em um Círculo, as pessoas [Parceiras][parceiras] que o energizam tornam-se o [Guia][guia] daquele [Círculo][circulos]. [Círculos][circulos] são definidos exatamente como os [Papéis][papeis], ou seja, através dos elementos nome, [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis].
 
 ### 2.2.1 Círculos não alteram sua definição
 
-Um [Círculo](#circulos) pode governar os seus próprios [Papéis](#papeis) e [Restrições](#restricoes), mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo](#circulos) externo que contém este [Círculo](#circulos).
+Um [Círculo][circulos] pode governar os seus próprios [Papéis][papeis] e [Restrições][restricoes], mas não pode alterar a sua própria definição, pois isto deve ser feito no [Círculo][circulos] externo que contém este [Círculo][circulos].
 
 ### 2.2.2 Círculos não estruturam seus Círculos internos
 
-Um [Círculo](#circulos) não pode alterar os [Papéis](#papeis), [Círculos](#circulos) e [Restrições](#restricoes) de um [Círculo](#circulos) interno diretamente. No entanto, um [Círculo](#circulos) pode realizar algumas operações descritas na [Interação Adaptar](#adaptar), como mover [Papéis](#papeis) de si para os seus [Círculos](#circulos) internos e vice-versa.
+Um [Círculo][circulos] não pode alterar os [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes] de um [Círculo][circulos] interno diretamente. No entanto, um [Círculo][circulos] pode realizar algumas operações descritas na [Interação Adaptar][adaptar], como mover [Papéis][papeis] de si para os seus [Círculos][circulos] internos e vice-versa.
 
 ## 2.3 Artefatos do Círculo
 
-Quando um [Círculo](#circulos) possui [Artefatos](#papeis) na sua definição, somente [Integrantes do Círculo](#integrantes-do-circulo) e dos [Círculos](#circulos) internos podem impactar estes [Artefatos](#papeis) livremente.
+Quando um [Círculo][circulos] possui [Artefatos][papeis] na sua definição, somente [Integrantes do Círculo][integrantes-do-circulo] e dos [Círculos][circulos] internos podem impactar estes [Artefatos][papeis] livremente.
 
 ### 2.3.1 Círculos podem delegar Artefatos
 
-Um [Círculo](#circulos) pode especificar um de seus [Artefatos](#papeis) em um [Papel](#papeis) ou [Círculo](#circulos) interno. Se isto for feito, aquele [Artefato](#papeis) passa a ser exclusivo do [Papel](#papeis) ou [Círculo](#circulos) interno, até que esta delegação seja desfeita.
+Um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [Papel][papeis] ou [Círculo][circulos] interno. Se isto for feito, aquele [Artefato][papeis] passa a ser exclusivo do [Papel][papeis] ou [Círculo][circulos] interno, até que esta delegação seja desfeita.
 
 ## 2.4 Integrantes do Círculo
 
-As pessoas [Parceiras](#parceiras) são considerados "Integrantes" de um determinado [Círculo](#circulos) quando atenderem pelo menos um dos critérios abaixo:
+As pessoas [Parceiras][parceiras] são considerados "Integrantes" de um determinado [Círculo][circulos] quando atenderem pelo menos um dos critérios abaixo:
 
-* Energizam pelo menos um [Papel](#papeis) definido no [Círculo](#circulos);
-* Energizam pelo menos um dos [Papéis Essenciais](#papeis-essenciais) no [Círculo](#circulos);
-* Energizam o [Papel](#papeis) de [Guia](#guia) ou [Representante](#representante) em pelo menos um dos [Círculos](#circulos) internos ao [Círculo](#circulos).
+* Energizam pelo menos um [Papel][papeis] definido no [Círculo][circulos];
+* Energizam pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
+* Energizam o [Papel][papeis] de [Guia][guia] ou [Representante][representante] em pelo menos um dos [Círculos][circulos] internos ao [Círculo][circulos].
 
 ## 2.5 Restrições
 
-A restrição é um acordo, próprio dos [Círculos](#circulos), que limita a maneira como um processo deve acontecer ou como um artefato deve ser utilizado. A restrição possui um título e uma descrição e seu efeito se aplica a todos os papéis naquele [Círculo](#circulos) e a todos os seus [Círculos](#circulos) internos, a menos que sua descrição defina algo diferente.
+A restrição é um acordo, próprio dos [Círculos][circulos], que limita a maneira como um processo deve acontecer ou como um artefato deve ser utilizado. A restrição possui um título e uma descrição e seu efeito se aplica a todos os papéis naquele [Círculo][circulos] e a todos os seus [Círculos][circulos] internos, a menos que sua descrição defina algo diferente.
 
 ### 2.5.1 Restrições não estabelecem responsabilidades
 
-[Restrições](#restricoes) não podem estabelecer responsabilidades, porque este é o objetivo de um papel. Ainda assim, uma [Restrição](#restricoes) pode exigir ação, mas apenas para pessoas [Parceiras](#parceiras) em que a [Restrição](#restricoes) se aplica.
+[Restrições][restricoes] não podem estabelecer responsabilidades, porque este é o objetivo de um papel. Ainda assim, uma [Restrição][restricoes] pode exigir ação, mas apenas para pessoas [Parceiras][parceiras] em que a [Restrição][restricoes] se aplica.
 
 ## 2.6 Prioridades do Círculo
 
-Um [Círculo](#circulos) pode estabelecer prioridades para orientar o trabalho dos seus [Integrantes](#integrantes-do-circulo). Enquanto [Integrante do Círculo](#integrantes-do-circulo), você deve priorizar o seu trabalho em alinhamento com estas diretrizes estabelecidas.
+Um [Círculo][circulos] pode estabelecer prioridades para orientar o trabalho dos seus [Integrantes][integrantes-do-circulo]. Enquanto [Integrante do Círculo][integrantes-do-circulo], você deve priorizar o seu trabalho em alinhamento com estas diretrizes estabelecidas.
 
 # 3. Reuniões e Interações
 
@@ -103,7 +107,7 @@ Na interação "Revisar", duas ou mais pessoas [Parceiras][parceiras] compartilh
 
 ## 3.2 Sincronizar
 
-Na interação "Sincronizar", duas ou mais pessoas [Parceiras][parceiras] buscam tratar [Tensões][tensoes] engajando uns aos outros nos [Papéis][papeis] que energizam. A interação Sincronizar acontece a partir da [Estrutura Organizacional][estrutura-organizacional] definida e pode ser usada para solicitar projetos e ações específicos para as pessoas [Parceiras][parceiras] nos seus papéis ou [Atos Heroicos](#ato-heroico). 
+Na interação "Sincronizar", duas ou mais pessoas [Parceiras][parceiras] buscam tratar [Tensões][tensoes] engajando uns aos outros nos [Papéis][papeis] que energizam. A interação Sincronizar acontece a partir da [Estrutura Organizacional][estrutura-organizacional] definida e pode ser usada para solicitar projetos e ações específicos para as pessoas [Parceiras][parceiras] nos seus papéis ou [Atos Heroicos][ato-heroico]. 
 
 > Veja os **Padrões para Sincronizar** na [Biblioteca de Padrões](../biblioteca/README.md).
 
@@ -213,114 +217,114 @@ Enquanto pessoa [Parceira][parceiras] energizando [Papeis][papeis], você pode c
 
 # 5 Papéis Essenciais
 
-Cada [Círculo](#circulos) contém "Papéis Essenciais", chamados de [Guia](#guia), [Representante](#representante), [Facilitador](#facilitador) e [Escriba](#escriba).
+Cada [Círculo][circulos] contém "Papéis Essenciais", chamados de [Guia][guia], [Representante][representante], [Facilitador][facilitador] e [Escriba][escriba].
 
 ## 5.1 Guia
 
-O [Papel](#energizacao) do "Guia" possui a seguinte definição inicial:
+O [Papel][energizacao] do "Guia" possui a seguinte definição inicial:
 
-**Propósito**: _O_ [_Propósito_](#papeis) _do_ [_Círculo_](#circulos)
+**Propósito**: _O_ [_Propósito_][papeis] _do_ [_Círculo_][circulos]
 
 **Responsabilidades**:
 
-* Estruturar o [Círculo](#circulos) para expressar o seu [Propósito](#papeis) e atender as [Responsabilidades](#papeis) definidas pelo [Círculo](#circulos) externo
-* Convidar pessoas [Parceiras](#parceiras) para energizarem [Papéis](#papeis) definidos no [Círculo](#circulos)
-* Oferecer feedback para melhorar a adequação entre pessoa [Parceira](#parceiras) e [Papel](#papeis), desenergizando quando necessário
-* Estabelecer prioridades para o [Círculo](#circulos)
+* Estruturar o [Círculo][circulos] para expressar o seu [Propósito][papeis] e atender as [Responsabilidades][papeis] definidas pelo [Círculo][circulos] externo
+* Convidar pessoas [Parceiras][parceiras] para energizarem [Papéis][papeis] definidos no [Círculo][circulos]
+* Oferecer feedback para melhorar a adequação entre pessoa [Parceira][parceiras] e [Papel][papeis], desenergizando quando necessário
+* Estabelecer prioridades para o [Círculo][circulos]
 
 **Artefatos**:
 
-* Energização de [Papéis](#papeis) definidos no [Círculo](#circulos)
+* Energização de [Papéis][papeis] definidos no [Círculo][circulos]
 
-O Guia detém todas as [Responsabilidades](#papeis) e [Artefatos](#papeis) não delegados do [Círculo](#circulos).
+O Guia detém todas as [Responsabilidades][papeis] e [Artefatos][papeis] não delegados do [Círculo][circulos].
 
 ### 5.1.1 Energização do Guia
 
-O [Guia](#guia) é escolhido pelo [Círculo](#circulos) externo, por qualquer processo de [Energização de Papéis Definidos](#energizacao-de-papeis-definidos) no [Círculo](#circulos) externo. O [Guia](#guia) do [Círculo](#circulos) mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos](#meta-acordos-da-organizacao-organica).
+O [Guia][guia] é escolhido pelo [Círculo][circulos] externo, por qualquer processo de [Energização de Papéis Definidos][energizacao-de-papeis-definidos] no [Círculo][circulos] externo. O [Guia][guia] do [Círculo][circulos] mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos][meta-acordos].
 
 ## 5.2 Representante
 
-O [Papel](#papeis) do "Representante" possui a seguinte definição inicial:
+O [Papel][papeis] do "Representante" possui a seguinte definição inicial:
 
-**Propósito**: _O_ [_Propósito_](#papeis) _do_ [_Círculo_](#circulos)
+**Propósito**: _O_ [_Propósito_][papeis] _do_ [_Círculo_][circulos]
 
 **Responsabilidades**:
 
-* Buscar compreender [Tensões](#tensoes-criativas) trazidas pelas pessoas [Integrantes do Círculo](#integrantes-do-circulo) e processá-las quando apropriado no [Círculo](#circulos) externo
-* Fornecer visibilidade sobre a saúde do [Círculo](#circulos) para o [Círculo](#circulos) externo
+* Buscar compreender [Tensões][tensoes-criativas] trazidas pelas pessoas [Integrantes do Círculo][integrantes-do-circulo] e processá-las quando apropriado no [Círculo][circulos] externo
+* Fornecer visibilidade sobre a saúde do [Círculo][circulos] para o [Círculo][circulos] externo
 
 ## 5.3 Facilitador
 
-O [Papel](#papeis) do "Facilitador" possui a seguinte definição inicial:
+O [Papel][papeis] do "Facilitador" possui a seguinte definição inicial:
 
-**Propósito**: [_Reuniões de Círculo_](#reunioes-de-circulo) _saudáveis e alinhadas com os Meta-Acordos_
+**Propósito**: [_Reuniões de Círculo_][reunioes-de-circulo] _saudáveis e alinhadas com os Meta-Acordos_
 
 **Responsabilidades**:
 
-* Facilitar as [Reuniões de Círculo](#reunioes-de-circulo)
+* Facilitar as [Reuniões de Círculo][reunioes-de-circulo]
 
 ## 5.4 Escriba
 
-O [Papel](#papeis) do "Escriba" possui a seguinte definição inicial:
+O [Papel][papeis] do "Escriba" possui a seguinte definição inicial:
 
-**Propósito**: [_Meta-Acordos_](./) _e_ [_Estrutura Organizacional_](#estrutura-organizacional) _do_ [_Círculo_](#circulos) _claros_
+**Propósito**: [_Meta-Acordos_](./) _e_ [_Estrutura Organizacional_][estrutura-organizacional] _do_ [_Círculo_][circulos] _claros_
 
 **Responsabilidades**:
 
-* Agendar [Reuniões de Círculo](#reunioes-de-circulo) regulares
-* Registrar tensões, propostas, objeções e saídas durante as [Reuniões de Círculo](#reunioes-de-circulo), quando solicitado
-* Interpretar os [Meta-Acordos](#meta-acordos-da-organizacao-organica) e a [Estrutura Organizacional](#estrutura-organizacional) mediante solicitações
+* Agendar [Reuniões de Círculo][reunioes-de-circulo] regulares
+* Registrar tensões, propostas, objeções e saídas durante as [Reuniões de Círculo][reunioes-de-circulo], quando solicitado
+* Interpretar os [Meta-Acordos][meta-acordos] e a [Estrutura Organizacional][estrutura-organizacional] mediante solicitações
 
 **Artefatos**:
 
-* Registros da [Estrutura Organizacional](#estrutura-organizacional) do [Círculo](#circulos)
-* Interpretação final dos [Meta-Acordos](#meta-acordos-da-organizacao-organica) e da [Estrutura](#estrutura-organizacional) do [Círculo](#circulos) quando houver conflito
+* Registros da [Estrutura Organizacional][estrutura-organizacional] do [Círculo][circulos]
+* Interpretação final dos [Meta-Acordos][meta-acordos] e da [Estrutura][estrutura-organizacional] do [Círculo][circulos] quando houver conflito
 
 ## 5.5 Papéis Essenciais Eleitos
 
-Os [Papéis Essenciais](#papeis-essenciais) de [Facilitador](#facilitador), [Escriba](#escriba) e [Representante](#representante) são considerados "Papéis Essenciais Eleitos" e são energizados através de um processo de eleição.
+Os [Papéis Essenciais][papeis-essenciais] de [Facilitador][facilitador], [Escriba][escriba] e [Representante][representante] são considerados "Papéis Essenciais Eleitos" e são energizados através de um processo de eleição.
 
 ### 5.5.1 Parceiras Elegíveis
 
-Todas e apenas as pessoas [Integrantes do Círculo](#integrantes-do-circulo) são elegíveis para energizar os [Papéis Essenciais Eleitos](#papeis-essenciais). Ainda assim, a pessoa [Parceira](#parceiras) que energiza o [Papel](#papeis) de [Guia](#guia) não pode energizar o [Papel](#papeis) de [Facilitador](#facilitador) ou [Representante](#representante) no mesmo [Círculo](#circulos).
+Todas e apenas as pessoas [Integrantes do Círculo][integrantes-do-circulo] são elegíveis para energizar os [Papéis Essenciais Eleitos][papeis-essenciais]. Ainda assim, a pessoa [Parceira][parceiras] que energiza o [Papel][papeis] de [Guia][guia] não pode energizar o [Papel][papeis] de [Facilitador][facilitador] ou [Representante][representante] no mesmo [Círculo][circulos].
 
 ### 5.5.2 Eleições
 
-Qualquer [Integrante do Círculo](#integrantes-do-circulo) pode solicitar "Eleições" para os [Papéis Essenciais Eleitos](#papeis-essenciais). O processo de Eleição é feito inicialmente por maioria simples para escolher uma pessoa que será nomeada e em seguida faz-se o uso de consentimento para efetivar a nomeação. A [Estrutura Organizacional](#estrutura-organizacional) pode definir em detalhes como e em que condições este processo deve ser facilitado.
+Qualquer [Integrante do Círculo][integrantes-do-circulo] pode solicitar "Eleições" para os [Papéis Essenciais Eleitos][papeis-essenciais]. O processo de Eleição é feito inicialmente por maioria simples para escolher uma pessoa que será nomeada e em seguida faz-se o uso de consentimento para efetivar a nomeação. A [Estrutura Organizacional][estrutura-organizacional] pode definir em detalhes como e em que condições este processo deve ser facilitado.
 
 ### 5.5.3 Alterações nos Papéis Essenciais
 
-Os [Papéis Essenciais](#papeis-essenciais) de cada [Círculo](#circulos) podem ser alterados, desde que as restrições abaixo sejam respeitadas:
+Os [Papéis Essenciais][papeis-essenciais] de cada [Círculo][circulos] podem ser alterados, desde que as restrições abaixo sejam respeitadas:
 
-* O nome e o [Propósito](#papeis) dos [Papéis Essenciais](#papeis-essenciais) não pode ser alterado;
-* Novas [Responsabilidades](#papeis) e [Artefatos](#papeis) não podem ser acrescidas ao [Papel](#papeis) do [Guia](#guia);
-* As [Responsabilidades](#papeis) e [Artefatos](#papeis) iniciais do Papel [Guia](#guia) podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel](#papeis) ou processo no [Círculo](#circulos);
-* As [Responsabilidades](#papeis) e [Artefatos](#papeis) iniciais dos [Papéis](#papeis) de [Facilitador](#facilitador), [Escriba](#escriba) e [Representante](#representante) não podem ser removidas ou modificadas;
-* Os [Papéis Essenciais](#papeis-essenciais) não podem ser removidos.
+* O nome e o [Propósito][papeis] dos [Papéis Essenciais][papeis-essenciais] não pode ser alterado;
+* Novas [Responsabilidades][papeis] e [Artefatos][papeis] não podem ser acrescidas ao [Papel][papeis] do [Guia][guia];
+* As [Responsabilidades][papeis] e [Artefatos][papeis] iniciais do Papel [Guia][guia] podem ser modificadas ou removidas completamente, desde que sejam delegadas a outro [Papel][papeis] ou processo no [Círculo][circulos];
+* As [Responsabilidades][papeis] e [Artefatos][papeis] iniciais dos [Papéis][papeis] de [Facilitador][facilitador], [Escriba][escriba] e [Representante][representante] não podem ser removidas ou modificadas;
+* Os [Papéis Essenciais][papeis-essenciais] não podem ser removidos.
 
 #### 5.5.3.1 Alterações nos Papéis Essenciais não propagam
 
-As alterações realizadas nos [Papeis Essenciais](#papeis-essenciais) de um [Círculo](#circulos) aplicam-se apenas ao [Círculo](#circulos) onde a modificação ocorreu, ou seja, não propagam para os [Círculos](#circulos) internos.
+As alterações realizadas nos [Papeis Essenciais][papeis-essenciais] de um [Círculo][circulos] aplicam-se apenas ao [Círculo][circulos] onde a modificação ocorreu, ou seja, não propagam para os [Círculos][circulos] internos.
 
 # 6 Energização de Papéis Definidos
 
-O [Guia](#guia) é responsável por convidar pessoas [Parceiras](#parceiras) para energizarem os [Papéis](#papeis) definidos no [Círculo](#circulos), com exceção dos [Papéis Essenciais Eleitos](#papeis-essenciais-eleitos). O [Guia](#guia) pode convidar qualquer pessoa [Parceira](#parceiras), a não ser que uma [Restrição](#restricoes) diga o contrário. Uma [Restrição](#restricoes) também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade](#papeis) e o [Artefato](#papeis) correspondente do [Guia](#guia).
+O [Guia][guia] é responsável por convidar pessoas [Parceiras][parceiras] para energizarem os [Papéis][papeis] definidos no [Círculo][circulos], com exceção dos [Papéis Essenciais Eleitos][papeis-essenciais-eleitos]. O [Guia][guia] pode convidar qualquer pessoa [Parceira][parceiras], a não ser que uma [Restrição][restricoes] diga o contrário. Uma [Restrição][restricoes] também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade][papeis] e o [Artefato][papeis] correspondente do [Guia][guia].
 
 ## 6.1 Foco
 
-O processo de [Energização](#energizacao-de-papeis-definidos) também pode definir um "Foco" para o [Parceiro](#parceiras) que energiza um [Papel](#papeis). Este Foco é uma área de atuação em que o [Propósito](#papeis), [Responsabilidades](#papeis) e [Artefatos](#papeis) do [Papel](#papeis) se aplicam somente.
+O processo de [Energização][energizacao-de-papeis-definidos] também pode definir um "Foco" para o [Parceiro][parceiras] que energiza um [Papel][papeis]. Este Foco é uma área de atuação em que o [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis] do [Papel][papeis] se aplicam somente.
 
 ## 6.2 Autorresponsabilização
 
-Enquanto pessoa [Parceira](#parceiras), você é responsável por tratar as [Tensões](#tensoes-criativas) que percebe, tomando ações ou engajando outras pessoas [Parceiras](#parceiras) nestes [Meta-Acordos](#meta-acordos-da-organizacao-organica). É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
+Enquanto pessoa [Parceira][parceiras], você é responsável por tratar as [Tensões][tensoes-criativas] que percebe, tomando ações ou engajando outras pessoas [Parceiras][parceiras] nestes [Meta-Acordos][meta-acordos]. É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
 
 ## 6.3 Transparência
 
-Enquanto pessoa [Parceira](#parceiras), é esperado que você compartilhe quando solicitado por outras pessoas [Parceiras](#parceiras) todas as informações relevantes sobre o trabalho que você realiza para a [Organização](#organizacao), incluindo os seus projetos, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que você forneça estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
+Enquanto pessoa [Parceira][parceiras], é esperado que você compartilhe quando solicitado por outras pessoas [Parceiras][parceiras] todas as informações relevantes sobre o trabalho que você realiza para a [Organização][organizacao], incluindo os seus projetos, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que você forneça estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
 ## 6.4 Ato Heróico
 
-Você pode temporariamente ignorar estes [Meta-Acordos](#meta-acordos-da-organizacao-organica) se isto for útil e necessário para expressar o [Propósito](#proposito) da [Organização](#organizacao). Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heroicos". Você deve sempre buscar reparar quaisquer danos causados após um Ato Heroico, propondo mudanças na [Estrutura Organizacional](#estrutura-organizacional) ou até nestes [Meta-Acordos](#meta-acordos-da-organizacao-organica) se necessário.
+Você pode temporariamente ignorar estes [Meta-Acordos][meta-acordos] se isto for útil e necessário para expressar o [Propósito][proposito] da [Organização][organizacao]. Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heroicos". Você deve sempre buscar reparar quaisquer danos causados após um Ato Heroico, propondo mudanças na [Estrutura Organizacional][estrutura-organizacional] ou até nestes [Meta-Acordos][meta-acordos] se necessário.
 
 <!-- Links -->
 [meta-acordos]: #meta-acordos-da-organizacao-organica
