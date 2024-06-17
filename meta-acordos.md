@@ -257,11 +257,11 @@ O [Papel][papeis] do "Representante" possui a seguinte definição inicial:
 
 O [Papel][papeis] do "Facilitador" possui a seguinte definição inicial:
 
-**Propósito**: [_Reuniões de Círculo_][reunioes-de-circulo] _saudáveis e alinhadas com os Meta-Acordos_
+**Propósito**: [_Reuniões de Círculo_][reunioes-e-interacoes] _saudáveis e alinhadas com os Meta-Acordos_
 
 **Responsabilidades**:
 
-* Facilitar as [Reuniões de Círculo][reunioes-de-circulo]
+* Facilitar as [Reuniões de Círculo][reunioes-e-interacoes]
 
 ## 5.4 Escriba
 
@@ -271,8 +271,8 @@ O [Papel][papeis] do "Escriba" possui a seguinte definição inicial:
 
 **Responsabilidades**:
 
-* Agendar [Reuniões de Círculo][reunioes-de-circulo] regulares
-* Registrar tensões, propostas, objeções e saídas durante as [Reuniões de Círculo][reunioes-de-circulo], quando solicitado
+* Agendar [Reuniões de Círculo][reunioes-e-interacoes] regulares
+* Registrar tensões, propostas, objeções e saídas durante as [Reuniões de Círculo][reunioes-e-interacoes], quando solicitado
 * Interpretar os [Meta-Acordos][meta-acordos] e a [Estrutura Organizacional][estrutura-organizacional] mediante solicitações
 
 **Artefatos**:
