@@ -1,68 +1,48 @@
-# Interação Explorar
+# Interação Explorar  
 
 ## Contexto
 Organizações de tamanho e naturezas diversas. Alguns fatores aumentam a chance do problema surgir:
--   Pessoas trabalhando remotamente
--   [Círculos][circulos] ou organizações lidando com situações confusas e incertas
--   Uma [Estrutura Organizacional][estrutura-organizacional] pouco clara ou disfuncional
--   Início da adoção de práticas de autogestão
+-   Pessoas trabalhando remotamente;
+-   [Círculos][circulos] ou organizações lidando com situações confusas e incertas;
+-   Uma [Estrutura Organizacional][estrutura-organizacional] pouco clara ou disfuncional;
+-   Início da adoção de práticas de autogestão;
+-   Necessidade de explorar em profundidade perspectivas diferentes sobre um assunto.
 
 ## Problema
-Quando as pessoas estão adotando O2 e fazendo [Reuniões de Círculo][reuniao-de-circulo] regulares, existe a possibilidade delas sentirem falta de espaços mais livres de conversas ou assim chamados mais espaços exploratórios. Elas podem ter receio em trazer [Tensões][tensoes] pouco elaboradas ou de caráter exploratório para o [Sincronizar][sincronizar] ou para as outras interações de reunião existentes. Outras pessoas tentam inibir ou impedir outras pessoas de tratar suas [Tensões][tensoes] exploratórias devido ao tempo necessário para isso em uma reunião com muitos itens na pauta.
+Quando as pessoas estão adotando O2 e fazendo [Reuniões de Círculo][reuniao-de-circulo] regulares, existe a possibilidade delas sentirem falta de espaços mais livres de conversas ou assim chamados espaços exploratórios. Elas podem ter receio em trazer [Tensões][tensoes] pouco elaboradas ou de caráter exploratório para o [Sincronizar][sincronizar] ou para as outras interações existentes. Outras pessoas tentam inibir ou impedir outras pessoas de tratar suas [Tensões][tensoes] exploratórias devido ao tempo necessário para isso em uma reunião com muitos itens na pauta.
 
 ## Forças do problema
-As três interações ([Revisar][revisar], [Sincronizar][sincronizar] e [Adaptar][adaptar]) que existem para lidar com o espaço organizacional são configuradas para oferecer o melhor ambiente possível para as pessoas saírem dali com passos claros e registrados (projetos), acordos firmados ou revisados e mais visibilidade sobre o que está acontecendo no [Círculo][circulos]. Além disso, são interações criadas para lidarem com muitas [Tensões][tensoes], de várias pessoas, uma de cada vez no menor tempo possível. Já a interação [Cuidar][cuidar] está focada no espaço relacional e não faria sentido discutir nela questões sobre como realizar o trabalho. Conversas espontâneas e não estruturadas entre 2, 3 ou 4 pessoas podem oferecer boas condições para esse tipo de espaço exploratório quando as pessoas conseguem aproveitar as vantagens ao mesmo tempo que evitar certas armadilhas. Algumas vantagens identificadas:
--   A conexão de ideias tende a ser fácil, pois as pessoas se complementam rapidamente e até se interrompem;
--   O surgimento de ideias novas também pode ser mais fácil, por conta das muitas conexões feitas;
--   As pessoas costumam se sentir mais relaxadas, pois não estão atentas ao processo;
--   A baixa exigência por clareza na intencionalidade da fala e autorresponsabilização, evita que as pessoas tenham que lidar com seus tabus, dissonâncias e desconfortos de maneira aberta, gerando para muitos uma sensação de conforto e até segurança emocional momentânea.
-Algumas armadilhas:
--   A falta de estrutura pode criar um ambiente adverso para algumas pessoas (ambiente hostil à neurodiversidade);
--   Pode permitir a continuidade ou fortalecimento de uma estrutura implícita de autoridade, pois permite mais insinuações e ironias;
--   Pode silenciar vozes dissonantes de maneira recorrente e violenta;
--   Pode ocorrer abuso no uso do consenso e processos decisórios disfuncionais;
--   Alguns assuntos são evitados ou desviados e pessoas saem com pouca clareza dos próximos passos.
-Fica claro que o abuso ou foco exclusivo nesse tipo de espaço exploratório pode ter consequências bem ruins. Ver mais sobre isso no [Contexto Resultante.](https://www.notion.so/Patch-Modo-Explorar-12c9eb10b73a4e3eb335741bb5c041f6)
+As três interações ([Revisar][revisar], [Sincronizar][sincronizar] e [Adaptar][adaptar]) que existem para lidar com o espaço organizacional são configuradas para oferecer o melhor ambiente possível para as pessoas saírem dali com passos claros e registrados (projetos), acordos firmados ou revisados e mais visibilidade sobre o que está acontecendo no [Círculo][circulos]. Além disso, são momentos criados para lidarem com muitas [Tensões][tensoes], de várias pessoas, uma de cada vez no menor tempo possível. Já o [Cuidar][cuidar] está focado no espaço relacional e não faria sentido discutir nele questões sobre como realizar o trabalho.
 
-## Solução
-Adicionar nos [Meta-Acordos][meta-acordos] uma nova Interação de [Reunião de Círculo][reuniao-de-circulo]. Dessa maneira, o [Facilitador][facilitador] de cada [Círculo][circulos] seria responsável por abrir espaço em uma [Reunião de Círculo][reuniao-de-circulo] para Explorar quando pedido e teria que seguir certas orientações. Utilizando versão 3.1 dos [Meta-Acordos][meta-acordos] como ponto de partida, significa modificar:
-```markdown
-3. Reuniões de Círculo
-[Integrantes do Círculo][integrantes-do-circulo] regularmente se encontram em um espaço chamado "Reunião de Círculo" para executar uma ou mais das 4 "Interações" especiais de reunião descritas na seção seguinte: [Revisar][revisar], [Sincronizar][sincronizar], [Adaptar][adaptar] e [Cuidar][cuidar]. [Reuniões de Círculo][reuniao-de-circulo] são agendadas pelo [Escriba][escriba] e facilitadas pelo [Facilitador][facilitador], dois [Papéis Essenciais][papeis-essenciais].
-```
-Para:
-```markdown
-3. Reuniões de Círculo
-[Integrantes do Círculo][integrantes-do-circulo] regularmente se encontram em um espaço chamado "Reunião de Círculo" para executar uma ou mais das 5 "Interações" especiais de reunião descritas na seção seguinte: [Revisar][revisar], [Sincronizar][sincronizar], [Adaptar][adaptar], Explorar e [Cuidar][cuidar]. [Reuniões de Círculo][reuniao-de-circulo] são agendadas pelo [Escriba][escriba] e facilitadas pelo [Facilitador][facilitador], dois [Papéis Essenciais][papeis-essenciais].
-```
-Além disso, é preciso adicionar uma nova Interação, como abaixo:
-```markdown
-3.7 A "Interação Explorar" é um momento da [Reunião de Círculo][reuniao-de-circulo] cujo objetivo é promover uma conversa aberta sobre um tema que um [Integrante do Círculo][integrantes-do-circulo] acredita ser relevante. Durante o Explorar:
-- O [Facilitador][facilitador] pode usar diferentes formatos que privilegiam a troca de ideias e a conversa fluida entre os participantes;
-- O tempo reservado para a Interação deve ser significativamente maior que o tempo comumente usado para processar [Tensões][tensoes] no [Sincronizar][sincronizar];
-- Para propor o Explorar durante uma [Reunião de Círculo][reuniao-de-circulo], sem aviso prévio, o [Facilitador][facilitador] deve checar se há [Objeções][objecoes];
-```
-Com estas mudanças implementadas nos [Meta-Acordos][meta-acordos] todos os [Círculos][circulos] da organização poderão, se necessário, fazer uso da Interação Explorar.
-Diferentes Padrões podem ser encontrados na biblioteca que podem ajudar um [Facilitador][facilitador] a conduzir esses momentos. Em alguns contextos pode ser uma facilitação difícil.
+## Solução  
+De acordo com os Meta-Acordos da O2, especificamente a seção "3.8 Novas Interações", é possível criar novos tipos de interações além das definidas. Este padrão busca definir um novo tipo de interação a partir da criação de uma [Restrição de Círculo][restricoes], chamado Explorar, no qual os participantes podem explorar uma Tensão de forma mais aberta, investigativa e aprofundada.
 
-## Contexto resultante
-Depois da mudança nos [Meta-Acordos][meta-acordos] as pessoas deverão se sentir-se a vontade para pedir ajuda do [Facilitador][facilitador] do [Círculo][circulos] para conduzir momentos e conversas de exploração. Existe uma chance de aumentar as oportunidades de conversas importantes e espaços de qualidade para discutir temas diversos, como estratégia, processos, questões associativas, etc.. Porém algumas coisas também podem acontecer:
--   As pessoas ficarem viciadas no uso da Interação, investindo muito tempo em Explorar e pouco tempo em [Sincronizar][sincronizar] e [Adaptar][adaptar];
--   O fortalecimento de estruturas implícitas de autoridade que tornam os [Papéis][papeis] e [Restrições][restricoes] menos importante e criam um ambiente difícil para a autogestão;
--   Pessoas irritadas por estarem em reuniões longas sobre temas que não lhe dizem respeito ou não lhe agradam. Lembre-se que [Reuniões de Círculo][reuniao-de-circulo] são priorizadas. O ultimo ponto da mudança proposta dos [Meta-Acordos][meta-acordos] deve ajudar a evitar isso.
-Evitar que essas coisas aconteçam não é simples é pode cair nas costas de cada [Facilitador][facilitador] da organização. Aprender sobre facilitação em geral pode ser muito útil e usar formatos conhecidos como [estruturas libertadoras](http://www.liberatingstructures.com.br/) também pode ajudar.
+A Interação Explorar pode ser utilizada durante uma [Reunião de Círculo][reunioes-e-interacoes] regular ou pode-se marcar uma [Reunião de Círculo][reunioes-e-interacoes] especificamente para usar essa interação e tratar uma Tensão específica trazida por algum participante. Os demais participantes podem optar por engajar ou não na interação, conforme seu interesse no tema.
+
+O [Facilitador][facilitador] será automaticamente responsável por conduzir a Interação Explorar, aproveitando técnicas e práticas que incentivem a exploração criativa e produtiva dos temas, sem permitir que o espaço se desvie de seu propósito inicial.
+
+## Contexto Resultante
+Ao instituir a Interação Explorar como um novo tipo legítimo de interação, abre-se a oportunidade de dedicar espaços específicos para explorar Tensões de forma mais aprofundada, dando voz a questões que talvez não encontrassem espaço adequado nas interações regulares.
+
+Permite-se que os participantes escolham engajar ou não nessas interações, de acordo com seu interesse pelos temas explorados. Isso evita a percepção de ser uma conversa "menos importante" ou restrita a um grupo seleto.
+
+Alguns cuidados ainda são necessários:
+- Evitar que as Interações Explorar se transformem em "reuniões de alinhamento" onde decisões são tomadas sem respeitar a estrutura e Meta-Acordos;
+- Gerenciar as agendas para não sobrecarregar com muitas Interações Explorar, prejudicando a operação regular.
+
+O [Facilitador][facilitador] terá um papel chave em guiar essas interações, aproveitando técnicas adequadas e mantendo o foco na exploração saudável e produtiva dos temas propostos.
 
 ## Fundamentação
-A ideia é apostar na capacidade de indivíduos escolhidos para serem [Facilitadores][facilitador], atuarem também nesses espaços para aumentar sua qualidade. Ao mesmo tempo que legitima esse tipo de interação e dá outras possibilidades para as pessoas que sentem que não possuem espaço para certas conversas na [Reunião de Círculo][reuniao-de-circulo].
+A ideia é criar legitimidade para um novo tipo de interação, mais aberta e investigativa, que permita explorar Tensões que talvez não encontrassem espaço adequado nas interações regulares. Isso é viabilizado pelos próprios Meta-Acordos da O2 que permitem a criação de novas interações.
 
-## Usos conhecidos
-Não temos registro ainda de organizações que usaram esse Patch. Então, cuidado! Se você usa, por favor, nos avise. Ao mesmo tempo, sabemos que algumas organizações, que não usam O2, só fazem algo parecido com o "Explorar" e com isso acabam presas em um ótimo local.
+## Usos conhecidos  
+Não temos registro do uso desse padrão em específico. Talvez com outro nome e algumas mudanças. Nos avise se conhecer alguma.
 
 <!-- Links -->
 [meta-acordos]: ../../meta-acordos.md#meta-acordos-da-organizacao-organica
 [organizacao ]: ../../meta-acordos.md#1-organizacao
 [proposito]: ../../meta-acordos.md#1.1-proposito
-[colegas]: ../../meta-acordos.md#1.2-colegas
+[parceiras]: ../../meta-acordos.md#1.2-parceiras
 [tensoes]: ../../meta-acordos.md#1.3-tensoes-criativas
 [estrutura-organizacional]: ../../meta-acordos.md#2-estrutura-organizacional
 [papeis]: ../../meta-acordos.md#2.1-papeis
@@ -110,7 +90,7 @@ Não temos registro ainda de organizações que usaram esse Patch. Então, cuida
 [facilitador]: ../../meta-acordos.md#4.3-facilitador
 [escriba]: ../../meta-acordos.md#4.4-escriba
 [papeis-essenciais-eleitos]: ../../meta-acordos.md#4.5-papeis-essenciais-eleitos
-[colegas-elegiveis]: ../../meta-acordos.md#4.5.1-colegas-elegiveis
+[parceiras-elegiveis]: ../../meta-acordos.md#4.5.1-parceiras-elegiveis
 [eleicoes]: ../../meta-acordos.md#4.5.2-eleicoes
 [alteracoes-nos-papeis-essenciais]: ../../meta-acordos.md#4.5.3-alteracoes-nos-papeis-essenciais
 [alteracoes-nos-papeis-essenciais-nao-propagam]: ../../meta-acordos.md#4.5.3.1-alteracoes-nos-papeis-essenciais-nao-propagam
