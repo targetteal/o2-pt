@@ -2,6 +2,10 @@
 
 ## Contexto
 
+Uma organização que faz uso da O2 e possui muitos acordos que foram propostos, mas não são utilizados. Os membros também não costumam propor a exclusão de acordos que perderam a utilidade. 
+
+## Problema
+
 Em organizações autogeridas, o poder é transferido das relações pessoais para os acordos organizacionais, como [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes]. Para que esses acordos tenham peso e legitimidade, eles precisam refletir a realidade atual da [Organização][organizacao], o que requer atualizações e relembramento constantes.
 
 No entanto, é comum que depois de algum tempo, [Papéis][papeis] ou [Restrições][restricoes] propostos inicialmente acabem caindo em desuso, pois não há um [Papel][papeis] específico responsável por fazer uma "faxina" na [Estrutura Organizacional][estrutura-organizacional]. Esses acordos obsoletos permanecem na estrutura, ocupando espaço desnecessariamente e aumentando a quantidade de informações, tornando todo o sistema mais confuso e difícil de navegar.
@@ -20,19 +24,26 @@ Se houvesse uma maneira de determinar uma validade para os acordos, eles poderia
 
 Este padrão requer a adição de alguns novos Meta-Acordos:
 
-### Decomposição da Estrutura
+> ### Decomposição da Estrutura
+> 
+> Todos os [Papeis][papeis] e [Restrições][restricoes] da [Organização][organizacao] possuem uma data de validade, que é definida automaticamente como 3 meses a frente do momento da sua criação. Toda vez que os [Papeis][papeis] ou [Círculos][circulos] sofrerem uma modificação por meio da interação [Adaptar][adaptar], sua data de validade é renovada para 3 meses a frente do momento da mudança.
+> 
+> Uma [Restrição][restricoes] pode ser adotada para redefinir esse período de validade inicial ou qual o período adicionado à validade quando ocorre uma modificação.
+> 
+> #### Vencimento 
+> 
+> Toda vez que um [Papel][papeis] ou [Restrição][restricoes] vencer, ele será automaticamente excluído da Estrutura Organizacional ou removido pelo [Escriba][escriba], e portanto, considerado inválido. Toda vez que um [Círculo][circulos] permanecer sem nenhum [Papel][papeis] ou [Restrição][restricoes] por mais de 3 meses, ele será automaticamente transformado em um [Papel][papeis].
+> 
+> #### Revalidação 
+> 
+> Qualquer [Integrante do Círculo][integrantes-do-circulo] poderá submeter na interação [Adaptar][adaptar] uma proposta de revalidação de um [Papel][papeis] ou [Restrição][restricoes], bastando apresentar na sua [Tensão][tensoes] uma evidência de que aquele acordo continua sendo útil e necessário. 
 
-Todos os [Papeis][papeis] e [Restrições][restricoes] da [Organização][organizacao] possuem uma data de validade, que é definida automaticamente como 3 meses a frente do momento da sua criação. Toda vez que os [Papeis][papeis] ou [Círculos][circulos] sofrerem uma modificação por meio da interação [Adaptar][adaptar], sua data de validade é renovada para 3 meses a frente do momento da mudança.
+### Alteração no papel do Escriba
 
-Uma [Restrição][restricoes] pode ser adotada para redefinir esse período de validade inicial ou qual o período adicionado à validade quando ocorre uma modificação.
+Caso não seja possível implementar uma solução automática de exclusão dos acordos vencidos, é possível também adicionar a seguinte responsabilidade no papel do [Escriba][escriba] através de uma alteração nos Meta-Acordos:
 
-#### Vencimento 
+> Remover da [Estrutura Organizacional][estrutura-organizacional] os acordos vencidos;
 
-Toda vez que um [Papel][papeis] ou [Restrição][restricoes] vencer, ele será automaticamente excluído da Estrutura Organizacional e considerado inválido. Toda vez que um [Círculo][circulos] permanecer sem nenhum [Papel][papeis] ou [Restrição][restricoes] por mais de 3 meses, ele será automaticamente transformado em um [Papel][papeis].
-
-#### Revalidação 
-
-Qualquer [Integrante do Círculo][integrantes-do-circulo] poderá submeter na interação [Adaptar][adaptar] uma proposta de revalidação de um [Papel][papeis] ou [Restrição][restricoes], bastando apresentar na sua [Tensão][tensoes] uma evidência de que aquele acordo continua sendo útil e necessário. 
 
 ## Contexto Resultante
 
