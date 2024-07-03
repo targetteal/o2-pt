@@ -1,8 +1,8 @@
 # Introdução
 
-**Organização Orgânica \(O2\)** é um catalisador que ajuda organizações a adotarem autogestão. O O2 é composto pelos seus [Meta-Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
+**Organização Orgânica \(O2\)** é um catalisador que ajuda organizações a adotarem autogestão. A O2 é composto pelos seus [Meta-Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
 
-O O2 é influenciado e construído a partir de:
+A O2 é influenciado e construído a partir de:
 
 * Holacracia e Sociocracia 3.0
 * Reinventando as Organizações
@@ -10,13 +10,13 @@ O O2 é influenciado e construído a partir de:
 * Getting Things Done \(A arte de fazer acontecer\)
 * Organizações Responsivas
 
-O O2 é atualmente desenvolvido em português, dado que a maior parte dos contribuidores são brasileiros. Cada versão é traduzida para inglês e disponibilizada em [outro repositório GitHub](https://github.com/targetteal/organic-organization-translations/).
+A O2 é atualmente desenvolvido em português, dado que a maior parte dos contribuidores são brasileiros. Cada versão é traduzida para inglês e disponibilizada em [outro repositório GitHub](https://github.com/targetteal/organic-organization-translations/).
 
 ## Colaborando
 
-O O2 é licenciado através da Creative Commons Attribution-ShareAlike 4.0 International License, então você é livre para criar uma variação deste repositório e desenvolver a sua própria versão baseada neste trabalho. Ainda assim, você não está autorizado a chamar a sua versão modificada de Organização Orgânica, Organic Organization ou O2.
+A O2 é licenciado através da Creative Commons Attribution-ShareAlike 4.0 International License, então você é livre para criar uma variação deste repositório e desenvolver a sua própria versão baseada neste trabalho. Ainda assim, você não está autorizado a chamar a sua versão modificada de Organização Orgânica, Organic Organization ou O2.
 
-O O2 é atualmente mantido pela [Target Teal](https://targetteal.com/pt/) e outros contribuidores. Se você quer colaborar, por favor siga as instruções abaixo.
+A O2 é atualmente mantido pela [Target Teal](https://targetteal.com/pt/) e outros contribuidores. Se você quer colaborar, por favor siga as instruções abaixo.
 
 ### Propondo Mudanças nos Meta-Acordos
 
