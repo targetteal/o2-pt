@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5 (2024-07-03)
+- Alterações nos nomes dos papeis essenciais para torná-los neutros em termos de gênero: Guia, Escriba e Representante;
+- Novo padrão na biblioteca de "Decomposição de Acordos";
+- Modos agora são interações e podem ser mais facilmente entendidos como independentes das reuniões de círculo;
+- Novo meta-acordo que deixa claro que decisões que requerem autorização legal (tais como empréstimos, rescisão de contratos de trabalho, etc) não são pré-autorizadas pela regra (tudo é permitido a não ser que explicitamente proibido);
+- Edição nos padrões de explorar para torná-los compatíveis com a versão atual;
+- Possibilidade de definir novos tipos de decisão e interações por meio da estrutura organizacional.
+
 ### v3.4.1 (2022-09-21)
 
 - Alteração: Relação entre Restrições e Responsabilidades ajustada.
