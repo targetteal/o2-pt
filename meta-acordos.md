@@ -250,7 +250,7 @@ O [Papel][papeis] do "Representante" possui a seguinte definição inicial:
 
 **Responsabilidades**:
 
-* Buscar compreender [Tensões][tensoes-criativas] trazidas pelas pessoas [Integrantes do Círculo][integrantes-do-circulo] e processá-las quando apropriado no [Círculo][circulos] externo
+* Buscar compreender [Tensões][tensoes] trazidas pelas pessoas [Integrantes do Círculo][integrantes-do-circulo] e processá-las quando apropriado no [Círculo][circulos] externo
 * Fornecer visibilidade sobre a saúde do [Círculo][circulos] para o [Círculo][circulos] externo
 
 ## 5.3 Facilitador
