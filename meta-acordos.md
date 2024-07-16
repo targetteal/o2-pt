@@ -316,7 +316,7 @@ O processo de [Energização][energizacao-de-papeis-definidos] também pode defi
 
 ## 6.2 Autorresponsabilização
 
-Enquanto pessoa [Parceira][parceiras], você é responsável por tratar as [Tensões][tensoes-criativas] que percebe, tomando ações ou engajando outras pessoas [Parceiras][parceiras] nestes [Meta-Acordos][meta-acordos]. É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
+Enquanto pessoa [Parceira][parceiras], você é responsável por tratar as [Tensões][tensoes] que percebe, tomando ações ou engajando outras pessoas [Parceiras][parceiras] nestes [Meta-Acordos][meta-acordos]. É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
 
 ## 6.3 Transparência
 
