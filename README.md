@@ -1,13 +1,13 @@
 # Introdução
 
-**Organização Orgânica \(O2\)** é um catalisador que ajuda organizações a adotarem autogestão. A O2 é composto pelos seus [Meta-Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
+**Organização Orgânica \(O2\)** é um catalisador que ajuda organizações a adotarem autogestão. A O2 é composta pelos seus [Meta-Acordos](meta-acordos.md) e uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
 
 As nossas principais influências incluem:
 * Holacracia e Sociocracia 3.0
 * Comuniçação Não-Violenta
 * Pensamento Sistêmico e Teoria da Complexidade
 
-A O2 é atualmente desenvolvido em português, dado que a maior parte dos contribuidores são brasileiros. Cada versão é traduzida para inglês e disponibilizada em [outro repositório GitHub](https://github.com/targetteal/organic-organization-translations/).
+A O2 é atualmente desenvolvida em português, dado que a maior parte dos contribuidores são brasileiros. Cada versão é traduzida para inglês e disponibilizada em [outro repositório GitHub](https://github.com/targetteal/organic-organization-translations/).
 
 ## Colaborando
 
@@ -17,7 +17,7 @@ A O2 é atualmente mantida pela [Target Teal](https://targetteal.com/pt/) e outr
 
 ### Propondo Mudanças nos Meta-Acordos
 
-Qualquer pessoa pode propor mudanças nos Meta-Acordos enviando pull requests. Ainda assim, nós recomendamos fortemente que você primeiro junte-se ao nosso Slack e inicie conversas com a comunidade antes de enviar propostas. Se você quiser participar, entre em contato através de [falecom@targetteal.com](mailto:falecom@targetteal.com).
+Qualquer pessoa pode propor mudanças nos Meta-Acordos enviando pull requests. Ainda assim, nós recomendamos fortemente que você primeiro junte-se ao nosso Discord e inicie conversas com a comunidade antes de enviar propostas. Se você quiser participar, entre em contato através de [falecom@targetteal.com](mailto:falecom@targetteal.com).
 
 ## Licença
 

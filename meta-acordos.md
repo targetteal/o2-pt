@@ -1,6 +1,6 @@
 # Meta-Acordos da Organização Orgânica
 
-Organização Orgânica \(O2\) é um catalisador que ajuda organizações a adotarem autogestão. A O2 é composto pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
+Organização Orgânica \(O2\) é um catalisador que ajuda organizações a adotarem autogestão. A O2 é composta pelos seus Meta-Acordos descritos neste documento, além de uma [Biblioteca de Padrões](/biblioteca/) em constante evolução.
 
 Um "Meta-Acordo" é um acordo para formação de novos acordos. Neste documento, estão descritos os [Meta-Acordos][meta-acordos] iniciais da Organização Orgânica, cada um identificado por um título e uma descrição. Os [Meta-Acordos][meta-acordos] possuem hiperligações uns com os outros para demonstrar sua interdependência.
 
@@ -77,7 +77,7 @@ Um [Círculo][circulos] pode especificar um de seus [Artefatos][papeis] em um [P
 
 ## 2.4 Integrantes do Círculo
 
-As pessoas [Parceiras][parceiras] são considerados "Integrantes" de um determinado [Círculo][circulos] quando atenderem pelo menos um dos critérios abaixo:
+As pessoas [Parceiras][parceiras] são consideradas "Integrantes" de um determinado [Círculo][circulos] quando atenderem pelo menos um dos critérios abaixo:
 
 * Energizam pelo menos um [Papel][papeis] definido no [Círculo][circulos];
 * Energizam pelo menos um dos [Papéis Essenciais][papeis-essenciais] no [Círculo][circulos];
@@ -250,7 +250,7 @@ O [Papel][papeis] do "Representante" possui a seguinte definição inicial:
 
 **Responsabilidades**:
 
-* Buscar compreender [Tensões][tensoes-criativas] trazidas pelas pessoas [Integrantes do Círculo][integrantes-do-circulo] e processá-las quando apropriado no [Círculo][circulos] externo
+* Buscar compreender [Tensões][tensoes] trazidas pelas pessoas [Integrantes do Círculo][integrantes-do-circulo] e processá-las quando apropriado no [Círculo][circulos] externo
 * Fornecer visibilidade sobre a saúde do [Círculo][circulos] para o [Círculo][circulos] externo
 
 ## 5.3 Facilitador
@@ -316,7 +316,7 @@ O processo de [Energização][energizacao-de-papeis-definidos] também pode defi
 
 ## 6.2 Autorresponsabilização
 
-Enquanto pessoa [Parceira][parceiras], você é responsável por tratar as [Tensões][tensoes-criativas] que percebe, tomando ações ou engajando outras pessoas [Parceiras][parceiras] nestes [Meta-Acordos][meta-acordos]. É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
+Enquanto pessoa [Parceira][parceiras], você é responsável por tratar as [Tensões][tensoes] que percebe, tomando ações ou engajando outras pessoas [Parceiras][parceiras] nestes [Meta-Acordos][meta-acordos]. É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
 
 ## 6.3 Transparência
 
