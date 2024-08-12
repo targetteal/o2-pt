@@ -215,11 +215,11 @@ As [Interações][reunioes-e-interacoes] descritas nesta seção podem acontecer
 
 Enquanto pessoa [Parceira][parceiras] energizando [Papeis][papeis], você pode criar e usar novos tipos de [Interações][reunioes-e-interacoes] além dos definidos nesta seção. Ainda assim, quaisquer expectativas ou limitações de autoridade devem ser registradas na [Estrutura Organizacional][estrutura-organizacional], na forma de [Papéis][papeis], [Círculos][circulos] e [Restrições][restricoes].
 
-# 5 Papéis Essenciais
+# 4 Papéis Essenciais
 
 Cada [Círculo][circulos] contém "Papéis Essenciais", chamados de [Guia][guia], [Representante][representante], [Facilitador][facilitador] e [Escriba][escriba].
 
-## 5.1 Guia
+## 4.1 Guia
 
 O [Papel][energizacao] do "Guia" possui a seguinte definição inicial:
 
@@ -238,11 +238,11 @@ O [Papel][energizacao] do "Guia" possui a seguinte definição inicial:
 
 O Guia detém todas as [Responsabilidades][papeis] e [Artefatos][papeis] não delegados do [Círculo][circulos].
 
-### 5.1.1 Energização do Guia
+### 4.1.1 Energização do Guia
 
 O [Guia][guia] é escolhido pelo [Círculo][circulos] externo, por qualquer processo de [Energização de Papéis Definidos][energizacao-de-papeis-definidos] no [Círculo][circulos] externo. O [Guia][guia] do [Círculo][circulos] mais amplo deve ser determinado pelo mesmo processo que adotou estes [Meta-Acordos][meta-acordos].
 
-## 5.2 Representante
+## 4.2 Representante
 
 O [Papel][papeis] do "Representante" possui a seguinte definição inicial:
 
@@ -253,7 +253,7 @@ O [Papel][papeis] do "Representante" possui a seguinte definição inicial:
 * Buscar compreender [Tensões][tensoes] trazidas pelas pessoas [Integrantes do Círculo][integrantes-do-circulo] e processá-las quando apropriado no [Círculo][circulos] externo
 * Fornecer visibilidade sobre a saúde do [Círculo][circulos] para o [Círculo][circulos] externo
 
-## 5.3 Facilitador
+## 4.3 Facilitador
 
 O [Papel][papeis] do "Facilitador" possui a seguinte definição inicial:
 
@@ -263,7 +263,7 @@ O [Papel][papeis] do "Facilitador" possui a seguinte definição inicial:
 
 * Facilitar as [Reuniões de Círculo][reunioes-e-interacoes]
 
-## 5.4 Escriba
+## 4.4 Escriba
 
 O [Papel][papeis] do "Escriba" possui a seguinte definição inicial:
 
@@ -280,7 +280,7 @@ O [Papel][papeis] do "Escriba" possui a seguinte definição inicial:
 * Registros da [Estrutura Organizacional][estrutura-organizacional] do [Círculo][circulos]
 * Interpretação final dos [Meta-Acordos][meta-acordos] e da [Estrutura][estrutura-organizacional] do [Círculo][circulos] quando houver conflito
 
-## 5.5 Papéis Essenciais Eleitos
+## 4.5 Papéis Essenciais Eleitos
 
 Os [Papéis Essenciais][papeis-essenciais] de [Facilitador][facilitador], [Escriba][escriba] e [Representante][representante] são considerados "Papéis Essenciais Eleitos" e são energizados através de um processo de eleição.
 
@@ -288,11 +288,11 @@ Os [Papéis Essenciais][papeis-essenciais] de [Facilitador][facilitador], [Escri
 
 Todas e apenas as pessoas [Integrantes do Círculo][integrantes-do-circulo] são elegíveis para energizar os [Papéis Essenciais Eleitos][papeis-essenciais]. Ainda assim, a pessoa [Parceira][parceiras] que energiza o [Papel][papeis] de [Guia][guia] não pode energizar o [Papel][papeis] de [Facilitador][facilitador] ou [Representante][representante] no mesmo [Círculo][circulos].
 
-### 5.5.2 Eleições
+### 4.5.2 Eleições
 
 Qualquer [Integrante do Círculo][integrantes-do-circulo] pode solicitar "Eleições" para os [Papéis Essenciais Eleitos][papeis-essenciais]. O processo de Eleição é feito inicialmente por maioria simples para escolher uma pessoa que será nomeada e em seguida faz-se o uso de consentimento para efetivar a nomeação. A [Estrutura Organizacional][estrutura-organizacional] pode definir em detalhes como e em que condições este processo deve ser facilitado.
 
-### 5.5.3 Alterações nos Papéis Essenciais
+### 4.5.3 Alterações nos Papéis Essenciais
 
 Os [Papéis Essenciais][papeis-essenciais] de cada [Círculo][circulos] podem ser alterados, desde que as restrições abaixo sejam respeitadas:
 
@@ -302,27 +302,27 @@ Os [Papéis Essenciais][papeis-essenciais] de cada [Círculo][circulos] podem se
 * As [Responsabilidades][papeis] e [Artefatos][papeis] iniciais dos [Papéis][papeis] de [Facilitador][facilitador], [Escriba][escriba] e [Representante][representante] não podem ser removidas ou modificadas;
 * Os [Papéis Essenciais][papeis-essenciais] não podem ser removidos.
 
-#### 5.5.3.1 Alterações nos Papéis Essenciais não propagam
+#### 4.5.3.1 Alterações nos Papéis Essenciais não propagam
 
 As alterações realizadas nos [Papeis Essenciais][papeis-essenciais] de um [Círculo][circulos] aplicam-se apenas ao [Círculo][circulos] onde a modificação ocorreu, ou seja, não propagam para os [Círculos][circulos] internos.
 
-# 6 Energização de Papéis Definidos
+# 5 Energização de Papéis Definidos
 
 O [Guia][guia] é responsável por convidar pessoas [Parceiras][parceiras] para energizarem os [Papéis][papeis] definidos no [Círculo][circulos], com exceção dos [Papéis Essenciais Eleitos][papeis-essenciais-eleitos]. O [Guia][guia] pode convidar qualquer pessoa [Parceira][parceiras], a não ser que uma [Restrição][restricoes] diga o contrário. Uma [Restrição][restricoes] também pode modificar inteiramente este processo, inclusive removendo a [Responsabilidade][papeis] e o [Artefato][papeis] correspondente do [Guia][guia].
 
-## 6.1 Foco
+## 5.1 Foco
 
 O processo de [Energização][energizacao-de-papeis-definidos] também pode definir um "Foco" para o [Parceiro][parceiras] que energiza um [Papel][papeis]. Este Foco é uma área de atuação em que o [Propósito][papeis], [Responsabilidades][papeis] e [Artefatos][papeis] do [Papel][papeis] se aplicam somente.
 
-## 6.2 Autorresponsabilização
+## 5.2 Autorresponsabilização
 
 Enquanto pessoa [Parceira][parceiras], você é responsável por tratar as [Tensões][tensoes] que percebe, tomando ações ou engajando outras pessoas [Parceiras][parceiras] nestes [Meta-Acordos][meta-acordos]. É também esperado que você peça ajuda quando desconhecer quais caminhos tomar. Essa responsabilidade não pode ser transferida a terceiros ou a um grupo.
 
-## 6.3 Transparência
+## 5.3 Transparência
 
 Enquanto pessoa [Parceira][parceiras], é esperado que você compartilhe quando solicitado por outras pessoas [Parceiras][parceiras] todas as informações relevantes sobre o trabalho que você realiza para a [Organização][organizacao], incluindo os seus projetos, ações identificadas, critérios de priorização e métricas relevantes. Quando solicitado, também é esperado que você forneça estimativas e projeções sobre possíveis datas de conclusão de seus trabalhos, mesmo que essas projeções não devam ser consideradas prazos ou compromissos.
 
-## 6.4 Ato Heróico
+## 5.4 Ato Heróico
 
 Você pode temporariamente ignorar estes [Meta-Acordos][meta-acordos] se isto for útil e necessário para expressar o [Propósito][proposito] da [Organização][organizacao]. Iniciativas ou pedidos que possuem essa qualidade são chamados de "Atos Heroicos". Você deve sempre buscar reparar quaisquer danos causados após um Ato Heroico, propondo mudanças na [Estrutura Organizacional][estrutura-organizacional] ou até nestes [Meta-Acordos][meta-acordos] se necessário.
 
