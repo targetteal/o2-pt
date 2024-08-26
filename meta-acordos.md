@@ -165,6 +165,8 @@ Ao facilitar uma [Decisão Integrativa][decisao-integrativa], se o [Facilitador]
 
 Se houver [Objeções][objecoes], a pessoa [Proponente][proposta] deve integrá-las à [Proposta][proposta], uma de cada vez. O objetivo da "Integração" é modificar a [Proposta][proposta] para que ela resolva a [Tensão][tensoes] original, mas sem causar a [Objeção][objecoes] levantada. Se a [Proposta][proposta] for alterada, a pessoa [Proponente][proposta] deverá dar mais uma oportunidade para os participantes levantarem [Objeções][objecoes].
 
+Durante a Integração, o [Facilitador][facilitador] também poderá descartar a [Objeção][objecoes] inteiramente caso julgue que a pessoa que a levantou não está fazendo um esforço genuíno em ajudar o [Proponente][proposta] a encontrar uma nova [Proposta][proposta]. Se uma [Proposta][proposta] estiver levando muito tempo para integrar, o [Facilitador][facilitador] pode descartar a [Proposta][proposta] inteiramente, a fim de passar para o próximo item da [Lista de Tensões][lista-de-tensoes].
+
 #### 3.3.2.8 Quebra dos Meta-Acordos
 
 Qualquer [Integrante do Círculo][integrantes-do-circulo] participando de uma [Decisão Integrativa][decisao-integrativa] pode levantar uma [Objeção][objecoes] de "Quebra dos Meta-Acordos" se ele ou ela considerar que a [Proposta][proposta] viola um [Meta-Acordo][meta-acordos]. Esta [Objeção][objecoes] especial não precisa ser validada com os critérios utilizados normalmente, mas deve ser integrada como as outras.
